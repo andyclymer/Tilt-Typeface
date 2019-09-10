@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="HROT" name="Horizontal Rotation" minimum="-45" maximum="45" default="0">
+      <labelname xml:lang="en">Horizontal Rotation</labelname>
+    </axis>
+    <axis tag="VROT" name="Vertical Rotation" minimum="-45" maximum="45" default="0">
+      <labelname xml:lang="en">Vertical Rotation</labelname>
+    </axis>
+    <axis tag="SLEN" name="Shadow Length" minimum="0" maximum="100" default="100">
+      <labelname xml:lang="en">Shadow Length</labelname>
+    </axis>
+    <axis tag="SANG" name="Shadow Angle" minimum="-45" maximum="45" default="45">
+      <labelname xml:lang="en">Shadow Angle</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Source-HROTn_VROTn_SLENn_SANGn.ufo" name="Source-HROTn_VROTn_SLENn_SANGn" stylename="Source-HROTn_VROTn_SLENn_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTn_SLENn_SANGx.ufo" name="Source-HROTn_VROTn_SLENn_SANGx" stylename="Source-HROTn_VROTn_SLENn_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTn_SLENx_SANGn.ufo" name="Source-HROTn_VROTn_SLENx_SANGn" stylename="Source-HROTn_VROTn_SLENx_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTn_SLENx_SANGx.ufo" name="Source-HROTn_VROTn_SLENx_SANGx" stylename="Source-HROTn_VROTn_SLENx_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTd_SLENn_SANGn.ufo" name="Source-HROTn_VROTd_SLENn_SANGn" stylename="Source-HROTn_VROTd_SLENn_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTd_SLENn_SANGx.ufo" name="Source-HROTn_VROTd_SLENn_SANGx" stylename="Source-HROTn_VROTd_SLENn_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTd_SLENx_SANGn.ufo" name="Source-HROTn_VROTd_SLENx_SANGn" stylename="Source-HROTn_VROTd_SLENx_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTd_SLENx_SANGx.ufo" name="Source-HROTn_VROTd_SLENx_SANGx" stylename="Source-HROTn_VROTd_SLENx_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTx_SLENn_SANGn.ufo" name="Source-HROTn_VROTx_SLENn_SANGn" stylename="Source-HROTn_VROTx_SLENn_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTx_SLENn_SANGx.ufo" name="Source-HROTn_VROTx_SLENn_SANGx" stylename="Source-HROTn_VROTx_SLENn_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTx_SLENx_SANGn.ufo" name="Source-HROTn_VROTx_SLENx_SANGn" stylename="Source-HROTn_VROTx_SLENx_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTx_SLENx_SANGx.ufo" name="Source-HROTn_VROTx_SLENx_SANGx" stylename="Source-HROTn_VROTx_SLENx_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTn_SLENn_SANGn.ufo" name="Source-HROTd_VROTn_SLENn_SANGn" stylename="Source-HROTd_VROTn_SLENn_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTn_SLENn_SANGx.ufo" name="Source-HROTd_VROTn_SLENn_SANGx" stylename="Source-HROTd_VROTn_SLENn_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTn_SLENx_SANGn.ufo" name="Source-HROTd_VROTn_SLENx_SANGn" stylename="Source-HROTd_VROTn_SLENx_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTn_SLENx_SANGx.ufo" name="Source-HROTd_VROTn_SLENx_SANGx" stylename="Source-HROTd_VROTn_SLENx_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTd_SLENn_SANGn.ufo" name="Source-HROTd_VROTd_SLENn_SANGn" stylename="Source-HROTd_VROTd_SLENn_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTd_SLENn_SANGx.ufo" name="Source-HROTd_VROTd_SLENn_SANGx" stylename="Source-HROTd_VROTd_SLENn_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTd_SLENx_SANGn.ufo" name="Source-HROTd_VROTd_SLENx_SANGn" stylename="Source-HROTd_VROTd_SLENx_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTd_SLENx_SANGx.ufo" name="Source-HROTd_VROTd_SLENx_SANGx" stylename="Source-HROTd_VROTd_SLENx_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTx_SLENn_SANGn.ufo" name="Source-HROTd_VROTx_SLENn_SANGn" stylename="Source-HROTd_VROTx_SLENn_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTx_SLENn_SANGx.ufo" name="Source-HROTd_VROTx_SLENn_SANGx" stylename="Source-HROTd_VROTx_SLENn_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTx_SLENx_SANGn.ufo" name="Source-HROTd_VROTx_SLENx_SANGn" stylename="Source-HROTd_VROTx_SLENx_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTx_SLENx_SANGx.ufo" name="Source-HROTd_VROTx_SLENx_SANGx" stylename="Source-HROTd_VROTx_SLENx_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTn_SLENn_SANGn.ufo" name="Source-HROTx_VROTn_SLENn_SANGn" stylename="Source-HROTx_VROTn_SLENn_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTn_SLENn_SANGx.ufo" name="Source-HROTx_VROTn_SLENn_SANGx" stylename="Source-HROTx_VROTn_SLENn_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTn_SLENx_SANGn.ufo" name="Source-HROTx_VROTn_SLENx_SANGn" stylename="Source-HROTx_VROTn_SLENx_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTn_SLENx_SANGx.ufo" name="Source-HROTx_VROTn_SLENx_SANGx" stylename="Source-HROTx_VROTn_SLENx_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTd_SLENn_SANGn.ufo" name="Source-HROTx_VROTd_SLENn_SANGn" stylename="Source-HROTx_VROTd_SLENn_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTd_SLENn_SANGx.ufo" name="Source-HROTx_VROTd_SLENn_SANGx" stylename="Source-HROTx_VROTd_SLENn_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTd_SLENx_SANGn.ufo" name="Source-HROTx_VROTd_SLENx_SANGn" stylename="Source-HROTx_VROTd_SLENx_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTd_SLENx_SANGx.ufo" name="Source-HROTx_VROTd_SLENx_SANGx" stylename="Source-HROTx_VROTd_SLENx_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTx_SLENn_SANGn.ufo" name="Source-HROTx_VROTx_SLENn_SANGn" stylename="Source-HROTx_VROTx_SLENn_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTx_SLENn_SANGx.ufo" name="Source-HROTx_VROTx_SLENn_SANGx" stylename="Source-HROTx_VROTx_SLENn_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Shadow Length" xvalue="0"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTx_SLENx_SANGn.ufo" name="Source-HROTx_VROTx_SLENx_SANGn" stylename="Source-HROTx_VROTx_SLENx_SANGn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="-45"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTx_SLENx_SANGx.ufo" name="Source-HROTx_VROTx_SLENx_SANGx" stylename="Source-HROTx_VROTx_SLENx_SANGx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Shadow Length" xvalue="100"/>
+        <dimension name="Shadow Angle" xvalue="45"/>
+      </location>
+    </source>
+  </sources>
+</designspace>

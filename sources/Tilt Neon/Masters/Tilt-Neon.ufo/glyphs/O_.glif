@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="736"/>
+  <unicode hex="004F"/>
+  <outline>
+    <contour>
+      <point x="429" y="47" type="move" name="OIOMMAEN"/>
+      <point x="481" y="60" name="PBLDCRQT"/>
+      <point x="533" y="88" name="PBMWTADC"/>
+      <point x="567" y="129" type="curve" smooth="yes" name="LCULSEEO"/>
+      <point x="611" y="182" name="JMFTDJSV"/>
+      <point x="636" y="256" name="XFJVLHFU"/>
+      <point x="636" y="341" type="curve" smooth="yes" name="CRYBPGIK"/>
+      <point x="636" y="515" name="LNAELWFM"/>
+      <point x="529" y="640" name="ROLSSMIL"/>
+      <point x="368" y="640" type="curve" smooth="yes" name="FIQHKQUD"/>
+      <point x="213" y="640" name="JZNLMCXF"/>
+      <point x="100" y="515" name="VAGUGVGA"/>
+      <point x="100" y="341" type="curve" smooth="yes" name="UMOCGURM"/>
+      <point x="100" y="256" name="ZZMCXUQF"/>
+      <point x="127" y="182" name="NDAGOXID"/>
+      <point x="172" y="129" type="curve" smooth="yes" name="WAUPTMNI"/>
+      <point x="208" y="87" name="YKBSGXZN"/>
+      <point x="261" y="58" name="OPEXJHJF"/>
+      <point x="314" y="46" type="curve" name="YCNEISQR"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CRYBPGIK</key>
+        <integer>150</integer>
+        <key>FIQHKQUD</key>
+        <integer>150</integer>
+        <key>JMFTDJSV</key>
+        <integer>150</integer>
+        <key>JZNLMCXF</key>
+        <integer>150</integer>
+        <key>LCULSEEO</key>
+        <integer>150</integer>
+        <key>LNAELWFM</key>
+        <integer>150</integer>
+        <key>NDAGOXID</key>
+        <integer>150</integer>
+        <key>OIOMMAEN</key>
+        <integer>115</integer>
+        <key>OPEXJHJF</key>
+        <integer>145</integer>
+        <key>PBLDCRQT</key>
+        <integer>146</integer>
+        <key>PBMWTADC</key>
+        <integer>150</integer>
+        <key>ROLSSMIL</key>
+        <integer>150</integer>
+        <key>UMOCGURM</key>
+        <integer>150</integer>
+        <key>VAGUGVGA</key>
+        <integer>150</integer>
+        <key>WAUPTMNI</key>
+        <integer>150</integer>
+        <key>XFJVLHFU</key>
+        <integer>150</integer>
+        <key>YCNEISQR</key>
+        <integer>115</integer>
+        <key>YKBSGXZN</key>
+        <integer>150</integer>
+        <key>ZZMCXUQF</key>
+        <integer>150</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

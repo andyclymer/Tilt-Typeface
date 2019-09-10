@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="270"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="135" y="40" type="move" name="FQLWWFZV"/>
+      <point x="135.0" y="68" name="TFWGWDWA"/>
+      <point x="135.0" y="94.0" name="TCCXXIBJ"/>
+      <point x="135" y="160" type="curve" smooth="yes" name="XTZVZDGH"/>
+      <point x="135" y="530" type="line" smooth="yes" name="QIUWPHJI"/>
+      <point x="135" y="586" name="RGBYTIRO"/>
+      <point x="135.0" y="622" name="JTBUZVUA"/>
+      <point x="135" y="640" type="curve" name="PMGNNBPX"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>FQLWWFZV</key>
+        <integer>120</integer>
+        <key>JTBUZVUA</key>
+        <integer>148</integer>
+        <key>PMGNNBPX</key>
+        <integer>120</integer>
+        <key>QIUWPHJI</key>
+        <integer>150</integer>
+        <key>RGBYTIRO</key>
+        <real>150.0</real>
+        <key>TCCXXIBJ</key>
+        <integer>150</integer>
+        <key>TFWGWDWA</key>
+        <integer>145</integer>
+        <key>XTZVZDGH</key>
+        <integer>150</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>
