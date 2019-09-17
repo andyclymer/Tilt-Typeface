@@ -60,10 +60,12 @@
           <string>x</string>
           <string>y</string>
           <string>z</string>
+          <string>z.flat</string>
           <string>zero</string>
           <string>one</string>
           <string>two</string>
           <string>three</string>
+          <string>three.flat</string>
           <string>four</string>
           <string>five</string>
           <string>six</string>
@@ -227,7 +229,6 @@
           <string>R.alt</string>
           <string>zero.alt</string>
           <string>one.alt</string>
-          <string>three.alt</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -312,10 +313,12 @@
       <string>x</string>
       <string>y</string>
       <string>z</string>
+      <string>z.flat</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
       <string>three</string>
+      <string>three.flat</string>
       <string>four</string>
       <string>five</string>
       <string>six</string>
@@ -479,7 +482,6 @@
       <string>R.alt</string>
       <string>zero.alt</string>
       <string>one.alt</string>
-      <string>three.alt</string>
     </array>
   </dict>
 </plist>
