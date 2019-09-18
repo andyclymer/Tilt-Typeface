@@ -4,20 +4,20 @@
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="47" y="750" type="curve"/>
-      <point x="228" y="750" type="line"/>
-      <point x="250" y="659"/>
-      <point x="247" y="571"/>
-      <point x="199" y="468" type="curve"/>
-      <point x="59" y="468" type="line"/>
-      <point x="89" y="577"/>
-      <point x="83" y="661"/>
+      <point x="42.0" y="468.0" type="line"/>
+      <point x="86.0" y="564.0"/>
+      <point x="89.0" y="660.0"/>
+      <point x="61.0" y="750.0" type="curve"/>
+      <point x="230.0" y="750.0" type="line"/>
+      <point x="253.0" y="660.0"/>
+      <point x="245.0" y="564.0"/>
+      <point x="196.0" y="468.0" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.5725,0.5725,0.9529,1</string>
+      <string>0.7529,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>
