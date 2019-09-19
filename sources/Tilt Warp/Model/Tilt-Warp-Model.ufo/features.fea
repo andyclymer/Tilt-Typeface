@@ -8,3 +8,9 @@ feature ss01 {
     sub four by four.sharp;
     sub seven by seven.sharp;
 } ss01;
+
+feature ss02 {
+    # Temporary alternates
+    sub t by t.alt;
+    sub four by four.alt;
+} ss02;
