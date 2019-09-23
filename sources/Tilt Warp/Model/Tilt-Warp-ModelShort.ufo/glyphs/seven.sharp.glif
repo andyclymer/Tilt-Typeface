@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.sharp" format="2">
+  <advance width="498"/>
+  <outline>
+    <contour>
+      <point x="498.0" y="680.0" type="line"/>
+      <point x="318.0" y="680.0" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="498" y="680" type="line"/>
+      <point x="30" y="680" type="line"/>
+      <point x="30" y="524" type="line"/>
+      <point x="398" y="524" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9529,0.7529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

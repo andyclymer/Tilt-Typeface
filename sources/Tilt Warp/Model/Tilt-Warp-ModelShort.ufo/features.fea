@@ -1,0 +1,16 @@
+feature ss01 {
+    # Temporary "sharp" alternates
+    sub Z by Z.sharp;
+    sub z by z.sharp;
+    sub one by one.sharp;
+    sub two by two.sharp;
+    sub three by three.sharp;
+    sub four by four.sharp;
+    sub seven by seven.sharp;
+} ss01;
+
+feature ss02 {
+    # Temporary alternates
+    sub t by t.alt;
+    sub four by four.alt;
+} ss02;
