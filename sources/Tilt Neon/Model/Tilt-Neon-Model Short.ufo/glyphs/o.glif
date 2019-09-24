@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="640"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="311" y="-10" type="curve"/>
+      <point x="311" y="-10"/>
+      <point x="311" y="-10"/>
+      <point x="311" y="-10" type="curve"/>
+      <point x="162" y="-10"/>
+      <point x="50" y="107"/>
+      <point x="50" y="269" type="curve"/>
+      <point x="50" y="269"/>
+      <point x="50" y="269"/>
+      <point x="50" y="269" type="curve"/>
+      <point x="50" y="418"/>
+      <point x="161" y="528"/>
+      <point x="310" y="528" type="curve"/>
+      <point x="310" y="528"/>
+      <point x="310" y="528"/>
+      <point x="310" y="528" type="curve"/>
+      <point x="459" y="528"/>
+      <point x="570" y="418"/>
+      <point x="570" y="269" type="curve"/>
+      <point x="570" y="269"/>
+      <point x="570" y="269"/>
+      <point x="570" y="269" type="curve"/>
+      <point x="570" y="107"/>
+      <point x="460" y="-10"/>
+    </contour>
+    <contour>
+      <point x="311" y="90" type="curve"/>
+      <point x="407" y="90"/>
+      <point x="470" y="165"/>
+      <point x="470" y="269" type="curve"/>
+      <point x="470" y="269"/>
+      <point x="470" y="269"/>
+      <point x="470" y="269" type="curve"/>
+      <point x="470" y="362"/>
+      <point x="404" y="427"/>
+      <point x="310" y="427" type="curve"/>
+      <point x="310" y="427"/>
+      <point x="310" y="427"/>
+      <point x="310" y="427" type="curve"/>
+      <point x="216" y="427"/>
+      <point x="150" y="363"/>
+      <point x="150" y="269" type="curve"/>
+      <point x="150" y="269"/>
+      <point x="150" y="269"/>
+      <point x="150" y="269" type="curve"/>
+      <point x="150" y="165"/>
+      <point x="215" y="90"/>
+      <point x="311" y="90" type="curve"/>
+      <point x="311" y="90"/>
+      <point x="311" y="90"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7529,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

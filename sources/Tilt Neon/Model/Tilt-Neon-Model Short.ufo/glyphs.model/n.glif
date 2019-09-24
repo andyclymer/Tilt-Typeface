@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="600"/>
+  <unicode hex="006E"/>
+  <outline>
+    <contour>
+      <point x="117.0" y="48.0" type="move" name="YACKK"/>
+      <point x="117.0" y="492.0" type="line" name="FREEZ"/>
+    </contour>
+    <contour>
+      <point x="487.0" y="48.0" type="move" name="YACKK"/>
+      <point x="487.0" y="317.0" type="line" smooth="yes"/>
+      <point x="487.0" y="432.0"/>
+      <point x="424.0" y="497.0"/>
+      <point x="325.0" y="497.0" type="curve" smooth="yes" identifier="85yKiOzX3b"/>
+      <point x="205.0" y="497.0"/>
+      <point x="117.0" y="405.0"/>
+      <point x="117.0" y="299.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
