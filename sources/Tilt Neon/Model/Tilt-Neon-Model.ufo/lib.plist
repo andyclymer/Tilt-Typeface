@@ -5,8 +5,10 @@
     <key>com.defcon.sortDescriptor</key>
     <array>
       <dict>
+        <key>allowPseudoUnicode</key>
+        <integer>0</integer>
         <key>ascending</key>
-        <string>Basic</string>
+        <string>GF Latin Core (Resorted)</string>
         <key>type</key>
         <string>characterSet</string>
       </dict>
@@ -149,13 +151,158 @@
       <string>nine</string>
       <string>period</string>
       <string>comma</string>
-      <string>hyphen</string>
-      <string>quotedblleft</string>
-      <string>quotedblright</string>
+      <string>colon</string>
+      <string>semicolon</string>
+      <string>periodcentered</string>
+      <string>ellipsis</string>
+      <string>exclam</string>
+      <string>exclamdown</string>
+      <string>question</string>
+      <string>questiondown</string>
+      <string>quotesingle</string>
+      <string>quotedbl</string>
       <string>quoteleft</string>
       <string>quoteright</string>
-      <string>space</string>
+      <string>quotesinglbase</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
+      <string>quotedblbase</string>
+      <string>guilsinglleft</string>
+      <string>guilsinglright</string>
+      <string>guillemetleft</string>
+      <string>guillemetright</string>
+      <string>parenleft</string>
+      <string>parenright</string>
+      <string>bracketleft</string>
+      <string>bracketright</string>
+      <string>braceleft</string>
+      <string>braceright</string>
+      <string>slash</string>
+      <string>bar</string>
+      <string>brokenbar</string>
+      <string>backslash</string>
+      <string>fraction</string>
+      <string>divisionslash</string>
+      <string>bullet</string>
+      <string>hyphen</string>
+      <string>hyphensoft</string>
+      <string>endash</string>
+      <string>emdash</string>
+      <string>underscore</string>
+      <string>plus</string>
+      <string>minus</string>
+      <string>multiply</string>
+      <string>divide</string>
+      <string>plusminus</string>
+      <string>equal</string>
+      <string>less</string>
+      <string>greater</string>
+      <string>logicalnot</string>
+      <string>mu.math</string>
+      <string>asterisk</string>
+      <string>asciicircum</string>
+      <string>asciitilde</string>
+      <string>percent</string>
+      <string>degree</string>
+      <string>onesuperior</string>
+      <string>twosuperior</string>
+      <string>threesuperior</string>
+      <string>four.superior</string>
+      <string>onequarter</string>
+      <string>onehalf</string>
+      <string>threequarters</string>
+      <string>ordmasculine</string>
+      <string>ordfeminine</string>
+      <string>copyright</string>
+      <string>registered</string>
+      <string>at</string>
+      <string>numbersign</string>
+      <string>dollar</string>
+      <string>cent</string>
+      <string>sterling</string>
+      <string>yen</string>
+      <string>Euro</string>
+      <string>currency</string>
+      <string>ampersand</string>
+      <string>section</string>
+      <string>paragraph</string>
+      <string>dieresis</string>
+      <string>grave</string>
+      <string>macron</string>
+      <string>acute</string>
+      <string>cedilla</string>
+      <string>circumflex</string>
+      <string>ring</string>
+      <string>tilde</string>
+      <string>Agrave</string>
+      <string>Aacute</string>
+      <string>Acircumflex</string>
+      <string>Atilde</string>
+      <string>Adieresis</string>
+      <string>Aring</string>
+      <string>AE</string>
+      <string>Ccedilla</string>
+      <string>Egrave</string>
+      <string>Eacute</string>
+      <string>Ecircumflex</string>
+      <string>Edieresis</string>
+      <string>Igrave</string>
+      <string>Iacute</string>
+      <string>Icircumflex</string>
+      <string>Idieresis</string>
+      <string>Eth</string>
+      <string>Ntilde</string>
+      <string>Ograve</string>
+      <string>Oacute</string>
+      <string>Ocircumflex</string>
+      <string>Otilde</string>
+      <string>Odieresis</string>
+      <string>Oslash</string>
+      <string>OE</string>
+      <string>Ugrave</string>
+      <string>Uacute</string>
+      <string>Ucircumflex</string>
+      <string>Udieresis</string>
+      <string>Yacute</string>
+      <string>Thorn</string>
+      <string>germandbls</string>
+      <string>agrave</string>
+      <string>aacute</string>
+      <string>acircumflex</string>
+      <string>atilde</string>
+      <string>adieresis</string>
+      <string>aring</string>
+      <string>ae</string>
+      <string>ccedilla</string>
+      <string>egrave</string>
       <string>eacute</string>
+      <string>ecircumflex</string>
+      <string>edieresis</string>
+      <string>igrave</string>
+      <string>iacute</string>
+      <string>icircumflex</string>
+      <string>idieresis</string>
+      <string>dotlessi</string>
+      <string>eth</string>
+      <string>ntilde</string>
+      <string>ograve</string>
+      <string>oacute</string>
+      <string>ocircumflex</string>
+      <string>otilde</string>
+      <string>odieresis</string>
+      <string>oslash</string>
+      <string>oe</string>
+      <string>ugrave</string>
+      <string>uacute</string>
+      <string>ucircumflex</string>
+      <string>udieresis</string>
+      <string>yacute</string>
+      <string>thorn</string>
+      <string>ydieresis</string>
+      <string>space</string>
+      <string>nbspace</string>
+      <string>NULL</string>
+      <string>CR</string>
       <string>a.alt</string>
     </array>
   </dict>

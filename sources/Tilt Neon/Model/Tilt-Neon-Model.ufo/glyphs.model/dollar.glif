@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance width="478"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="243.74645981264288" y="690.0" type="move"/>
+      <point x="243.74645981264288" y="585.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="243.74645981264288" y="90.0" type="move"/>
+      <point x="243.74645981264288" y="-15.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="377.7464598126429" y="543.0" type="move" smooth="yes" name="VPSMP"/>
+      <point x="249.74645981264288" y="612.0" name="TEBOR"/>
+      <point x="101.74645981264288" y="574.0" name="AWARE"/>
+      <point x="101.74645981264288" y="464.0" type="curve" smooth="yes" name="IPECA"/>
+      <point x="101.74645981264288" y="316.0" name="POTME"/>
+      <point x="392.7464598126429" y="364.0" name="MARBN"/>
+      <point x="392.7464598126429" y="207.0" type="curve" smooth="yes" name="GOMRE"/>
+      <point x="392.7464598126429" y="92.0" name="TECUM"/>
+      <point x="235.74645981264288" y="63.0" name="HANRI"/>
+      <point x="99.74645981264288" y="145.0" type="curve" name="CFFGT"/>
+    </contour>
+  </outline>
+</glyph>
