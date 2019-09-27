@@ -4,14 +4,16 @@
   <unicode hex="003B"/>
   <outline>
     <contour>
-      <point x="130" y="-111.0" type="move"/>
-      <point x="177" y="-44"/>
-      <point x="182" y="22"/>
-      <point x="157" y="84.0" type="curve"/>
+      <point x="168.0" y="400.0" type="move" name="YACKK"/>
+      <point x="134.0" y="405.0"/>
+      <point x="134.0" y="439.0"/>
+      <point x="168.0" y="444.0" type="curve" name="FREEZ"/>
     </contour>
     <contour>
-      <point x="160.0" y="400.0" type="move" name="YACKK"/>
-      <point x="160.0" y="444.0" type="line" name="FREEZ"/>
+      <point x="140.0" y="-114.0" type="move"/>
+      <point x="181.0" y="-43.0"/>
+      <point x="197.0" y="62.0"/>
+      <point x="134.0" y="81.0" type="curve"/>
     </contour>
   </outline>
 </glyph>
