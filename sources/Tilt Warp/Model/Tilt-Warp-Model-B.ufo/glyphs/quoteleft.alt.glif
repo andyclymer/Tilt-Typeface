@@ -1,18 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quoteleft.alt" format="2">
   <advance width="297"/>
+  <unicode hex="2018"/>
   <outline>
     <contour>
-      <point x="259.0" y="680.0" type="line"/>
-      <point x="210.0" y="398.0" type="line"/>
-      <point x="41.0" y="398.0" type="line"/>
-      <point x="105.0" y="680.0" type="line"/>
+      <point x="255" y="680" type="line"/>
+      <point x="211" y="584"/>
+      <point x="208" y="488"/>
+      <point x="236" y="398" type="curve"/>
+      <point x="67" y="398" type="line"/>
+      <point x="44" y="488"/>
+      <point x="52" y="584"/>
+      <point x="101" y="680" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9529,0.7529,0.5725,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -12,7 +12,7 @@ feature ss01 {
 feature ss02 {
     # Temporary alternates
     sub t by t.alt;
-    sub four by four.alt;
+    sub u by u.alt;
     sub comma by comma.alt;
     sub semicolon by semicolon.alt;
     sub quoteleft by quoteleft.alt;
