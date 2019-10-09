@@ -5,12 +5,12 @@
   <outline>
     <contour>
       <point x="13" y="517" type="line"/>
-      <point x="203" y="218" type="line"/>
-      <point x="229" y="204" type="line"/>
+      <point x="201" y="218" type="line"/>
+      <point x="231" y="204" type="line"/>
       <point x="351" y="0" type="line"/>
       <point x="535" y="0" type="line"/>
-      <point x="344" y="309" type="line"/>
-      <point x="317" y="325" type="line"/>
+      <point x="346" y="309" type="line"/>
+      <point x="315" y="325" type="line"/>
       <point x="197" y="517" type="line"/>
     </contour>
     <contour>
@@ -24,10 +24,4 @@
       <point x="337" y="218" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9529,0.9294,0.5725,1</string>
-    </dict>
-  </lib>
 </glyph>

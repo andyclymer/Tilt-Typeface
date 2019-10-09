@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="r" format="2">
-  <advance width="415"/>
+  <advance width="395"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
@@ -10,20 +10,14 @@
       <point x="55" y="517" type="line"/>
     </contour>
     <contour>
-      <point x="220" y="279" type="line"/>
-      <point x="220" y="368"/>
-      <point x="300" y="392"/>
-      <point x="395" y="350" type="curve"/>
-      <point x="395" y="521" type="line"/>
-      <point x="261" y="554"/>
-      <point x="151" y="449"/>
-      <point x="151" y="336" type="curve"/>
+      <point x="220" y="273" type="line"/>
+      <point x="220" y="346"/>
+      <point x="269" y="381"/>
+      <point x="375" y="366" type="curve"/>
+      <point x="375" y="528" type="line"/>
+      <point x="241" y="541"/>
+      <point x="141" y="449"/>
+      <point x="141" y="336" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9529,0.9294,0.5725,1</string>
-    </dict>
-  </lib>
 </glyph>
