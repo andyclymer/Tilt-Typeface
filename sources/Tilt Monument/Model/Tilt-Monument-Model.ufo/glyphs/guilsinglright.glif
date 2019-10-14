@@ -1,25 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglright" format="2">
-  <advance width="427"/>
+  <advance width="432"/>
   <unicode hex="203A"/>
   <outline>
     <contour>
-      <point x="387" y="349" type="line"/>
-      <point x="50" y="540" type="line"/>
-      <point x="50" y="354" type="line"/>
-      <point x="387" y="172" type="line"/>
-    </contour>
-    <contour>
-      <point x="387" y="172" type="line"/>
-      <point x="387" y="344" type="line"/>
-      <point x="50" y="164" type="line"/>
-      <point x="50" y="-19" type="line"/>
+      <point x="40" y="582" type="line"/>
+      <point x="187" y="300" type="line"/>
+      <point x="40" y="23" type="line"/>
+      <point x="417" y="300" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.3234,0.3234,0.3234,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

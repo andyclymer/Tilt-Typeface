@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenleft" format="2">
-  <advance width="388"/>
+  <advance width="491"/>
   <unicode hex="0028"/>
   <outline>
     <contour>
-      <point x="201.0" y="337.5" type="curve" smooth="yes"/>
-      <point x="201.0" y="189.60365853658539"/>
-      <point x="251.0" y="34.664634146341456"/>
-      <point x="378.0" y="-75.0" type="curve"/>
-      <point x="255.0" y="-75.0" type="line"/>
-      <point x="126.0" y="40.70121951219511"/>
-      <point x="55.0" y="186.58536585365852"/>
-      <point x="55.0" y="337.5" type="curve" smooth="yes"/>
-      <point x="55.0" y="489.42073170731703"/>
-      <point x="126.0" y="634.298780487805"/>
-      <point x="255.0" y="750.0" type="curve"/>
-      <point x="378.0" y="750.0" type="line"/>
-      <point x="251.0" y="640.3353658536586"/>
-      <point x="201.0" y="486.4024390243902"/>
+      <point x="198.0" y="340.0" type="curve" smooth="yes"/>
+      <point x="198.0" y="569.0"/>
+      <point x="277" y="678"/>
+      <point x="451" y="678" type="curve"/>
+      <point x="451" y="833" type="line"/>
+      <point x="250" y="798"/>
+      <point x="40" y="637"/>
+      <point x="40" y="340" type="curve" smooth="yes"/>
+      <point x="40" y="43"/>
+      <point x="250.0" y="-118.0"/>
+      <point x="451.0" y="-153.0" type="curve"/>
+      <point x="451.0" y="2.0" type="line"/>
+      <point x="277.0" y="2.0"/>
+      <point x="198.0" y="111.0"/>
     </contour>
   </outline>
   <lib>

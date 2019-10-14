@@ -64,6 +64,8 @@
     <string>Z_.sharp.glif</string>
     <key>a</key>
     <string>a.glif</string>
+    <key>acute</key>
+    <string>acute.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
     <key>asciicircum</key>
@@ -94,8 +96,12 @@
     <string>bullet.glif</string>
     <key>c</key>
     <string>c.glif</string>
+    <key>cedilla</key>
+    <string>cedilla.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
+    <key>circumflex</key>
+    <string>circumflex.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
@@ -110,6 +116,8 @@
     <string>d.glif</string>
     <key>degree</key>
     <string>degree.glif</string>
+    <key>dieresis</key>
+    <string>dieresis.glif</string>
     <key>divide</key>
     <string>divide.glif</string>
     <key>divisionslash</key>
@@ -142,10 +150,14 @@
     <string>four.alt.glif</string>
     <key>four.sharp</key>
     <string>four.sharp.glif</string>
+    <key>four.superior</key>
+    <string>four.superior.glif</string>
     <key>fraction</key>
     <string>fraction.glif</string>
     <key>g</key>
     <string>g.glif</string>
+    <key>grave</key>
+    <string>grave.glif</string>
     <key>greater</key>
     <string>greater.glif</string>
     <key>guillemetleft</key>
@@ -174,6 +186,8 @@
     <string>logicalnot.glif</string>
     <key>m</key>
     <string>m.glif</string>
+    <key>macron</key>
+    <string>macron.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
     <key>mu.math</key>
@@ -194,6 +208,12 @@
     <string>one.alt.glif</string>
     <key>one.sharp</key>
     <string>one.sharp.glif</string>
+    <key>onehalf</key>
+    <string>onehalf.glif</string>
+    <key>onequarter</key>
+    <string>onequarter.glif</string>
+    <key>onesuperior</key>
+    <string>onesuperior.glif</string>
     <key>ordfeminine</key>
     <string>ordfeminine.glif</string>
     <key>ordmasculine</key>
@@ -250,6 +270,8 @@
     <string>r.glif</string>
     <key>registered</key>
     <string>registered.glif</string>
+    <key>ring</key>
+    <string>ring.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>section</key>
@@ -278,10 +300,18 @@
     <string>three.glif</string>
     <key>three.sharp</key>
     <string>three.sharp.glif</string>
+    <key>threequarters</key>
+    <string>threequarters.glif</string>
+    <key>threesuperior</key>
+    <string>threesuperior.glif</string>
+    <key>tilde</key>
+    <string>tilde.glif</string>
     <key>two</key>
     <string>two.glif</string>
     <key>two.sharp</key>
     <string>two.sharp.glif</string>
+    <key>twosuperior</key>
+    <string>twosuperior.glif</string>
     <key>u</key>
     <string>u.glif</string>
     <key>u.alt</key>
