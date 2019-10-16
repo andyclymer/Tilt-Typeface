@@ -4,6 +4,8 @@
   <dict>
     <key>A</key>
     <string>A_.glif</string>
+    <key>AE</key>
+    <string>A_E_.glif</string>
     <key>B</key>
     <string>B_.glif</string>
     <key>C</key>
@@ -34,6 +36,8 @@
     <string>N_.glif</string>
     <key>O</key>
     <string>O_.glif</string>
+    <key>Oslash</key>
+    <string>O_slash.glif</string>
     <key>Q</key>
     <string>Q_.glif</string>
     <key>Q.alt</key>
@@ -44,6 +48,8 @@
     <string>S_.glif</string>
     <key>T</key>
     <string>T_.glif</string>
+    <key>Thorn</key>
+    <string>T_horn.glif</string>
     <key>U</key>
     <string>U_.glif</string>
     <key>V</key>
@@ -78,8 +84,12 @@
     <string>brokenbar.glif</string>
     <key>bullet</key>
     <string>bullet.glif</string>
+    <key>cedilla</key>
+    <string>cedilla.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
+    <key>circumflex</key>
+    <string>circumflex.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
     <key>copyright</key>
@@ -122,6 +132,8 @@
     <string>h.glif</string>
     <key>hyphen</key>
     <string>hyphen.glif</string>
+    <key>hyphensoft</key>
+    <string>hyphensoft.glif</string>
     <key>i</key>
     <string>i.glif</string>
     <key>less</key>
@@ -134,6 +146,8 @@
     <string>mu.math.glif</string>
     <key>multiply</key>
     <string>multiply.glif</string>
+    <key>nbspace</key>
+    <string>nbspace.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
     <key>numbersign</key>
@@ -188,6 +202,8 @@
     <string>quotesingle.glif</string>
     <key>registered</key>
     <string>registered.glif</string>
+    <key>ring</key>
+    <string>ring.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>section</key>
@@ -208,6 +224,8 @@
     <string>threequarters.glif</string>
     <key>threesuperior</key>
     <string>threesuperior.glif</string>
+    <key>tilde</key>
+    <string>tilde.glif</string>
     <key>two</key>
     <string>two.glif</string>
     <key>twosuperior</key>

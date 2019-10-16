@@ -186,6 +186,7 @@
           <string>Ucircumflex</string>
           <string>Udieresis</string>
           <string>Yacute</string>
+          <string>Ydieresis</string>
           <string>Thorn</string>
           <string>germandbls</string>
           <string>agrave</string>
@@ -226,13 +227,13 @@
           <string>NULL</string>
           <string>CR</string>
           <string>R.alt</string>
-          <string>three.flat</string>
-          <string>A.alt</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
       </dict>
     </array>
+    <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
+    <string>Accents</string>
     <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
     <false/>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
@@ -438,6 +439,7 @@
       <string>Ucircumflex</string>
       <string>Udieresis</string>
       <string>Yacute</string>
+      <string>Ydieresis</string>
       <string>Thorn</string>
       <string>germandbls</string>
       <string>agrave</string>
