@@ -4,20 +4,20 @@
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="55" y="0" type="line" name="VHJPWXRC"/>
-      <point x="216" y="0" type="line" name="RLRBYKMW"/>
-      <point x="216" y="161" type="line" name="CNSCKGLV"/>
-      <point x="55" y="161" type="line" name="ZXOCQKYI"/>
+      <point x="55" y="0" type="line" name="ZESEBWPC"/>
+      <point x="216" y="0" type="line" name="XILEFSLX"/>
+      <point x="216" y="161" type="line" name="OOLRDEMH"/>
+      <point x="55" y="161" type="line" name="WPQYCJKS"/>
     </contour>
     <contour>
-      <point x="55" y="161" type="move" name="BXBAXEXB"/>
-      <point x="135" y="81" type="line" name="LCYNOXTT"/>
-      <point x="216" y="0" type="line" name="RCKMTARI"/>
+      <point x="55" y="161" type="move" name="KFGIGMOD"/>
+      <point x="135" y="81" type="line" name="PHPTNCMS"/>
+      <point x="216" y="0" type="line" name="JYLHONKL"/>
     </contour>
     <contour>
-      <point x="55" y="0" type="move" name="UKHNRKHO"/>
-      <point x="135" y="81" type="line" name="NMQYADGM"/>
-      <point x="216" y="161" type="line" name="CVOBLQMZ"/>
+      <point x="55" y="0" type="move" name="GMKLNRTI"/>
+      <point x="135" y="81" type="line" name="BGIAKFXI"/>
+      <point x="216" y="161" type="line" name="DUAAOXAS"/>
     </contour>
   </outline>
   <lib>
@@ -26,29 +26,35 @@
       <string>front</string>
       <key>com.andyclymer.zPosition</key>
       <dict>
-        <key>BXBAXEXB</key>
-        <integer>0</integer>
-        <key>CNSCKGLV</key>
-        <integer>0</integer>
-        <key>CVOBLQMZ</key>
-        <integer>0</integer>
-        <key>LCYNOXTT</key>
+        <key>BGIAKFXI</key>
         <integer>100</integer>
-        <key>NMQYADGM</key>
+        <key>DUAAOXAS</key>
+        <integer>0</integer>
+        <key>GMKLNRTI</key>
+        <integer>0</integer>
+        <key>IOZFPWBB</key>
+        <integer>0</integer>
+        <key>JYLHONKL</key>
+        <integer>0</integer>
+        <key>KFGIGMOD</key>
+        <integer>0</integer>
+        <key>OOLRDEMH</key>
+        <integer>0</integer>
+        <key>PHPTNCMS</key>
         <integer>100</integer>
-        <key>RCKMTARI</key>
+        <key>TVMYFVMN</key>
         <integer>0</integer>
-        <key>RLRBYKMW</key>
+        <key>VELGYGQO</key>
         <integer>0</integer>
-        <key>UKHNRKHO</key>
+        <key>WPQYCJKS</key>
         <integer>0</integer>
-        <key>VHJPWXRC</key>
+        <key>XILEFSLX</key>
         <integer>0</integer>
-        <key>ZXOCQKYI</key>
+        <key>ZESEBWPC</key>
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

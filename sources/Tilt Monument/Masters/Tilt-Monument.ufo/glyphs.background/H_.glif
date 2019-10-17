@@ -1,69 +1,79 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="693"/>
+  <advance width="500"/>
+  <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="150" y="680" type="move" name="NTBBRHFU"/>
-      <point x="150" y="641" name="DNBXEOQV"/>
-      <point x="150" y="589" name="RYGOJVKA"/>
-      <point x="150" y="349" type="curve" smooth="yes" name="QGPKHGDL"/>
-      <point x="150" y="95" name="AMQKWUMZ"/>
-      <point x="150" y="40" name="QTJWZTYZ"/>
-      <point x="150" y="0" type="curve" name="VEVZRCKU"/>
+      <point x="57" y="680" type="move"/>
+      <point x="77" y="641"/>
+      <point x="84" y="589"/>
+      <point x="84" y="349" type="curve" smooth="yes"/>
+      <point x="84" y="95"/>
+      <point x="77" y="40"/>
+      <point x="57" y="0" type="curve"/>
     </contour>
     <contour>
-      <point x="542" y="680" type="move" name="RKYRRAXU"/>
-      <point x="542" y="641" name="WEKLFJAA"/>
-      <point x="542" y="589" name="DEUHNBJM"/>
-      <point x="542" y="349" type="curve" smooth="yes" name="JKAUVAYB"/>
-      <point x="542" y="95" name="PAVBSTSG"/>
-      <point x="542" y="40" name="TSFCDGPF"/>
-      <point x="542" y="0" type="curve" name="RYFSYPGZ"/>
+      <point x="254" y="680" type="move"/>
+      <point x="234" y="641"/>
+      <point x="227" y="589"/>
+      <point x="227" y="349" type="curve" smooth="yes"/>
+      <point x="227" y="95"/>
+      <point x="234" y="40"/>
+      <point x="254" y="0" type="curve"/>
     </contour>
     <contour>
-      <point x="510" y="354" type="move" name="OVPQJSAB"/>
-      <point x="143" y="354" type="line" name="UZGGADEC"/>
+      <point x="449" y="680" type="move"/>
+      <point x="469" y="641"/>
+      <point x="476" y="589"/>
+      <point x="476" y="349" type="curve" smooth="yes"/>
+      <point x="476" y="95"/>
+      <point x="469" y="40"/>
+      <point x="449" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="646" y="680" type="move"/>
+      <point x="626" y="641"/>
+      <point x="619" y="589"/>
+      <point x="619" y="349" type="curve" smooth="yes"/>
+      <point x="619" y="95"/>
+      <point x="626" y="40"/>
+      <point x="646" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="515" y="418" type="move"/>
+      <point x="148" y="418" type="line"/>
+    </contour>
+    <contour>
+      <point x="515" y="291" type="move"/>
+      <point x="148" y="291" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="680" type="move"/>
+      <point x="156" y="641"/>
+      <point x="156" y="589"/>
+      <point x="156" y="349" type="curve" smooth="yes"/>
+      <point x="156" y="95"/>
+      <point x="156" y="40"/>
+      <point x="156" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="548" y="680" type="move"/>
+      <point x="548" y="641"/>
+      <point x="548" y="589"/>
+      <point x="548" y="349" type="curve" smooth="yes"/>
+      <point x="548" y="95"/>
+      <point x="548" y="40"/>
+      <point x="548" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="515" y="354" type="move"/>
+      <point x="148" y="354" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.andyclymer.projectionViewOrientation</key>
       <string>front</string>
-      <key>com.andyclymer.zPosition</key>
-      <dict>
-        <key>AMQKWUMZ</key>
-        <integer>0</integer>
-        <key>DEUHNBJM</key>
-        <integer>0</integer>
-        <key>DNBXEOQV</key>
-        <integer>0</integer>
-        <key>JKAUVAYB</key>
-        <integer>0</integer>
-        <key>NTBBRHFU</key>
-        <integer>0</integer>
-        <key>OVPQJSAB</key>
-        <integer>0</integer>
-        <key>PAVBSTSG</key>
-        <integer>0</integer>
-        <key>QGPKHGDL</key>
-        <integer>0</integer>
-        <key>QTJWZTYZ</key>
-        <integer>0</integer>
-        <key>RKYRRAXU</key>
-        <integer>0</integer>
-        <key>RYFSYPGZ</key>
-        <integer>0</integer>
-        <key>RYGOJVKA</key>
-        <integer>0</integer>
-        <key>TSFCDGPF</key>
-        <integer>0</integer>
-        <key>UZGGADEC</key>
-        <integer>0</integer>
-        <key>VEVZRCKU</key>
-        <integer>0</integer>
-        <key>WEKLFJAA</key>
-        <integer>0</integer>
-      </dict>
     </dict>
   </lib>
 </glyph>

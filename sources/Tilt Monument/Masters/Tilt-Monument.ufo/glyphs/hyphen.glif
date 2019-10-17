@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen" format="2">
+  <advance width="340"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="35" y="226" type="line" name="ZILXRWAY"/>
+      <point x="305" y="286" type="line" name="RAMESAZG"/>
+      <point x="305" y="411" type="line" name="YMQJXUTK"/>
+      <point x="35" y="351" type="line" name="BDKSGHQS"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BDKSGHQS</key>
+        <integer>0</integer>
+        <key>RAMESAZG</key>
+        <integer>0</integer>
+        <key>YMQJXUTK</key>
+        <integer>0</integer>
+        <key>ZILXRWAY</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.7267,0.7266,0.7266,1</string>
+    </dict>
+  </lib>
+</glyph>

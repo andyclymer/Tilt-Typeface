@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quoteright" format="2">
-  <advance width="282"/>
+  <advance width="274"/>
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="55" y="750" type="curve" name="EORBTHCP"/>
-      <point x="236" y="750" type="line" name="TFWNPKSA"/>
-      <point x="258" y="659" name="MDZUAAFI"/>
-      <point x="221" y="508" name="CXUQXUQT"/>
-      <point x="67" y="448" type="curve" name="YGCQAQIN"/>
-      <point x="97" y="577" name="IXTFCSVT"/>
-      <point x="91" y="661" name="KZTXGAHT"/>
-    </contour>
-    <contour>
-      <point x="55.0" y="750.0" type="move" name="XQTQWBNC"/>
-      <point x="159.0" y="667.0" type="line" name="PEFMEUSE"/>
-      <point x="236.0" y="750.0" type="line" name="GIJXEVTP"/>
-    </contour>
-    <contour>
-      <point x="67" y="448" type="move" name="FYSHYAKL"/>
-      <point x="133" y="515" name="IWCOVZEL"/>
-      <point x="159" y="604" name="JSQXEIRJ"/>
-      <point x="159" y="667" type="curve" name="GMJXQBHK"/>
+      <point x="60" y="680" type="curve"/>
+      <point x="227" y="680" type="line"/>
+      <point x="237" y="569"/>
+      <point x="187" y="439"/>
+      <point x="25" y="389" type="curve"/>
+      <point x="83" y="508"/>
+      <point x="84" y="591"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
-      <key>com.andyclymer.zPosition</key>
-      <dict>
-        <key>CXUQXUQT</key>
-        <integer>0</integer>
-        <key>EORBTHCP</key>
-        <integer>0</integer>
-        <key>FYSHYAKL</key>
-        <integer>0</integer>
-        <key>GIJXEVTP</key>
-        <integer>0</integer>
-        <key>GMJXQBHK</key>
-        <integer>100</integer>
-        <key>IWCOVZEL</key>
-        <integer>31</integer>
-        <key>IXTFCSVT</key>
-        <integer>0</integer>
-        <key>JSQXEIRJ</key>
-        <integer>72</integer>
-        <key>KZTXGAHT</key>
-        <integer>0</integer>
-        <key>MDZUAAFI</key>
-        <integer>0</integer>
-        <key>PEFMEUSE</key>
-        <integer>100</integer>
-        <key>TFWNPKSA</key>
-        <integer>0</integer>
-        <key>XQTQWBNC</key>
-        <integer>0</integer>
-        <key>YGCQAQIN</key>
-        <integer>0</integer>
-      </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.7267,0.7266,0.7266,1</string>
     </dict>
   </lib>
 </glyph>

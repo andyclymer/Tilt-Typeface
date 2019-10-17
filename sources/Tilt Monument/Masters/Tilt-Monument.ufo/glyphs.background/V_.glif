@@ -1,215 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="V" format="2">
-  <advance width="666"/>
+  <advance width="652"/>
+  <unicode hex="0056"/>
   <outline>
     <contour>
-      <point x="5" y="680" type="move" name="RHSTJVDI"/>
-      <point x="33" y="640" name="INWLOGEY"/>
-      <point x="55" y="585" name="VUTBVSSS"/>
-      <point x="142" y="331" type="curve" smooth="yes" name="HJQREKPO"/>
-      <point x="222" y="92" name="PNSWMBJU"/>
-      <point x="236" y="39" name="JJJPGXMY"/>
-      <point x="242" y="0" type="curve" name="WAMBZHHC"/>
+      <point x="0" y="680" type="move"/>
+      <point x="29" y="640"/>
+      <point x="52" y="585"/>
+      <point x="144" y="331" type="curve" smooth="yes"/>
+      <point x="230" y="92"/>
+      <point x="245" y="39"/>
+      <point x="251" y="0" type="curve"/>
     </contour>
     <contour>
-      <point x="224" y="680" type="move" name="GGSUGZKX"/>
-      <point x="205" y="631" name="CEFYGJXP"/>
-      <point x="210" y="586" name="IGQJSJII"/>
-      <point x="291" y="331" type="curve" smooth="yes" name="WCHRGOKM"/>
-      <point x="355" y="125" type="line" name="QEULSEXU"/>
+      <point x="216" y="680" type="move"/>
+      <point x="195" y="631"/>
+      <point x="202" y="586"/>
+      <point x="290" y="331" type="curve" smooth="yes"/>
+      <point x="404" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="486" y="680" type="move" name="WHUQGYOF"/>
-      <point x="505" y="631" name="IJXPEUPG"/>
-      <point x="500" y="586" name="NKWDSTMN"/>
-      <point x="419" y="331" type="curve" smooth="yes" name="JXZTIKPV"/>
-      <point x="355" y="125" type="line" name="PXTDBOVX"/>
+      <point x="448" y="680" type="move"/>
+      <point x="469" y="631"/>
+      <point x="461" y="585"/>
+      <point x="374" y="331" type="curve" smooth="yes"/>
+      <point x="260" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="685" y="680" type="move" name="ILJVTSXP"/>
-      <point x="657" y="640" name="LEZXJAAJ"/>
-      <point x="635" y="585" name="IOZFWGJF"/>
-      <point x="548" y="331" type="curve" smooth="yes" name="FIRFFCDH"/>
-      <point x="468" y="92" name="HREFHWXO"/>
-      <point x="449" y="39" name="NRWRFUBF"/>
-      <point x="448" y="0" type="curve" name="ATEOZGFL"/>
+      <point x="652" y="680" type="move"/>
+      <point x="623" y="640"/>
+      <point x="600" y="585"/>
+      <point x="508" y="331" type="curve" smooth="yes"/>
+      <point x="422" y="92"/>
+      <point x="405" y="39"/>
+      <point x="404" y="0" type="curve"/>
     </contour>
     <contour>
-      <point x="114" y="680" type="move" name="NNQTHERR"/>
-      <point x="119" y="636" name="CJGRYPFZ"/>
-      <point x="132" y="586" name="GTRGLKGG"/>
-      <point x="216" y="331" type="curve" smooth="yes" name="MTTBGWZT"/>
-      <point x="256" y="212" name="WJHEOFLP"/>
-      <point x="296" y="82" name="TUYNJJRG"/>
-      <point x="298" y="62" type="curve" name="UKNEHHJQ"/>
+      <point x="108" y="680" type="move"/>
+      <point x="112" y="636"/>
+      <point x="127" y="586"/>
+      <point x="217" y="331" type="curve" smooth="yes"/>
+      <point x="260" y="212"/>
+      <point x="324" y="20"/>
+      <point x="328" y="0" type="curve"/>
     </contour>
     <contour>
-      <point x="586" y="680" type="move" name="UOUZJOBM"/>
-      <point x="581" y="636" name="ZUFSVFGH"/>
-      <point x="568" y="586" name="UZRDTKDJ"/>
-      <point x="484" y="331" type="curve" smooth="yes" name="YDOLTTQT"/>
-      <point x="444" y="212" name="RIQKQBPC"/>
-      <point x="402" y="82" name="UNSOEUOK"/>
-      <point x="402" y="62" type="curve" name="TIFMMJXP"/>
+      <point x="550" y="680" type="move"/>
+      <point x="546" y="636"/>
+      <point x="530" y="585"/>
+      <point x="441" y="331" type="curve" smooth="yes"/>
+      <point x="398" y="212"/>
+      <point x="332" y="20"/>
+      <point x="332" y="0" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
-      <key>com.andyclymer.zPosition</key>
-      <dict>
-        <key>ADQUJESI</key>
-        <integer>0</integer>
-        <key>ATEOZGFL</key>
-        <integer>0</integer>
-        <key>AWLHRLYB</key>
-        <integer>0</integer>
-        <key>BXMDBGSS</key>
-        <integer>0</integer>
-        <key>CEFYGJXP</key>
-        <integer>0</integer>
-        <key>CJGRYPFZ</key>
-        <integer>0</integer>
-        <key>DLKVLBIA</key>
-        <integer>0</integer>
-        <key>FCQERQCI</key>
-        <integer>0</integer>
-        <key>FIRFFCDH</key>
-        <integer>0</integer>
-        <key>GGSUGZKX</key>
-        <integer>0</integer>
-        <key>GHVPFPUS</key>
-        <integer>0</integer>
-        <key>GTRGLKGG</key>
-        <integer>0</integer>
-        <key>HJQREKPO</key>
-        <integer>0</integer>
-        <key>HQYROEDC</key>
-        <integer>0</integer>
-        <key>HREFHWXO</key>
-        <integer>0</integer>
-        <key>IGQJSJII</key>
-        <integer>0</integer>
-        <key>IHWIQTYW</key>
-        <integer>0</integer>
-        <key>IJXPEUPG</key>
-        <integer>0</integer>
-        <key>ILJVTSXP</key>
-        <integer>0</integer>
-        <key>INWLOGEY</key>
-        <integer>0</integer>
-        <key>IOZFWGJF</key>
-        <integer>0</integer>
-        <key>JBYTQTUU</key>
-        <integer>0</integer>
-        <key>JJJPGXMY</key>
-        <integer>0</integer>
-        <key>JNXUMIQL</key>
-        <integer>0</integer>
-        <key>JQYWPEJX</key>
-        <integer>0</integer>
-        <key>JXZTIKPV</key>
-        <integer>0</integer>
-        <key>LEZXJAAJ</key>
-        <integer>0</integer>
-        <key>LHQHDWOF</key>
-        <integer>0</integer>
-        <key>LQOTBKTT</key>
-        <integer>0</integer>
-        <key>LSUYPEWU</key>
-        <integer>0</integer>
-        <key>MTTBGWZT</key>
-        <integer>0</integer>
-        <key>MWEXQHNG</key>
-        <integer>0</integer>
-        <key>NEAWGOKO</key>
-        <integer>0</integer>
-        <key>NKWDSTMN</key>
-        <integer>0</integer>
-        <key>NNQTHERR</key>
-        <integer>0</integer>
-        <key>NNRDBBQR</key>
-        <integer>0</integer>
-        <key>NRWRFUBF</key>
-        <integer>0</integer>
-        <key>NWXLHCCM</key>
-        <integer>0</integer>
-        <key>PCLAIPIE</key>
-        <integer>0</integer>
-        <key>PMJAZLXS</key>
-        <integer>0</integer>
-        <key>PNGDFBQB</key>
-        <integer>0</integer>
-        <key>PNSWMBJU</key>
-        <integer>0</integer>
-        <key>PUTGEVXD</key>
-        <integer>0</integer>
-        <key>PXTDBOVX</key>
-        <integer>0</integer>
-        <key>QEULSEXU</key>
-        <integer>0</integer>
-        <key>QGQIDWJD</key>
-        <integer>0</integer>
-        <key>QKTDKEHZ</key>
-        <integer>0</integer>
-        <key>QUPFLWHG</key>
-        <integer>0</integer>
-        <key>RHSTJVDI</key>
-        <integer>0</integer>
-        <key>RIQKQBPC</key>
-        <integer>0</integer>
-        <key>RKGZRXYU</key>
-        <integer>0</integer>
-        <key>RXVAUIXF</key>
-        <integer>0</integer>
-        <key>RZUVHMDB</key>
-        <integer>0</integer>
-        <key>STGNSJTR</key>
-        <integer>0</integer>
-        <key>SXTCWHJT</key>
-        <integer>0</integer>
-        <key>TIAMTVCC</key>
-        <integer>0</integer>
-        <key>TIFMMJXP</key>
-        <integer>0</integer>
-        <key>TJBCTNJA</key>
-        <integer>0</integer>
-        <key>TMBLAVNL</key>
-        <integer>0</integer>
-        <key>TUYNJJRG</key>
-        <integer>0</integer>
-        <key>UCPQHAVP</key>
-        <integer>0</integer>
-        <key>UKNEHHJQ</key>
-        <integer>0</integer>
-        <key>UNSOEUOK</key>
-        <integer>0</integer>
-        <key>UOUZJOBM</key>
-        <integer>0</integer>
-        <key>UVLCCVAR</key>
-        <integer>0</integer>
-        <key>UZRDTKDJ</key>
-        <integer>0</integer>
-        <key>VUTBVSSS</key>
-        <integer>0</integer>
-        <key>WAMBZHHC</key>
-        <integer>0</integer>
-        <key>WCHRGOKM</key>
-        <integer>0</integer>
-        <key>WHUQGYOF</key>
-        <integer>0</integer>
-        <key>WJHEOFLP</key>
-        <integer>0</integer>
-        <key>WNEKDORI</key>
-        <integer>0</integer>
-        <key>XWVDEQWE</key>
-        <integer>0</integer>
-        <key>YDOLTTQT</key>
-        <integer>0</integer>
-        <key>ZUFSVFGH</key>
-        <integer>0</integer>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="494"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="150.0" y="597.0" type="move" name="SIEWBECQ"/>
+      <point x="150" y="63" type="line" name="OUVYPYXD"/>
+      <point x="215" y="61" name="OSQSAZBI"/>
+      <point x="309" y="62" name="URHGEXOQ"/>
+      <point x="377" y="68" type="curve" smooth="yes" name="AJMZXZVR"/>
+    </contour>
+    <contour>
+      <point x="52" y="0" type="curve" name="LSIVWNIT"/>
+      <point x="449" y="0" type="line" name="GSQPXEDK"/>
+      <point x="469" y="166" type="line" name="XAYGWXKC"/>
+      <point x="434" y="138" name="ZVFDLUTN"/>
+      <point x="388" y="123" name="IUOGHNYK"/>
+      <point x="226" y="125" type="curve" name="GCHBPLNJ"/>
+      <point x="223" y="175" name="PEWDTCSG"/>
+      <point x="222" y="245" name="BSAXEPAT"/>
+      <point x="222" y="349" type="curve" smooth="yes" name="KFKTIPQL"/>
+      <point x="222" y="589" name="HYDRBJHF"/>
+      <point x="229" y="641" name="OSMFMDRC"/>
+      <point x="249" y="680" type="curve" name="CQSHOENW"/>
+      <point x="52" y="680" type="line" name="QREECQVJ"/>
+      <point x="72" y="641" name="ACELDEIR"/>
+      <point x="79" y="589" name="XMUSDYTU"/>
+      <point x="79" y="349" type="curve" smooth="yes" name="DCBTZWCG"/>
+      <point x="79" y="95" name="JHCULQHP"/>
+      <point x="72" y="40" name="KCSYKYDI"/>
+    </contour>
+    <contour>
+      <point x="226.0" y="125.0" type="move" name="SEWKPOBG"/>
+      <point x="150.0" y="63.0" type="line" name="GPRVWDAM"/>
+      <point x="52.0" y="0.0" type="line" name="MGULBVJN"/>
+    </contour>
+    <contour>
+      <point x="469.0" y="166.0" type="move" name="LTUWCOJN"/>
+      <point x="377.0" y="68.0" type="line" name="EGBPQECV"/>
+      <point x="449.0" y="0.0" type="line" name="GFMSYKPK"/>
+    </contour>
+    <contour>
+      <point x="52.0" y="680.0" type="move" name="XQTQWBNC"/>
+      <point x="150.0" y="597.0" type="line" name="PEFMEUSE"/>
+      <point x="249.0" y="680.0" type="line" name="GIJXEVTP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ACELDEIR</key>
+        <integer>0</integer>
+        <key>AJMZXZVR</key>
+        <integer>100</integer>
+        <key>BSAXEPAT</key>
+        <integer>0</integer>
+        <key>CQSHOENW</key>
+        <integer>0</integer>
+        <key>DCBTZWCG</key>
+        <integer>0</integer>
+        <key>EGBPQECV</key>
+        <integer>100</integer>
+        <key>GCHBPLNJ</key>
+        <integer>0</integer>
+        <key>GFMSYKPK</key>
+        <integer>0</integer>
+        <key>GIJXEVTP</key>
+        <integer>0</integer>
+        <key>GPRVWDAM</key>
+        <integer>100</integer>
+        <key>GSQPXEDK</key>
+        <integer>0</integer>
+        <key>HYDRBJHF</key>
+        <integer>0</integer>
+        <key>IUOGHNYK</key>
+        <integer>0</integer>
+        <key>JHCULQHP</key>
+        <integer>0</integer>
+        <key>KCSYKYDI</key>
+        <integer>0</integer>
+        <key>KFKTIPQL</key>
+        <integer>0</integer>
+        <key>LSIVWNIT</key>
+        <integer>0</integer>
+        <key>LTUWCOJN</key>
+        <integer>0</integer>
+        <key>MGULBVJN</key>
+        <integer>0</integer>
+        <key>OSMFMDRC</key>
+        <integer>0</integer>
+        <key>OSQSAZBI</key>
+        <integer>100</integer>
+        <key>OUVYPYXD</key>
+        <integer>100</integer>
+        <key>PEFMEUSE</key>
+        <integer>100</integer>
+        <key>PEWDTCSG</key>
+        <integer>0</integer>
+        <key>QREECQVJ</key>
+        <integer>0</integer>
+        <key>SEWKPOBG</key>
+        <integer>0</integer>
+        <key>SIEWBECQ</key>
+        <integer>100</integer>
+        <key>URHGEXOQ</key>
+        <integer>100</integer>
+        <key>XAYGWXKC</key>
+        <integer>0</integer>
+        <key>XMUSDYTU</key>
+        <integer>0</integer>
+        <key>XQTQWBNC</key>
+        <integer>0</integer>
+        <key>ZVFDLUTN</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period" format="2">
+  <advance width="271"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="55" y="0" type="line" name="VHJPWXRC"/>
+      <point x="216" y="0" type="line" name="RLRBYKMW"/>
+      <point x="216" y="161" type="line" name="CNSCKGLV"/>
+      <point x="55" y="161" type="line" name="ZXOCQKYI"/>
+    </contour>
+    <contour>
+      <point x="55" y="161" type="move" name="BXBAXEXB"/>
+      <point x="135" y="81" type="line" name="LCYNOXTT"/>
+      <point x="216" y="0" type="line" name="RCKMTARI"/>
+    </contour>
+    <contour>
+      <point x="55" y="0" type="move" name="UKHNRKHO"/>
+      <point x="135" y="81" type="line" name="NMQYADGM"/>
+      <point x="216" y="161" type="line" name="CVOBLQMZ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BXBAXEXB</key>
+        <integer>0</integer>
+        <key>CNSCKGLV</key>
+        <integer>0</integer>
+        <key>CVOBLQMZ</key>
+        <integer>0</integer>
+        <key>LCYNOXTT</key>
+        <integer>100</integer>
+        <key>NMQYADGM</key>
+        <integer>100</integer>
+        <key>RCKMTARI</key>
+        <integer>0</integer>
+        <key>RLRBYKMW</key>
+        <integer>0</integer>
+        <key>UKHNRKHO</key>
+        <integer>0</integer>
+        <key>VHJPWXRC</key>
+        <integer>0</integer>
+        <key>ZXOCQKYI</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>
