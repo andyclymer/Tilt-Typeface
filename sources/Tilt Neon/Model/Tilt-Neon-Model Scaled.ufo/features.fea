@@ -1,0 +1,5 @@
+feature ss02 {
+    # Temporary alternates
+    sub t by t.alt;
+    sub u by u.alt;
+} ss02;

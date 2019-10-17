@@ -2,26 +2,34 @@
 <glyph name="circumflex" format="2">
   <advance width="562"/>
   <unicode hex="02C6"/>
-  <anchor x="0" y="517" name="top"/>
-  <anchor x="280" y="517" name="center"/>
   <outline>
     <contour>
-      <point x="348" y="790" type="line"/>
-      <point x="229" y="584" type="line"/>
-      <point x="60" y="584" type="line"/>
-      <point x="194" y="790" type="line"/>
-    </contour>
-    <contour>
-      <point x="214" y="790" type="line"/>
-      <point x="368" y="790" type="line"/>
-      <point x="502" y="584" type="line"/>
-      <point x="333" y="584" type="line"/>
+      <point x="118.7846804437584" y="659.4948062193863" type="curve" smooth="yes"/>
+      <point x="245.78468044375842" y="785.4948062193863" type="line" smooth="yes"/>
+      <point x="265.2784329319901" y="804.8350645935374"/>
+      <point x="296.7215670680099" y="804.8350645935374"/>
+      <point x="316.2153195562416" y="785.4948062193863" type="curve" smooth="yes"/>
+      <point x="443.2153195562416" y="659.4948062193863" type="line" smooth="yes"/>
+      <point x="462.3825149147102" y="640.4785336590159"/>
+      <point x="462.5110787797568" y="607.951875802227"/>
+      <point x="443.49480621938636" y="588.7846804437584" type="curve" smooth="yes"/>
+      <point x="424.4785336590159" y="569.6174850852897"/>
+      <point x="391.95187580222705" y="569.4889212202432"/>
+      <point x="372.7846804437584" y="588.5051937806137" type="curve" smooth="yes"/>
+      <point x="245.78468044375842" y="714.5051937806137" type="line"/>
+      <point x="316.2153195562416" y="714.5051937806137" type="line"/>
+      <point x="189.21531955624158" y="588.5051937806137" type="line" smooth="yes"/>
+      <point x="170.04812419777295" y="569.4889212202432"/>
+      <point x="137.52146634098412" y="569.6174850852897"/>
+      <point x="118.50519378061365" y="588.7846804437584" type="curve" smooth="yes"/>
+      <point x="99.4889212202432" y="607.951875802227"/>
+      <point x="99.61748508528979" y="640.4785336590159"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

@@ -6,10 +6,8 @@
   <anchor x="245" y="517" name="center"/>
   <outline>
     <contour>
-      <point x="60" y="595" type="line"/>
-      <point x="430" y="595" type="line"/>
-      <point x="430" y="740" type="line"/>
-      <point x="60" y="740" type="line"/>
+      <point x="370" y="668" type="move"/>
+      <point x="120" y="668" type="line"/>
     </contour>
   </outline>
 </glyph>

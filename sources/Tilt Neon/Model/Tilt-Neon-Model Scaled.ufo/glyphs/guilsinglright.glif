@@ -4,22 +4,32 @@
   <unicode hex="203A"/>
   <outline>
     <contour>
-      <point x="387" y="349" type="line"/>
-      <point x="50" y="540" type="line"/>
-      <point x="50" y="354" type="line"/>
-      <point x="387" y="172" type="line"/>
-    </contour>
-    <contour>
-      <point x="387" y="172" type="line"/>
-      <point x="387" y="344" type="line"/>
-      <point x="50" y="164" type="line"/>
-      <point x="50" y="-19" type="line"/>
+      <point x="59.679198909053774" y="102.7573769406795" type="curve" smooth="yes"/>
+      <point x="316.67919890905375" y="298.7573769406795" type="line"/>
+      <point x="316.4846782855083" y="219.3917288857356" type="line"/>
+      <point x="59.48467828550831" y="417.3917288857356" type="line" smooth="yes"/>
+      <point x="38.09621188380553" y="433.87000261156106"/>
+      <point x="33.91345515991007" y="466.12685531278896"/>
+      <point x="50.39172888573559" y="487.51532171449173" type="curve" smooth="yes"/>
+      <point x="66.8700026115611" y="508.9037881161945"/>
+      <point x="99.1268553127889" y="513.0865448400899"/>
+      <point x="120.51532171449169" y="496.6082711142644" type="curve" smooth="yes"/>
+      <point x="377.5153217144917" y="298.6082711142644" type="line" smooth="yes"/>
+      <point x="403.5753213457264" y="278.53091731276834"/>
+      <point x="403.478903913057" y="239.191993304977"/>
+      <point x="377.32080109094625" y="219.2426230593205" type="curve" smooth="yes"/>
+      <point x="120.32080109094622" y="23.2426230593205" type="line" smooth="yes"/>
+      <point x="98.85181754297929" y="6.869390470209527"/>
+      <point x="66.61585564843148" y="11.210215361086824"/>
+      <point x="50.24262305932051" y="32.67919890905375" type="curve" smooth="yes"/>
+      <point x="33.86939047020954" y="54.14818245702068"/>
+      <point x="38.210215361086846" y="86.38414435156854"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>
