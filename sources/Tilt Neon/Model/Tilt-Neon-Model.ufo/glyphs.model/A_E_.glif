@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="844"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="445.6951770628086" y="218.0" type="move"/>
+      <point x="161.69517706280868" y="218.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="445.6951770628086" y="350.0" type="move" name="CFBCJ"/>
+      <point x="723.6951770628086" y="350.0" type="line" name="CAGED"/>
+    </contour>
+    <contour>
+      <point x="743.6951770628086" y="635.0" type="move" name="CAGED"/>
+      <point x="358.6951770628086" y="635.0" type="line"/>
+      <point x="74.69517706280867" y="40.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="743.6951770628086" y="45.0" type="move" name="CAGED"/>
+      <point x="445.6951770628086" y="45.0" type="line" name="JITUK"/>
+      <point x="445.6951770628086" y="635.0" type="line" name="IPTAQ"/>
+    </contour>
+  </outline>
+</glyph>

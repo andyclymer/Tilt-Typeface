@@ -2,13 +2,13 @@
 <glyph name="circumflex" format="2">
   <advance width="562"/>
   <unicode hex="02C6"/>
-  <anchor x="0" y="517" name="top"/>
-  <anchor x="280" y="517" name="center"/>
+  <anchor x="0" y="497.0" name="top"/>
+  <anchor x="280" y="497.0" name="center"/>
   <outline>
     <contour>
-      <point x="154" y="624" type="move"/>
-      <point x="281.0" y="750" type="line"/>
-      <point x="408" y="624" type="line"/>
+      <point x="154.0" y="604.0" type="move"/>
+      <point x="281.0" y="730.0" type="line"/>
+      <point x="408.0" y="604.0" type="line"/>
     </contour>
   </outline>
 </glyph>

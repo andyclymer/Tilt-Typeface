@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclam" format="2">
-  <advance width="260"/>
+  <advance width="261"/>
   <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="146" y="640" type="move"/>
-      <point x="146" y="285" type="line"/>
+      <point x="132.25" y="640.0" type="move"/>
+      <point x="132.25" y="285.0" type="line"/>
     </contour>
     <contour>
-      <point x="154.0" y="40.0" type="move" name="YACKK"/>
-      <point x="120.0" y="45"/>
-      <point x="120.0" y="79"/>
-      <point x="154.0" y="84.0" type="curve" name="FREEZ"/>
+      <point x="140.25" y="40.0" type="move" name="YACKK"/>
+      <point x="106.25" y="45.0"/>
+      <point x="106.25" y="79.0"/>
+      <point x="140.25" y="84.0" type="curve" name="FREEZ"/>
     </contour>
   </outline>
 </glyph>

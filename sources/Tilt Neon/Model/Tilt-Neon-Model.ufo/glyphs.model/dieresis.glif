@@ -2,20 +2,20 @@
 <glyph name="dieresis" format="2">
   <advance width="577"/>
   <unicode hex="00A8"/>
-  <anchor x="0" y="517" name="top"/>
-  <anchor x="288" y="517" name="center"/>
+  <anchor x="0" y="497.0" name="top"/>
+  <anchor x="288" y="497.0" name="center"/>
   <outline>
     <contour>
-      <point x="190.0" y="656.0" type="move" name="YACKK"/>
-      <point x="156.0" y="661.0"/>
-      <point x="156.0" y="695.0"/>
-      <point x="190.0" y="700.0" type="curve" name="FREEZ"/>
+      <point x="190.0" y="636.0" type="move" name="YACKK"/>
+      <point x="156.0" y="641.0"/>
+      <point x="156.0" y="675.0"/>
+      <point x="190.0" y="680.0" type="curve" name="FREEZ"/>
     </contour>
     <contour>
-      <point x="410.0" y="656.0" type="move" name="YACKK"/>
-      <point x="376.0" y="661.0"/>
-      <point x="376.0" y="695.0"/>
-      <point x="410.0" y="700.0" type="curve" name="FREEZ"/>
+      <point x="410.0" y="636.0" type="move" name="YACKK"/>
+      <point x="376.0" y="641.0"/>
+      <point x="376.0" y="675.0"/>
+      <point x="410.0" y="680.0" type="curve" name="FREEZ"/>
     </contour>
   </outline>
 </glyph>
