@@ -1,7 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="six" format="2">
-  <advance width="521"/>
+  <advance width="534"/>
   <unicode hex="0036"/>
   <outline>
+    <contour>
+      <point x="278.0" y="37.0" type="curve" smooth="yes"/>
+      <point x="174.0" y="37.0"/>
+      <point x="105.0" y="113.0"/>
+      <point x="105.0" y="221.0" type="curve" smooth="yes"/>
+      <point x="105.0" y="325.0"/>
+      <point x="174.0" y="395.0"/>
+      <point x="278.0" y="395.0" type="curve" smooth="yes"/>
+      <point x="380.0" y="395.0"/>
+      <point x="452.0" y="323.0"/>
+      <point x="452.0" y="216.0" type="curve" smooth="yes"/>
+      <point x="452.0" y="111.0"/>
+      <point x="380.0" y="37.0"/>
+    </contour>
+    <contour>
+      <point x="278.0" y="87.0" type="curve" smooth="yes"/>
+      <point x="204.0" y="87.0"/>
+      <point x="155.0" y="142.0"/>
+      <point x="155.0" y="221.0" type="curve" smooth="yes"/>
+      <point x="155.0" y="295.0"/>
+      <point x="204.0" y="345.0"/>
+      <point x="278.0" y="345.0" type="curve" smooth="yes"/>
+      <point x="351.0" y="345.0"/>
+      <point x="402.0" y="293.0"/>
+      <point x="402.0" y="216.0" type="curve" smooth="yes"/>
+      <point x="402.0" y="140.0"/>
+      <point x="351.0" y="87.0"/>
+    </contour>
   </outline>
 </glyph>

@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="s" format="2">
-  <advance width="481"/>
+  <advance width="462"/>
   <outline>
     <contour>
-      <point x="369.7515464173057" y="449.0" type="move" smooth="yes" name="VPSMP"/>
-      <point x="241.75154641730563" y="513.0" name="TEBOR"/>
-      <point x="99.75154641730565" y="478.0" name="AWARE"/>
-      <point x="99.75154641730565" y="376.0" type="curve" smooth="yes" name="IPECA"/>
-      <point x="99.75154641730565" y="238.0" name="POTME"/>
-      <point x="390.7515464173057" y="283.0" name="MARBN"/>
-      <point x="390.7515464173057" y="137.0" type="curve" smooth="yes" name="GOMRE"/>
-      <point x="390.7515464173057" y="30.0" name="TECUM"/>
-      <point x="233.75154641730563" y="3.0" name="HANRI"/>
-      <point x="97.75154641730565" y="79.0" type="curve" name="CFFGT"/>
+      <point x="355" y="432" type="move" smooth="yes" name="VPSMP"/>
+      <point x="232" y="493" name="TEBOR"/>
+      <point x="96" y="460" name="AWARE"/>
+      <point x="96" y="361" type="curve" smooth="yes" name="IPECA"/>
+      <point x="96" y="229" name="POTME"/>
+      <point x="376" y="272" name="MARBN"/>
+      <point x="376" y="132" type="curve" smooth="yes" name="GOMRE"/>
+      <point x="376" y="29" name="TECUM"/>
+      <point x="225" y="3" name="HANRI"/>
+      <point x="94" y="76" type="curve" name="CFFGT"/>
     </contour>
   </outline>
 </glyph>
