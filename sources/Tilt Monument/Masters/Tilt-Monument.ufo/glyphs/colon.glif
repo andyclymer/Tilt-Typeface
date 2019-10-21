@@ -3,23 +3,15 @@
   <advance width="271"/>
   <unicode hex="003A"/>
   <outline>
-    <contour>
-      <point x="55" y="0" type="line"/>
-      <point x="216" y="0" type="line"/>
-      <point x="216" y="161" type="line"/>
-      <point x="55" y="161" type="line"/>
-    </contour>
-    <contour>
-      <point x="55.0" y="362.0" type="line"/>
-      <point x="216.0" y="362.0" type="line"/>
-      <point x="216.0" y="523.0" type="line"/>
-      <point x="55.0" y="523.0" type="line"/>
-    </contour>
+    <component base="period"/>
+    <component base="period" yOffset="362"/>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.7529,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

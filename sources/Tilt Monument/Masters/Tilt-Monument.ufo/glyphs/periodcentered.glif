@@ -3,17 +3,12 @@
   <advance width="291"/>
   <unicode hex="00B7"/>
   <outline>
-    <contour>
-      <point x="65" y="249" type="line"/>
-      <point x="226" y="249" type="line"/>
-      <point x="226" y="410" type="line"/>
-      <point x="65" y="410" type="line"/>
-    </contour>
+    <component base="period" xOffset="10" yOffset="249"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.7529,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

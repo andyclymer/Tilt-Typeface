@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="multiply" format="2">
+  <advance width="500"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="488" y="183" type="move" name="TEYSVNXH"/>
+      <point x="143" y="528" type="line" name="SQOKYOIE"/>
+    </contour>
+    <contour>
+      <point x="393" y="88" type="move" name="CEKOFHLO"/>
+      <point x="48" y="433" type="line" name="CUGKDZZI"/>
+    </contour>
+    <contour>
+      <point x="488" y="433" type="move" name="ZETUHYSA"/>
+      <point x="143" y="88" type="line" name="SOFMEHCU"/>
+    </contour>
+    <contour>
+      <point x="393" y="528" type="move" name="PLUEKKVX"/>
+      <point x="48" y="183" type="line" name="GDVXTESS"/>
+    </contour>
+    <contour>
+      <point x="440" y="136" type="move" name="TEYSVNXH"/>
+      <point x="96" y="480" type="line" name="SQOKYOIE"/>
+    </contour>
+    <contour>
+      <point x="440" y="480" type="move" name="ZETUHYSA"/>
+      <point x="96" y="136" type="line" name="SOFMEHCU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+    </dict>
+  </lib>
+</glyph>

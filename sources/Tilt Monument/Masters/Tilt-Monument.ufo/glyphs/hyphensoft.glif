@@ -3,17 +3,14 @@
   <advance width="340"/>
   <unicode hex="00AD"/>
   <outline>
-    <contour>
-      <point x="35" y="226" type="line"/>
-      <point x="305" y="286" type="line"/>
-      <point x="305" y="411" type="line"/>
-      <point x="35" y="351" type="line"/>
-    </contour>
+    <component base="hyphen"/>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.7529,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

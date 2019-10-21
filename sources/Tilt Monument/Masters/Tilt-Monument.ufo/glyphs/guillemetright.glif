@@ -4,38 +4,159 @@
   <unicode hex="00BB"/>
   <outline>
     <contour>
-      <point x="497" y="303" type="curve"/>
-      <point x="447" y="230"/>
-      <point x="398" y="137"/>
-      <point x="360" y="26" type="curve"/>
-      <point x="477" y="140"/>
-      <point x="599" y="223"/>
-      <point x="747" y="303" type="curve"/>
-      <point x="599" y="383"/>
-      <point x="477" y="466"/>
-      <point x="360" y="580" type="curve"/>
-      <point x="398" y="469"/>
-      <point x="447" y="376"/>
+      <point x="497.0" y="303.0" type="curve" name="HGPITHKY"/>
+      <point x="447.0" y="230.0" name="RIKOGYWG"/>
+      <point x="398.0" y="137.0" name="VSZZYIZQ"/>
+      <point x="360.0" y="26.0" type="curve" name="OQXQNJKY"/>
+      <point x="477.0" y="140.0" name="ISITODLY"/>
+      <point x="599.0" y="223.0" name="SAJDVNDR"/>
+      <point x="747.0" y="303.0" type="curve" name="LJNGMMLK"/>
+      <point x="599.0" y="383.0" name="YZFIYJYG"/>
+      <point x="477.0" y="466.0" name="BNOOKQLJ"/>
+      <point x="360.0" y="580.0" type="curve" name="YCASPZWM"/>
+      <point x="398.0" y="469.0" name="ZUINPTUF"/>
+      <point x="447.0" y="376.0" name="HJNMKDAH"/>
     </contour>
     <contour>
-      <point x="177" y="303" type="curve"/>
-      <point x="127" y="230"/>
-      <point x="78" y="137"/>
-      <point x="40" y="26" type="curve"/>
-      <point x="157" y="140"/>
-      <point x="279" y="223"/>
-      <point x="427" y="303" type="curve"/>
-      <point x="279" y="383"/>
-      <point x="157" y="466"/>
-      <point x="40" y="580" type="curve"/>
-      <point x="78" y="469"/>
-      <point x="127" y="376"/>
+      <point x="177.0" y="303.0" type="curve" name="BRDLILIO"/>
+      <point x="127.0" y="230.0" name="MAFIPQUP"/>
+      <point x="78.0" y="137.0" name="JBMEDFXR"/>
+      <point x="40.0" y="26.0" type="curve" name="TFJZQNKI"/>
+      <point x="157.0" y="140.0" name="THHAQTYL"/>
+      <point x="279.0" y="223.0" name="ZXCXVBGD"/>
+      <point x="427.0" y="303.0" type="curve" name="ZRFLDNNO"/>
+      <point x="279.0" y="383.0" name="GZTEZDBO"/>
+      <point x="157.0" y="466.0" name="JVJDHPIP"/>
+      <point x="40.0" y="580.0" type="curve" name="ETQKOVPT"/>
+      <point x="78.0" y="469.0" name="RPPURNXP"/>
+      <point x="127.0" y="376.0" name="WENOVOKR"/>
+    </contour>
+    <contour>
+      <point x="360.0" y="26.0" type="move" name="USFRIIDQ"/>
+      <point x="438.0" y="138.0" name="MXJMYGOB"/>
+      <point x="523.0" y="226.0" name="PIDYREUH"/>
+      <point x="622.0" y="303.0" type="curve" name="XFVDEHYM"/>
+      <point x="523.0" y="380.0" name="OPGHCQQZ"/>
+      <point x="438.0" y="468.0" name="WWPBCIID"/>
+      <point x="360.0" y="580.0" type="curve" name="RNPUBRYE"/>
+    </contour>
+    <contour>
+      <point x="497.0" y="303.0" type="move" name="BEYUIEYU"/>
+      <point x="622.0" y="303.0" type="line" name="ZHQKIGWZ"/>
+      <point x="747.0" y="303.0" type="line" name="EEAYBLZO"/>
+    </contour>
+    <contour>
+      <point x="40.0" y="26.0" type="move" name="JJHWDRJY"/>
+      <point x="118.0" y="138.0" name="UMFDQUJM"/>
+      <point x="203.0" y="226.0" name="NBJXTDTL"/>
+      <point x="302.0" y="303.0" type="curve" name="FYUVCZHA"/>
+      <point x="203.0" y="380.0" name="TCYUDNQO"/>
+      <point x="118.0" y="468.0" name="TZHVNBBU"/>
+      <point x="40.0" y="580.0" type="curve" name="JEOFKJKQ"/>
+    </contour>
+    <contour>
+      <point x="177.0" y="303.0" type="move" name="HOZCWOLS"/>
+      <point x="302.0" y="303.0" type="line" name="OYFPIRYA"/>
+      <point x="427.0" y="303.0" type="line" name="OTQWZOHN"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BEYUIEYU</key>
+        <integer>0</integer>
+        <key>BNOOKQLJ</key>
+        <integer>0</integer>
+        <key>BRDLILIO</key>
+        <integer>0</integer>
+        <key>EEAYBLZO</key>
+        <integer>0</integer>
+        <key>ETQKOVPT</key>
+        <integer>0</integer>
+        <key>FYUVCZHA</key>
+        <integer>100</integer>
+        <key>GZTEZDBO</key>
+        <integer>0</integer>
+        <key>HGPITHKY</key>
+        <integer>0</integer>
+        <key>HJNMKDAH</key>
+        <integer>0</integer>
+        <key>HOZCWOLS</key>
+        <integer>0</integer>
+        <key>ISITODLY</key>
+        <integer>0</integer>
+        <key>JBMEDFXR</key>
+        <integer>0</integer>
+        <key>JEOFKJKQ</key>
+        <integer>0</integer>
+        <key>JJHWDRJY</key>
+        <integer>0</integer>
+        <key>JVJDHPIP</key>
+        <integer>0</integer>
+        <key>LJNGMMLK</key>
+        <integer>0</integer>
+        <key>MAFIPQUP</key>
+        <integer>0</integer>
+        <key>MXJMYGOB</key>
+        <integer>43</integer>
+        <key>NBJXTDTL</key>
+        <integer>75</integer>
+        <key>OPGHCQQZ</key>
+        <integer>72</integer>
+        <key>OQXQNJKY</key>
+        <integer>0</integer>
+        <key>OTQWZOHN</key>
+        <integer>0</integer>
+        <key>OYFPIRYA</key>
+        <integer>100</integer>
+        <key>PIDYREUH</key>
+        <integer>75</integer>
+        <key>RIKOGYWG</key>
+        <integer>0</integer>
+        <key>RNPUBRYE</key>
+        <integer>0</integer>
+        <key>RPPURNXP</key>
+        <integer>0</integer>
+        <key>SAJDVNDR</key>
+        <integer>0</integer>
+        <key>TCYUDNQO</key>
+        <integer>72</integer>
+        <key>TFJZQNKI</key>
+        <integer>0</integer>
+        <key>THHAQTYL</key>
+        <integer>0</integer>
+        <key>TZHVNBBU</key>
+        <integer>40</integer>
+        <key>UMFDQUJM</key>
+        <integer>43</integer>
+        <key>USFRIIDQ</key>
+        <integer>0</integer>
+        <key>VSZZYIZQ</key>
+        <integer>0</integer>
+        <key>WENOVOKR</key>
+        <integer>0</integer>
+        <key>WWPBCIID</key>
+        <integer>40</integer>
+        <key>XFVDEHYM</key>
+        <integer>100</integer>
+        <key>YCASPZWM</key>
+        <integer>0</integer>
+        <key>YZFIYJYG</key>
+        <integer>0</integer>
+        <key>ZHQKIGWZ</key>
+        <integer>100</integer>
+        <key>ZRFLDNNO</key>
+        <integer>0</integer>
+        <key>ZUINPTUF</key>
+        <integer>0</integer>
+        <key>ZXCXVBGD</key>
+        <integer>0</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>
