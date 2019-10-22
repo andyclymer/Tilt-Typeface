@@ -6,10 +6,27 @@
   <anchor x="154" y="517" name="center"/>
   <outline>
     <contour>
-      <point x="80.0" y="584.0" type="line"/>
-      <point x="189.0" y="790.0" type="line"/>
-      <point x="348.0" y="790.0" type="line"/>
-      <point x="214.0" y="584.0" type="line"/>
+      <point x="80.0" y="584.0" type="line" name="NWYKDVHV"/>
+      <point x="189.0" y="790.0" type="line" name="FTRECJPK"/>
+      <point x="348.0" y="790.0" type="line" name="DZCSHSSQ"/>
+      <point x="214.0" y="584.0" type="line" name="EPLTSOKD"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>DZCSHSSQ</key>
+        <integer>0</integer>
+        <key>EPLTSOKD</key>
+        <integer>0</integer>
+        <key>FTRECJPK</key>
+        <integer>0</integer>
+        <key>NWYKDVHV</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
