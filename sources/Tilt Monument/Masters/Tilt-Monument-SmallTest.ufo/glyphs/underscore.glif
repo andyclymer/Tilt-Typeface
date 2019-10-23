@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
+  <advance width="615"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="10.0" y="-125.0" type="line" name="TDEYOHRZ"/>
+      <point x="605.0" y="-125.0" type="line" name="KRNRSCDO"/>
+      <point x="605.0" y="0.0" type="line" name="LOSMGWSV"/>
+      <point x="10.0" y="0.0" type="line" name="HUDXPVHC"/>
+    </contour>
+    <contour>
+      <point x="543.0" y="-63.0" type="move" name="MVURHHRW"/>
+      <point x="72.0" y="-63.0" type="line" name="WNAQRIOL"/>
+    </contour>
+    <contour>
+      <point x="10.0" y="-125.0" type="move" name="UFVBJNST"/>
+      <point x="72.0" y="-63.0" type="line" name="OTPCADVO"/>
+      <point x="10.0" y="0.0" type="line" name="TMKRXCGA"/>
+    </contour>
+    <contour>
+      <point x="605.0" y="0.0" type="move" name="LSEOJCJB"/>
+      <point x="543.0" y="-63.0" type="line" name="VDMDVTLL"/>
+      <point x="605.0" y="-125.0" type="line" name="VAZHSFHT"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BYPNENFO</key>
+        <integer>0</integer>
+        <key>HUDXPVHC</key>
+        <integer>0</integer>
+        <key>JDGOJMVJ</key>
+        <integer>0</integer>
+        <key>KRNRSCDO</key>
+        <integer>0</integer>
+        <key>LOSMGWSV</key>
+        <integer>0</integer>
+        <key>LSEOJCJB</key>
+        <integer>0</integer>
+        <key>MVURHHRW</key>
+        <integer>100</integer>
+        <key>OTPCADVO</key>
+        <integer>100</integer>
+        <key>TDEYOHRZ</key>
+        <integer>0</integer>
+        <key>TMKRXCGA</key>
+        <integer>0</integer>
+        <key>UFVBJNST</key>
+        <integer>0</integer>
+        <key>VAZHSFHT</key>
+        <integer>0</integer>
+        <key>VDMDVTLL</key>
+        <integer>100</integer>
+        <key>WNAQRIOL</key>
+        <integer>100</integer>
+        <key>XHMFARPV</key>
+        <integer>0</integer>
+        <key>XSHOYYSM</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

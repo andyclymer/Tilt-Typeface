@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar" format="2">
+  <advance width="385"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="123.0" y="-75.0" type="line" name="UNQXKPWR"/>
+      <point x="262.0" y="-75.0" type="line" name="QDYTJOAU"/>
+      <point x="262.0" y="750.0" type="line" name="IGYTMUNT"/>
+      <point x="123.0" y="750.0" type="line" name="RFSRFQQT"/>
+    </contour>
+    <contour>
+      <point x="192.0" y="688.0" type="move" name="RDLEELQE"/>
+      <point x="192.0" y="-13.0" type="line" name="RRPNDCBP"/>
+    </contour>
+    <contour>
+      <point x="262.0" y="-75.0" type="move" name="JRLMZRMB"/>
+      <point x="192.0" y="-13.0" type="line" name="VWUMAPUP"/>
+      <point x="123.0" y="-75.0" type="line" name="XJBUXPFQ"/>
+    </contour>
+    <contour>
+      <point x="123.0" y="750.0" type="move" name="ECUUNSVW"/>
+      <point x="192.0" y="688.0" type="line" name="WZGBHWZC"/>
+      <point x="262.0" y="750.0" type="line" name="SFLOLYUF"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ECUUNSVW</key>
+        <integer>0</integer>
+        <key>IGYTMUNT</key>
+        <integer>0</integer>
+        <key>JRLMZRMB</key>
+        <integer>0</integer>
+        <key>QDYTJOAU</key>
+        <integer>0</integer>
+        <key>RDLEELQE</key>
+        <integer>100</integer>
+        <key>RFSRFQQT</key>
+        <integer>0</integer>
+        <key>RRPNDCBP</key>
+        <integer>100</integer>
+        <key>SFLOLYUF</key>
+        <integer>0</integer>
+        <key>UNQXKPWR</key>
+        <integer>0</integer>
+        <key>VWUMAPUP</key>
+        <integer>100</integer>
+        <key>WZGBHWZC</key>
+        <integer>100</integer>
+        <key>XJBUXPFQ</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

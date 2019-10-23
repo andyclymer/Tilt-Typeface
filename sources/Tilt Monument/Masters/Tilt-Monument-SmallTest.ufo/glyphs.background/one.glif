@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one" format="2">
+  <advance width="500"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="28" y="468" type="move" name="TEXXTHOL"/>
+      <point x="78" y="509" name="ROMCELVN"/>
+      <point x="132" y="533" name="EALBUSYM"/>
+      <point x="255" y="550" type="curve" name="VOUOYHFW"/>
+    </contour>
+    <contour>
+      <point x="28" y="630" type="move" name="FKVUIQLE"/>
+      <point x="322" y="693" type="line" name="PMWJIXWM"/>
+    </contour>
+    <contour>
+      <point x="125" y="0" type="move" name="VHDBFDAY"/>
+      <point x="154" y="43" name="ISQJXUGF"/>
+      <point x="162" y="95" name="UOOPHTCU"/>
+      <point x="162" y="349" type="curve" smooth="yes" name="WFHZYDOJ"/>
+      <point x="162" y="436" name="TVTNPWYQ"/>
+      <point x="161" y="498" name="OZSYBEOJ"/>
+      <point x="159" y="544" type="curve" name="DNFJFOGM"/>
+    </contour>
+    <contour>
+      <point x="332" y="0" type="move" name="SZQHNGNG"/>
+      <point x="312" y="40" name="KIVNYYGM"/>
+      <point x="305" y="95" name="QZOPNOAV"/>
+      <point x="305" y="349" type="curve" smooth="yes" name="UVQFHYMV"/>
+      <point x="305" y="586" name="TRNDVWJR"/>
+      <point x="310" y="636" name="AUITXXZK"/>
+      <point x="322" y="693" type="curve" name="PMWJIXWM"/>
+    </contour>
+    <contour>
+      <point x="28" y="549" type="move" name="TEXXTHOL"/>
+      <point x="53" y="570" name="ROMCELVN"/>
+      <point x="227" y="613" name="EALBUSYM"/>
+      <point x="288" y="622" type="curve" name="VOUOYHFW"/>
+    </contour>
+    <contour>
+      <point x="228" y="0" type="move" name="VHDBFDAY"/>
+      <point x="233" y="42" name="ISQJXUGF"/>
+      <point x="234" y="95" name="UOOPHTCU"/>
+      <point x="234" y="349" type="curve" smooth="yes" name="WFHZYDOJ"/>
+      <point x="234" y="511" name="TVTNPWYQ"/>
+      <point x="236" y="567" name="OZSYBEOJ"/>
+      <point x="240" y="618" type="curve" name="DNFJFOGM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+    </dict>
+  </lib>
+</glyph>

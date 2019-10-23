@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="500"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="194.0" y="584.0" type="move" name="PKIRBBSQ"/>
+      <point x="60.0" y="790.0" type="line" name="QZMUOMHG"/>
+    </contour>
+    <contour>
+      <point x="328.0" y="584.0" type="move" name="LHDKKCYJ"/>
+      <point x="219.0" y="790.0" type="line" name="NMCUMUMO"/>
+    </contour>
+    <contour>
+      <point x="261" y="584" type="move" name="PKIRBBSQ"/>
+      <point x="140" y="790" type="line" name="QZMUOMHG"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+    </dict>
+  </lib>
+</glyph>

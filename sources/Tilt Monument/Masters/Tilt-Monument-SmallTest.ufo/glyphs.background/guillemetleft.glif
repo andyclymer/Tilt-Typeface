@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetleft" format="2">
+  <advance width="500"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="392" y="580" type="move" name="KHBZRJID"/>
+      <point x="275" y="466" name="HNQYUZPL"/>
+      <point x="153" y="383" name="WOBCQXRJ"/>
+      <point x="5" y="303" type="curve" name="YBHRWSGO"/>
+      <point x="153.0" y="223.0" name="LFVFWHPI"/>
+      <point x="275.0" y="140.0" name="EHXIYQQP"/>
+      <point x="392.0" y="26.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="392" y="580" type="move"/>
+      <point x="354" y="469" name="VSZZYIZQ"/>
+      <point x="305" y="376" name="RIKOGYWG"/>
+      <point x="255.0" y="303.0" type="curve" name="HGPITHKY"/>
+      <point x="305.0" y="230.0" name="HJNMKDAH"/>
+      <point x="354.0" y="137.0" name="ZUINPTUF"/>
+      <point x="392.0" y="26.0" type="curve" name="YCASPZWM"/>
+    </contour>
+    <contour>
+      <point x="712" y="580" type="move" name="IZDVERFI"/>
+      <point x="595" y="466" name="RDQNENZV"/>
+      <point x="473" y="383" name="JFUXIUUF"/>
+      <point x="325" y="303" type="curve" name="BNVWJYJB"/>
+      <point x="473.0" y="223.0" name="YLRKASJW"/>
+      <point x="595.0" y="140.0" name="EMMLCQYQ"/>
+      <point x="712.0" y="26.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="712" y="580" type="move"/>
+      <point x="674" y="469" name="JBMEDFXR"/>
+      <point x="625" y="376" name="MAFIPQUP"/>
+      <point x="575.0" y="303.0" type="curve" name="BRDLILIO"/>
+      <point x="625.0" y="230.0" name="WENOVOKR"/>
+      <point x="674.0" y="137.0" name="RPPURNXP"/>
+      <point x="712.0" y="26.0" type="curve" name="ETQKOVPT"/>
+    </contour>
+    <contour>
+      <point x="392" y="580" type="move" name="KHBZRJID"/>
+      <point x="314" y="468" name="HNQYUZPL"/>
+      <point x="229" y="380" name="WOBCQXRJ"/>
+      <point x="130" y="303" type="curve" name="YBHRWSGO"/>
+      <point x="229" y="226" name="LFVFWHPI"/>
+      <point x="314" y="138" name="EHXIYQQP"/>
+      <point x="392" y="26" type="curve"/>
+    </contour>
+    <contour>
+      <point x="712" y="580" type="move" name="IZDVERFI"/>
+      <point x="634" y="468" name="RDQNENZV"/>
+      <point x="549" y="380" name="JFUXIUUF"/>
+      <point x="450" y="303" type="curve" name="BNVWJYJB"/>
+      <point x="549" y="226" name="YLRKASJW"/>
+      <point x="634" y="138" name="EMMLCQYQ"/>
+      <point x="712" y="26" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+    </dict>
+  </lib>
+</glyph>

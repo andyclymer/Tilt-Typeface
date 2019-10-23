@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="500"/>
+  <unicode hex="00B8"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="208" y="0" name="center"/>
+  <outline>
+    <contour>
+      <point x="238.0" y="45.0" type="curve" name="ZHUTZGMT"/>
+      <point x="122.0" y="36.0" type="line" name="DKOKFVVI"/>
+      <point x="122.0" y="-115.0" name="GPNHANIF"/>
+      <point x="220.0" y="-80.0" name="RRUGPFXW"/>
+      <point x="220.0" y="-137.0" type="curve" smooth="yes" name="PFFSGILJ"/>
+      <point x="220.0" y="-182.0" name="LZMOVIVN"/>
+      <point x="149.0" y="-183.0" name="MZQUQBGZ"/>
+      <point x="60.0" y="-119.0" type="curve" name="XXKZCYMM"/>
+      <point x="60.0" y="-245.0" type="line" name="XSATCYWE"/>
+      <point x="235.0" y="-296.0" name="LNWDKNFV"/>
+      <point x="355.9999999999999" y="-248.0" name="IAWSXHWH"/>
+      <point x="356.0" y="-134.0" type="curve" smooth="yes" name="IKAKEGEY"/>
+      <point x="356.0000000000001" y="-18.0" name="GYENAICE"/>
+      <point x="228.0" y="-50.0" name="JZUAYTPP"/>
+    </contour>
+    <contour>
+      <point x="180.0" y="40.0" type="move" name="KUAJFBNR"/>
+      <point x="175.0" y="-82.0" name="LHNMOKXI"/>
+      <point x="288.0" y="-49.0" name="RDITOQIT"/>
+      <point x="288.0" y="-136.0" type="curve" smooth="yes" name="NYXGSXJE"/>
+      <point x="288.0" y="-202.0" name="BTZWJVHD"/>
+      <point x="221.0" y="-230.0" name="TMPTKFWG"/>
+      <point x="122.0" y="-204.0" type="curve" smooth="yes" name="KTXVQYFV"/>
+    </contour>
+    <contour>
+      <point x="60.0" y="-245.0" type="move" name="YKSBPDZL"/>
+      <point x="122.0" y="-204.0" type="line" name="SJSBMLGJ"/>
+      <point x="60.0" y="-119.0" type="line" name="EVCDMOCG"/>
+    </contour>
+  </outline>
+</glyph>
