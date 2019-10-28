@@ -1,65 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="U" format="2">
-  <advance width="688"/>
+  <advance width="668"/>
   <unicode hex="0055"/>
   <outline>
     <contour>
-      <point x="130" y="640" type="move" name="BPFOYWGG"/>
-      <point x="130.0" y="622" name="LMEBGKIW"/>
-      <point x="130.0" y="583.0" name="CXQWTVNZ"/>
-      <point x="130" y="527" type="curve" smooth="yes" name="KYFRHQLN"/>
-      <point x="130" y="273" type="line" smooth="yes" name="ONWBETIN"/>
-      <point x="130" y="138" name="BXLHDXHC"/>
-      <point x="220" y="40" name="UPTHJPPV"/>
-      <point x="345" y="40" type="curve" smooth="yes" name="KLAVURME"/>
-      <point x="474" y="40" name="KGMXBOHH"/>
-      <point x="558" y="138" name="GFLOEUUB"/>
-      <point x="558" y="273" type="curve" smooth="yes" name="QNIGJSQC"/>
-      <point x="558" y="527" type="line" smooth="yes" name="JQXHSJRK"/>
-      <point x="558.0" y="581.0" name="DUZAEMHY"/>
-      <point x="558.0" y="619" name="QTUXAYXI"/>
-      <point x="558" y="640" type="curve" name="HHGPHJJV"/>
+      <point x="165" y="640" type="curve" smooth="yes"/>
+      <point x="165" y="268" type="line" smooth="yes"/>
+      <point x="165" y="161"/>
+      <point x="234" y="85"/>
+      <point x="335" y="85" type="curve" smooth="yes"/>
+      <point x="439" y="85"/>
+      <point x="503" y="161"/>
+      <point x="503" y="268" type="curve" smooth="yes"/>
+      <point x="503" y="640" type="line" smooth="yes"/>
+      <point x="503.0" y="667.0"/>
+      <point x="526" y="690"/>
+      <point x="553" y="690" type="curve" smooth="yes"/>
+      <point x="580" y="690"/>
+      <point x="603.0" y="667.0"/>
+      <point x="603" y="640" type="curve" smooth="yes"/>
+      <point x="603" y="268" type="line" smooth="yes"/>
+      <point x="603" y="105"/>
+      <point x="494" y="-15"/>
+      <point x="335" y="-15" type="curve" smooth="yes"/>
+      <point x="180" y="-15"/>
+      <point x="65" y="105"/>
+      <point x="65" y="268" type="curve" smooth="yes"/>
+      <point x="65" y="640" type="line" smooth="yes"/>
+      <point x="65.0" y="667.0"/>
+      <point x="88" y="690"/>
+      <point x="115" y="690" type="curve" smooth="yes"/>
+      <point x="142" y="690"/>
+      <point x="165.0" y="667.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
-      <key>com.andyclymer.zPosition</key>
-      <dict>
-        <key>BPFOYWGG</key>
-        <integer>116</integer>
-        <key>BXLHDXHC</key>
-        <integer>165</integer>
-        <key>CXQWTVNZ</key>
-        <integer>148</integer>
-        <key>DUZAEMHY</key>
-        <integer>148</integer>
-        <key>GFLOEUUB</key>
-        <integer>165</integer>
-        <key>HHGPHJJV</key>
-        <integer>119</integer>
-        <key>JQXHSJRK</key>
-        <integer>150</integer>
-        <key>KGMXBOHH</key>
-        <integer>130</integer>
-        <key>KLAVURME</key>
-        <integer>130</integer>
-        <key>KYFRHQLN</key>
-        <integer>150</integer>
-        <key>LMEBGKIW</key>
-        <integer>143</integer>
-        <key>ONWBETIN</key>
-        <integer>160</integer>
-        <key>QNIGJSQC</key>
-        <integer>160</integer>
-        <key>QTUXAYXI</key>
-        <integer>145</integer>
-        <key>UPTHJPPV</key>
-        <integer>130</integer>
-      </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.5725,0.9529,1</string>
+      <string>0.7267,0.7266,0.7266,1</string>
     </dict>
   </lib>
 </glyph>

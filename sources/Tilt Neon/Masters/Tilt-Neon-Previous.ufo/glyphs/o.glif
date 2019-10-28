@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="640"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="374" y="46" type="move" name="IXKMEQRY"/>
+      <point x="416" y="57" name="IHWSCILT"/>
+      <point x="459.0" y="79.0" name="JGCEISZY"/>
+      <point x="491" y="118" type="curve" smooth="yes" name="LXJHMIMB"/>
+      <point x="524" y="159" name="NKKFZIYL"/>
+      <point x="540" y="211" name="YOFTHOXB"/>
+      <point x="540" y="269" type="curve" smooth="yes" name="GXLFWLPS"/>
+      <point x="540" y="399" name="KGJSEZLX"/>
+      <point x="447" y="497" name="HJDMSMJU"/>
+      <point x="320" y="497" type="curve" smooth="yes" name="MMOZYMMC"/>
+      <point x="193" y="497" name="QZMUMQME"/>
+      <point x="100" y="402" name="BTWLWOGG"/>
+      <point x="100" y="269" type="curve" smooth="yes" name="KYEGYOSY"/>
+      <point x="100" y="211" name="LQNJOPQA"/>
+      <point x="120" y="158" name="PHCPIONB"/>
+      <point x="150" y="118" type="curve" smooth="yes" name="GJDCJZWW"/>
+      <point x="178" y="83" name="MJONKVNW"/>
+      <point x="226" y="57" name="LZQEHQRQ"/>
+      <point x="265" y="46" type="curve" name="WSQUGJLB"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BTWLWOGG</key>
+        <integer>150</integer>
+        <key>GJDCJZWW</key>
+        <integer>150</integer>
+        <key>GXLFWLPS</key>
+        <integer>150</integer>
+        <key>HJDMSMJU</key>
+        <integer>150</integer>
+        <key>IHWSCILT</key>
+        <integer>144</integer>
+        <key>IXKMEQRY</key>
+        <integer>120</integer>
+        <key>JGCEISZY</key>
+        <integer>150</integer>
+        <key>KGJSEZLX</key>
+        <integer>150</integer>
+        <key>KYEGYOSY</key>
+        <integer>150</integer>
+        <key>LQNJOPQA</key>
+        <integer>150</integer>
+        <key>LXJHMIMB</key>
+        <integer>150</integer>
+        <key>LZQEHQRQ</key>
+        <integer>146</integer>
+        <key>MJONKVNW</key>
+        <integer>152</integer>
+        <key>MMOZYMMC</key>
+        <integer>150</integer>
+        <key>NKKFZIYL</key>
+        <integer>150</integer>
+        <key>PHCPIONB</key>
+        <integer>148</integer>
+        <key>QZMUMQME</key>
+        <integer>150</integer>
+        <key>WSQUGJLB</key>
+        <integer>121</integer>
+        <key>YOFTHOXB</key>
+        <integer>150</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

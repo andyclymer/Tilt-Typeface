@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="257"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="127" y="40" type="move" name="TFTROAJX"/>
+      <point x="127.0" y="62" name="YHALBMDU"/>
+      <point x="127.0" y="95" name="RAJKOGSO"/>
+      <point x="127" y="143" type="curve" smooth="yes" name="DKGCKAMT"/>
+      <point x="127" y="397" type="line" smooth="yes" name="MDXXGJQU"/>
+      <point x="127" y="455" name="REITMROZ"/>
+      <point x="127.0" y="482" name="DRMWMVRP"/>
+      <point x="127" y="497" type="curve" name="VYQRBFQS"/>
+    </contour>
+    <contour>
+      <point x="127.0" y="652.0" type="move" name="LHRMIDZR"/>
+      <point x="141.0" y="660" name="LJOVGMGQ"/>
+      <point x="114.0" y="704" name="OOSNCBZP"/>
+      <point x="127.0" y="737.0" type="curve" name="XWEVPJQM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>DKGCKAMT</key>
+        <integer>150</integer>
+        <key>DRMWMVRP</key>
+        <integer>144</integer>
+        <key>LHRMIDZR</key>
+        <integer>115</integer>
+        <key>LJOVGMGQ</key>
+        <real>164.0</real>
+        <key>MDXXGJQU</key>
+        <integer>150</integer>
+        <key>OOSNCBZP</key>
+        <real>152.0</real>
+        <key>RAJKOGSO</key>
+        <integer>150</integer>
+        <key>REITMROZ</key>
+        <integer>150</integer>
+        <key>TFTROAJX</key>
+        <integer>106</integer>
+        <key>VYQRBFQS</key>
+        <integer>120</integer>
+        <key>XWEVPJQM</key>
+        <integer>144</integer>
+        <key>YHALBMDU</key>
+        <integer>130</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

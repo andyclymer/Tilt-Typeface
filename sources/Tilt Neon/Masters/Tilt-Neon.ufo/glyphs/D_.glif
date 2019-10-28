@@ -1,74 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="D" format="2">
-  <advance width="686"/>
+  <advance width="660"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="135" y="40" type="move" name="MDLDMKUN"/>
-      <point x="135" y="64" name="MJGSUUDR"/>
-      <point x="135" y="86" name="PCPDAESW"/>
-      <point x="135" y="146" type="curve" name="QNRCQVYW"/>
-      <point x="135" y="551" type="line" smooth="yes" name="FCWCDANJ"/>
-      <point x="135" y="609" name="CKYPATGS"/>
-      <point x="167" y="640.0" name="MLIODYUB"/>
-      <point x="225" y="640" type="curve" smooth="yes" name="OFPYJGUR"/>
-      <point x="325" y="640" type="line" smooth="yes" name="QVUURJCH"/>
-      <point x="479.0" y="640.0" name="HBDOPAJS"/>
-      <point x="586" y="519" name="TFPHORKC"/>
-      <point x="586" y="341" type="curve" smooth="yes" name="OTVLSBFB"/>
-      <point x="586" y="162" name="YOSAQRNK"/>
-      <point x="481" y="40" name="ATFDNNQW"/>
-      <point x="319" y="40" type="curve" smooth="yes" name="IHPAWODK"/>
-      <point x="279" y="40" name="TDEGPSFL"/>
-      <point x="260" y="40" name="UXOXQDMN"/>
-      <point x="241" y="40" type="curve" name="VVIQBWEV"/>
+      <point x="175.0" y="44.99999999999999" type="line"/>
+      <point x="125.00000000000001" y="95.0" type="line"/>
+      <point x="303.0" y="95.0" type="line" smooth="yes"/>
+      <point x="437.9440489124611" y="95.0"/>
+      <point x="520.0" y="197.72607152504136"/>
+      <point x="520.0" y="341.0" type="curve" smooth="yes"/>
+      <point x="520.0" y="483.2985351884253"/>
+      <point x="435.9769834230203" y="585.0"/>
+      <point x="302.0" y="585.0" type="curve" smooth="yes"/>
+      <point x="125.0" y="585.0" type="line"/>
+      <point x="175.0" y="635.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="75.0" y="45.00000000000001" type="curve" smooth="yes"/>
+      <point x="75.0" y="635.0" type="line" smooth="yes"/>
+      <point x="75.0" y="662.6142374915397"/>
+      <point x="97.38576250846033" y="685.0"/>
+      <point x="125.0" y="685.0" type="curve" smooth="yes"/>
+      <point x="302.0" y="685.0" type="line" smooth="yes"/>
+      <point x="489.90772551807027" y="685.0"/>
+      <point x="620.0" y="540.5790128173295"/>
+      <point x="620.0" y="341.0" type="curve" smooth="yes"/>
+      <point x="620.0" y="140.35418136206377"/>
+      <point x="491.98036406596316" y="-5.0"/>
+      <point x="303.0" y="-5.0" type="curve" smooth="yes"/>
+      <point x="124.99999999999999" y="-5.0" type="line" smooth="yes"/>
+      <point x="97.38576250846032" y="-4.999999999999993"/>
+      <point x="75.0" y="17.385762508460335"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
-      <key>com.andyclymer.zPosition</key>
-      <dict>
-        <key>ATFDNNQW</key>
-        <integer>150</integer>
-        <key>CKYPATGS</key>
-        <integer>150</integer>
-        <key>FCWCDANJ</key>
-        <integer>150</integer>
-        <key>HBDOPAJS</key>
-        <integer>150</integer>
-        <key>IHPAWODK</key>
-        <integer>150</integer>
-        <key>MDLDMKUN</key>
-        <integer>119</integer>
-        <key>MJGSUUDR</key>
-        <integer>140</integer>
-        <key>MLIODYUB</key>
-        <integer>150</integer>
-        <key>OFPYJGUR</key>
-        <integer>150</integer>
-        <key>OTVLSBFB</key>
-        <integer>150</integer>
-        <key>PCPDAESW</key>
-        <integer>150</integer>
-        <key>QNRCQVYW</key>
-        <integer>150</integer>
-        <key>QVUURJCH</key>
-        <integer>150</integer>
-        <key>TDEGPSFL</key>
-        <integer>150</integer>
-        <key>TFPHORKC</key>
-        <integer>150</integer>
-        <key>UXOXQDMN</key>
-        <integer>141</integer>
-        <key>VVIQBWEV</key>
-        <integer>120</integer>
-        <key>YOSAQRNK</key>
-        <integer>150</integer>
-      </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.5725,0.9529,1</string>
+      <string>0.7267,0.7266,0.7266,1</string>
     </dict>
   </lib>
 </glyph>
