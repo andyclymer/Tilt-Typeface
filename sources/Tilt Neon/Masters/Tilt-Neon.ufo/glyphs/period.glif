@@ -4,30 +4,29 @@
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="133" y="-9" type="curve" smooth="yes"/>
-      <point x="42" y="4"/>
-      <point x="42" y="120"/>
-      <point x="133" y="133" type="curve" smooth="yes"/>
-      <point x="160" y="137"/>
-      <point x="186" y="118"/>
-      <point x="190" y="91" type="curve" smooth="yes"/>
-      <point x="194" y="65"/>
-      <point x="174" y="38"/>
-      <point x="147" y="35" type="curve" smooth="yes"/>
-      <point x="145" y="34"/>
-      <point x="145" y="90"/>
-      <point x="147" y="89" type="curve" smooth="yes"/>
-      <point x="174" y="86"/>
-      <point x="194" y="59"/>
-      <point x="190" y="33" type="curve" smooth="yes"/>
-      <point x="186" y="6"/>
-      <point x="160" y="-13"/>
+      <point x="134.0" y="36.0" type="move" name="YACKK"/>
+      <point x="134.0" y="50" name="LUHLITUI"/>
+      <point x="134.0" y="75" name="HVHUUJLY"/>
+      <point x="134.0" y="90.0" type="curve" name="FREEZ"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>FREEZ</key>
+        <integer>120</integer>
+        <key>HVHUUJLY</key>
+        <integer>130</integer>
+        <key>LUHLITUI</key>
+        <integer>130</integer>
+        <key>YACKK</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

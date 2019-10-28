@@ -4,40 +4,79 @@
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="175.0" y="44.99999999999999" type="line"/>
-      <point x="125.00000000000001" y="95.0" type="line"/>
-      <point x="303.0" y="95.0" type="line" smooth="yes"/>
-      <point x="437.9440489124611" y="95.0"/>
-      <point x="520.0" y="197.72607152504136"/>
-      <point x="520.0" y="341.0" type="curve" smooth="yes"/>
-      <point x="520.0" y="483.2985351884253"/>
-      <point x="435.9769834230203" y="585.0"/>
-      <point x="302.0" y="585.0" type="curve" smooth="yes"/>
-      <point x="125.0" y="585.0" type="line"/>
-      <point x="175.0" y="635.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="75.0" y="45.00000000000001" type="curve" smooth="yes"/>
-      <point x="75.0" y="635.0" type="line" smooth="yes"/>
-      <point x="75.0" y="662.6142374915397"/>
-      <point x="97.38576250846033" y="685.0"/>
-      <point x="125.0" y="685.0" type="curve" smooth="yes"/>
-      <point x="302.0" y="685.0" type="line" smooth="yes"/>
-      <point x="489.90772551807027" y="685.0"/>
-      <point x="620.0" y="540.5790128173295"/>
-      <point x="620.0" y="341.0" type="curve" smooth="yes"/>
-      <point x="620.0" y="140.35418136206377"/>
-      <point x="491.98036406596316" y="-5.0"/>
-      <point x="303.0" y="-5.0" type="curve" smooth="yes"/>
-      <point x="124.99999999999999" y="-5.0" type="line" smooth="yes"/>
-      <point x="97.38576250846032" y="-4.999999999999993"/>
-      <point x="75.0" y="17.385762508460335"/>
+      <point x="125" y="45" type="move" name="JITUK"/>
+      <point x="125.0" y="75" name="EKNTRWDS"/>
+      <point x="125.0" y="104.0" name="MOCXGURJ"/>
+      <point x="125.0" y="197" type="curve" smooth="yes" name="UVBMDKTV"/>
+      <point x="125" y="496" type="line" smooth="yes" name="SRTNDESM"/>
+      <point x="125.0" y="603" name="YYCWABIA"/>
+      <point x="132" y="635.0" name="XUSKMPWF"/>
+      <point x="173" y="635" type="curve" smooth="yes" name="UFVOKDIO"/>
+      <point x="221" y="635" name="GBFZOIAS"/>
+      <point x="240" y="635" name="DDRRSILD"/>
+      <point x="312" y="635" type="curve" smooth="yes" name="RENLY"/>
+      <point x="483" y="635" name="NOOKS"/>
+      <point x="570" y="512" name="BLUJA"/>
+      <point x="570" y="341" type="curve" smooth="yes" name="BONEE"/>
+      <point x="570" y="169" name="PFILA"/>
+      <point x="465" y="45" name="MAMUE"/>
+      <point x="303" y="45" type="curve" smooth="yes" name="MAAAX"/>
+      <point x="277" y="45" name="YDWCYDHF"/>
+      <point x="251" y="45" name="WWUDJACC"/>
+      <point x="225" y="45" type="curve" name="JDDHPZTT"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BLUJA</key>
+        <integer>125</integer>
+        <key>BONEE</key>
+        <integer>125</integer>
+        <key>DDRRSILD</key>
+        <integer>91</integer>
+        <key>EKNTRWDS</key>
+        <integer>110</integer>
+        <key>GBFZOIAS</key>
+        <integer>63</integer>
+        <key>IPTAQ</key>
+        <integer>120</integer>
+        <key>JDDHPZTT</key>
+        <integer>90</integer>
+        <key>JITUK</key>
+        <integer>90</integer>
+        <key>MAAAX</key>
+        <integer>120</integer>
+        <key>MAMUE</key>
+        <integer>137</integer>
+        <key>MOCXGURJ</key>
+        <integer>120</integer>
+        <key>NOOKS</key>
+        <integer>189</integer>
+        <key>PFILA</key>
+        <integer>125</integer>
+        <key>RENLY</key>
+        <integer>120</integer>
+        <key>SRTNDESM</key>
+        <integer>120</integer>
+        <key>UFVOKDIO</key>
+        <real>63.0</real>
+        <key>UVBMDKTV</key>
+        <integer>120</integer>
+        <key>WWUDJACC</key>
+        <integer>107</integer>
+        <key>XUSKMPWF</key>
+        <integer>63</integer>
+        <key>YDWCYDHF</key>
+        <integer>117</integer>
+        <key>YYCWABIA</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>
