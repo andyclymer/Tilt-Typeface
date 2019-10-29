@@ -4,48 +4,343 @@
   <unicode hex="0033"/>
   <outline>
     <contour>
-      <point x="108" y="110" type="curve" smooth="yes"/>
-      <point x="222" y="62"/>
-      <point x="360" y="82"/>
-      <point x="360" y="190" type="curve" smooth="yes"/>
-      <point x="360" y="274"/>
-      <point x="292" y="307"/>
-      <point x="155" y="305" type="curve" smooth="yes"/>
-      <point x="111" y="304"/>
-      <point x="88" y="355"/>
-      <point x="116" y="388" type="curve" smooth="yes"/>
-      <point x="361" y="668" type="line"/>
-      <point x="399" y="585" type="line"/>
-      <point x="101" y="585" type="line" smooth="yes"/>
-      <point x="74" y="585"/>
-      <point x="51" y="608"/>
-      <point x="51" y="635" type="curve" smooth="yes"/>
-      <point x="51" y="662"/>
-      <point x="74" y="685"/>
-      <point x="101" y="685" type="curve" smooth="yes"/>
-      <point x="399" y="685" type="line" smooth="yes"/>
-      <point x="442" y="685"/>
-      <point x="465" y="634"/>
-      <point x="436" y="602" type="curve" smooth="yes"/>
-      <point x="191" y="322" type="line"/>
-      <point x="153" y="405" type="line"/>
-      <point x="367" y="409"/>
-      <point x="460" y="321"/>
-      <point x="460" y="190" type="curve" smooth="yes"/>
-      <point x="460" y="10"/>
-      <point x="259" y="-62"/>
-      <point x="69" y="18" type="curve" smooth="yes"/>
-      <point x="45" y="28"/>
-      <point x="32" y="59"/>
-      <point x="43" y="83" type="curve" smooth="yes"/>
-      <point x="53" y="108"/>
-      <point x="83" y="121"/>
+      <point x="90" y="64" type="move" name="VMNRUWGM"/>
+      <point x="134" y="45" name="KUOUJFGM"/>
+      <point x="183" y="35" name="MZYEKNBF"/>
+      <point x="233" y="36" type="curve" smooth="yes" name="AEBHIDQH"/>
+      <point x="328" y="36" name="YBNFPKXT"/>
+      <point x="410" y="97" name="VEYFVNWC"/>
+      <point x="410" y="189" type="curve" smooth="yes" name="WRANPGTJ"/>
+      <point x="410" y="308" name="MWYVHVIV"/>
+      <point x="316" y="339" name="UJVDFEGF"/>
+      <point x="200" y="341" type="curve" smooth="yes" name="ZPCEHYLT"/>
+      <point x="116" y="342" name="LBKOQRMP"/>
+      <point x="139" y="367" name="LYMHVPQO"/>
+      <point x="195" y="413" type="curve" smooth="yes" name="YXPCLWKI"/>
+      <point x="248" y="458" name="YLMMYWKY"/>
+      <point x="308" y="510" name="DLGGUXRC"/>
+      <point x="353" y="550" type="curve" smooth="yes" name="JIXKKTVL"/>
+      <point x="425" y="614" name="PNURTTIO"/>
+      <point x="388" y="635" name="ZSFNSBYF"/>
+      <point x="299" y="635.0" type="curve" smooth="yes" name="VJZAIHKQ"/>
+      <point x="235" y="635.0" name="ZGVDYATZ"/>
+      <point x="138" y="635" name="KNLLXIGU"/>
+      <point x="91" y="635" type="curve" name="UDMLOZWH"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AEBHIDQH</key>
+        <integer>133</integer>
+        <key>AFZDDJLR</key>
+        <real>120.0</real>
+        <key>AJABJQUB</key>
+        <real>120.0</real>
+        <key>ANASIRCQ</key>
+        <integer>106</integer>
+        <key>APEMHXEH</key>
+        <real>104.28965578228605</real>
+        <key>AQVBDSSL</key>
+        <real>126.33535038902059</real>
+        <key>BGFHUOHU</key>
+        <real>161.37568542625712</real>
+        <key>BLXLCXSB</key>
+        <integer>110</integer>
+        <key>BOKRHZLT</key>
+        <integer>50</integer>
+        <key>BOQIAZCK</key>
+        <real>-75.41680535232126</real>
+        <key>BSUWFDRY</key>
+        <integer>120</integer>
+        <key>BSXZJDLM</key>
+        <integer>110</integer>
+        <key>BUJZSSSY</key>
+        <real>-107.54109582672493</real>
+        <key>CWDQWLEK</key>
+        <real>299.80891771787094</real>
+        <key>DIGJLTLG</key>
+        <integer>120</integer>
+        <key>DLGGUXRC</key>
+        <integer>129</integer>
+        <key>DVDXVYBS</key>
+        <integer>128</integer>
+        <key>DVOGURRL</key>
+        <integer>147</integer>
+        <key>DZYPOWDW</key>
+        <real>186.55115878775783</real>
+        <key>EFMQICQA</key>
+        <integer>120</integer>
+        <key>ERGPLAQN</key>
+        <integer>122</integer>
+        <key>FCKVRBWD</key>
+        <integer>122</integer>
+        <key>FGSRQZZN</key>
+        <integer>122</integer>
+        <key>FNIYMGWC</key>
+        <integer>29</integer>
+        <key>FZSQFBEW</key>
+        <integer>130</integer>
+        <key>GCWSXLOJ</key>
+        <integer>32</integer>
+        <key>GGDRHWOS</key>
+        <integer>124</integer>
+        <key>GMNVSNOT</key>
+        <real>-4.1887362880901335</real>
+        <key>GPLZWOAE</key>
+        <integer>120</integer>
+        <key>GRHRCPSR</key>
+        <integer>106</integer>
+        <key>GSKTJLDN</key>
+        <integer>100</integer>
+        <key>GXDTYWNA</key>
+        <integer>60</integer>
+        <key>GXMZJHZY</key>
+        <integer>30</integer>
+        <key>HAELJRSM</key>
+        <integer>134</integer>
+        <key>HKMXEIYX</key>
+        <integer>120</integer>
+        <key>HLNUNKVF</key>
+        <integer>60</integer>
+        <key>HPTFRHKZ</key>
+        <integer>110</integer>
+        <key>HRDMXGQA</key>
+        <real>-28.190285485966427</real>
+        <key>HRFJFXJG</key>
+        <real>147.8266578723144</real>
+        <key>HTWSEKVX</key>
+        <integer>120</integer>
+        <key>IABUNYME</key>
+        <integer>120</integer>
+        <key>IFGBQLHL</key>
+        <integer>120</integer>
+        <key>IFPFPSSP</key>
+        <integer>120</integer>
+        <key>INKSQEUI</key>
+        <integer>62</integer>
+        <key>ISBGNSPD</key>
+        <integer>110</integer>
+        <key>ISMSZGPJ</key>
+        <integer>29</integer>
+        <key>JBVQXHVF</key>
+        <real>105.05403754025937</real>
+        <key>JIARUCFN</key>
+        <integer>120</integer>
+        <key>JIXKKTVL</key>
+        <integer>122</integer>
+        <key>JNMDWVXZ</key>
+        <integer>124</integer>
+        <key>JXHXHQRZ</key>
+        <integer>120</integer>
+        <key>KBFGXQJI</key>
+        <integer>120</integer>
+        <key>KNLLXIGU</key>
+        <integer>118</integer>
+        <key>KRECBPXA</key>
+        <integer>120</integer>
+        <key>KTFMKFSR</key>
+        <integer>120</integer>
+        <key>KUBVRSGA</key>
+        <real>34.0</real>
+        <key>KUOUJFGM</key>
+        <integer>120</integer>
+        <key>KVDBQYUF</key>
+        <integer>32</integer>
+        <key>LBHMLJBB</key>
+        <integer>120</integer>
+        <key>LBKOQRMP</key>
+        <real>43.0</real>
+        <key>LBZSMGYU</key>
+        <integer>50</integer>
+        <key>LOFAZBLN</key>
+        <integer>120</integer>
+        <key>LUMJSOIM</key>
+        <integer>130</integer>
+        <key>LYMHVPQO</key>
+        <integer>110</integer>
+        <key>LYUPDGUR</key>
+        <integer>60</integer>
+        <key>LYZOKLNE</key>
+        <integer>130</integer>
+        <key>LZGHZPSJ</key>
+        <integer>122</integer>
+        <key>MEHMVKCC</key>
+        <integer>50</integer>
+        <key>MLUQMRRT</key>
+        <integer>112</integer>
+        <key>MLUTAEML</key>
+        <real>10.680310692731894</real>
+        <key>MPCYSCCX</key>
+        <integer>1</integer>
+        <key>MWYVHVIV</key>
+        <integer>66</integer>
+        <key>MYQWTBNC</key>
+        <integer>127</integer>
+        <key>MZYEKNBF</key>
+        <integer>129</integer>
+        <key>NGMWFLYH</key>
+        <integer>124</integer>
+        <key>NMKZPICZ</key>
+        <integer>32</integer>
+        <key>NVOBERXQ</key>
+        <integer>100</integer>
+        <key>ODSIIQDC</key>
+        <integer>120</integer>
+        <key>OGIFNJOP</key>
+        <integer>120</integer>
+        <key>OVHLDOHC</key>
+        <integer>128</integer>
+        <key>PCKQODIR</key>
+        <integer>120</integer>
+        <key>PNURTTIO</key>
+        <real>109.0</real>
+        <key>PPEHNXXH</key>
+        <real>134.9029105256826</real>
+        <key>PSAUZCBF</key>
+        <integer>106</integer>
+        <key>PVEQXHVC</key>
+        <integer>66</integer>
+        <key>PVUDVXEB</key>
+        <real>221.5259684786917</real>
+        <key>PXIHYGRA</key>
+        <integer>120</integer>
+        <key>PZKGITUP</key>
+        <integer>66</integer>
+        <key>QBNLTPCA</key>
+        <integer>110</integer>
+        <key>QCHXDRMT</key>
+        <integer>120</integer>
+        <key>QDFIOSZM</key>
+        <integer>120</integer>
+        <key>QHZXXVQG</key>
+        <integer>120</integer>
+        <key>QINJDVHR</key>
+        <integer>110</integer>
+        <key>QODAMZJZ</key>
+        <integer>106</integer>
+        <key>QPYRVGFN</key>
+        <integer>120</integer>
+        <key>QQRGLUNY</key>
+        <integer>100</integer>
+        <key>QZNCKSVE</key>
+        <integer>120</integer>
+        <key>RBDBVQII</key>
+        <integer>120</integer>
+        <key>RIWCFODS</key>
+        <real>155.05447179104314</real>
+        <key>RKVYQDFI</key>
+        <real>-16.836523052569312</real>
+        <key>RMCGVQZI</key>
+        <integer>120</integer>
+        <key>RUNXVLDQ</key>
+        <real>67.15772802607646</real>
+        <key>RYNSEDTG</key>
+        <real>-145.3080672708553</real>
+        <key>RZGIOMTD</key>
+        <integer>120</integer>
+        <key>SHKDPYKP</key>
+        <real>120.0</real>
+        <key>SHKSAKJU</key>
+        <integer>122</integer>
+        <key>SIXVZFOI</key>
+        <real>43.0</real>
+        <key>SUXWFFLP</key>
+        <real>75.29218058927991</real>
+        <key>SVVOAAOG</key>
+        <integer>29</integer>
+        <key>SZZOLZLJ</key>
+        <integer>100</integer>
+        <key>TPKUKZSC</key>
+        <integer>110</integer>
+        <key>UDMLOZWH</key>
+        <integer>116</integer>
+        <key>UJVDFEGF</key>
+        <integer>1</integer>
+        <key>UMEFGYYL</key>
+        <integer>50</integer>
+        <key>UXRVQEZE</key>
+        <integer>62</integer>
+        <key>UYMEMBVZ</key>
+        <integer>120</integer>
+        <key>VCXDVVXD</key>
+        <real>171.97787971675103</real>
+        <key>VDYWXGWG</key>
+        <integer>106</integer>
+        <key>VEYFVNWC</key>
+        <integer>147</integer>
+        <key>VINYSZFF</key>
+        <real>43.0</real>
+        <key>VJZAIHKQ</key>
+        <integer>54</integer>
+        <key>VMNRUWGM</key>
+        <integer>112</integer>
+        <key>VWIBVLHN</key>
+        <real>125.37433046353107</real>
+        <key>VYRNXVNL</key>
+        <integer>130</integer>
+        <key>WALLOMJE</key>
+        <integer>122</integer>
+        <key>WCXYORDC</key>
+        <integer>1</integer>
+        <key>WKQSLUZW</key>
+        <real>43.0</real>
+        <key>WQNXYEMW</key>
+        <integer>112</integer>
+        <key>WRANPGTJ</key>
+        <integer>112</integer>
+        <key>WTMJFYZU</key>
+        <integer>110</integer>
+        <key>WUZQNSTX</key>
+        <integer>128</integer>
+        <key>WVYDCFCG</key>
+        <integer>130</integer>
+        <key>XBDXDNOY</key>
+        <real>202.4429575008361</real>
+        <key>XCGQCTDJ</key>
+        <real>93.28423166519264</real>
+        <key>XJNDMKYK</key>
+        <real>43.0</real>
+        <key>XRIAAWMY</key>
+        <real>116.67190036689854</real>
+        <key>XYEYQEVS</key>
+        <integer>29</integer>
+        <key>YBNFPKXT</key>
+        <integer>142</integer>
+        <key>YFHKTVVO</key>
+        <integer>122</integer>
+        <key>YLMMYWKY</key>
+        <integer>134</integer>
+        <key>YMZIFAQP</key>
+        <real>125.23219388625067</real>
+        <key>YTFLMRTI</key>
+        <real>-0.31896372536448325</real>
+        <key>YWASCVGQ</key>
+        <integer>20</integer>
+        <key>YXPCLWKI</key>
+        <integer>122</integer>
+        <key>ZEGMFEDH</key>
+        <real>113.1676751945103</real>
+        <key>ZGVDYATZ</key>
+        <integer>96</integer>
+        <key>ZKNPDEBW</key>
+        <integer>120</integer>
+        <key>ZPCEHYLT</key>
+        <integer>29</integer>
+        <key>ZSFNSBYF</key>
+        <integer>9</integer>
+        <key>ZWSEEFSE</key>
+        <integer>128</integer>
+        <key>ZYDDADRL</key>
+        <integer>128</integer>
+        <key>ZZEUBLAA</key>
+        <integer>122</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

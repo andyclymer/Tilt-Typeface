@@ -4,38 +4,65 @@
   <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="110" y="476" type="curve" smooth="yes"/>
-      <point x="273" y="58" type="line"/>
-      <point x="227" y="90" type="line"/>
-      <point x="264" y="90" type="line"/>
-      <point x="217" y="58" type="line"/>
-      <point x="379" y="476" type="line" smooth="yes"/>
-      <point x="389" y="501"/>
-      <point x="419" y="514"/>
-      <point x="444" y="505" type="curve" smooth="yes"/>
-      <point x="469" y="495"/>
-      <point x="482" y="465"/>
-      <point x="472" y="440" type="curve" smooth="yes"/>
-      <point x="310" y="22" type="line" smooth="yes"/>
-      <point x="303" y="3"/>
-      <point x="284" y="-10"/>
-      <point x="264" y="-10" type="curve" smooth="yes"/>
-      <point x="227" y="-10" type="line" smooth="yes"/>
-      <point x="206" y="-10"/>
-      <point x="188" y="3"/>
-      <point x="180" y="22" type="curve" smooth="yes"/>
-      <point x="17" y="440" type="line" smooth="yes"/>
-      <point x="7" y="465"/>
-      <point x="21" y="495"/>
-      <point x="46" y="505" type="curve" smooth="yes"/>
-      <point x="71" y="514"/>
-      <point x="101" y="501"/>
+      <point x="64" y="458" type="move" name="COMMSEBK"/>
+      <point x="78" y="423" name="AGWYWMAO"/>
+      <point x="91" y="388" name="MUWAOCDN"/>
+      <point x="105" y="353" type="curve" smooth="yes" name="UUTWDXEC"/>
+      <point x="136" y="274" name="RNQZYCJR"/>
+      <point x="164" y="195" name="AXDJWZPP"/>
+      <point x="197" y="117" type="curve" smooth="yes" name="NCCFURGQ"/>
+      <point x="242" y="9" name="KOQAKURG"/>
+      <point x="253" y="13" name="ZHYMSHAA"/>
+      <point x="294" y="117" type="curve" smooth="yes" name="FDGYNQLC"/>
+      <point x="325" y="196" name="TJLTTPAU"/>
+      <point x="355" y="274" name="MQWFGACY"/>
+      <point x="385" y="353" type="curve" smooth="yes" name="EUKFLWLL"/>
+      <point x="399" y="388" name="NJISBYWH"/>
+      <point x="412" y="423" name="DOERSRJG"/>
+      <point x="426" y="458" type="curve" name="EKFJCZHU"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AGWYWMAO</key>
+        <integer>120</integer>
+        <key>AXDJWZPP</key>
+        <integer>120</integer>
+        <key>COMMSEBK</key>
+        <integer>90</integer>
+        <key>DOERSRJG</key>
+        <integer>120</integer>
+        <key>EKFJCZHU</key>
+        <integer>90</integer>
+        <key>EUKFLWLL</key>
+        <integer>120</integer>
+        <key>FDGYNQLC</key>
+        <integer>70</integer>
+        <key>KOQAKURG</key>
+        <integer>120</integer>
+        <key>MQWFGACY</key>
+        <integer>120</integer>
+        <key>MUWAOCDN</key>
+        <integer>120</integer>
+        <key>NCCFURGQ</key>
+        <integer>120</integer>
+        <key>NJISBYWH</key>
+        <integer>120</integer>
+        <key>RNQZYCJR</key>
+        <integer>120</integer>
+        <key>TJLTTPAU</key>
+        <integer>70</integer>
+        <key>UUTWDXEC</key>
+        <integer>120</integer>
+        <key>ZHYMSHAA</key>
+        <integer>70</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

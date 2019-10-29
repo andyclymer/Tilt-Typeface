@@ -4,24 +4,57 @@
   <unicode hex="002F"/>
   <outline>
     <contour>
-      <point x="425.48973905245555" y="714.3563212533087" type="curve" smooth="yes"/>
-      <point x="145.48973905245555" y="-135.64367874669128" type="line" smooth="yes"/>
-      <point x="137.0421525292423" y="-161.28813783501727"/>
-      <point x="108.00078034163477" y="-175.93732557566884"/>
-      <point x="82.35632125330878" y="-167.48973905245555" type="curve" smooth="yes"/>
-      <point x="56.71186216498279" y="-159.04215252924226"/>
-      <point x="42.0626744243312" y="-130.00078034163474"/>
-      <point x="50.51026094754447" y="-104.35632125330874" type="curve" smooth="yes"/>
-      <point x="330.51026094754445" y="745.6436787466913" type="line" smooth="yes"/>
-      <point x="338.9578474707577" y="771.2881378350173"/>
-      <point x="367.99921965836523" y="785.9373255756689"/>
-      <point x="393.64367874669125" y="777.4897390524555" type="curve" smooth="yes"/>
-      <point x="419.28813783501727" y="769.0421525292422"/>
-      <point x="433.9373255756688" y="740.0007803416347"/>
+      <point x="425.48973905245555" y="714.3563212533087" type="curve" smooth="yes" name="UVLZXLME"/>
+      <point x="145.48973905245555" y="-135.64367874669128" type="line" smooth="yes" name="FHUXXVUK"/>
+      <point x="137.0421525292423" y="-161.28813783501727" name="UTKIQVYW"/>
+      <point x="108.00078034163477" y="-175.93732557566884" name="UINYQEYF"/>
+      <point x="82.35632125330878" y="-167.48973905245555" type="curve" smooth="yes" name="SHCPTVMM"/>
+      <point x="56.71186216498279" y="-159.04215252924226" name="KQTCCGVA"/>
+      <point x="42.0626744243312" y="-130.00078034163474" name="GWEXDZFF"/>
+      <point x="50.51026094754447" y="-104.35632125330874" type="curve" smooth="yes" name="MJHMBALN"/>
+      <point x="330.51026094754445" y="745.6436787466913" type="line" smooth="yes" name="HTNERKQL"/>
+      <point x="338.9578474707577" y="771.2881378350173" name="CUJEGVBK"/>
+      <point x="367.99921965836523" y="785.9373255756689" name="CVRWEZMN"/>
+      <point x="393.64367874669125" y="777.4897390524555" type="curve" smooth="yes" name="KDXZQBCF"/>
+      <point x="419.28813783501727" y="769.0421525292422" name="TTVWEHCO"/>
+      <point x="433.9373255756688" y="740.0007803416347" name="SKKGESHG"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CUJEGVBK</key>
+        <integer>0</integer>
+        <key>CVRWEZMN</key>
+        <integer>0</integer>
+        <key>FHUXXVUK</key>
+        <integer>0</integer>
+        <key>GWEXDZFF</key>
+        <integer>0</integer>
+        <key>HTNERKQL</key>
+        <integer>0</integer>
+        <key>KDXZQBCF</key>
+        <integer>0</integer>
+        <key>KQTCCGVA</key>
+        <integer>0</integer>
+        <key>MJHMBALN</key>
+        <integer>0</integer>
+        <key>SHCPTVMM</key>
+        <integer>0</integer>
+        <key>SKKGESHG</key>
+        <integer>0</integer>
+        <key>TTVWEHCO</key>
+        <integer>0</integer>
+        <key>UINYQEYF</key>
+        <integer>0</integer>
+        <key>UTKIQVYW</key>
+        <integer>0</integer>
+        <key>UVLZXLME</key>
+        <integer>0</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.7267,0.7266,0.7266,1</string>
     </dict>

@@ -16,4 +16,33 @@
       <point x="102.10797325407977" y="74.0" type="curve" name="CFFGT"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AWARE</key>
+        <integer>0</integer>
+        <key>CFFGT</key>
+        <integer>0</integer>
+        <key>GOMRE</key>
+        <integer>0</integer>
+        <key>HANRI</key>
+        <integer>0</integer>
+        <key>IPECA</key>
+        <integer>0</integer>
+        <key>MARBN</key>
+        <integer>0</integer>
+        <key>POTME</key>
+        <integer>0</integer>
+        <key>TEBOR</key>
+        <integer>0</integer>
+        <key>TECUM</key>
+        <integer>0</integer>
+        <key>VPSMP</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
