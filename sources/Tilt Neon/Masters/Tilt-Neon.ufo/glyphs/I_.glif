@@ -4,26 +4,47 @@
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="85.0" y="40" type="curve" smooth="yes"/>
-      <point x="85.0" y="640.0" type="line" smooth="yes"/>
-      <point x="85.0" y="667.0"/>
-      <point x="108.0" y="690.0"/>
-      <point x="135.0" y="690.0" type="curve" smooth="yes"/>
-      <point x="162.0" y="690.0"/>
-      <point x="185.0" y="667.0"/>
-      <point x="185.0" y="640.0" type="curve" smooth="yes"/>
-      <point x="185.0" y="40" type="line" smooth="yes"/>
-      <point x="185" y="13"/>
-      <point x="162" y="-10"/>
-      <point x="135" y="-10.0" type="curve" smooth="yes"/>
-      <point x="108" y="-10"/>
-      <point x="85" y="13"/>
+      <point x="135" y="40" type="move" name="JITUK"/>
+      <point x="135.0" y="83" name="OIOLRIFR"/>
+      <point x="135.0" y="128" name="OKMNMSGU"/>
+      <point x="135" y="171" type="curve" smooth="yes" name="BTBTKJBU"/>
+      <point x="135.0" y="287.0" name="AWFWRBGX"/>
+      <point x="135.0" y="391" name="COEIPHEQ"/>
+      <point x="135" y="507" type="curve" smooth="yes" name="ATFHCAYC"/>
+      <point x="135.0" y="548.0" name="SWJRSDDA"/>
+      <point x="135.0" y="599" name="IGIIJURP"/>
+      <point x="135" y="640" type="curve" name="IPTAQ"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ATFHCAYC</key>
+        <integer>120</integer>
+        <key>AWFWRBGX</key>
+        <integer>120</integer>
+        <key>BTBTKJBU</key>
+        <integer>120</integer>
+        <key>COEIPHEQ</key>
+        <integer>120</integer>
+        <key>IGIIJURP</key>
+        <integer>116</integer>
+        <key>IPTAQ</key>
+        <integer>100</integer>
+        <key>JITUK</key>
+        <integer>100</integer>
+        <key>OIOLRIFR</key>
+        <integer>115</integer>
+        <key>OKMNMSGU</key>
+        <integer>120</integer>
+        <key>SWJRSDDA</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.3234,0.3234,0.3234,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>
