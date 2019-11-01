@@ -1,13 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
   <advance width="500"/>
-  <unicode hex="0048"/>
   <outline>
+    <contour>
+      <point x="126.0" y="157.0" type="move" name="QGUOSJXN"/>
+      <point x="126.0" y="118.0" name="HQKOMWGC"/>
+      <point x="126.0" y="79.0" name="OQJQVRLK"/>
+      <point x="126.0" y="40.0" type="curve" name="ETMWWWDY"/>
+    </contour>
     <contour>
       <point x="171.0" y="40.0" type="move"/>
       <point x="171.0" y="-28.0"/>
       <point x="81.0" y="-28.0"/>
       <point x="81.0" y="40.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="564.0" y="523.0" type="move" name="QGUOSJXN"/>
+      <point x="564.0" y="562.0" name="HQKOMWGC"/>
+      <point x="564.0" y="601.0" name="OQJQVRLK"/>
+      <point x="564.0" y="640.0" type="curve" name="ETMWWWDY"/>
     </contour>
     <contour>
       <point x="519.0" y="640.0" type="move"/>
