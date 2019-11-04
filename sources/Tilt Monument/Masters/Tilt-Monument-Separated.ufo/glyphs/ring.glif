@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance width="420"/>
+  <unicode hex="02DA"/>
+  <anchor x="0" y="517" name="top"/>
+  <anchor x="210" y="517" name="center"/>
+  <outline>
+    <contour>
+      <point x="209" y="604" type="curve" smooth="yes" name="EKPZITFF"/>
+      <point x="146" y="604" name="DEHMSOER"/>
+      <point x="104" y="648" name="AMFWMNJF"/>
+      <point x="104" y="710" type="curve" smooth="yes" name="ECKCGIIP"/>
+      <point x="104" y="772" name="VOMSSANZ"/>
+      <point x="146" y="815" name="YWSPZCHW"/>
+      <point x="209" y="815" type="curve" smooth="yes" name="PFEIDUTL"/>
+      <point x="272" y="815" name="KIQPXMDL"/>
+      <point x="316" y="772" name="KEJBBFXD"/>
+      <point x="316" y="710" type="curve" smooth="yes" name="ARXPPRDQ"/>
+      <point x="316" y="648" name="SLUXJUNA"/>
+      <point x="272" y="604" name="FDOOVKYA"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AMFWMNJF</key>
+        <integer>100</integer>
+        <key>ARXPPRDQ</key>
+        <integer>100</integer>
+        <key>DEHMSOER</key>
+        <integer>100</integer>
+        <key>ECKCGIIP</key>
+        <integer>100</integer>
+        <key>EKPZITFF</key>
+        <integer>100</integer>
+        <key>FDOOVKYA</key>
+        <integer>100</integer>
+        <key>KEJBBFXD</key>
+        <integer>100</integer>
+        <key>KIQPXMDL</key>
+        <integer>100</integer>
+        <key>PFEIDUTL</key>
+        <integer>100</integer>
+        <key>SLUXJUNA</key>
+        <integer>100</integer>
+        <key>VOMSSANZ</key>
+        <integer>100</integer>
+        <key>YWSPZCHW</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

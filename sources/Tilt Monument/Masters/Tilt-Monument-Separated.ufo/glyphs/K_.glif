@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="658"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="156.0" y="618.0" type="move" name="WFONTSTZ"/>
+      <point x="156" y="341" type="line" name="ZFSUMSLX"/>
+      <point x="156.0" y="62.0" type="line" name="JJCMJVVW"/>
+    </contour>
+    <contour>
+      <point x="496" y="618" type="move" name="GMQWCTVJ"/>
+      <point x="290" y="398" type="line" smooth="yes" name="XIFLIGGI"/>
+      <point x="246" y="351" name="BUKRPNTY"/>
+      <point x="220" y="344" name="DUJSKWTM"/>
+      <point x="156.0" y="341.0" type="curve" name="AXNWULVL"/>
+      <point x="220" y="344" name="ZPPMBYME"/>
+      <point x="248" y="336" name="PNYRPDGS"/>
+      <point x="284" y="296" type="curve" smooth="yes" name="OEQVGRYW"/>
+      <point x="496" y="62" type="line" name="WPYKNFWO"/>
+    </contour>
+    <contour>
+      <point x="227.0" y="417.0" type="move" name="UEHSDBHQ"/>
+      <point x="156.0" y="341.0" type="line" name="HLSLGYSW"/>
+      <point x="227.0" y="261.0" type="line" name="ADWVDNAE"/>
+    </contour>
+    <contour>
+      <point x="254.0" y="0.0" type="move" name="JRLMZRMB"/>
+      <point x="156.0" y="62.0" type="line" name="VWUMAPUP"/>
+      <point x="57" y="0" type="line" name="XJBUXPFQ"/>
+    </contour>
+    <contour>
+      <point x="57.0" y="680.0" type="move" name="ECUUNSVW"/>
+      <point x="156.0" y="618.0" type="line" name="WZGBHWZC"/>
+      <point x="254.0" y="680.0" type="line" name="SFLOLYUF"/>
+    </contour>
+    <contour>
+      <point x="668.0" y="0.0" type="move" name="PXIBMFLN"/>
+      <point x="496.0" y="62.0" type="line" name="YWMEWBPF"/>
+      <point x="435.0" y="0.0" type="line" name="RZJHOCJT"/>
+    </contour>
+    <contour>
+      <point x="447.0" y="680.0" type="move" name="NUKKCNGE"/>
+      <point x="496.0" y="618.0" type="line" name="POROMZGU"/>
+      <point x="660.0" y="680.0" type="line" name="FQNYHCGX"/>
+    </contour>
+    <contour>
+      <point x="156.0" y="341.0" type="move" name="YBROGVLX"/>
+      <point x="212" y="343" name="GZKVZBAQ"/>
+      <point x="268" y="346" name="VXRAAWAQ"/>
+      <point x="324.0" y="348.0" type="curve" name="BOBHRBZT"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ADWVDNAE</key>
+        <integer>0</integer>
+        <key>AXNWULVL</key>
+        <integer>100</integer>
+        <key>BOBHRBZT</key>
+        <integer>0</integer>
+        <key>BUKRPNTY</key>
+        <integer>100</integer>
+        <key>DUJSKWTM</key>
+        <integer>100</integer>
+        <key>ECUUNSVW</key>
+        <integer>0</integer>
+        <key>FQNYHCGX</key>
+        <integer>0</integer>
+        <key>GMQWCTVJ</key>
+        <integer>100</integer>
+        <key>GZKVZBAQ</key>
+        <integer>100</integer>
+        <key>HLSLGYSW</key>
+        <integer>100</integer>
+        <key>JJCMJVVW</key>
+        <integer>100</integer>
+        <key>JRLMZRMB</key>
+        <integer>0</integer>
+        <key>NUKKCNGE</key>
+        <integer>0</integer>
+        <key>OEQVGRYW</key>
+        <integer>100</integer>
+        <key>PNYRPDGS</key>
+        <integer>100</integer>
+        <key>POROMZGU</key>
+        <integer>100</integer>
+        <key>PXIBMFLN</key>
+        <integer>0</integer>
+        <key>RZJHOCJT</key>
+        <integer>0</integer>
+        <key>SFLOLYUF</key>
+        <integer>0</integer>
+        <key>UEHSDBHQ</key>
+        <integer>0</integer>
+        <key>VWUMAPUP</key>
+        <integer>100</integer>
+        <key>VXRAAWAQ</key>
+        <integer>100</integer>
+        <key>WFONTSTZ</key>
+        <integer>100</integer>
+        <key>WPYKNFWO</key>
+        <integer>100</integer>
+        <key>WZGBHWZC</key>
+        <integer>100</integer>
+        <key>XIFLIGGI</key>
+        <integer>100</integer>
+        <key>XJBUXPFQ</key>
+        <integer>0</integer>
+        <key>YBROGVLX</key>
+        <integer>100</integer>
+        <key>YWMEWBPF</key>
+        <integer>100</integer>
+        <key>ZFSUMSLX</key>
+        <integer>100</integer>
+        <key>ZPPMBYME</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

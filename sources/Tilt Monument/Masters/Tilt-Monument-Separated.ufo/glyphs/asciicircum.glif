@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum" format="2">
+  <advance width="560"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="141.0" y="325.0" type="move" name="WPRHTLYN"/>
+      <point x="279" y="568" type="line" name="HMDQAAUJ"/>
+      <point x="417.0" y="325.0" type="line" name="YYZHRKBN"/>
+    </contour>
+    <contour>
+      <point x="179.0" y="263.0" type="move" name="RGJNIOLT"/>
+      <point x="141.0" y="325.0" type="line" name="GJJLBOFA"/>
+      <point x="33.0" y="263.0" type="line" name="IARBCIXR"/>
+    </contour>
+    <contour>
+      <point x="525.0" y="263.0" type="move" name="ODLSHKCX"/>
+      <point x="417.0" y="325.0" type="line" name="MCQBZECN"/>
+      <point x="379.0" y="263.0" type="line" name="QFEFGBXH"/>
+    </contour>
+    <contour>
+      <point x="279.0" y="694.0" type="move" name="HRUESERG"/>
+      <point x="279.0" y="568.0" type="line" name="UHQTMGXT"/>
+      <point x="279.0" y="442.0" type="line" name="EAJGMOVQ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>EAJGMOVQ</key>
+        <integer>0</integer>
+        <key>GJJLBOFA</key>
+        <integer>100</integer>
+        <key>HMDQAAUJ</key>
+        <integer>100</integer>
+        <key>HRUESERG</key>
+        <integer>0</integer>
+        <key>IARBCIXR</key>
+        <integer>0</integer>
+        <key>MCQBZECN</key>
+        <integer>100</integer>
+        <key>ODLSHKCX</key>
+        <integer>0</integer>
+        <key>QFEFGBXH</key>
+        <integer>0</integer>
+        <key>RGJNIOLT</key>
+        <integer>0</integer>
+        <key>UHQTMGXT</key>
+        <integer>100</integer>
+        <key>WPRHTLYN</key>
+        <integer>100</integer>
+        <key>YYZHRKBN</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

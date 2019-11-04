@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="577"/>
+  <unicode hex="00A8"/>
+  <anchor x="0" y="517" name="top"/>
+  <anchor x="288" y="517" name="center"/>
+  <outline>
+    <contour>
+      <point x="88.0" y="758.0" type="move" name="SCACCEQM"/>
+      <point x="168.0" y="678.0" type="line" name="TDTKBCUN"/>
+      <point x="249.0" y="597.0" type="line" name="UVYUFIQK"/>
+    </contour>
+    <contour>
+      <point x="88.0" y="597.0" type="move" name="TCUOTQUC"/>
+      <point x="168.0" y="678.0" type="line" name="ZUFETZQH"/>
+      <point x="249.0" y="758.0" type="line" name="RTKVXTOI"/>
+    </contour>
+    <contour>
+      <point x="328.0" y="758.0" type="move" name="JYBPDXXE"/>
+      <point x="408.0" y="678.0" type="line" name="VTWHYFXM"/>
+      <point x="489.0" y="597.0" type="line" name="GBLBBSLE"/>
+    </contour>
+    <contour>
+      <point x="328.0" y="597.0" type="move" name="QFFCBBPK"/>
+      <point x="408.0" y="678.0" type="line" name="JLGEMYJZ"/>
+      <point x="489.0" y="758.0" type="line" name="WYCDUJYS"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>GBLBBSLE</key>
+        <integer>0</integer>
+        <key>JLGEMYJZ</key>
+        <integer>100</integer>
+        <key>JYBPDXXE</key>
+        <integer>0</integer>
+        <key>QFFCBBPK</key>
+        <integer>0</integer>
+        <key>RTKVXTOI</key>
+        <integer>0</integer>
+        <key>SCACCEQM</key>
+        <integer>0</integer>
+        <key>TCUOTQUC</key>
+        <integer>0</integer>
+        <key>TDTKBCUN</key>
+        <integer>100</integer>
+        <key>UVYUFIQK</key>
+        <integer>0</integer>
+        <key>VTWHYFXM</key>
+        <integer>100</integer>
+        <key>WYCDUJYS</key>
+        <integer>0</integer>
+        <key>ZUFETZQH</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

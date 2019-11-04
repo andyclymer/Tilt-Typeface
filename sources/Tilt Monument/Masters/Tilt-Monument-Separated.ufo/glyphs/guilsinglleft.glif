@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="432"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="392" y="580" type="move" name="SXXAXEGP"/>
+      <point x="314" y="468" name="KYUQMTZR"/>
+      <point x="229" y="380" name="PZJJBRMM"/>
+      <point x="130" y="303" type="curve" name="BEQNTCWP"/>
+      <point x="229" y="226" name="UOVYCGRF"/>
+      <point x="314" y="138" name="ZGMYRLVO"/>
+      <point x="392" y="26" type="curve" name="WVEEZEAC"/>
+    </contour>
+    <contour>
+      <point x="5.0" y="303.0" type="move" name="WCGYFGGX"/>
+      <point x="130.0" y="303.0" type="line" name="IRBJYMVL"/>
+      <point x="255.0" y="303.0" type="line" name="KBJQFCWR"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BEQNTCWP</key>
+        <integer>100</integer>
+        <key>IRBJYMVL</key>
+        <integer>100</integer>
+        <key>KBJQFCWR</key>
+        <integer>0</integer>
+        <key>KYUQMTZR</key>
+        <integer>41</integer>
+        <key>PZJJBRMM</key>
+        <integer>73</integer>
+        <key>SXXAXEGP</key>
+        <integer>0</integer>
+        <key>UOVYCGRF</key>
+        <integer>72</integer>
+        <key>WCGYFGGX</key>
+        <integer>0</integer>
+        <key>WVEEZEAC</key>
+        <integer>0</integer>
+        <key>ZGMYRLVO</key>
+        <integer>41</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

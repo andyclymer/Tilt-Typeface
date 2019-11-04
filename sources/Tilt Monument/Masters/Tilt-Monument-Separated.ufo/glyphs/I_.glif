@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="319"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="160.0" y="618.0" type="move" name="JKIZUAWY"/>
+      <point x="160.0" y="62.0" type="line" name="IKYWWOLM"/>
+    </contour>
+    <contour>
+      <point x="258.0" y="0.0" type="move" name="JRLMZRMB"/>
+      <point x="160.0" y="62.0" type="line" name="VWUMAPUP"/>
+      <point x="61.0" y="0.0" type="line" name="XJBUXPFQ"/>
+    </contour>
+    <contour>
+      <point x="61.0" y="680.0" type="move" name="ECUUNSVW"/>
+      <point x="160.0" y="618.0" type="line" name="WZGBHWZC"/>
+      <point x="258.0" y="680.0" type="line" name="SFLOLYUF"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ECUUNSVW</key>
+        <integer>0</integer>
+        <key>IKYWWOLM</key>
+        <integer>100</integer>
+        <key>JKIZUAWY</key>
+        <integer>100</integer>
+        <key>JRLMZRMB</key>
+        <integer>0</integer>
+        <key>SFLOLYUF</key>
+        <integer>0</integer>
+        <key>VWUMAPUP</key>
+        <integer>100</integer>
+        <key>WZGBHWZC</key>
+        <integer>100</integer>
+        <key>XJBUXPFQ</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

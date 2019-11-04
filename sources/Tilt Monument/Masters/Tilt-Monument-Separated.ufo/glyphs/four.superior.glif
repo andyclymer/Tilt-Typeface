@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.superior" format="2">
+  <advance width="446"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="292.0" y="323.0" type="move" name="YLKTYDSE"/>
+      <point x="292" y="632" type="line" name="JOYMLHOM"/>
+      <point x="209" y="632" type="line" name="PMHREQCV"/>
+      <point x="96" y="410" type="line" name="IASGRGUF"/>
+      <point x="356.0" y="410.0" type="line" name="KRMNCZPK"/>
+    </contour>
+    <contour>
+      <point x="20.0" y="366.0" type="move" name="ELENJWXW"/>
+      <point x="96.0" y="410.0" type="line" name="SGLMYNKZ"/>
+      <point x="172.0" y="455.0" type="line" name="VZYBCCWC"/>
+    </contour>
+    <contour>
+      <point x="189.0" y="680.0" type="move" name="TPRUROBU"/>
+      <point x="209.0" y="632.0" type="line" name="EPKIYCWR"/>
+      <point x="232.0" y="583.0" type="line" name="VWJUODPM"/>
+      <point x="292.0" y="632.0" type="line" name="YHUDWJXH"/>
+      <point x="368.0" y="680.0" type="line" name="CMGKMTGJ"/>
+    </contour>
+    <contour>
+      <point x="406.0" y="469.0" type="move" name="NPVWZBFT"/>
+      <point x="356.0" y="410.0" type="line" name="IPBDLLWX"/>
+      <point x="406.0" y="353.0" type="line" name="QPLJJQKO"/>
+    </contour>
+    <contour>
+      <point x="349.0" y="457.0" type="move" name="OLKLIABD"/>
+      <point x="292.0" y="410.0" type="line" name="EQBZVSVQ"/>
+      <point x="232.0" y="366.0" type="line" name="DCXLRJTX"/>
+    </contour>
+    <contour>
+      <point x="234.0" y="455.0" type="move" name="TZLWLDNI"/>
+      <point x="292.0" y="410.0" type="line" name="FBUZPITT"/>
+      <point x="351.0" y="364.0" type="line" name="YAFLRDXM"/>
+    </contour>
+    <contour>
+      <point x="368.0" y="271.0" type="move" name="HMCBDXWQ"/>
+      <point x="292.0" y="323.0" type="line" name="NKQGKGLT"/>
+      <point x="215.0" y="271.0" type="line" name="AHVUZJUJ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AHVUZJUJ</key>
+        <integer>0</integer>
+        <key>CMGKMTGJ</key>
+        <integer>0</integer>
+        <key>DCXLRJTX</key>
+        <integer>0</integer>
+        <key>ELENJWXW</key>
+        <integer>0</integer>
+        <key>EPKIYCWR</key>
+        <integer>100</integer>
+        <key>EQBZVSVQ</key>
+        <integer>100</integer>
+        <key>FBUZPITT</key>
+        <integer>100</integer>
+        <key>HMCBDXWQ</key>
+        <integer>0</integer>
+        <key>IASGRGUF</key>
+        <integer>100</integer>
+        <key>IPBDLLWX</key>
+        <integer>100</integer>
+        <key>JOYMLHOM</key>
+        <integer>100</integer>
+        <key>KRMNCZPK</key>
+        <integer>100</integer>
+        <key>NKQGKGLT</key>
+        <integer>100</integer>
+        <key>NPVWZBFT</key>
+        <integer>0</integer>
+        <key>OLKLIABD</key>
+        <integer>0</integer>
+        <key>PMHREQCV</key>
+        <integer>100</integer>
+        <key>QPLJJQKO</key>
+        <integer>0</integer>
+        <key>SGLMYNKZ</key>
+        <integer>100</integer>
+        <key>TPRUROBU</key>
+        <integer>0</integer>
+        <key>TZLWLDNI</key>
+        <integer>0</integer>
+        <key>VWJUODPM</key>
+        <integer>0</integer>
+        <key>VZYBCCWC</key>
+        <integer>0</integer>
+        <key>YAFLRDXM</key>
+        <integer>0</integer>
+        <key>YHUDWJXH</key>
+        <integer>100</integer>
+        <key>YLKTYDSE</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

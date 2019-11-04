@@ -222,16 +222,18 @@
       <point x="178.18810354064652" y="403.3506811533354"/>
     </contour>
     <contour>
-      <point x="39.44081912463531" y="359.0" type="curve" smooth="yes"/>
-      <point x="139.84998205312507" y="359.0" type="line"/>
-      <point x="322.06432636667535" y="362.9975971646196" type="line" smooth="yes"/>
-      <point x="337.06072211360475" y="363.3264050134881"/>
-      <point x="337.4991325787627" y="343.3312106842489"/>
-      <point x="322.5027368318333" y="343.0024028353804" type="curve" smooth="yes"/>
-      <point x="139.84998205312507" y="339.0" type="line"/>
-      <point x="39.44081912463531" y="339.0" type="line" smooth="yes"/>
-      <point x="24.44081912463531" y="339.0"/>
-      <point x="24.44081912463531" y="359.0"/>
+      <point x="39" y="359" type="curve" smooth="yes"/>
+      <point x="140" y="359" type="line"/>
+      <point x="140" y="359" type="line"/>
+      <point x="322" y="363" type="line" smooth="yes"/>
+      <point x="337" y="363"/>
+      <point x="337" y="343"/>
+      <point x="323" y="343" type="curve" smooth="yes"/>
+      <point x="140" y="339" type="line"/>
+      <point x="140" y="339" type="line"/>
+      <point x="39" y="339" type="line" smooth="yes"/>
+      <point x="24" y="339"/>
+      <point x="24" y="359"/>
     </contour>
   </outline>
 </glyph>

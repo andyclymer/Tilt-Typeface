@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minus" format="2">
+  <advance width="490"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="388.0" y="310.0" type="move" name="DDZPKHOF"/>
+      <point x="102.0" y="310.0" type="line" name="QPZAAIDE"/>
+    </contour>
+    <contour>
+      <point x="40.0" y="247.0" type="move" name="QXYCFKZZ"/>
+      <point x="102.0" y="310.0" type="line" name="VKBDRAMS"/>
+      <point x="40.0" y="374.0" type="line" name="ANSDBWON"/>
+    </contour>
+    <contour>
+      <point x="450.0" y="374.0" type="move" name="AORGRKMK"/>
+      <point x="388.0" y="310.0" type="line" name="KMRKYDKC"/>
+      <point x="450.0" y="247.0" type="line" name="GHOKTHSE"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ANSDBWON</key>
+        <integer>0</integer>
+        <key>AORGRKMK</key>
+        <integer>0</integer>
+        <key>DDZPKHOF</key>
+        <integer>100</integer>
+        <key>GHOKTHSE</key>
+        <integer>0</integer>
+        <key>KMRKYDKC</key>
+        <integer>100</integer>
+        <key>QPZAAIDE</key>
+        <integer>100</integer>
+        <key>QXYCFKZZ</key>
+        <integer>0</integer>
+        <key>VKBDRAMS</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

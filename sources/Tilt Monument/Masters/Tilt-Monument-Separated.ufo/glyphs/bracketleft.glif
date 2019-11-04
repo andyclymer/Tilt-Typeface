@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft" format="2">
+  <advance width="457"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="442" y="-135" type="move" name="LTDPDQAM"/>
+      <point x="380" y="-84" name="VATVYTCJ"/>
+      <point x="286" y="-51" name="LRBKMYRS"/>
+      <point x="184" y="-45" type="curve" name="ZZCPLZDU"/>
+      <point x="184" y="725" type="line" name="BEEVSGBQ"/>
+      <point x="286" y="731" name="WFZHLRKG"/>
+      <point x="380" y="764" name="IZQBVPSH"/>
+      <point x="442" y="815" type="curve" name="YHNNHILT"/>
+    </contour>
+    <contour>
+      <point x="85.0" y="795.0" type="move" name="FRPPGYVT"/>
+      <point x="184.0" y="725.0" type="line" name="ZENXSLXH"/>
+      <point x="259.0" y="663.0" type="line" name="RBFACIQK"/>
+    </contour>
+    <contour>
+      <point x="259.0" y="17.0" type="move" name="CUISBYWO"/>
+      <point x="184.0" y="-45.0" type="line" name="KXHORHYR"/>
+      <point x="85.0" y="-115.0" type="line" name="RHHJSEOH"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BEEVSGBQ</key>
+        <integer>100</integer>
+        <key>CUISBYWO</key>
+        <integer>0</integer>
+        <key>FRPPGYVT</key>
+        <integer>0</integer>
+        <key>IZQBVPSH</key>
+        <integer>56</integer>
+        <key>KXHORHYR</key>
+        <integer>100</integer>
+        <key>LRBKMYRS</key>
+        <integer>94</integer>
+        <key>LTDPDQAM</key>
+        <integer>0</integer>
+        <key>RBFACIQK</key>
+        <integer>0</integer>
+        <key>RHHJSEOH</key>
+        <integer>0</integer>
+        <key>VATVYTCJ</key>
+        <integer>57</integer>
+        <key>WFZHLRKG</key>
+        <integer>93</integer>
+        <key>YHNNHILT</key>
+        <integer>0</integer>
+        <key>ZENXSLXH</key>
+        <integer>100</integer>
+        <key>ZZCPLZDU</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

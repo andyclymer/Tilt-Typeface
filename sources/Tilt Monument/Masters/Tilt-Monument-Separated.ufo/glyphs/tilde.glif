@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="565"/>
+  <unicode hex="02DC"/>
+  <anchor x="0" y="517" name="top"/>
+  <anchor x="282" y="517" name="center"/>
+  <outline>
+    <contour>
+      <point x="444" y="732" type="move" smooth="yes" name="BXUOASAU"/>
+      <point x="440" y="667" name="HHPDXGRT"/>
+      <point x="410" y="638" name="AVGBDRUH"/>
+      <point x="365" y="638" type="curve" smooth="yes" name="XMVGPXJX"/>
+      <point x="302" y="638" name="KHKDWNGK"/>
+      <point x="263" y="724" name="SYMMFPZX"/>
+      <point x="200" y="724" type="curve" smooth="yes" name="BBHSMBKK"/>
+      <point x="156" y="724" name="DEFWBUKF"/>
+      <point x="126" y="696" name="ZBQNSRWS"/>
+      <point x="121" y="630" type="curve" smooth="yes" name="EAISJZVZ"/>
+    </contour>
+    <contour>
+      <point x="165.0" y="578.0" type="move" name="QCPOLWYD"/>
+      <point x="121.0" y="630.0" type="line" name="FJNMUWTQ"/>
+      <point x="80.0" y="578.0" type="line" name="GPKWJZET"/>
+    </contour>
+    <contour>
+      <point x="400.0" y="784.0" type="move" name="VJIZZDNK"/>
+      <point x="444.0" y="732.0" type="line" name="CTDXBEAF"/>
+      <point x="485.0" y="784.0" type="line" name="DVRFTJRK"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AVGBDRUH</key>
+        <integer>100</integer>
+        <key>BBHSMBKK</key>
+        <integer>100</integer>
+        <key>BXUOASAU</key>
+        <integer>100</integer>
+        <key>CTDXBEAF</key>
+        <integer>100</integer>
+        <key>DEFWBUKF</key>
+        <integer>100</integer>
+        <key>DVRFTJRK</key>
+        <integer>0</integer>
+        <key>EAISJZVZ</key>
+        <integer>100</integer>
+        <key>FJNMUWTQ</key>
+        <integer>100</integer>
+        <key>GPKWJZET</key>
+        <integer>0</integer>
+        <key>HHPDXGRT</key>
+        <integer>100</integer>
+        <key>KHKDWNGK</key>
+        <integer>100</integer>
+        <key>QCPOLWYD</key>
+        <integer>0</integer>
+        <key>SYMMFPZX</key>
+        <integer>100</integer>
+        <key>VJIZZDNK</key>
+        <integer>0</integer>
+        <key>XMVGPXJX</key>
+        <integer>100</integer>
+        <key>ZBQNSRWS</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

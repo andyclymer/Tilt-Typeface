@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degree" format="2">
+  <advance width="532"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="265" y="304" type="curve" smooth="yes" name="GIZNRRFD"/>
+      <point x="172" y="304" name="NEWYMGXI"/>
+      <point x="109" y="372" name="URPHJNPW"/>
+      <point x="109" y="471" type="curve" smooth="yes" name="KBKQDJMK"/>
+      <point x="109" y="570" name="ODRGVBIZ"/>
+      <point x="172" y="638" name="RXBDHVJK"/>
+      <point x="265" y="638" type="curve" smooth="yes" name="FMDCPFWT"/>
+      <point x="358" y="638" name="LIZNKMWB"/>
+      <point x="424" y="570" name="QRNGOSAS"/>
+      <point x="424" y="471" type="curve" smooth="yes" name="EEUXVVZE"/>
+      <point x="424" y="372" name="DJFXFKWD"/>
+      <point x="358" y="304" name="UOYWXUED"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>DJFXFKWD</key>
+        <integer>100</integer>
+        <key>EEUXVVZE</key>
+        <integer>100</integer>
+        <key>FMDCPFWT</key>
+        <integer>100</integer>
+        <key>GIZNRRFD</key>
+        <integer>100</integer>
+        <key>KBKQDJMK</key>
+        <integer>100</integer>
+        <key>LIZNKMWB</key>
+        <integer>100</integer>
+        <key>NEWYMGXI</key>
+        <integer>100</integer>
+        <key>ODRGVBIZ</key>
+        <integer>100</integer>
+        <key>QRNGOSAS</key>
+        <integer>100</integer>
+        <key>RXBDHVJK</key>
+        <integer>100</integer>
+        <key>UOYWXUED</key>
+        <integer>100</integer>
+        <key>URPHJNPW</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>
