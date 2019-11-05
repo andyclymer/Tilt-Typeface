@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="231"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="115" y="40" type="move" name="YACKK"/>
+      <point x="115.0" y="86" name="BDRZEFMZ"/>
+      <point x="115.0" y="132" name="SLBPCARG"/>
+      <point x="115" y="178" type="curve" smooth="yes" name="GBOTVMJA"/>
+      <point x="115" y="308.0" name="HINUMCPF"/>
+      <point x="115.0" y="437" name="DWTVKTXA"/>
+      <point x="115" y="567" type="curve" smooth="yes" name="XVTTGOVF"/>
+      <point x="115.0" y="607.0" name="AMBCTFOH"/>
+      <point x="115.0" y="652" name="HEUJPUTA"/>
+      <point x="115" y="695" type="curve" name="FREEZ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AMBCTFOH</key>
+        <integer>120</integer>
+        <key>BDRZEFMZ</key>
+        <integer>120</integer>
+        <key>DWTVKTXA</key>
+        <integer>120</integer>
+        <key>FREEZ</key>
+        <integer>100</integer>
+        <key>GBOTVMJA</key>
+        <integer>120</integer>
+        <key>HEUJPUTA</key>
+        <integer>120</integer>
+        <key>HINUMCPF</key>
+        <integer>120</integer>
+        <key>SLBPCARG</key>
+        <integer>120</integer>
+        <key>XVTTGOVF</key>
+        <integer>120</integer>
+        <key>YACKK</key>
+        <integer>90</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

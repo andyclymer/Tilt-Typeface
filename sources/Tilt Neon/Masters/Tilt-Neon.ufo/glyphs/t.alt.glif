@@ -1,50 +1,81 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t.alt" format="2">
-  <advance width="403"/>
+  <advance width="336"/>
   <outline>
     <contour>
-      <point x="213" y="588" type="curve" smooth="yes"/>
-      <point x="213" y="139" type="line" smooth="yes"/>
-      <point x="213" y="85"/>
-      <point x="253" y="77"/>
-      <point x="300" y="100" type="curve" smooth="yes"/>
-      <point x="324" y="112"/>
-      <point x="355" y="101"/>
-      <point x="367" y="77" type="curve" smooth="yes"/>
-      <point x="379" y="53"/>
-      <point x="368" y="22"/>
-      <point x="344" y="10" type="curve" smooth="yes"/>
-      <point x="231" y="-45"/>
-      <point x="113" y="8"/>
-      <point x="113" y="139" type="curve" smooth="yes"/>
-      <point x="113" y="588" type="line" smooth="yes"/>
-      <point x="113" y="615"/>
-      <point x="136" y="638"/>
-      <point x="163" y="638" type="curve" smooth="yes"/>
-      <point x="190" y="638"/>
-      <point x="213" y="615"/>
+      <point x="279" y="453" type="move" name="SDRTNBMO"/>
+      <point x="259.0" y="453" name="YZGICSME"/>
+      <point x="241" y="453" name="BWLWBXFB"/>
+      <point x="222" y="453" type="curve" smooth="yes" name="NXRRWOBG"/>
+      <point x="185" y="453.0" name="WOYFWAAP"/>
+      <point x="148" y="453.0" name="DJOUCXJN"/>
+      <point x="111" y="453" type="curve" smooth="yes" name="CMPVRDML"/>
+      <point x="94" y="453.0" name="NWUVUROL"/>
+      <point x="78" y="453.0" name="ANNFZJGU"/>
+      <point x="57" y="453" type="curve" name="DXSXWAFU"/>
     </contour>
     <contour>
-      <point x="57" y="503" type="curve" smooth="yes"/>
-      <point x="299" y="503" type="line" smooth="yes"/>
-      <point x="326" y="503"/>
-      <point x="349" y="480"/>
-      <point x="349" y="453" type="curve" smooth="yes"/>
-      <point x="349" y="426"/>
-      <point x="326" y="403"/>
-      <point x="299" y="403" type="curve" smooth="yes"/>
-      <point x="57" y="403" type="line" smooth="yes"/>
-      <point x="30" y="403"/>
-      <point x="7" y="426"/>
-      <point x="7" y="453" type="curve" smooth="yes"/>
-      <point x="7" y="480"/>
-      <point x="30" y="503"/>
+      <point x="322" y="55" type="move" name="QOKCSCGT"/>
+      <point x="242" y="16" name="QTCNOAHB"/>
+      <point x="163" y="46" name="SXVSBNDH"/>
+      <point x="163.0" y="139.0" type="curve" smooth="yes" name="LGPPLBNW"/>
+      <point x="163.0" y="274.0" name="IDYSANVX"/>
+      <point x="163.0" y="343" name="TIHJDVKG"/>
+      <point x="163" y="463" type="curve" smooth="yes" name="NTGHOBJY"/>
+      <point x="163.0" y="514" name="XOKFSAJN"/>
+      <point x="163.0" y="551" name="XEAVIUBA"/>
+      <point x="163" y="588" type="curve" name="FREEZ"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ANNFZJGU</key>
+        <integer>75</integer>
+        <key>BWLWBXFB</key>
+        <integer>67</integer>
+        <key>CMPVRDML</key>
+        <integer>55</integer>
+        <key>DJOUCXJN</key>
+        <integer>29</integer>
+        <key>DXSXWAFU</key>
+        <integer>75</integer>
+        <key>FREEZ</key>
+        <integer>107</integer>
+        <key>IDYSANVX</key>
+        <integer>120</integer>
+        <key>LGPPLBNW</key>
+        <integer>120</integer>
+        <key>NTGHOBJY</key>
+        <integer>120</integer>
+        <key>NWUVUROL</key>
+        <integer>67</integer>
+        <key>NXRRWOBG</key>
+        <integer>55</integer>
+        <key>QOKCSCGT</key>
+        <integer>120</integer>
+        <key>QTCNOAHB</key>
+        <integer>120</integer>
+        <key>SDRTNBMO</key>
+        <integer>75</integer>
+        <key>SXVSBNDH</key>
+        <integer>120</integer>
+        <key>TIHJDVKG</key>
+        <integer>120</integer>
+        <key>WOYFWAAP</key>
+        <integer>32</integer>
+        <key>XEAVIUBA</key>
+        <integer>117</integer>
+        <key>XOKFSAJN</key>
+        <integer>120</integer>
+        <key>YZGICSME</key>
+        <real>75.0</real>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

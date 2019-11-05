@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one" format="2">
+  <advance width="344"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="65" y="590" type="move" name="VZBAGUKL"/>
+      <point x="101" y="606" name="PLVZQPNF"/>
+      <point x="151" y="622.0" name="XQFDBBDE"/>
+      <point x="179" y="622.0" type="curve" smooth="yes" name="UOPXTLVV"/>
+      <point x="213" y="622" name="NABNUSET"/>
+      <point x="219" y="593" name="HRUEXXPA"/>
+      <point x="219" y="470" type="curve" smooth="yes" name="PLNJETPR"/>
+      <point x="219" y="348" name="BYIKANKM"/>
+      <point x="219" y="275" name="BHRFNMBT"/>
+      <point x="219" y="165" type="curve" smooth="yes" name="VJEIFKEX"/>
+      <point x="219" y="116" name="EIBVJEML"/>
+      <point x="219" y="75" name="AALFBGHW"/>
+      <point x="219" y="40" type="curve" name="YXJXLSSN"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AALFBGHW</key>
+        <integer>113</integer>
+        <key>BHRFNMBT</key>
+        <integer>120</integer>
+        <key>BYIKANKM</key>
+        <integer>120</integer>
+        <key>EIBVJEML</key>
+        <integer>120</integer>
+        <key>HRUEXXPA</key>
+        <integer>120</integer>
+        <key>NABNUSET</key>
+        <integer>94</integer>
+        <key>PLNJETPR</key>
+        <integer>120</integer>
+        <key>PLVZQPNF</key>
+        <integer>34</integer>
+        <key>UOPXTLVV</key>
+        <integer>70</integer>
+        <key>VJEIFKEX</key>
+        <real>120.0</real>
+        <key>VZBAGUKL</key>
+        <integer>20</integer>
+        <key>XQFDBBDE</key>
+        <integer>50</integer>
+        <key>YXJXLSSN</key>
+        <integer>90</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

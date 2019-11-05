@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e" format="2">
+  <advance width="548"/>
+  <unicode hex="0065"/>
+  <outline>
+    <contour>
+      <point x="160" y="249" type="move" name="YDDQLPMX"/>
+      <point x="228" y="249.0" name="JZPEDHTF"/>
+      <point x="291" y="249" name="VPFJBBET"/>
+      <point x="367" y="249" type="curve" smooth="yes" name="IHCDJWJI"/>
+      <point x="446" y="249.0" name="HHPFYBYJ"/>
+      <point x="467" y="263" name="DXPRJJCY"/>
+      <point x="456" y="322" type="curve" smooth="yes" name="GMOLSIVN"/>
+      <point x="439" y="409" name="EPNTMRVL"/>
+      <point x="371" y="463" name="BJGUTBFE"/>
+      <point x="282" y="463" type="curve" smooth="yes" name="DDWMMQEL"/>
+      <point x="168" y="463" name="WBIZJIOC"/>
+      <point x="84" y="377" name="EFWQDRMX"/>
+      <point x="84" y="248" type="curve" smooth="yes" name="WEBXHGTB"/>
+      <point x="84" y="113" name="WKZYSFMJ"/>
+      <point x="174" y="34" name="UYTHFXJJ"/>
+      <point x="291" y="34" type="curve" smooth="yes" name="CCMWSJER"/>
+      <point x="341" y="34" name="COBVBUGN"/>
+      <point x="396" y="49" name="KKIIJGRO"/>
+      <point x="451" y="80" type="curve" name="HCOLIDQV"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BJGUTBFE</key>
+        <integer>120</integer>
+        <key>CCMWSJER</key>
+        <integer>120</integer>
+        <key>COBVBUGN</key>
+        <integer>120</integer>
+        <key>DDWMMQEL</key>
+        <integer>120</integer>
+        <key>DXPRJJCY</key>
+        <integer>120</integer>
+        <key>EFWQDRMX</key>
+        <integer>120</integer>
+        <key>EPNTMRVL</key>
+        <integer>120</integer>
+        <key>GMOLSIVN</key>
+        <integer>120</integer>
+        <key>HCOLIDQV</key>
+        <integer>90</integer>
+        <key>HHPFYBYJ</key>
+        <integer>50</integer>
+        <key>IHCDJWJI</key>
+        <real>50.0</real>
+        <key>JZPEDHTF</key>
+        <integer>100</integer>
+        <key>KKIIJGRO</key>
+        <integer>120</integer>
+        <key>UYTHFXJJ</key>
+        <integer>120</integer>
+        <key>VPFJBBET</key>
+        <integer>50</integer>
+        <key>WBIZJIOC</key>
+        <integer>120</integer>
+        <key>WEBXHGTB</key>
+        <integer>120</integer>
+        <key>WKZYSFMJ</key>
+        <integer>120</integer>
+        <key>YDDQLPMX</key>
+        <integer>50</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

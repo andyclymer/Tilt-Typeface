@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s" format="2">
+  <advance width="462"/>
+  <unicode hex="0073"/>
+  <outline>
+    <contour>
+      <point x="355" y="432" type="move" smooth="yes" name="VPSMP"/>
+      <point x="312" y="453" name="LZHPLUBK"/>
+      <point x="268" y="463" name="SJLGBQVG"/>
+      <point x="229" y="463" type="curve" smooth="yes" name="IBUUBQYJ"/>
+      <point x="154" y="462" name="HSJPZYCO"/>
+      <point x="96" y="426" name="SCUAINFV"/>
+      <point x="96" y="361" type="curve" smooth="yes" name="IPECA"/>
+      <point x="96" y="296" name="XDOTUUXK"/>
+      <point x="165" y="274" name="PUNJHFCT"/>
+      <point x="233" y="251" type="curve" smooth="yes" name="REPQBFZW"/>
+      <point x="304" y="227" name="QLABBTWW"/>
+      <point x="376" y="203" name="MYWNSIEC"/>
+      <point x="376" y="132" type="curve" smooth="yes" name="GOMRE"/>
+      <point x="376" y="69" name="OOIJDFCG"/>
+      <point x="319" y="34" name="WQSLZEGV"/>
+      <point x="244" y="34" type="curve" smooth="yes" name="GNYVBMFS"/>
+      <point x="197" y="34" name="AYXYSDGF"/>
+      <point x="144" y="49" name="RVENKPNS"/>
+      <point x="94" y="76" type="curve" name="CFFGT"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AYXYSDGF</key>
+        <integer>120</integer>
+        <key>CFFGT</key>
+        <integer>80</integer>
+        <key>GNYVBMFS</key>
+        <integer>120</integer>
+        <key>GOMRE</key>
+        <integer>100</integer>
+        <key>HSJPZYCO</key>
+        <integer>120</integer>
+        <key>IBUUBQYJ</key>
+        <integer>120</integer>
+        <key>IPECA</key>
+        <integer>120</integer>
+        <key>LZHPLUBK</key>
+        <integer>120</integer>
+        <key>MYWNSIEC</key>
+        <integer>100</integer>
+        <key>OOIJDFCG</key>
+        <integer>100</integer>
+        <key>PUNJHFCT</key>
+        <integer>130</integer>
+        <key>QLABBTWW</key>
+        <integer>110</integer>
+        <key>REPQBFZW</key>
+        <integer>120</integer>
+        <key>RVENKPNS</key>
+        <integer>100</integer>
+        <key>SCUAINFV</key>
+        <integer>120</integer>
+        <key>SJLGBQVG</key>
+        <integer>120</integer>
+        <key>VPSMP</key>
+        <integer>100</integer>
+        <key>WQSLZEGV</key>
+        <integer>120</integer>
+        <key>XDOTUUXK</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

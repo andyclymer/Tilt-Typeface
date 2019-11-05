@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma" format="2">
+  <advance width="269"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="105" y="-114.0" type="move" name="JUECNJRW"/>
+      <point x="146" y="-43.0" name="QOBAGKSY"/>
+      <point x="162" y="42.0" name="LYXSGCRL"/>
+      <point x="119" y="81.0" type="curve" name="TWLJCXDM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>JUECNJRW</key>
+        <integer>110</integer>
+        <key>LYXSGCRL</key>
+        <integer>140</integer>
+        <key>QOBAGKSY</key>
+        <integer>140</integer>
+        <key>TWLJCXDM</key>
+        <integer>110</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

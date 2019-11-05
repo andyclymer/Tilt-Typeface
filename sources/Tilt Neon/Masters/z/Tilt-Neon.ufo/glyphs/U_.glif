@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <advance width="668"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="115" y="640" type="move" name="IPTAQ"/>
+      <point x="115.0" y="605" name="YSMFLQJB"/>
+      <point x="115.0" y="539" name="KGRPXWGB"/>
+      <point x="115" y="504" type="curve" smooth="yes" name="BUMSARCN"/>
+      <point x="115.0" y="415.0" name="OWURAGSK"/>
+      <point x="115.0" y="357" name="PQLDBBOK"/>
+      <point x="115" y="268" type="curve" smooth="yes" name="IXEXE"/>
+      <point x="115" y="133" name="WAGIP"/>
+      <point x="207" y="35" name="GINKE"/>
+      <point x="335" y="35" type="curve" smooth="yes" name="MAAAX"/>
+      <point x="467" y="35" name="MAMUE"/>
+      <point x="553" y="133" name="PFILA"/>
+      <point x="553" y="268" type="curve" smooth="yes" name="BONEE"/>
+      <point x="553.0" y="357" name="BBPSPDJA"/>
+      <point x="553.0" y="415" name="IYRHNOEB"/>
+      <point x="553" y="504" type="curve" smooth="yes" name="YGSBJPCX"/>
+      <point x="553.0" y="539.0" name="UQCGVNRW"/>
+      <point x="553.0" y="605" name="NIZUFFPT"/>
+      <point x="553" y="640" type="curve" name="BACTA"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BACTA</key>
+        <integer>90</integer>
+        <key>BBPSPDJA</key>
+        <integer>120</integer>
+        <key>BONEE</key>
+        <integer>120</integer>
+        <key>BUMSARCN</key>
+        <integer>120</integer>
+        <key>CJKOVIUM</key>
+        <integer>0</integer>
+        <key>GINKE</key>
+        <integer>125</integer>
+        <key>IPTAQ</key>
+        <integer>90</integer>
+        <key>IXEXE</key>
+        <integer>120</integer>
+        <key>IYRHNOEB</key>
+        <integer>120</integer>
+        <key>JTBGTMQV</key>
+        <integer>0</integer>
+        <key>KGRPXWGB</key>
+        <integer>120</integer>
+        <key>MAAAX</key>
+        <integer>110</integer>
+        <key>MAMUE</key>
+        <integer>95</integer>
+        <key>NIZUFFPT</key>
+        <integer>120</integer>
+        <key>OWURAGSK</key>
+        <integer>120</integer>
+        <key>PFILA</key>
+        <integer>120</integer>
+        <key>PMVJMTJC</key>
+        <integer>0</integer>
+        <key>PQLDBBOK</key>
+        <integer>120</integer>
+        <key>UDEXESPE</key>
+        <integer>0</integer>
+        <key>UQCGVNRW</key>
+        <integer>120</integer>
+        <key>WAGIP</key>
+        <integer>120</integer>
+        <key>YGSBJPCX</key>
+        <integer>120</integer>
+        <key>YSMFLQJB</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>
