@@ -4,14 +4,49 @@
   <unicode hex="005C"/>
   <outline>
     <contour>
-      <point x="485" y="-160" type="line"/>
-      <point x="185" y="770" type="line"/>
-      <point x="20" y="770" type="line"/>
-      <point x="320" y="-160" type="line"/>
+      <point x="485" y="-160" type="curve" name="PQQJZPUR"/>
+      <point x="386" y="147" name="BATWLSRG"/>
+      <point x="284" y="463" name="VTZEWAGS"/>
+      <point x="185" y="770" type="curve" name="EVCZYRUS"/>
+      <point x="131" y="770" name="LAPPFKGR"/>
+      <point x="74" y="770" name="DWTUPFQN"/>
+      <point x="20" y="770" type="curve" name="IJHANSMS"/>
+      <point x="119" y="463" name="YBGMMVKI"/>
+      <point x="221" y="147" name="WORAOMOD"/>
+      <point x="320" y="-160" type="curve" name="NEMCSBWL"/>
+      <point x="374" y="-160" name="PYUYZFBY"/>
+      <point x="431" y="-160" name="TGOJCWXK"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BATWLSRG</key>
+        <integer>-41</integer>
+        <key>DWTUPFQN</key>
+        <integer>214</integer>
+        <key>EVCZYRUS</key>
+        <integer>203</integer>
+        <key>IJHANSMS</key>
+        <integer>224</integer>
+        <key>LAPPFKGR</key>
+        <integer>206</integer>
+        <key>NEMCSBWL</key>
+        <integer>203</integer>
+        <key>PQQJZPUR</key>
+        <integer>224</integer>
+        <key>PYUYZFBY</key>
+        <integer>206</integer>
+        <key>TGOJCWXK</key>
+        <integer>214</integer>
+        <key>VTZEWAGS</key>
+        <integer>-48</integer>
+        <key>WORAOMOD</key>
+        <integer>-48</integer>
+        <key>YBGMMVKI</key>
+        <integer>-41</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.7267,0.7266,0.7266,1</string>
     </dict>

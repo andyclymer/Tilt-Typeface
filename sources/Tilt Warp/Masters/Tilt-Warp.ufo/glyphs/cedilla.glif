@@ -6,26 +6,94 @@
   <anchor x="208" y="0" name="center"/>
   <outline>
     <contour>
-      <point x="239" y="-33" type="curve"/>
-      <point x="238" y="28" type="line"/>
-      <point x="131" y="28" type="line"/>
-      <point x="128" y="-111" type="line"/>
-      <point x="206" y="-106"/>
-      <point x="236" y="-115"/>
-      <point x="236" y="-137" type="curve" smooth="yes"/>
-      <point x="236" y="-165"/>
-      <point x="169" y="-176"/>
-      <point x="60" y="-142" type="curve"/>
-      <point x="60" y="-255" type="line"/>
-      <point x="235" y="-306"/>
-      <point x="356" y="-255"/>
-      <point x="356" y="-151" type="curve" smooth="yes"/>
-      <point x="356" y="-87"/>
-      <point x="307" y="-52"/>
+      <point x="239" y="-33" type="curve" name="XZWAFHSZ"/>
+      <point x="239" y="-13" name="QYJYLSHA"/>
+      <point x="238" y="8" name="BPGMIGDN"/>
+      <point x="238" y="28" type="curve" name="IIRTLVAL"/>
+      <point x="203" y="28" name="DUAIZKDE"/>
+      <point x="166" y="28" name="TUHBZXZQ"/>
+      <point x="131" y="28" type="curve" name="VDJYGZGC"/>
+      <point x="130" y="-18" name="ZFYKBHMF"/>
+      <point x="129" y="-65" name="QCMDMTKD"/>
+      <point x="128" y="-111" type="curve" name="SKPZCMPS"/>
+      <point x="206" y="-106" name="IJTLMMZV"/>
+      <point x="236" y="-115" name="NEIFPMQF"/>
+      <point x="236" y="-137" type="curve" smooth="yes" name="ACFWBIHL"/>
+      <point x="236" y="-165" name="ZIAZOWPO"/>
+      <point x="169" y="-176" name="UZAZDEFC"/>
+      <point x="60" y="-142" type="curve" name="WVNTPGMJ"/>
+      <point x="60" y="-179" name="MORFDEFM"/>
+      <point x="60" y="-218" name="EQDFAKPC"/>
+      <point x="60" y="-255" type="curve" name="VCPYGVIX"/>
+      <point x="235" y="-306" name="JFJTSUTQ"/>
+      <point x="356" y="-255" name="BKGFOCSB"/>
+      <point x="356" y="-151" type="curve" smooth="yes" name="UMUDSLPO"/>
+      <point x="356" y="-87" name="PTNZMFFG"/>
+      <point x="307" y="-52" name="YVNNNYJH"/>
+      <point x="239" y="-33" type="curve" name="UMZYAEUE"/>
+      <point x="239" y="-33" name="NQCILBKX"/>
+      <point x="239" y="-33" name="OZHCNUTE"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ACFWBIHL</key>
+        <integer>84</integer>
+        <key>BKGFOCSB</key>
+        <integer>115</integer>
+        <key>BPGMIGDN</key>
+        <integer>128</integer>
+        <key>DUAIZKDE</key>
+        <integer>142</integer>
+        <key>EQDFAKPC</key>
+        <integer>117</integer>
+        <key>IIRTLVAL</key>
+        <integer>144</integer>
+        <key>IJTLMMZV</key>
+        <integer>79</integer>
+        <key>JFJTSUTQ</key>
+        <integer>143</integer>
+        <key>MORFDEFM</key>
+        <integer>102</integer>
+        <key>NEIFPMQF</key>
+        <integer>82</integer>
+        <key>NQCILBKX</key>
+        <integer>104</integer>
+        <key>OZHCNUTE</key>
+        <integer>104</integer>
+        <key>PTNZMFFG</key>
+        <integer>90</integer>
+        <key>QCMDMTKD</key>
+        <integer>90</integer>
+        <key>QYJYLSHA</key>
+        <integer>114</integer>
+        <key>SKPZCMPS</key>
+        <integer>87</integer>
+        <key>TUHBZXZQ</key>
+        <integer>143</integer>
+        <key>UMUDSLPO</key>
+        <integer>99</integer>
+        <key>UMZYAEUE</key>
+        <integer>104</integer>
+        <key>UZAZDEFC</key>
+        <integer>80</integer>
+        <key>VCPYGVIX</key>
+        <integer>143</integer>
+        <key>VDJYGZGC</key>
+        <integer>147</integer>
+        <key>WVNTPGMJ</key>
+        <integer>98</integer>
+        <key>XZWAFHSZ</key>
+        <integer>104</integer>
+        <key>YVNNNYJH</key>
+        <integer>98</integer>
+        <key>ZFYKBHMF</key>
+        <integer>110</integer>
+        <key>ZIAZOWPO</key>
+        <integer>85</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.7267,0.7266,0.7266,1</string>
     </dict>

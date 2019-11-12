@@ -4,14 +4,49 @@
   <unicode hex="2044"/>
   <outline>
     <contour>
-      <point x="17" y="0" type="line"/>
-      <point x="155" y="0" type="line"/>
-      <point x="551" y="680" type="line"/>
-      <point x="413" y="680" type="line"/>
+      <point x="17" y="0" type="curve" name="ISKWUARY"/>
+      <point x="63" y="0" name="CNWWPQFQ"/>
+      <point x="109" y="0" name="NKXTGAZB"/>
+      <point x="155" y="0" type="curve" name="JKGOPHBI"/>
+      <point x="286" y="224" name="BWOYYZOF"/>
+      <point x="420" y="456" name="ALEGSUDX"/>
+      <point x="551" y="680" type="curve" name="KPJDDGAD"/>
+      <point x="505" y="680" name="ZHDNRGGX"/>
+      <point x="459" y="680" name="VNDTLQQE"/>
+      <point x="413" y="680" type="curve" name="QPMQUKAT"/>
+      <point x="282" y="456" name="HXNXLSSO"/>
+      <point x="148" y="224" name="JCEZEZAO"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ALEGSUDX</key>
+        <integer>-4</integer>
+        <key>BWOYYZOF</key>
+        <integer>-11</integer>
+        <key>CNWWPQFQ</key>
+        <integer>192</integer>
+        <key>HXNXLSSO</key>
+        <integer>-11</integer>
+        <key>ISKWUARY</key>
+        <integer>201</integer>
+        <key>JCEZEZAO</key>
+        <integer>-4</integer>
+        <key>JKGOPHBI</key>
+        <integer>181</integer>
+        <key>KPJDDGAD</key>
+        <integer>201</integer>
+        <key>NKXTGAZB</key>
+        <integer>185</integer>
+        <key>QPMQUKAT</key>
+        <integer>181</integer>
+        <key>VNDTLQQE</key>
+        <integer>185</integer>
+        <key>ZHDNRGGX</key>
+        <integer>192</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.7267,0.7266,0.7266,1</string>
     </dict>

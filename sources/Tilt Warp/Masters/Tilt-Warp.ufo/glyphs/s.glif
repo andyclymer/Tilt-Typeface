@@ -4,30 +4,94 @@
   <unicode hex="0073"/>
   <outline>
     <contour>
-      <point x="450" y="160" type="curve" smooth="yes"/>
-      <point x="450" y="-6"/>
-      <point x="246" y="-48"/>
-      <point x="48" y="9" type="curve"/>
-      <point x="48" y="165" type="line"/>
-      <point x="160" y="115"/>
-      <point x="284" y="107"/>
-      <point x="284.0" y="154" type="curve" smooth="yes"/>
-      <point x="284" y="211"/>
-      <point x="39.0" y="170"/>
-      <point x="39" y="357" type="curve" smooth="yes"/>
-      <point x="39" y="507"/>
-      <point x="231" y="571"/>
-      <point x="421" y="510" type="curve"/>
-      <point x="421" y="354" type="line"/>
-      <point x="308" y="408"/>
-      <point x="207" y="406"/>
-      <point x="207.0" y="365" type="curve" smooth="yes"/>
-      <point x="207" y="310"/>
-      <point x="450.0" y="352"/>
+      <point x="450" y="160" type="curve" name="GEVISUOS"/>
+      <point x="450" y="352" name="TCLQVGGH"/>
+      <point x="207" y="310" name="NQROQMOS"/>
+      <point x="207" y="365" type="curve" smooth="yes" name="SEYXWCFQ"/>
+      <point x="207" y="406" name="FKEESTLF"/>
+      <point x="308" y="408" name="XJROWUJX"/>
+      <point x="421" y="354" type="curve" name="MCGUKFRJ"/>
+      <point x="421" y="405" name="OVLVCVJX"/>
+      <point x="421" y="459" name="OWYDOZKM"/>
+      <point x="421" y="510" type="curve" name="YZQYGHYB"/>
+      <point x="231" y="571" name="MMLMEXYH"/>
+      <point x="39" y="507" name="HYLQCYNC"/>
+      <point x="39" y="357" type="curve" smooth="yes" name="IDVDWCGU"/>
+      <point x="39" y="170" name="GYJZAVWL"/>
+      <point x="284" y="211" name="BFTBXAUN"/>
+      <point x="284" y="154" type="curve" smooth="yes" name="GRUHXGDB"/>
+      <point x="284" y="107" name="CKEVINKN"/>
+      <point x="160" y="115" name="UUCMFDDE"/>
+      <point x="48" y="165" type="curve" name="DTBJBBHV"/>
+      <point x="48" y="114" name="WTQXTXVO"/>
+      <point x="48" y="60" name="QYAKTKZE"/>
+      <point x="48" y="9" type="curve" name="BKMBXHDK"/>
+      <point x="246" y="-48" name="XPGNYAUP"/>
+      <point x="450" y="-6" name="YBIOINUU"/>
+      <point x="450" y="160" type="curve" name="HNETJSQO"/>
+      <point x="450" y="160" name="MZKAPXFM"/>
+      <point x="450" y="160" name="YUGIZXJM"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BFTBXAUN</key>
+        <integer>54</integer>
+        <key>BKMBXHDK</key>
+        <integer>164</integer>
+        <key>CKEVINKN</key>
+        <integer>86</integer>
+        <key>DTBJBBHV</key>
+        <integer>86</integer>
+        <key>FKEESTLF</key>
+        <integer>85</integer>
+        <key>GEVISUOS</key>
+        <integer>89</integer>
+        <key>GRUHXGDB</key>
+        <integer>71</integer>
+        <key>GYJZAVWL</key>
+        <integer>36</integer>
+        <key>HNETJSQO</key>
+        <integer>89</integer>
+        <key>HYLQCYNC</key>
+        <integer>132</integer>
+        <key>IDVDWCGU</key>
+        <integer>89</integer>
+        <key>MCGUKFRJ</key>
+        <integer>83</integer>
+        <key>MMLMEXYH</key>
+        <integer>174</integer>
+        <key>MZKAPXFM</key>
+        <integer>89</integer>
+        <key>NQROQMOS</key>
+        <integer>54</integer>
+        <key>OVLVCVJX</key>
+        <integer>98</integer>
+        <key>OWYDOZKM</key>
+        <integer>124</integer>
+        <key>QYAKTKZE</key>
+        <integer>127</integer>
+        <key>SEYXWCFQ</key>
+        <integer>72</integer>
+        <key>TCLQVGGH</key>
+        <integer>34</integer>
+        <key>UUCMFDDE</key>
+        <integer>78</integer>
+        <key>WTQXTXVO</key>
+        <integer>100</integer>
+        <key>XJROWUJX</key>
+        <integer>78</integer>
+        <key>XPGNYAUP</key>
+        <integer>168</integer>
+        <key>YBIOINUU</key>
+        <integer>137</integer>
+        <key>YUGIZXJM</key>
+        <integer>89</integer>
+        <key>YZQYGHYB</key>
+        <integer>162</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.7267,0.7266,0.7266,1</string>
     </dict>

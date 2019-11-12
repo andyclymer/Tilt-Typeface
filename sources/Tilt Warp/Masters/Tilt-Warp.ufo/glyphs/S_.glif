@@ -4,30 +4,94 @@
   <unicode hex="0053"/>
   <outline>
     <contour>
-      <point x="512" y="205" type="curve" smooth="yes"/>
-      <point x="512" y="1"/>
-      <point x="277" y="-42"/>
-      <point x="51" y="20" type="curve"/>
-      <point x="51" y="192" type="line"/>
-      <point x="207" y="135"/>
-      <point x="333" y="145"/>
-      <point x="333" y="205" type="curve" smooth="yes"/>
-      <point x="333" y="290"/>
-      <point x="41" y="255"/>
-      <point x="41" y="477" type="curve" smooth="yes"/>
-      <point x="41" y="659"/>
-      <point x="252" y="728"/>
-      <point x="477" y="663" type="curve"/>
-      <point x="477" y="491" type="line"/>
-      <point x="337" y="550"/>
-      <point x="220" y="536"/>
-      <point x="220" y="481" type="curve" smooth="yes"/>
-      <point x="220" y="399"/>
-      <point x="512" y="437"/>
+      <point x="512" y="205" type="curve" name="XVEJXDSD"/>
+      <point x="512" y="437" name="CJONPZBL"/>
+      <point x="220" y="399" name="TCRINBPG"/>
+      <point x="220" y="481" type="curve" smooth="yes" name="IVMQQQGE"/>
+      <point x="220" y="536" name="MSXORLHW"/>
+      <point x="337" y="550" name="CABKESII"/>
+      <point x="477" y="491" type="curve" name="WKFJPCDV"/>
+      <point x="477" y="548" name="VSUIPFTE"/>
+      <point x="477" y="606" name="FVFSQYPJ"/>
+      <point x="477" y="663" type="curve" name="BDBDHWIJ"/>
+      <point x="252" y="728" name="TCMEKQLA"/>
+      <point x="41" y="659" name="OUYOMRAL"/>
+      <point x="41" y="477" type="curve" smooth="yes" name="MKQTIDLD"/>
+      <point x="41" y="255" name="BLAVIFFR"/>
+      <point x="333" y="290" name="ZBXBIUQE"/>
+      <point x="333" y="205" type="curve" smooth="yes" name="QULRYRWG"/>
+      <point x="333" y="145" name="CGADFFWK"/>
+      <point x="207" y="135" name="FLRYKLOL"/>
+      <point x="51" y="192" type="curve" name="GNZVORTW"/>
+      <point x="51" y="135" name="QQMZLLRL"/>
+      <point x="51" y="77" name="HKSONLUM"/>
+      <point x="51" y="20" type="curve" name="QKVLXWVO"/>
+      <point x="277" y="-42" name="KRMYDPUT"/>
+      <point x="512" y="1" name="LYJSVXPZ"/>
+      <point x="512" y="205" type="curve" name="YAOCUCFQ"/>
+      <point x="512" y="205" name="YDBTKICF"/>
+      <point x="512" y="205" name="OVEHPZEY"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BDBDHWIJ</key>
+        <integer>177</integer>
+        <key>BLAVIFFR</key>
+        <integer>15</integer>
+        <key>CABKESII</key>
+        <integer>79</integer>
+        <key>CGADFFWK</key>
+        <integer>80</integer>
+        <key>CJONPZBL</key>
+        <integer>11</integer>
+        <key>FLRYKLOL</key>
+        <integer>76</integer>
+        <key>FVFSQYPJ</key>
+        <integer>134</integer>
+        <key>GNZVORTW</key>
+        <integer>87</integer>
+        <key>HKSONLUM</key>
+        <integer>137</integer>
+        <key>IVMQQQGE</key>
+        <integer>63</integer>
+        <key>KRMYDPUT</key>
+        <integer>182</integer>
+        <key>LYJSVXPZ</key>
+        <integer>148</integer>
+        <key>MKQTIDLD</key>
+        <integer>85</integer>
+        <key>MSXORLHW</key>
+        <integer>81</integer>
+        <key>OUYOMRAL</key>
+        <integer>141</integer>
+        <key>OVEHPZEY</key>
+        <integer>84</integer>
+        <key>QKVLXWVO</key>
+        <integer>179</integer>
+        <key>QQMZLLRL</key>
+        <integer>106</integer>
+        <key>QULRYRWG</key>
+        <integer>62</integer>
+        <key>TCMEKQLA</key>
+        <integer>187</integer>
+        <key>TCRINBPG</key>
+        <integer>37</integer>
+        <key>VSUIPFTE</key>
+        <integer>102</integer>
+        <key>WKFJPCDV</key>
+        <integer>82</integer>
+        <key>XVEJXDSD</key>
+        <integer>84</integer>
+        <key>YAOCUCFQ</key>
+        <integer>84</integer>
+        <key>YDBTKICF</key>
+        <integer>84</integer>
+        <key>ZBXBIUQE</key>
+        <integer>35</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.7267,0.7266,0.7266,1</string>
     </dict>

@@ -4,14 +4,49 @@
   <unicode hex="002F"/>
   <outline>
     <contour>
-      <point x="5" y="-160" type="line"/>
-      <point x="170" y="-160" type="line"/>
-      <point x="470" y="770" type="line"/>
-      <point x="305" y="770" type="line"/>
+      <point x="5" y="-160" type="curve" name="CVBLIYYT"/>
+      <point x="59" y="-160" name="XLSMZMNG"/>
+      <point x="116" y="-160" name="REABMJMB"/>
+      <point x="170" y="-160" type="curve" name="SZRTWRMH"/>
+      <point x="269" y="147" name="DYHDTXTX"/>
+      <point x="371" y="463" name="GNVDROCX"/>
+      <point x="470" y="770" type="curve" name="UKDBENLA"/>
+      <point x="416" y="770" name="QZOTLQVD"/>
+      <point x="359" y="770" name="HSYWTHCZ"/>
+      <point x="305" y="770" type="curve" name="LZMYDINM"/>
+      <point x="206" y="463" name="RQXYKCYO"/>
+      <point x="104" y="147" name="GJTNYQOH"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CVBLIYYT</key>
+        <integer>224</integer>
+        <key>DYHDTXTX</key>
+        <integer>-48</integer>
+        <key>GJTNYQOH</key>
+        <integer>-41</integer>
+        <key>GNVDROCX</key>
+        <integer>-41</integer>
+        <key>HSYWTHCZ</key>
+        <integer>206</integer>
+        <key>LZMYDINM</key>
+        <integer>203</integer>
+        <key>QZOTLQVD</key>
+        <integer>214</integer>
+        <key>REABMJMB</key>
+        <integer>206</integer>
+        <key>RQXYKCYO</key>
+        <integer>-48</integer>
+        <key>SZRTWRMH</key>
+        <integer>203</integer>
+        <key>UKDBENLA</key>
+        <integer>224</integer>
+        <key>XLSMZMNG</key>
+        <integer>214</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.7267,0.7266,0.7266,1</string>
     </dict>

@@ -4,17 +4,67 @@
   <unicode hex="00B9"/>
   <outline>
     <contour>
-      <point x="122" y="636" type="line"/>
-      <point x="122" y="271" type="line"/>
-      <point x="257" y="271" type="line"/>
-      <point x="257" y="693" type="line"/>
-      <point x="40" y="655" type="line"/>
-      <point x="40" y="543" type="line"/>
-      <point x="257" y="581" type="line"/>
+      <point x="257" y="693" type="curve" name="TYSYHEIB"/>
+      <point x="185" y="680" name="UXYHZEGT"/>
+      <point x="112" y="668" name="YCNOUHXJ"/>
+      <point x="40" y="655" type="curve" name="WZARIRJB"/>
+      <point x="40" y="618" name="MLZZHFNS"/>
+      <point x="40" y="580" name="QEMEJOXC"/>
+      <point x="40" y="543" type="curve" name="YYCVLWOA"/>
+      <point x="67" y="548" name="NWWBTSOF"/>
+      <point x="95" y="552" name="GMRLXXFM"/>
+      <point x="122" y="557" type="curve" name="VEMIALKI"/>
+      <point x="122" y="463" name="BEBICDTP"/>
+      <point x="122" y="365" name="ZNNKDSUS"/>
+      <point x="122" y="271" type="curve" name="GKENHQYN"/>
+      <point x="167" y="271" name="KDSGOMAV"/>
+      <point x="212" y="271" name="EBPEYWJB"/>
+      <point x="257" y="271" type="curve" name="CMCSBJWR"/>
+      <point x="257" y="410" name="JZRJAEFT"/>
+      <point x="257" y="554" name="LNNCONIA"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BEBICDTP</key>
+        <integer>58</integer>
+        <key>CMCSBJWR</key>
+        <integer>168</integer>
+        <key>EBPEYWJB</key>
+        <integer>159</integer>
+        <key>GKENHQYN</key>
+        <integer>158</integer>
+        <key>GMRLXXFM</key>
+        <integer>84</integer>
+        <key>JZRJAEFT</key>
+        <integer>57</integer>
+        <key>KDSGOMAV</key>
+        <integer>155</integer>
+        <key>LNNCONIA</key>
+        <integer>57</integer>
+        <key>MLZZHFNS</key>
+        <integer>116</integer>
+        <key>NWWBTSOF</key>
+        <integer>86</integer>
+        <key>QEMEJOXC</key>
+        <integer>99</integer>
+        <key>TYSYHEIB</key>
+        <integer>168</integer>
+        <key>UXYHZEGT</key>
+        <integer>143</integer>
+        <key>VEMIALKI</key>
+        <integer>84</integer>
+        <key>WZARIRJB</key>
+        <integer>140</integer>
+        <key>YCNOUHXJ</key>
+        <integer>134</integer>
+        <key>YYCVLWOA</key>
+        <integer>90</integer>
+        <key>ZNNKDSUS</key>
+        <integer>82</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.7267,0.7266,0.7266,1</string>
     </dict>

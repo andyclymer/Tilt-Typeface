@@ -4,22 +4,58 @@
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="277" y="121" type="curve" smooth="yes"/>
-      <point x="380" y="121"/>
-      <point x="466" y="205"/>
-      <point x="466" y="308" type="curve" smooth="yes"/>
-      <point x="466" y="409"/>
-      <point x="380" y="493"/>
-      <point x="277" y="493" type="curve" smooth="yes"/>
-      <point x="171" y="493"/>
-      <point x="86" y="409"/>
-      <point x="86" y="308" type="curve" smooth="yes"/>
-      <point x="86" y="205"/>
-      <point x="171" y="121"/>
+      <point x="277" y="121" type="curve" name="NCPLHZWH"/>
+      <point x="380" y="121" name="FUFTGMGH"/>
+      <point x="466" y="205" name="FTQBFSNU"/>
+      <point x="466" y="308" type="curve" smooth="yes" name="HEIUMINW"/>
+      <point x="466" y="409" name="HJPSQLHE"/>
+      <point x="380" y="493" name="RHLKOTZI"/>
+      <point x="277" y="493" type="curve" smooth="yes" name="IIOOBLYR"/>
+      <point x="171" y="493" name="VEUWPQGC"/>
+      <point x="86" y="409" name="SDDFXILE"/>
+      <point x="86" y="308" type="curve" smooth="yes" name="GLBIXGDH"/>
+      <point x="86" y="205" name="MQULEPQQ"/>
+      <point x="171" y="121" name="XZNPFPDE"/>
+      <point x="277" y="121" type="curve" name="DXKIHZZV"/>
+      <point x="277" y="121" name="RUQYZNXY"/>
+      <point x="277" y="121" name="ANPTIHKU"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ANPTIHKU</key>
+        <integer>147</integer>
+        <key>DXKIHZZV</key>
+        <integer>147</integer>
+        <key>FTQBFSNU</key>
+        <integer>91</integer>
+        <key>FUFTGMGH</key>
+        <integer>147</integer>
+        <key>GLBIXGDH</key>
+        <integer>92</integer>
+        <key>HEIUMINW</key>
+        <integer>92</integer>
+        <key>HJPSQLHE</key>
+        <integer>93</integer>
+        <key>IIOOBLYR</key>
+        <integer>147</integer>
+        <key>MQULEPQQ</key>
+        <integer>91</integer>
+        <key>NCPLHZWH</key>
+        <integer>147</integer>
+        <key>RHLKOTZI</key>
+        <integer>147</integer>
+        <key>RUQYZNXY</key>
+        <integer>147</integer>
+        <key>SDDFXILE</key>
+        <integer>93</integer>
+        <key>VEUWPQGC</key>
+        <integer>147</integer>
+        <key>XZNPFPDE</key>
+        <integer>147</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.7267,0.7266,0.7266,1</string>
     </dict>

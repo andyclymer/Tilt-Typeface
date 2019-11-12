@@ -4,36 +4,105 @@
   <unicode hex="003A"/>
   <outline>
     <contour>
-      <point x="146" y="-16" type="curve" smooth="yes"/>
-      <point x="203" y="-16"/>
-      <point x="251" y="31"/>
-      <point x="251" y="88" type="curve" smooth="yes"/>
-      <point x="251" y="144"/>
-      <point x="203" y="191"/>
-      <point x="146" y="191" type="curve" smooth="yes"/>
-      <point x="87" y="191"/>
-      <point x="40" y="144"/>
-      <point x="40" y="88" type="curve" smooth="yes"/>
-      <point x="40" y="31"/>
-      <point x="87" y="-16"/>
+      <point x="146" y="326" type="curve" name="SBAASMEN"/>
+      <point x="203" y="326" name="DJAWFMLD"/>
+      <point x="251" y="373" name="KVQPCXWZ"/>
+      <point x="251" y="430" type="curve" smooth="yes" name="ZHEZIDEE"/>
+      <point x="251" y="486" name="BTYVHCYN"/>
+      <point x="203" y="533" name="REAZRCCX"/>
+      <point x="146" y="533" type="curve" smooth="yes" name="WIYGVHAM"/>
+      <point x="87" y="533" name="BXFLJUSM"/>
+      <point x="40" y="486" name="GZEOYDKC"/>
+      <point x="40" y="430" type="curve" smooth="yes" name="NPDNCPLQ"/>
+      <point x="40" y="373" name="GDQDLABA"/>
+      <point x="87" y="326" name="UTFSNXYN"/>
+      <point x="146" y="326" type="curve" name="TARETALK"/>
+      <point x="146" y="326" name="GGOGZAIC"/>
+      <point x="146" y="326" name="KCPRQPID"/>
     </contour>
     <contour>
-      <point x="146" y="326" type="curve" smooth="yes"/>
-      <point x="203" y="326"/>
-      <point x="251" y="373"/>
-      <point x="251" y="430" type="curve" smooth="yes"/>
-      <point x="251" y="486"/>
-      <point x="203" y="533"/>
-      <point x="146" y="533" type="curve" smooth="yes"/>
-      <point x="87" y="533"/>
-      <point x="40" y="486"/>
-      <point x="40" y="430" type="curve" smooth="yes"/>
-      <point x="40" y="373"/>
-      <point x="87" y="326"/>
+      <point x="146" y="-16" type="curve" name="SFYLWLUS"/>
+      <point x="203" y="-16" name="GXYPLBVN"/>
+      <point x="251" y="31" name="VKSCWFDF"/>
+      <point x="251" y="88" type="curve" smooth="yes" name="NOLMLALY"/>
+      <point x="251" y="144" name="OUXIWZTN"/>
+      <point x="203" y="191" name="XVILRCAJ"/>
+      <point x="146" y="191" type="curve" smooth="yes" name="NWEZOLTF"/>
+      <point x="87" y="191" name="BHLKOCBE"/>
+      <point x="40" y="144" name="OXCPAXIT"/>
+      <point x="40" y="88" type="curve" smooth="yes" name="WTWHHSTG"/>
+      <point x="40" y="31" name="IRQDPPTR"/>
+      <point x="87" y="-16" name="UUGSEHAW"/>
+      <point x="146" y="-16" type="curve" name="IIOTDBLU"/>
+      <point x="146" y="-16" name="ZOMWOMKD"/>
+      <point x="146" y="-16" name="JITYHYFS"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BHLKOCBE</key>
+        <integer>67</integer>
+        <key>BTYVHCYN</key>
+        <integer>141</integer>
+        <key>BXFLJUSM</key>
+        <integer>170</integer>
+        <key>DJAWFMLD</key>
+        <integer>67</integer>
+        <key>GDQDLABA</key>
+        <integer>84</integer>
+        <key>GGOGZAIC</key>
+        <integer>67</integer>
+        <key>GXYPLBVN</key>
+        <integer>170</integer>
+        <key>GZEOYDKC</key>
+        <integer>141</integer>
+        <key>IIOTDBLU</key>
+        <integer>170</integer>
+        <key>IRQDPPTR</key>
+        <integer>141</integer>
+        <key>JITYHYFS</key>
+        <integer>170</integer>
+        <key>KCPRQPID</key>
+        <integer>67</integer>
+        <key>KVQPCXWZ</key>
+        <integer>85</integer>
+        <key>NOLMLALY</key>
+        <integer>113</integer>
+        <key>NPDNCPLQ</key>
+        <integer>113</integer>
+        <key>NWEZOLTF</key>
+        <integer>67</integer>
+        <key>OUXIWZTN</key>
+        <integer>85</integer>
+        <key>OXCPAXIT</key>
+        <integer>85</integer>
+        <key>REAZRCCX</key>
+        <integer>170</integer>
+        <key>SBAASMEN</key>
+        <integer>67</integer>
+        <key>SFYLWLUS</key>
+        <integer>170</integer>
+        <key>TARETALK</key>
+        <integer>67</integer>
+        <key>UTFSNXYN</key>
+        <integer>67</integer>
+        <key>UUGSEHAW</key>
+        <integer>170</integer>
+        <key>VKSCWFDF</key>
+        <integer>141</integer>
+        <key>WIYGVHAM</key>
+        <integer>170</integer>
+        <key>WTWHHSTG</key>
+        <integer>113</integer>
+        <key>XVILRCAJ</key>
+        <integer>67</integer>
+        <key>ZHEZIDEE</key>
+        <integer>113</integer>
+        <key>ZOMWOMKD</key>
+        <integer>170</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.7267,0.7266,0.7266,1</string>
     </dict>

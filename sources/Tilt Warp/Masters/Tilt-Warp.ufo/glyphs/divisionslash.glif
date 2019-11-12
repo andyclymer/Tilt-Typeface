@@ -4,14 +4,49 @@
   <unicode hex="2215"/>
   <outline>
     <contour>
-      <point x="-25" y="-70" type="line"/>
-      <point x="147" y="-70" type="line"/>
-      <point x="543" y="730" type="line"/>
-      <point x="371" y="730" type="line"/>
+      <point x="-25" y="-70" type="curve" name="DQNOUAFV"/>
+      <point x="32" y="-70" name="WTPFTTEC"/>
+      <point x="90" y="-70" name="LRFYNLFK"/>
+      <point x="147" y="-70" type="curve" name="VCNURUFM"/>
+      <point x="278" y="194" name="RHPEQHHK"/>
+      <point x="412" y="466" name="JBJXHVDK"/>
+      <point x="543" y="730" type="curve" name="HVGDGZFT"/>
+      <point x="486" y="730" name="BBVHDEVD"/>
+      <point x="428" y="730" name="QXHDTNEJ"/>
+      <point x="371" y="730" type="curve" name="SDKCAPUD"/>
+      <point x="240" y="466" name="TTOOHCYC"/>
+      <point x="106" y="194" name="JBRNTASD"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BBVHDEVD</key>
+        <integer>203</integer>
+        <key>DQNOUAFV</key>
+        <integer>214</integer>
+        <key>HVGDGZFT</key>
+        <integer>214</integer>
+        <key>JBJXHVDK</key>
+        <integer>-23</integer>
+        <key>JBRNTASD</key>
+        <integer>-23</integer>
+        <key>LRFYNLFK</key>
+        <integer>195</integer>
+        <key>QXHDTNEJ</key>
+        <integer>195</integer>
+        <key>RHPEQHHK</key>
+        <integer>-31</integer>
+        <key>SDKCAPUD</key>
+        <integer>190</integer>
+        <key>TTOOHCYC</key>
+        <integer>-31</integer>
+        <key>VCNURUFM</key>
+        <integer>190</integer>
+        <key>WTPFTTEC</key>
+        <integer>203</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.7267,0.7266,0.7266,1</string>
     </dict>

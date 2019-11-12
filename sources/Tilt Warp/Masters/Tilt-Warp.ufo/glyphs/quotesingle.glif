@@ -4,14 +4,49 @@
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="78.0" y="398.0" type="line"/>
-      <point x="64.0" y="680.0" type="line"/>
-      <point x="233.0" y="680.0" type="line"/>
-      <point x="219.0" y="398.0" type="line"/>
+      <point x="78" y="398" type="curve" name="JGTRZAPL"/>
+      <point x="125" y="398" name="HONEDBDD"/>
+      <point x="172" y="398" name="AZTCUOZT"/>
+      <point x="219" y="398" type="curve" name="QPBVZXCK"/>
+      <point x="224" y="491" name="IQWPWNJX"/>
+      <point x="228" y="587" name="SKIUGXAW"/>
+      <point x="233" y="680" type="curve" name="UKBAWALT"/>
+      <point x="177" y="680" name="PCPBNEXQ"/>
+      <point x="120" y="680" name="CNPISUNK"/>
+      <point x="64" y="680" type="curve" name="GZUKBZVK"/>
+      <point x="69" y="587" name="SBGHDKGK"/>
+      <point x="73" y="491" name="RXNEVKJO"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AZTCUOZT</key>
+        <integer>142</integer>
+        <key>CNPISUNK</key>
+        <integer>141</integer>
+        <key>GZUKBZVK</key>
+        <integer>152</integer>
+        <key>HONEDBDD</key>
+        <integer>142</integer>
+        <key>IQWPWNJX</key>
+        <integer>76</integer>
+        <key>JGTRZAPL</key>
+        <integer>150</integer>
+        <key>PCPBNEXQ</key>
+        <integer>141</integer>
+        <key>QPBVZXCK</key>
+        <integer>150</integer>
+        <key>RXNEVKJO</key>
+        <integer>76</integer>
+        <key>SBGHDKGK</key>
+        <integer>77</integer>
+        <key>SKIUGXAW</key>
+        <integer>77</integer>
+        <key>UKBAWALT</key>
+        <integer>152</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.7267,0.7266,0.7266,1</string>
     </dict>

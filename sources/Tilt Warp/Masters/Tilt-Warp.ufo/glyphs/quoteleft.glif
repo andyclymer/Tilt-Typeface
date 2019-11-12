@@ -4,14 +4,49 @@
   <unicode hex="2018"/>
   <outline>
     <contour>
-      <point x="259.0" y="680.0" type="line"/>
-      <point x="210.0" y="398.0" type="line"/>
-      <point x="41.0" y="398.0" type="line"/>
-      <point x="115.0" y="680.0" type="line"/>
+      <point x="259" y="680" type="curve" name="CLSILYOF"/>
+      <point x="211" y="680" name="WHDYOMPJ"/>
+      <point x="163" y="680" name="PCCZAOQS"/>
+      <point x="115" y="680" type="curve" name="NVLSTZHV"/>
+      <point x="91" y="587" name="XWSQXPSV"/>
+      <point x="65" y="491" name="JDPATECS"/>
+      <point x="41" y="398" type="curve" name="ZEVIUNPN"/>
+      <point x="97" y="398" name="MXSLCWNN"/>
+      <point x="154" y="398" name="MVMWSTLZ"/>
+      <point x="210" y="398" type="curve" name="TIGRLRHY"/>
+      <point x="226" y="491" name="FWFSEVZL"/>
+      <point x="243" y="587" name="CHAIBBCP"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CHAIBBCP</key>
+        <integer>76</integer>
+        <key>CLSILYOF</key>
+        <integer>153</integer>
+        <key>FWFSEVZL</key>
+        <integer>73</integer>
+        <key>JDPATECS</key>
+        <integer>74</integer>
+        <key>MVMWSTLZ</key>
+        <integer>140</integer>
+        <key>MXSLCWNN</key>
+        <integer>142</integer>
+        <key>NVLSTZHV</key>
+        <integer>144</integer>
+        <key>PCCZAOQS</key>
+        <integer>141</integer>
+        <key>TIGRLRHY</key>
+        <integer>146</integer>
+        <key>WHDYOMPJ</key>
+        <integer>144</integer>
+        <key>XWSQXPSV</key>
+        <integer>71</integer>
+        <key>ZEVIUNPN</key>
+        <integer>153</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.7267,0.7266,0.7266,1</string>
     </dict>
