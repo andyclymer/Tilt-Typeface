@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency" format="2">
+  <advance width="500"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="141.70643881116192" y="464.99999672536273" type="move" name="WIBAS"/>
+      <point x="70.27618915647403" y="565.9999951870448" type="line" name="HUBEX"/>
+    </contour>
+    <contour>
+      <point x="227.30227263830193" y="174.0000011575462" type="curve" smooth="yes" name="MERKY"/>
+      <point x="158.00580808202028" y="174.0000011575462" name="EDWIL"/>
+      <point x="110.62101480351897" y="244.00000009138523" name="ZENUP"/>
+      <point x="110.60867346208681" y="343.9999985682981" type="curve" smooth="yes" name="LOYYI"/>
+      <point x="110.59633212065465" y="443.99999704521105" name="OLLEY"/>
+      <point x="157.96409434797934" y="511.99999600951185" name="UBICI"/>
+      <point x="227.26055890426102" y="511.99999600951185" type="curve" smooth="yes" name="SHIPN"/>
+      <point x="296.55702346054267" y="511.99999600951185" name="EFOUR"/>
+      <point x="346.06289025577496" y="443.99999704521105" name="FARDU"/>
+      <point x="346.07523159720716" y="343.9999985682981" type="curve" smooth="yes" name="FOBOR"/>
+      <point x="346.08757293863937" y="244.00000009138523" name="KITPE"/>
+      <point x="296.5987371945836" y="174.0000011575462" name="LELLI"/>
+    </contour>
+    <contour>
+      <point x="386.3529203468608" y="565.9999951870448" type="move" name="WINIS"/>
+      <point x="314.94760020186607" y="464.99999672536273" type="line" name="REHAB"/>
+    </contour>
+    <contour>
+      <point x="70.33123153926178" y="120.00000198001322" type="move" name="MEGSS"/>
+      <point x="141.73655168425654" y="221.00000044169525" type="line" name="FOVES"/>
+    </contour>
+    <contour>
+      <point x="314.9777130749607" y="221.00000044169525" type="move" name="HULZE"/>
+      <point x="386.40796272964855" y="120.00000198001322" type="line" name="AYOCI"/>
+    </contour>
+  </outline>
+</glyph>

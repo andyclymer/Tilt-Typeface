@@ -18,18 +18,18 @@
       <point x="230" y="116" name="XYHIEGXK"/>
       <point x="188" y="140" name="TTZOKTHK"/>
       <point x="188" y="179" type="curve" smooth="yes" name="ISHNKXZW"/>
-      <point x="188" y="216"/>
-      <point x="223" y="238"/>
-      <point x="259" y="266" type="curve" smooth="yes"/>
-      <point x="304" y="299"/>
-      <point x="353" y="340"/>
+      <point x="188" y="216" name="NUMSE"/>
+      <point x="223" y="238" name="SECBO"/>
+      <point x="259" y="266" type="curve" smooth="yes" name="RARKE"/>
+      <point x="304" y="299" name="TEBOW"/>
+      <point x="353" y="340" name="CECAR"/>
       <point x="344" y="423" type="curve" name="MVOGZFFD"/>
       <point x="237" y="423" type="line" name="RGCOXSTJ"/>
-      <point x="237" y="382"/>
-      <point x="196" y="359"/>
-      <point x="151" y="332" type="curve" smooth="yes"/>
-      <point x="96" y="299"/>
-      <point x="35" y="259"/>
+      <point x="237" y="382" name="CFVKB"/>
+      <point x="196" y="359" name="CUBAZ"/>
+      <point x="151" y="332" type="curve" smooth="yes" name="ECEBA"/>
+      <point x="96" y="299" name="CONPO"/>
+      <point x="35" y="259" name="KD48S"/>
     </contour>
     <contour>
       <point x="371" y="680" type="line" name="APXCUMSR"/>
@@ -38,4 +38,55 @@
       <point x="371" y="519" type="line" name="TCUQKZGD"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BGIAKFXI</key>
+        <integer>100</integer>
+        <key>BUWWFJIJ</key>
+        <integer>100</integer>
+        <key>CZGRHAEP</key>
+        <integer>100</integer>
+        <key>DBTMXWNH</key>
+        <integer>100</integer>
+        <key>DMOCMXSX</key>
+        <integer>0</integer>
+        <key>DUAAOXAS</key>
+        <integer>0</integer>
+        <key>DUKJKRKS</key>
+        <integer>100</integer>
+        <key>GIGXNIGK</key>
+        <integer>100</integer>
+        <key>GMKLNRTI</key>
+        <integer>0</integer>
+        <key>GYNLDTND</key>
+        <integer>100</integer>
+        <key>IIYOJRYX</key>
+        <integer>0</integer>
+        <key>JRLMZRMB</key>
+        <integer>0</integer>
+        <key>JYLHONKL</key>
+        <integer>0</integer>
+        <key>KFGIGMOD</key>
+        <integer>0</integer>
+        <key>MKGMAZJP</key>
+        <integer>100</integer>
+        <key>OWEGBLNJ</key>
+        <integer>100</integer>
+        <key>PHPTNCMS</key>
+        <integer>100</integer>
+        <key>PRYMSVEV</key>
+        <integer>100</integer>
+        <key>SKGHRGHM</key>
+        <integer>100</integer>
+        <key>VWUMAPUP</key>
+        <integer>100</integer>
+        <key>XJBUXPFQ</key>
+        <integer>0</integer>
+        <key>XPKIAYVY</key>
+        <integer>100</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

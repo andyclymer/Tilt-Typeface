@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="500"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="56.65686955258667" y="307.9999991166095" type="move" name="CUBDI"/>
+      <point x="325.35744640347474" y="307.9999991166095" type="line" name="UYULU"/>
+    </contour>
+    <contour>
+      <point x="195.97566428531348" y="459.9999968015171" type="move" name="VPATN"/>
+      <point x="171.9346507920425" y="464.99999672536273" name="IYUWI"/>
+      <point x="171.93884684812946" y="498.99999620751316" name="GAMSE"/>
+      <point x="195.98109447554367" y="503.9999961313588" type="curve" name="PIBOC"/>
+    </contour>
+    <contour>
+      <point x="196.64550021537474" y="158.00000140124013" type="move" name="LUCIP"/>
+      <point x="172.6033760013748" y="154.0000014621636" name="AWOYO"/>
+      <point x="172.59893311845923" y="118.00000201047496" name="AKYAL"/>
+      <point x="196.64007002514455" y="114.00000207139846" type="curve" name="FAAIR"/>
+    </contour>
+  </outline>
+</glyph>

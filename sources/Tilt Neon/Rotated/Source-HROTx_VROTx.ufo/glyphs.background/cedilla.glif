@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="500"/>
+  <unicode hex="00B8"/>
+  <anchor x="-61.0" y="-20.0" name="bottom"/>
+  <anchor x="147.0" y="-20.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="-167.36753236814712" y="-86.58282784479667" type="move" name="GENET"/>
+      <point x="-109.67157287525373" y="-116.98841943581817" name="JASOG"/>
+      <point x="-29.703535443718287" y="-97.8965363437814" name="STEIT"/>
+      <point x="6.296464556281705" y="-46.98484809834997" type="curve" smooth="yes" name="TELOY"/>
+      <point x="32.796464556281705" y="-9.508188695462941" name="KNOSP"/>
+      <point x="10.441125496954328" y="8.87658761538728" name="FILEK"/>
+      <point x="-38.97056274847711" y="10.99790795894691" type="curve" name="ADREW"/>
+      <point x="9.029437251522864" y="78.88015895285548" type="line" name="CETEM"/>
+    </contour>
+  </outline>
+</glyph>

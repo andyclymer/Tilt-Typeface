@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="500"/>
+  <unicode hex="00A8"/>
+  <anchor x="-84.0" y="497.0" name="top"/>
+  <anchor x="204.0" y="497.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="-80.15001794687487" y="554.0559159102154" type="move" name="IPENE"/>
+      <point x="-101.69164850721751" y="550.5203820042827" name="HANUL"/>
+      <point x="-84.69164850721751" y="526.4787514439402" name="BFMCF"/>
+      <point x="-58.150017946874925" y="522.9432175380074" type="curve" name="FERAK"/>
+    </contour>
+    <contour>
+      <point x="75.91347391416559" y="553.348809129029" type="move" name="JAPUD"/>
+      <point x="53.87184335382295" y="550.5203820042827" name="EANEY"/>
+      <point x="71.87184335382295" y="525.064537881567" name="IGIKE"/>
+      <point x="97.91347391416556" y="522.2361107568208" type="curve" name="DARTN"/>
+    </contour>
+  </outline>
+</glyph>
