@@ -4,80 +4,22 @@
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="446" y="168" type="curve" smooth="yes"/>
-      <point x="162" y="168" type="line" smooth="yes"/>
-      <point x="135" y="168"/>
-      <point x="112" y="191"/>
-      <point x="112" y="218" type="curve" smooth="yes"/>
-      <point x="112" y="245"/>
-      <point x="135" y="268"/>
-      <point x="162" y="268" type="curve" smooth="yes"/>
-      <point x="446" y="268" type="line" smooth="yes"/>
-      <point x="473" y="268"/>
-      <point x="496" y="245"/>
-      <point x="496" y="218" type="curve" smooth="yes"/>
-      <point x="496" y="191"/>
-      <point x="473" y="168"/>
+      <point x="445.6951770628086" y="218.0" type="move"/>
+      <point x="161.69517706280868" y="218.0" type="line"/>
     </contour>
     <contour>
-      <point x="446" y="400" type="curve" smooth="yes"/>
-      <point x="724" y="400" type="line" smooth="yes"/>
-      <point x="751" y="400"/>
-      <point x="774" y="377"/>
-      <point x="774" y="350" type="curve" smooth="yes"/>
-      <point x="774" y="323"/>
-      <point x="751" y="300"/>
-      <point x="724" y="300" type="curve" smooth="yes"/>
-      <point x="446" y="300" type="line" smooth="yes"/>
-      <point x="419" y="300"/>
-      <point x="396" y="323"/>
-      <point x="396" y="350" type="curve" smooth="yes"/>
-      <point x="396" y="377"/>
-      <point x="419" y="400"/>
+      <point x="445.6951770628086" y="350.0" type="move" name="CFBCJ"/>
+      <point x="723.6951770628086" y="350.0" type="line" name="CAGED"/>
     </contour>
     <contour>
-      <point x="744" y="585" type="curve" smooth="yes"/>
-      <point x="359" y="585" type="line"/>
-      <point x="404" y="613" type="line"/>
-      <point x="120" y="18" type="line" smooth="yes"/>
-      <point x="108" y="-6"/>
-      <point x="78" y="-17"/>
-      <point x="53" y="-5" type="curve" smooth="yes"/>
-      <point x="29" y="7"/>
-      <point x="18" y="37"/>
-      <point x="30" y="62" type="curve" smooth="yes"/>
-      <point x="314" y="657" type="line" smooth="yes"/>
-      <point x="322" y="674"/>
-      <point x="340" y="685"/>
-      <point x="359" y="685" type="curve" smooth="yes"/>
-      <point x="744" y="685" type="line" smooth="yes"/>
-      <point x="771" y="685"/>
-      <point x="794" y="662"/>
-      <point x="794" y="635" type="curve" smooth="yes"/>
-      <point x="794" y="608"/>
-      <point x="771" y="585"/>
+      <point x="743.6951770628086" y="635.0" type="move" name="CAGED"/>
+      <point x="358.6951770628086" y="635.0" type="line"/>
+      <point x="74.69517706280867" y="40.0" type="line"/>
     </contour>
     <contour>
-      <point x="744" y="-5" type="curve" smooth="yes"/>
-      <point x="446" y="-5" type="line" smooth="yes"/>
-      <point x="418" y="-5"/>
-      <point x="396" y="17"/>
-      <point x="396" y="45" type="curve" smooth="yes"/>
-      <point x="396" y="635" type="line" smooth="yes"/>
-      <point x="396" y="662"/>
-      <point x="419" y="685"/>
-      <point x="446" y="685" type="curve" smooth="yes"/>
-      <point x="473" y="685"/>
-      <point x="496" y="662"/>
-      <point x="496" y="635" type="curve" smooth="yes"/>
-      <point x="496" y="45" type="line"/>
-      <point x="446" y="95" type="line"/>
-      <point x="744" y="95" type="line" smooth="yes"/>
-      <point x="771" y="95"/>
-      <point x="794" y="72"/>
-      <point x="794" y="45" type="curve" smooth="yes"/>
-      <point x="794" y="18"/>
-      <point x="771" y="-5"/>
+      <point x="743.6951770628086" y="45.0" type="move" name="CAGED"/>
+      <point x="445.6951770628086" y="45.0" type="line" name="JITUK"/>
+      <point x="445.6951770628086" y="635.0" type="line" name="IPTAQ"/>
     </contour>
   </outline>
   <lib>
