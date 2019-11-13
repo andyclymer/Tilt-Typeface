@@ -3,33 +3,7 @@
   <advance width="199"/>
   <unicode hex="00EC"/>
   <outline>
-    <contour>
-      <point x="-50.249476989736706" y="426.06958851545033" type="curve" name="DJKATCBC"/>
-      <point x="-119.20532111245242" y="460.71782079359116" name="VYHPDQUC"/>
-      <point x="-198.36827201635464" y="484.7594513539338" name="RQHGTEAB"/>
-      <point x="-284.3241161390704" y="495.36605307173204" type="curve" name="WGPWBDJU"/>
-      <point x="-324.5434162290767" y="497.4873734152917" name="TAIAKDJQ"/>
-      <point x="-370.1769298814561" y="493.95183950935893" name="QAYFXUNA"/>
-      <point x="-417.3962299714624" y="486.1736649163069" type="curve" name="BAIOLXXN"/>
-      <point x="-320.7835315992543" y="482.6381310103742" name="DADVZOTS"/>
-      <point x="-230.2566196646731" y="465.66756826189703" name="YDMUTBIO"/>
-      <point x="-151.64392129246502" y="436.6761902332486" type="curve" name="LRGHEEHB"/>
-      <point x="-115.58147545195109" y="436.6761902332486" name="PASGBXAM"/>
-      <point x="-81.31192283025061" y="433.1406563273158" name="MAXPXNDM"/>
-    </contour>
-    <contour>
-      <point x="70.1636905521098" y="-62.54119728445403" type="curve" name="JVRMPMMT"/>
-      <point x="108.84745673618337" y="-61.834090503267475" name="AJQIFJOO"/>
-      <point x="147.1525432638166" y="-64.66251762801363" name="TVUPUJVB"/>
-      <point x="179.83630944789013" y="-72.44069222106566" type="curve" name="GMSRVAKU"/>
-      <point x="162.83630944789016" y="145.34819638439097" name="EUMCUWVK"/>
-      <point x="99.33630944789019" y="303.0330085889911" name="BWPSONMM"/>
-      <point x="-7.163690552109827" y="394.2497833620557" type="curve" name="UHIZKBHX"/>
-      <point x="-39.8474567361834" y="402.02795795510775" name="CTUIPCPQ"/>
-      <point x="-77.6525432638166" y="405.56349186104046" name="QCVOWGYY"/>
-      <point x="-116.83630944789013" y="404.14927829866735" type="curve" name="PZXABNDO"/>
-      <point x="-10.336309447890159" y="312.9325035256027" name="NYTPJYWO"/>
-      <point x="52.66369055210983" y="154.54058453981608" name="UFERTXAX"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="grave" xOffset="-113.5"/>
   </outline>
 </glyph>

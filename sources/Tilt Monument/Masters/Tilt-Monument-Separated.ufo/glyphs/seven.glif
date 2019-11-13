@@ -8,7 +8,9 @@
       <point x="215" y="120" name="XDKAAYUE"/>
       <point x="244" y="199" name="IYVOMWBG"/>
       <point x="302" y="349" type="curve" smooth="yes" name="HXONLBMA"/>
-      <point x="406" y="617" type="line" name="EFFTHVTP"/>
+      <point x="337" y="438" name="JJDVOFDA"/>
+      <point x="371" y="528" name="IVIJYFFS"/>
+      <point x="406" y="617" type="curve" name="EFFTHVTP"/>
       <point x="205.0" y="617.0" name="JOLLTGOH"/>
       <point x="144" y="615" name="VEPPKOZH"/>
       <point x="97" y="611" type="curve" name="NLSEGDFT"/>
@@ -31,8 +33,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
       <key>com.andyclymer.zPosition</key>
       <dict>
         <key>ALZMLKRH</key>
@@ -53,7 +53,11 @@
         <integer>100</integer>
         <key>IIYOJRYX</key>
         <integer>0</integer>
+        <key>IVIJYFFS</key>
+        <integer>100</integer>
         <key>IYVOMWBG</key>
+        <integer>100</integer>
+        <key>JJDVOFDA</key>
         <integer>100</integer>
         <key>JOLLTGOH</key>
         <integer>100</integer>
@@ -70,8 +74,6 @@
         <key>XDKAAYUE</key>
         <integer>100</integer>
       </dict>
-      <key>public.markColor</key>
-      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

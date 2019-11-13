@@ -3,15 +3,56 @@
   <advance width="271"/>
   <unicode hex="003A"/>
   <outline>
-    <component base="period"/>
-    <component base="period" yOffset="362"/>
+    <contour>
+      <point x="55" y="161" type="move" name="JUEUAOAH"/>
+      <point x="135" y="81" type="line" name="ACKOLSHL"/>
+      <point x="216" y="0" type="line" name="SNIIOPRX"/>
+    </contour>
+    <contour>
+      <point x="55" y="0" type="move" name="OZDLDOBW"/>
+      <point x="135" y="81" type="line" name="IGZQKTJD"/>
+      <point x="216" y="161" type="line" name="OUBPMZEA"/>
+    </contour>
+    <contour>
+      <point x="55" y="523" type="move" name="EOKNLYNW"/>
+      <point x="135" y="443" type="line" name="IYKBLZUM"/>
+      <point x="216" y="362" type="line" name="NDDFQOJL"/>
+    </contour>
+    <contour>
+      <point x="55" y="362" type="move" name="YFRKOFJK"/>
+      <point x="135" y="443" type="line" name="DEQLQDNU"/>
+      <point x="216" y="523" type="line" name="BRVXLGWN"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
-      <key>public.markColor</key>
-      <string>0.7529,0.5725,0.9529,1</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ACKOLSHL</key>
+        <integer>100</integer>
+        <key>BRVXLGWN</key>
+        <real>0.0</real>
+        <key>DEQLQDNU</key>
+        <integer>100</integer>
+        <key>EOKNLYNW</key>
+        <integer>0</integer>
+        <key>IGZQKTJD</key>
+        <integer>100</integer>
+        <key>IYKBLZUM</key>
+        <integer>100</integer>
+        <key>JUEUAOAH</key>
+        <integer>0</integer>
+        <key>NDDFQOJL</key>
+        <real>0.0</real>
+        <key>OUBPMZEA</key>
+        <real>0.0</real>
+        <key>OZDLDOBW</key>
+        <integer>0</integer>
+        <key>SNIIOPRX</key>
+        <real>0.0</real>
+        <key>YFRKOFJK</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

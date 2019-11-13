@@ -3,14 +3,37 @@
   <advance width="274"/>
   <unicode hex="201A"/>
   <outline>
-    <component base="comma"/>
+    <contour>
+      <point x="25" y="-130" type="move" smooth="yes" name="JUNWJFMJ"/>
+      <point x="112" y="-63" name="WEWTMJJV"/>
+      <point x="147" y="19" name="AEXINPXG"/>
+      <point x="148" y="99" type="curve" name="AZXRXXIH"/>
+    </contour>
+    <contour>
+      <point x="60.0" y="161.0" type="move" name="XJBUXPFQ"/>
+      <point x="148.0" y="99.0" type="line" name="VWUMAPUP"/>
+      <point x="227.0" y="161.0" type="line" name="JRLMZRMB"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
-      <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AEXINPXG</key>
+        <integer>70</integer>
+        <key>AZXRXXIH</key>
+        <real>100.0</real>
+        <key>JRLMZRMB</key>
+        <real>0.0</real>
+        <key>JUNWJFMJ</key>
+        <integer>0</integer>
+        <key>VWUMAPUP</key>
+        <integer>100</integer>
+        <key>WEWTMJJV</key>
+        <integer>30</integer>
+        <key>XJBUXPFQ</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -6,53 +6,49 @@
   <anchor x="210" y="517" name="center"/>
   <outline>
     <contour>
-      <point x="209" y="604" type="curve" smooth="yes" name="EKPZITFF"/>
-      <point x="146" y="604" name="DEHMSOER"/>
-      <point x="104" y="648" name="AMFWMNJF"/>
-      <point x="104" y="710" type="curve" smooth="yes" name="ECKCGIIP"/>
-      <point x="104" y="772" name="VOMSSANZ"/>
-      <point x="146" y="815" name="YWSPZCHW"/>
-      <point x="209" y="815" type="curve" smooth="yes" name="PFEIDUTL"/>
-      <point x="272" y="815" name="KIQPXMDL"/>
-      <point x="316" y="772" name="KEJBBFXD"/>
-      <point x="316" y="710" type="curve" smooth="yes" name="ARXPPRDQ"/>
-      <point x="316" y="648" name="SLUXJUNA"/>
-      <point x="272" y="604" name="FDOOVKYA"/>
+      <point x="209" y="582" type="curve" smooth="yes" name="HHMFTAMQ"/>
+      <point x="270" y="582" name="VFATWUJL"/>
+      <point x="312" y="623" name="BRQJWCST"/>
+      <point x="312" y="681" type="curve" smooth="yes" name="OBIOFBBA"/>
+      <point x="312" y="738" name="WIOZFHLB"/>
+      <point x="270" y="779" name="JOGKENBO"/>
+      <point x="209" y="779" type="curve" smooth="yes" name="EBIXPZPA"/>
+      <point x="150" y="779" name="BCGVZHKU"/>
+      <point x="110" y="738" name="ALNTWANU"/>
+      <point x="110" y="681" type="curve" smooth="yes" name="TAIGPFQU"/>
+      <point x="110" y="623" name="BNFKICBX"/>
+      <point x="150" y="582" name="CXOKEGYB"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
       <key>com.andyclymer.zPosition</key>
       <dict>
-        <key>AMFWMNJF</key>
+        <key>ALNTWANU</key>
         <integer>100</integer>
-        <key>ARXPPRDQ</key>
+        <key>BCGVZHKU</key>
         <integer>100</integer>
-        <key>DEHMSOER</key>
+        <key>BNFKICBX</key>
         <integer>100</integer>
-        <key>ECKCGIIP</key>
+        <key>BRQJWCST</key>
         <integer>100</integer>
-        <key>EKPZITFF</key>
+        <key>CXOKEGYB</key>
         <integer>100</integer>
-        <key>FDOOVKYA</key>
+        <key>EBIXPZPA</key>
         <integer>100</integer>
-        <key>KEJBBFXD</key>
+        <key>HHMFTAMQ</key>
         <integer>100</integer>
-        <key>KIQPXMDL</key>
+        <key>JOGKENBO</key>
         <integer>100</integer>
-        <key>PFEIDUTL</key>
+        <key>OBIOFBBA</key>
         <integer>100</integer>
-        <key>SLUXJUNA</key>
+        <key>TAIGPFQU</key>
         <integer>100</integer>
-        <key>VOMSSANZ</key>
+        <key>VFATWUJL</key>
         <integer>100</integer>
-        <key>YWSPZCHW</key>
+        <key>WIOZFHLB</key>
         <integer>100</integer>
       </dict>
-      <key>public.markColor</key>
-      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

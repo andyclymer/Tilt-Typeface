@@ -3,65 +3,7 @@
   <advance width="465"/>
   <unicode hex="00C2"/>
   <outline>
-    <contour>
-      <point x="283.29006152955276" y="661.5361466505706" type="curve" name="VVKPRFYP"/>
-      <point x="326.88804127599946" y="655.8792924010783" name="MZPNHUXS"/>
-      <point x="369.69312780363265" y="652.3437584951455" name="GYSUXIOW"/>
-      <point x="409.79110755007935" y="651.636651713959" type="curve" name="AJEPNIUX"/>
-      <point x="430.3119228302505" y="682.0422433049806" name="DPBGXGDX"/>
-      <point x="450.5398448916085" y="713.8620484583753" name="TBNOYQIL"/>
-      <point x="468.5606601717798" y="747.8031739553295" type="curve" name="VMCLMOJM"/>
-      <point x="474.58147545195106" y="713.8620484583753" name="RUVZVGIL"/>
-      <point x="479.8093975133089" y="682.0422433049806" name="XTACIXUT"/>
-      <point x="483.3302127934803" y="651.636651713959" type="curve" name="YZIAEKFC"/>
-      <point x="521.928192539927" y="653.0508652763322" name="RFZLEANU"/>
-      <point x="560.2332790675601" y="655.8792924010783" name="CIEPNQSL"/>
-      <point x="595.8312588140068" y="661.5361466505706" type="curve" name="VYFQNASH"/>
-      <point x="586.2185604417987" y="727.2970773009197" name="LDPLHBQD"/>
-      <point x="569.1916485072175" y="804.3717164502533" name="GFGYTISV"/>
-      <point x="546.0789501350093" y="889.224530192639" type="curve" name="LJNZZVOH"/>
-      <point x="507.27386360737614" y="887.1032098490793" name="PXITBUNT"/>
-      <point x="464.8474567361833" y="887.1032098490793" name="ASSWLNIZ"/>
-      <point x="423.0423702085501" y="889.224530192639" type="curve" name="TAYDVVAJ"/>
-      <point x="383.9296718363421" y="804.3717164502533" name="TGWYNFTH"/>
-      <point x="336.4027599017609" y="726.589970519733" name="ZQOTQCZV"/>
-    </contour>
-    <contour>
-      <point x="-240.78457761978086" y="237.27207793864213" type="curve" name="IPPDVEXL"/>
-      <point x="-193.77238431096106" y="228.78679656440355" name="PCSTZUMY"/>
-      <point x="-146.84597743976826" y="222.42283553372462" name="USAWQZBQ"/>
-      <point x="-103.33378413094846" y="218.88730162779189" type="curve" name="OTEGHKFE"/>
-      <point x="-54.641395975523324" y="223.8370490960977" name="JVEBHNCQ"/>
-      <point x="-9.656114601284798" y="233.02943725152284" name="UQJUVQBZ"/>
-      <point x="34.53627355414034" y="244.3431457505076" type="curve" name="VPZRHSRT"/>
-      <point x="90.77638892431793" y="240.80761184457486" name="CVSKMZTO"/>
-      <point x="145.2236110756821" y="240.80761184457486" name="BIKNFMFZ"/>
-      <point x="196.46372644585972" y="244.3431457505076" type="curve" name="DJHNLRMN"/>
-      <point x="171.15611460128486" y="232.32233047033628" name="DJCJEMIF"/>
-      <point x="142.6413959755234" y="223.8370490960977" name="YWNBMBNN"/>
-      <point x="112.33378413094852" y="218.88730162779189" type="curve" name="UJIZWDPT"/>
-      <point x="150.84597743976826" y="222.42283553372462" name="FIEKRNJD"/>
-      <point x="188.77238431096117" y="228.78679656440355" name="MXSVSGGX"/>
-      <point x="223.78457761978086" y="237.27207793864213" type="curve" name="DPLLZUEV"/>
-      <point x="383.4942097179091" y="259.19238815542514" name="QRXIGABO"/>
-      <point x="480.7896282536642" y="378.69343417595167" name="TSOVKCQU"/>
-      <point x="508.4992603517924" y="587.2899346259832" type="curve" name="XKIYFCXB"/>
-      <point x="455.6378246380551" y="583.047293938864" name="PZYBHPFT"/>
-      <point x="398.36217536194476" y="583.047293938864" name="XJFRVZLV"/>
-      <point x="339.5007396482075" y="587.2899346259832" type="curve" name="QGWLCSYQ"/>
-      <point x="214.7103717463358" y="377.9863273947651" name="GILHSSKT"/>
-      <point x="16.505790282090913" y="259.19238815542514" name="QXLLYUON"/>
-    </contour>
-    <contour>
-      <point x="175.1489719263484" y="300.2045814642449" type="curve" name="YEYMEIPE"/>
-      <point x="244.912427893639" y="336.2670273047588" name="CJEPEGDE"/>
-      <point x="308.09009742330267" y="385.0573952066306" name="CENCARKB"/>
-      <point x="361.3535533905932" y="444.45436482630055" type="curve" name="SFZTOJDJ"/>
-      <point x="340.61700935788383" y="385.0573952066306" name="ITCVCFCO"/>
-      <point x="312.087572106361" y="336.2670273047588" name="HCAWYWEL"/>
-      <point x="274.8510280736516" y="300.2045814642449" type="curve" name="QNXRASGU"/>
-      <point x="242.6170093578839" y="298.7903679018718" name="GRFFMLQM"/>
-      <point x="209.3829906421161" y="298.7903679018718" name="UQOAVGJP"/>
-    </contour>
+    <component base="A"/>
+    <component base="circumflex.cap" xOffset="48.5"/>
   </outline>
 </glyph>

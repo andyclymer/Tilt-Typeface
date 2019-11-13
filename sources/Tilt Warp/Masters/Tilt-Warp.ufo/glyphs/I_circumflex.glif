@@ -3,115 +3,11 @@
   <advance width="325"/>
   <unicode hex="00CE"/>
   <outline>
-    <contour>
-      <point x="-57" y="747" type="curve" name="SQNMMOGB"/>
-      <point x="-1" y="747" name="VALUIWPC"/>
-      <point x="56" y="747" name="UXXFSPAD"/>
-      <point x="112" y="747" type="curve" name="YIITHARP"/>
-      <point x="129" y="777" name="FITRBLPK"/>
-      <point x="147" y="807" name="LFXNTXYH"/>
-      <point x="164" y="837" type="curve" name="VSWFQFPJ"/>
-      <point x="181" y="807" name="DDLLCYNQ"/>
-      <point x="199" y="777" name="FLPYMYTE"/>
-      <point x="216" y="747" type="curve" name="WLGJRGUY"/>
-      <point x="272" y="747" name="IZGIWOSE"/>
-      <point x="329" y="747" name="OLZVOMWE"/>
-      <point x="385" y="747" type="curve" name="SGGMRPDG"/>
-      <point x="341" y="815" name="GBRGTHCA"/>
-      <point x="295" y="885" name="RMHZMZPV"/>
-      <point x="251" y="953" type="curve" name="NSTUGKYU"/>
-      <point x="194" y="953" name="BXIKKQOL"/>
-      <point x="134" y="953" name="CBEKCJKX"/>
-      <point x="77" y="953" type="curve" name="EMQBHYKR"/>
-      <point x="33" y="885" name="XMZGNBAR"/>
-      <point x="-13" y="815" name="SYAOQFKE"/>
-    </contour>
-    <contour>
-      <point x="75" y="0" type="curve" name="YRATKZXS"/>
-      <point x="133" y="0" name="VEUYOJDK"/>
-      <point x="192" y="0" name="NPPDGKWR"/>
-      <point x="250" y="0" type="curve" name="QFPCIDZX"/>
-      <point x="250" y="224" name="DOHFEKVI"/>
-      <point x="250" y="456" name="ETXIAFTP"/>
-      <point x="250" y="680" type="curve" name="ZYNRWCSB"/>
-      <point x="192" y="680" name="DBHRXTMV"/>
-      <point x="133" y="680" name="XXPPZABR"/>
-      <point x="75" y="680" type="curve" name="VBTOBWUX"/>
-      <point x="75" y="456" name="MFFDANRD"/>
-      <point x="75" y="224" name="NYESPWNM"/>
-    </contour>
+    <component base="I"/>
+    <component base="circumflex.cap" xOffset="-117.5"/>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.zPosition</key>
-      <dict>
-        <key>BXIKKQOL</key>
-        <integer>203</integer>
-        <key>CBEKCJKX</key>
-        <integer>203</integer>
-        <key>DBHRXTMV</key>
-        <integer>47</integer>
-        <key>DDLLCYNQ</key>
-        <integer>104</integer>
-        <key>DOHFEKVI</key>
-        <integer>28</integer>
-        <key>EMQBHYKR</key>
-        <integer>208</integer>
-        <key>ETXIAFTP</key>
-        <integer>-25</integer>
-        <key>FITRBLPK</key>
-        <integer>89</integer>
-        <key>FLPYMYTE</key>
-        <integer>89</integer>
-        <key>GBRGTHCA</key>
-        <integer>120</integer>
-        <key>IZGIWOSE</key>
-        <integer>79</integer>
-        <key>LFXNTXYH</key>
-        <integer>104</integer>
-        <key>MFFDANRD</key>
-        <integer>-25</integer>
-        <key>NPPDGKWR</key>
-        <integer>203</integer>
-        <key>NSTUGKYU</key>
-        <integer>208</integer>
-        <key>NYESPWNM</key>
-        <integer>28</integer>
-        <key>OLZVOMWE</key>
-        <integer>86</integer>
-        <key>QFPCIDZX</key>
-        <integer>207</integer>
-        <key>RMHZMZPV</key>
-        <integer>157</integer>
-        <key>SGGMRPDG</key>
-        <integer>97</integer>
-        <key>SQNMMOGB</key>
-        <integer>97</integer>
-        <key>SYAOQFKE</key>
-        <integer>119</integer>
-        <key>UXXFSPAD</key>
-        <integer>79</integer>
-        <key>VALUIWPC</key>
-        <integer>86</integer>
-        <key>VBTOBWUX</key>
-        <integer>52</integer>
-        <key>VEUYOJDK</key>
-        <integer>203</integer>
-        <key>VSWFQFPJ</key>
-        <integer>123</integer>
-        <key>WLGJRGUY</key>
-        <integer>77</integer>
-        <key>XMZGNBAR</key>
-        <integer>157</integer>
-        <key>XXPPZABR</key>
-        <integer>47</integer>
-        <key>YIITHARP</key>
-        <integer>77</integer>
-        <key>YRATKZXS</key>
-        <integer>208</integer>
-        <key>ZYNRWCSB</key>
-        <integer>51</integer>
-      </dict>
       <key>public.markColor</key>
       <string>0.502,0.502,0.502,1</string>
     </dict>

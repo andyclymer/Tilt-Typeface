@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.cap" format="2">
+  <advance width="565"/>
+  <anchor x="0" y="680.0" name="top"/>
+  <anchor x="282" y="680.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="482.0" y="893.0" type="curve" smooth="yes"/>
+      <point x="482.0" y="802.7552739298884"/>
+      <point x="431.70242317040663" y="736.0"/>
+      <point x="354.0" y="736.0" type="curve" smooth="yes"/>
+      <point x="242.71778975507988" y="736.0"/>
+      <point x="249.10318860610082" y="843.0"/>
+      <point x="207.0" y="843.0" type="curve" smooth="yes"/>
+      <point x="187.16769610129762" y="843.0"/>
+      <point x="181.0" y="809.494197154284"/>
+      <point x="181.0" y="786.0" type="curve" smooth="yes"/>
+      <point x="181.0" y="759.0"/>
+      <point x="157.99999999999997" y="736.0"/>
+      <point x="130.99999999999997" y="736.0" type="curve" smooth="yes"/>
+      <point x="103.99999999999997" y="736.0"/>
+      <point x="80.99999999999999" y="759.0"/>
+      <point x="81.0" y="786.0" type="curve" smooth="yes"/>
+      <point x="81.0" y="876.7889380476013"/>
+      <point x="130.36176468698116" y="943.0"/>
+      <point x="207.0" y="943.0" type="curve" smooth="yes"/>
+      <point x="317.3279842176159" y="943.0"/>
+      <point x="311.5326718027396" y="836.0"/>
+      <point x="354.0" y="836.0" type="curve" smooth="yes"/>
+      <point x="375.2832765070514" y="836.0"/>
+      <point x="382.0" y="868.2812926562011"/>
+      <point x="382.0" y="893.0" type="curve" smooth="yes"/>
+      <point x="382.0" y="920.0"/>
+      <point x="405.0" y="943.0"/>
+      <point x="432.0" y="943.0" type="curve" smooth="yes"/>
+      <point x="459.0" y="943.0"/>
+      <point x="482.0" y="920.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

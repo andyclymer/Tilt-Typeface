@@ -1,27 +1,10 @@
 Batch Generated Variable Fonts:
 *******************************
 
-source: /Users/clymer/Documents/Code/Git repos/github/andyclymer/Tilt-Typeface/sources/Tilt Neon/Rotated/Tilt-Neon.designspace
-path: /Users/clymer/Documents/Code/Git repos/github/andyclymer/Tilt-Typeface/sources/Tilt Neon/Rotated/Tilt-Neon.ttf
+source: /Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Neon/Rotated/Tilt-Neon.designspace
+path: /Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Neon/Rotated/Tilt-Neon.ttf
     Making master glyphs compatible
     '''''''''''''''''''''''''''''''
-        Adding missing glyph 'ordfeminine' in the default master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
-        Adding missing glyph 'ordfeminine' in master 'Tilt Neon Regular (foreground)'
 
     Decompose Mixed Glyphs
     ''''''''''''''''''''''
@@ -89,6 +72,7 @@ path: /Users/clymer/Documents/Code/Git repos/github/andyclymer/Tilt-Typeface/sou
             makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
             makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
             makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            makeotfexe [WARNING] <TiltNeon-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
             Built release mode font 'temp_04_Tilt Neon-Regular-foreground.ttf' Revision 0.000
             
             --------------------

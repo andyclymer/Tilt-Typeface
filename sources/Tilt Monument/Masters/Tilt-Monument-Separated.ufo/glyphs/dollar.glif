@@ -4,25 +4,25 @@
   <unicode hex="0024"/>
   <outline>
     <contour>
-      <point x="414" y="578" type="move" smooth="yes" name="VBYTACFI"/>
-      <point x="375" y="591" name="TPAIVTBL"/>
-      <point x="335" y="598" name="EWTOXQXZ"/>
-      <point x="285" y="598" type="curve" smooth="yes" name="AJTTCQEV"/>
-      <point x="196" y="598" name="YRMPUUOY"/>
-      <point x="126" y="555" name="QCMUVOCF"/>
-      <point x="126" y="480" type="curve" smooth="yes" name="MJKEUMYP"/>
-      <point x="126" y="407"/>
-      <point x="202" y="373"/>
-      <point x="278" y="340" type="curve" smooth="yes"/>
-      <point x="354" y="307"/>
-      <point x="430" y="274"/>
-      <point x="430" y="202" type="curve" smooth="yes" name="CTMFAIGV"/>
-      <point x="430" y="122" name="JBPXHLOL"/>
-      <point x="360" y="80" name="XGXSCXPJ"/>
-      <point x="252" y="80" type="curve" smooth="yes" name="REIXWDSO"/>
-      <point x="208" y="80" name="PXEOTDVG"/>
+      <point x="116" y="102" type="move" smooth="yes" name="NECIRFSN"/>
       <point x="161" y="87" name="PRVGJEEL"/>
-      <point x="116" y="102" type="curve" smooth="yes" name="NECIRFSN"/>
+      <point x="208" y="80" name="PXEOTDVG"/>
+      <point x="252" y="80" type="curve" smooth="yes" name="REIXWDSO"/>
+      <point x="360" y="80" name="XGXSCXPJ"/>
+      <point x="430" y="122" name="JBPXHLOL"/>
+      <point x="430" y="202" type="curve" smooth="yes" name="CTMFAIGV"/>
+      <point x="430" y="274" name="FQASTWDT"/>
+      <point x="354" y="307" name="AKRKJFLV"/>
+      <point x="278" y="340" type="curve" smooth="yes" name="HDYDQIRE"/>
+      <point x="202" y="373" name="MSVJGICY"/>
+      <point x="126" y="407" name="SPRZBXFK"/>
+      <point x="126" y="480" type="curve" smooth="yes" name="MJKEUMYP"/>
+      <point x="126" y="555" name="QCMUVOCF"/>
+      <point x="196" y="598" name="YRMPUUOY"/>
+      <point x="285" y="598" type="curve" smooth="yes" name="AJTTCQEV"/>
+      <point x="335" y="598" name="EWTOXQXZ"/>
+      <point x="375" y="591" name="TPAIVTBL"/>
+      <point x="414" y="578" type="curve" smooth="yes" name="VBYTACFI"/>
     </contour>
     <contour>
       <point x="285" y="598" type="move" name="UKMSLBXV"/>
@@ -65,13 +65,11 @@
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
       <key>com.andyclymer.zPosition</key>
       <dict>
-        <key>ABYETDDO</key>
-        <integer>100</integer>
         <key>AJTTCQEV</key>
+        <integer>100</integer>
+        <key>AKRKJFLV</key>
         <integer>100</integer>
         <key>AQYKFLRN</key>
         <integer>100</integer>
@@ -91,6 +89,10 @@
         <integer>100</integer>
         <key>FCLRCFFV</key>
         <integer>0</integer>
+        <key>FQASTWDT</key>
+        <integer>100</integer>
+        <key>HDYDQIRE</key>
+        <integer>100</integer>
         <key>ITAWIOHQ</key>
         <integer>0</integer>
         <key>IYODPCTF</key>
@@ -100,6 +102,8 @@
         <key>KMXAMPOA</key>
         <integer>100</integer>
         <key>MJKEUMYP</key>
+        <integer>100</integer>
+        <key>MSVJGICY</key>
         <integer>100</integer>
         <key>NECIRFSN</key>
         <integer>100</integer>
@@ -119,6 +123,8 @@
         <integer>100</integer>
         <key>SFQYRYIF</key>
         <integer>0</integer>
+        <key>SPRZBXFK</key>
+        <integer>100</integer>
         <key>TPAIVTBL</key>
         <integer>100</integer>
         <key>TWHGEVGS</key>
@@ -128,8 +134,6 @@
         <key>VBYTACFI</key>
         <integer>100</integer>
         <key>VOGTWQNL</key>
-        <integer>100</integer>
-        <key>VSHQQLYZ</key>
         <integer>100</integer>
         <key>WTGFQFIL</key>
         <integer>0</integer>
@@ -146,8 +150,6 @@
         <key>ZOVJRSXG</key>
         <integer>0</integer>
       </dict>
-      <key>public.markColor</key>
-      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

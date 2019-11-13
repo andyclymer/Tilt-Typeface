@@ -3,15 +3,31 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>750</integer>
+    <integer>730</integer>
     <key>capHeight</key>
-    <integer>750</integer>
+    <integer>680</integer>
     <key>descender</key>
-    <integer>-250</integer>
+    <integer>-160</integer>
     <key>familyName</key>
     <string>Tilt Neon</string>
     <key>guidelines</key>
     <array/>
+    <key>openTypeHheaAscender</key>
+    <integer>990</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-272</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>990</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-272</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>990</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>272</integer>
     <key>postscriptBlueValues</key>
     <array/>
     <key>postscriptFamilyBlues</key>
@@ -29,6 +45,6 @@
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>xHeight</key>
-    <integer>500</integer>
+    <integer>517</integer>
   </dict>
 </plist>

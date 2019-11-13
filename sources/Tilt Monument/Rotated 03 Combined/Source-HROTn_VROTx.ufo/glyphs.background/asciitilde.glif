@@ -4,29 +4,29 @@
   <unicode hex="007E"/>
   <outline>
     <contour>
-      <point x="35.15402256023174" y="167.26850660117395" type="move" smooth="yes" name="TLTSJOTM"/>
-      <point x="-2.689123190275893" y="228.78679656440357" name="OJTSAVXT"/>
-      <point x="5.009361619559115" y="259.8994949366117" name="KTANMABY"/>
-      <point x="47.43576849075197" y="259.8994949366117" type="curve" smooth="yes" name="NEIAVBSY"/>
-      <point x="79.96268042533316" y="259.8994949366117" name="VNJXXOJL"/>
-      <point x="116.27450366606274" y="236.58526217799138" name="UTIDJNYS"/>
-      <point x="152.06066017177983" y="213.9375541594861" type="curve" smooth="yes" name="ZVIXQJQI"/>
-      <point x="186.66538832863745" y="192.03752756034416" name="TCJDQAFV"/>
-      <point x="220.74442635585342" y="170.8040405071067" name="KWHPLUBX"/>
-      <point x="252.56423150924803" y="170.8040405071067" type="curve" smooth="yes" name="PCMDZVFY"/>
-      <point x="294.28353159925433" y="170.8040405071067" name="EMHIOWXS"/>
-      <point x="301.48201640908934" y="202.62384566050133" name="FOZEKGDU"/>
-      <point x="264.34597743976826" y="264.14213562373095" type="curve" smooth="yes" name="BCKDKKGS"/>
+      <point x="5" y="125" type="move" smooth="yes" name="TLTSJOTM"/>
+      <point x="-33" y="186" name="OJTSAVXT"/>
+      <point x="-25" y="217" name="KTANMABY"/>
+      <point x="17" y="217" type="curve" smooth="yes" name="NEIAVBSY"/>
+      <point x="50" y="217" name="VNJXXOJL"/>
+      <point x="86" y="194" name="UTIDJNYS"/>
+      <point x="122" y="172" type="curve" smooth="yes" name="ZVIXQJQI"/>
+      <point x="157" y="150" name="TCJDQAFV"/>
+      <point x="191" y="128" name="KWHPLUBX"/>
+      <point x="223" y="128" type="curve" smooth="yes" name="PCMDZVFY"/>
+      <point x="264" y="128" name="EMHIOWXS"/>
+      <point x="271" y="160" name="FOZEKGDU"/>
+      <point x="234" y="222" type="curve" smooth="yes" name="BCKDKKGS"/>
     </contour>
     <contour>
-      <point x="152.21646840074567" y="194.13856428626275" type="move" name="KNDZZCSU"/>
-      <point x="35.15402256023174" y="167.26850660117395" type="line" name="SXMFXSCR"/>
-      <point x="77.97025637615818" y="194.13856428626275" type="line" name="KRQLUEJB"/>
+      <point x="122" y="152" type="move" name="KNDZZCSU"/>
+      <point x="5" y="125" type="line" name="SXMFXSCR"/>
+      <point x="48" y="152" type="line" name="KRQLUEJB"/>
     </contour>
     <contour>
-      <point x="247.28353159925433" y="378.69343417595167" type="move" name="UFHZFGWW"/>
-      <point x="264.34597743976826" y="264.14213562373095" type="line" name="ZIPKRGSW"/>
-      <point x="321.52974362384185" y="378.69343417595167" type="line" name="KITPWMNF"/>
+      <point x="217" y="336" type="move" name="UFHZFGWW"/>
+      <point x="234" y="222" type="line" name="ZIPKRGSW"/>
+      <point x="292" y="336" type="line" name="KITPWMNF"/>
     </contour>
   </outline>
 </glyph>

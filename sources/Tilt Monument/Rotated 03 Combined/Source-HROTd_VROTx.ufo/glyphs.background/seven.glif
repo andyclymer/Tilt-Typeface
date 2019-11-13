@@ -4,29 +4,31 @@
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="198.0" y="52.010101267766686" type="move" name="DWHLGPNP"/>
-      <point x="215.0" y="87.36544032709406" name="XDKAAYUE"/>
-      <point x="244.0" y="143.22687604083134" name="IYVOMWBG"/>
-      <point x="302.0" y="249.29289321881348" type="curve" smooth="yes" name="HXONLBMA"/>
-      <point x="406.0" y="438.7975105768082" type="line" name="EFFTHVTP"/>
-      <point x="205.0" y="438.7975105768082" name="JOLLTGOH"/>
-      <point x="144.0" y="437.38329701443513" name="VEPPKOZH"/>
-      <point x="97.0" y="434.5548698896889" type="curve" name="NLSEGDFT"/>
+      <point x="198" y="10" type="move" name="DWHLGPNP"/>
+      <point x="215" y="45" name="XDKAAYUE"/>
+      <point x="244" y="101" name="IYVOMWBG"/>
+      <point x="302" y="207" type="curve" smooth="yes" name="HXONLBMA"/>
+      <point x="337" y="270" name="JJDVOFDA"/>
+      <point x="371" y="333" name="IVIJYFFS"/>
+      <point x="406" y="396" type="curve" name="EFFTHVTP"/>
+      <point x="205" y="396" name="JOLLTGOH"/>
+      <point x="144" y="395" name="VEPPKOZH"/>
+      <point x="97" y="392" type="curve" name="NLSEGDFT"/>
     </contour>
     <contour>
-      <point x="285.0" y="73.22330470336311" type="move" name="VYPIWFWC"/>
-      <point x="198.0" y="52.010101267766686" type="line" name="HDOGQIGX"/>
-      <point x="71.0" y="73.22330470336311" type="line" name="NZGOSKZA"/>
+      <point x="285" y="31" type="move" name="VYPIWFWC"/>
+      <point x="198" y="10" type="line" name="HDOGQIGX"/>
+      <point x="71" y="31" type="line" name="NZGOSKZA"/>
     </contour>
     <contour>
-      <point x="35.0" y="443.747258045114" type="move" name="DMOCMXSX"/>
-      <point x="97.0" y="434.5548698896889" type="line" name="BUWWFJIJ"/>
-      <point x="35.0" y="554.0559159102154" type="line" name="IIYOJRYX"/>
+      <point x="35" y="401" type="move" name="DMOCMXSX"/>
+      <point x="97" y="392" type="line" name="BUWWFJIJ"/>
+      <point x="35" y="512" type="line" name="IIYOJRYX"/>
     </contour>
     <contour>
-      <point x="310.0" y="464.9604614807105" type="move" name="ALZMLKRH"/>
-      <point x="406.0" y="438.7975105768082" type="line" name="GDQDOWGL"/>
-      <point x="503.0" y="554.0559159102154" type="line" name="OAVGTWOE"/>
+      <point x="310" y="423" type="move" name="ALZMLKRH"/>
+      <point x="406" y="396" type="line" name="GDQDOWGL"/>
+      <point x="503" y="512" type="line" name="OAVGTWOE"/>
     </contour>
   </outline>
 </glyph>

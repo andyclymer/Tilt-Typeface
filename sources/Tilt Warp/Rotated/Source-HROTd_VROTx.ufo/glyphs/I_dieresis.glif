@@ -3,53 +3,7 @@
   <advance width="325"/>
   <unicode hex="00CF"/>
   <outline>
-    <contour>
-      <point x="44.0" y="537.7924599429248" type="curve" name="VVNWUXPQ"/>
-      <point x="100.0" y="542.0351006300441" name="IOEWOQIY"/>
-      <point x="147.0" y="560.4198769408945" name="GHORQZXE"/>
-      <point x="147.0" y="575.2691193458119" type="curve" smooth="yes" name="WRNXTMCB"/>
-      <point x="147.0" y="589.4112549695428" name="TTDPLLKI"/>
-      <point x="100.0" y="595.0681092190353" name="VMVKFOBW"/>
-      <point x="44.0" y="590.8254685319159" type="curve" smooth="yes" name="XCAYYKOF"/>
-      <point x="-14.0" y="586.5828278447966" name="WZIXKVRL"/>
-      <point x="-60.0" y="573.8549057834389" name="GKJFJBJR"/>
-      <point x="-60.0" y="559.0056633785214" type="curve" smooth="yes" name="OMLWFOLQ"/>
-      <point x="-60.0" y="544.8635277547903" name="OUTBYETX"/>
-      <point x="-14.0" y="532.842712474619" name="IOUMWPPP"/>
-      <point x="44.0" y="537.7924599429248" type="curve" name="CCIUMROF"/>
-      <point x="44.0" y="537.7924599429248" name="RVAMOATE"/>
-      <point x="44.0" y="537.7924599429248" name="AFVYZPWJ"/>
-    </contour>
-    <contour>
-      <point x="284.0" y="537.0853531617383" type="curve" name="JKSJLESJ"/>
-      <point x="340.0" y="532.842712474619" name="UFLICIWJ"/>
-      <point x="387.0" y="544.8635277547903" name="LLBEJTWR"/>
-      <point x="387.0" y="559.0056633785214" type="curve" smooth="yes" name="WHPVRRPV"/>
-      <point x="387.0" y="573.8549057834389" name="NSMHOSZL"/>
-      <point x="340.0" y="586.5828278447966" name="NWUGHDZJ"/>
-      <point x="284.0" y="590.8254685319159" type="curve" smooth="yes" name="CIIDHYYN"/>
-      <point x="226.0" y="595.0681092190353" name="LSKKNMOR"/>
-      <point x="180.0" y="589.4112549695428" name="SCMOKGTU"/>
-      <point x="180.0" y="575.2691193458119" type="curve" smooth="yes" name="LUQSGNIW"/>
-      <point x="180.0" y="560.4198769408945" name="WNLYCDGQ"/>
-      <point x="226.0" y="542.0351006300441" name="JBXVRIGD"/>
-      <point x="284.0" y="537.0853531617383" type="curve" name="XVOWNZBD"/>
-      <point x="284.0" y="537.0853531617383" name="NXSMVZKL"/>
-      <point x="284.0" y="537.0853531617383" name="TZLOHBIG"/>
-    </contour>
-    <contour>
-      <point x="75.0" y="-73.14779900225221" type="curve" name="HUIZHIKU"/>
-      <point x="133.0" y="-69.61226509631945" name="EVFADYKP"/>
-      <point x="192.0" y="-69.61226509631945" name="BNQVYKXM"/>
-      <point x="250.0" y="-73.14779900225221" type="curve" name="CSCVBXRB"/>
-      <point x="250.0" y="212.52334059711296" name="UYLXGHCN"/>
-      <point x="250.0" y="412.63455967290594" name="QJWFBELW"/>
-      <point x="250.0" y="515.1650429449553" type="curve" name="CCGXMORO"/>
-      <point x="192.0" y="517.9934700697015" name="AJFDRGZZ"/>
-      <point x="133.0" y="517.9934700697015" name="VWSZSNQR"/>
-      <point x="75.0" y="514.4579361637689" type="curve" name="VIMUTVSG"/>
-      <point x="75.0" y="412.63455967290594" name="SMBDQIXS"/>
-      <point x="75.0" y="211.81623381592644" name="OPIEWFYV"/>
-    </contour>
+    <component base="I"/>
+    <component base="dieresis.cap" xOffset="-125.5"/>
   </outline>
 </glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron.cap" format="2">
+  <advance width="490"/>
+  <anchor x="0" y="680.0" name="top"/>
+  <anchor x="245" y="680.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="60" y="758" type="curve" name="TNTYXZOD"/>
+      <point x="182" y="758" name="ADWDFXSV"/>
+      <point x="308" y="758" name="GNDXCOSK"/>
+      <point x="430" y="758" type="curve" name="STWQBYCS"/>
+      <point x="430" y="806" name="XUAVHEKR"/>
+      <point x="430" y="855" name="WQAGIEBC"/>
+      <point x="430" y="903" type="curve" name="HYSLJVYR"/>
+      <point x="308" y="903" name="KTZUHKGH"/>
+      <point x="182" y="903" name="RNWFORJG"/>
+      <point x="60" y="903" type="curve" name="BOWTTAZH"/>
+      <point x="60" y="855" name="YMDKWMPM"/>
+      <point x="60" y="806" name="YWXAEUOV"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ADWDFXSV</key>
+        <integer>119</integer>
+        <key>BOWTTAZH</key>
+        <integer>144</integer>
+        <key>GNDXCOSK</key>
+        <integer>119</integer>
+        <key>HYSLJVYR</key>
+        <integer>144</integer>
+        <key>KTZUHKGH</key>
+        <integer>119</integer>
+        <key>RNWFORJG</key>
+        <integer>119</integer>
+        <key>STWQBYCS</key>
+        <integer>144</integer>
+        <key>TNTYXZOD</key>
+        <integer>144</integer>
+        <key>WQAGIEBC</key>
+        <integer>105</integer>
+        <key>XUAVHEKR</key>
+        <integer>105</integer>
+        <key>YMDKWMPM</key>
+        <integer>105</integer>
+        <key>YWXAEUOV</key>
+        <integer>105</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

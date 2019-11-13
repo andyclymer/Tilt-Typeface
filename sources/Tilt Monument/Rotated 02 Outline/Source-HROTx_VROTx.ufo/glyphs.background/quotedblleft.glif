@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft" format="2">
+  <advance width="500"/>
+  <unicode hex="201C"/>
+  <outline>
+    <contour>
+      <point x="256" y="313" type="curve" name="VPBAL"/>
+      <point x="138" y="313" type="line" name="VIDLE"/>
+      <point x="186" y="391" name="HEDUM"/>
+      <point x="287" y="483" name="DYDRA"/>
+      <point x="426" y="519" type="curve" name="BFMCL"/>
+      <point x="326" y="435" name="AMNOV"/>
+      <point x="283" y="376" name="SUMAW"/>
+    </contour>
+    <contour>
+      <point x="415" y="313" type="curve" name="HYVAL"/>
+      <point x="297" y="313" type="line" name="CUNSI"/>
+      <point x="345" y="391" name="OYOGO"/>
+      <point x="446" y="483" name="VESSA"/>
+      <point x="585" y="519" type="curve" name="HUKAN"/>
+      <point x="485" y="435" name="MAFIX"/>
+      <point x="443" y="376" name="MONAA"/>
+    </contour>
+  </outline>
+</glyph>

@@ -3,15 +3,59 @@
   <advance width="276"/>
   <unicode hex="003B"/>
   <outline>
-    <component base="period" xOffset="5" yOffset="362"/>
-    <component base="comma"/>
+    <contour>
+      <point x="60" y="523" type="move" name="ALZCOVIV"/>
+      <point x="140" y="443" type="line" name="UCJXJOKZ"/>
+      <point x="221" y="362" type="line" name="GYZGRCBQ"/>
+    </contour>
+    <contour>
+      <point x="60" y="362" type="move" name="TRFOBHUO"/>
+      <point x="140" y="443" type="line" name="VYDIEPLL"/>
+      <point x="221" y="523" type="line" name="MBGACFYN"/>
+    </contour>
+    <contour>
+      <point x="25" y="-130" type="move" smooth="yes" name="FETCUGZI"/>
+      <point x="112" y="-63" name="VEBLQIIB"/>
+      <point x="147" y="19" name="MXQQTKPL"/>
+      <point x="148" y="99" type="curve" name="FDAMAGLQ"/>
+    </contour>
+    <contour>
+      <point x="60.0" y="161.0" type="move" name="UIMLHATQ"/>
+      <point x="148.0" y="99.0" type="line" name="SUUIDMXE"/>
+      <point x="227.0" y="161.0" type="line" name="OJUDMDSR"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
-      <key>public.markColor</key>
-      <string>0.7529,0.5725,0.9529,1</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ALZCOVIV</key>
+        <integer>0</integer>
+        <key>FDAMAGLQ</key>
+        <real>100.0</real>
+        <key>FETCUGZI</key>
+        <integer>0</integer>
+        <key>GYZGRCBQ</key>
+        <real>0.0</real>
+        <key>MBGACFYN</key>
+        <real>0.0</real>
+        <key>MXQQTKPL</key>
+        <integer>70</integer>
+        <key>OJUDMDSR</key>
+        <real>0.0</real>
+        <key>SUUIDMXE</key>
+        <integer>100</integer>
+        <key>TRFOBHUO</key>
+        <integer>0</integer>
+        <key>UCJXJOKZ</key>
+        <integer>100</integer>
+        <key>UIMLHATQ</key>
+        <integer>0</integer>
+        <key>VEBLQIIB</key>
+        <integer>30</integer>
+        <key>VYDIEPLL</key>
+        <integer>100</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.cap" format="2">
+  <advance width="500"/>
+  <anchor x="0" y="680.0" name="top"/>
+  <anchor x="288" y="680.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="189.99998416750978" y="818.9999913336345" type="move" name="CILER"/>
+      <point x="155.99998453305068" y="823.9999912574801" name="SURAE"/>
+      <point x="155.99998349735145" y="857.9999907396304" name="SEGLE"/>
+      <point x="189.99998282719315" y="862.9999906634762" type="curve" name="FILED"/>
+    </contour>
+    <contour>
+      <point x="409.99998081671816" y="818.9999913336345" type="move" name="AVATY"/>
+      <point x="375.9999811822591" y="823.9999912574801" name="HUBES"/>
+      <point x="375.9999801465599" y="857.9999907396304" name="CEXUN"/>
+      <point x="409.99997947640156" y="862.9999906634762" type="curve" name="ZUMOL"/>
+    </contour>
+  </outline>
+</glyph>

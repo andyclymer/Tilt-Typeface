@@ -4,69 +4,67 @@
   <unicode hex="00AC"/>
   <outline>
     <contour>
-      <point x="40" y="311" type="curve" name="ARGHUSIO"/>
-      <point x="129" y="311" name="TRIRGDKG"/>
-      <point x="222" y="311" name="DESCNGDU"/>
-      <point x="311" y="311" type="curve" name="ABUJUEAN"/>
-      <point x="311" y="259" name="PHBKVICO"/>
-      <point x="311" y="206" name="IQXJXJNX"/>
-      <point x="311" y="154" type="curve" name="PZQCRYLY"/>
-      <point x="363" y="154" name="QXIAFRKW"/>
-      <point x="418" y="154" name="HWFCBGQX"/>
-      <point x="470" y="154" type="curve" name="YKZOCXRK"/>
-      <point x="470" y="257" name="BOVPNLTR"/>
-      <point x="470" y="363" name="APMEPVNR"/>
-      <point x="470" y="466" type="curve" name="KEEVTJEE"/>
-      <point x="328" y="466" name="WWKZYMJB"/>
-      <point x="182" y="466" name="LFGKTPUX"/>
-      <point x="40" y="466" type="curve" name="UMNSDCFN"/>
-      <point x="40" y="415" name="SSXGNSMK"/>
-      <point x="40" y="362" name="RZHZDKYM"/>
+      <point x="40" y="311" type="curve" name="RLMTCLCA"/>
+      <point x="129" y="311" name="ZKWLHIAF"/>
+      <point x="222" y="311" name="ECTXGKDD"/>
+      <point x="311" y="311" type="curve" name="TCVKFSMG"/>
+      <point x="311" y="259" name="YRNOKYNH"/>
+      <point x="311" y="206" name="GNJTGJBH"/>
+      <point x="311" y="154" type="curve" name="ZWZHWWXK"/>
+      <point x="363" y="154" name="BNBYEZFK"/>
+      <point x="418" y="154" name="GADVBLYN"/>
+      <point x="470" y="154" type="curve" name="HQMXAGMR"/>
+      <point x="470" y="257" name="PGVEWBVV"/>
+      <point x="470" y="363" name="YUANHNPR"/>
+      <point x="470" y="466" type="curve" name="DHNSEKQT"/>
+      <point x="328" y="466" name="WMRREARW"/>
+      <point x="182" y="466" name="JRVATJXD"/>
+      <point x="40" y="466" type="curve" name="CCSHOQGR"/>
+      <point x="40" y="415" name="CYJVWVRO"/>
+      <point x="40" y="362" name="ATPGGYBJ"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.andyclymer.zPosition</key>
       <dict>
-        <key>ABUJUEAN</key>
-        <integer>80</integer>
-        <key>APMEPVNR</key>
-        <integer>80</integer>
-        <key>ARGHUSIO</key>
+        <key>ATPGGYBJ</key>
         <integer>100</integer>
-        <key>BOVPNLTR</key>
-        <integer>80</integer>
-        <key>DESCNGDU</key>
-        <integer>75</integer>
-        <key>HWFCBGQX</key>
-        <integer>152</integer>
-        <key>IQXJXJNX</key>
-        <integer>100</integer>
-        <key>KEEVTJEE</key>
-        <integer>162</integer>
-        <key>LFGKTPUX</key>
-        <integer>134</integer>
-        <key>PHBKVICO</key>
-        <integer>80</integer>
-        <key>PZQCRYLY</key>
-        <integer>142</integer>
-        <key>QXIAFRKW</key>
+        <key>BNBYEZFK</key>
         <integer>145</integer>
-        <key>RZHZDKYM</key>
-        <integer>100</integer>
-        <key>SSXGNSMK</key>
+        <key>CCSHOQGR</key>
+        <integer>162</integer>
+        <key>CYJVWVRO</key>
         <integer>121</integer>
-        <key>TRIRGDKG</key>
-        <integer>82</integer>
-        <key>UMNSDCFN</key>
+        <key>DHNSEKQT</key>
         <integer>162</integer>
-        <key>WWKZYMJB</key>
+        <key>ECTXGKDD</key>
+        <integer>75</integer>
+        <key>GADVBLYN</key>
+        <integer>152</integer>
+        <key>GNJTGJBH</key>
+        <integer>100</integer>
+        <key>HQMXAGMR</key>
+        <integer>162</integer>
+        <key>JRVATJXD</key>
         <integer>134</integer>
-        <key>YKZOCXRK</key>
-        <integer>162</integer>
+        <key>PGVEWBVV</key>
+        <integer>80</integer>
+        <key>RLMTCLCA</key>
+        <integer>100</integer>
+        <key>TCVKFSMG</key>
+        <integer>80</integer>
+        <key>WMRREARW</key>
+        <integer>134</integer>
+        <key>YRNOKYNH</key>
+        <integer>80</integer>
+        <key>YUANHNPR</key>
+        <integer>80</integer>
+        <key>ZKWLHIAF</key>
+        <integer>82</integer>
+        <key>ZWZHWWXK</key>
+        <integer>142</integer>
       </dict>
-      <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
     </dict>
   </lib>
 </glyph>

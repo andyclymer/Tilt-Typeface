@@ -6,13 +6,13 @@
   <anchor x="154" y="517" name="center"/>
   <outline>
     <contour>
-      <point x="237.0" y="738.0" type="move" name="BZWZQKAG"/>
+      <point x="237.0" y="728.0" type="move" name="BZWZQKAG"/>
       <point x="177.0" y="636.0" type="line" name="JMGOEJYY"/>
     </contour>
     <contour>
-      <point x="189.0" y="790.0" type="move" name="CNWFLDXU"/>
-      <point x="237.0" y="738.0" type="line" name="OVHLHUYL"/>
-      <point x="348.0" y="790.0" type="line" name="CSSRQEYN"/>
+      <point x="189.0" y="780.0" type="move" name="CNWFLDXU"/>
+      <point x="237.0" y="728.0" type="line" name="OVHLHUYL"/>
+      <point x="348.0" y="780.0" type="line" name="CSSRQEYN"/>
     </contour>
     <contour>
       <point x="214.0" y="584.0" type="move" name="FTPSNQRM"/>
@@ -22,8 +22,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
       <key>com.andyclymer.zPosition</key>
       <dict>
         <key>BZWZQKAG</key>
@@ -43,8 +41,6 @@
         <key>YMITEXIS</key>
         <integer>100</integer>
       </dict>
-      <key>public.markColor</key>
-      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

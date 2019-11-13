@@ -4,29 +4,31 @@
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="99.66978720651971" y="52.010101267766686" type="move" name="DWHLGPNP"/>
-      <point x="136.69060248669103" y="87.36544032709406" name="XDKAAYUE"/>
-      <point x="196.6966991411009" y="143.22687604083134" name="IYVOMWBG"/>
-      <point x="312.70889244992065" y="249.29289321881348" type="curve" smooth="yes" name="HXONLBMA"/>
-      <point x="520.2479976933216" y="438.7975105768082" type="line" name="EFFTHVTP"/>
-      <point x="378.1195346748255" y="438.7975105768082" name="JOLLTGOH"/>
-      <point x="333.9860210224461" y="437.38329701443513" name="VEPPKOZH"/>
-      <point x="298.7520023066784" y="434.5548698896889" type="curve" name="NLSEGDFT"/>
+      <point x="130" y="10" type="move" name="DWHLGPNP"/>
+      <point x="167" y="45" name="XDKAAYUE"/>
+      <point x="227" y="101" name="IYVOMWBG"/>
+      <point x="343" y="207" type="curve" smooth="yes" name="HXONLBMA"/>
+      <point x="412" y="270" name="JJDVOFDA"/>
+      <point x="481" y="333" name="IVIJYFFS"/>
+      <point x="550" y="396" type="curve" name="EFFTHVTP"/>
+      <point x="408" y="396" name="JOLLTGOH"/>
+      <point x="364" y="395" name="VEPPKOZH"/>
+      <point x="329" y="392" type="curve" name="NLSEGDFT"/>
     </contour>
     <contour>
-      <point x="76.18807716974936" y="73.22330470336311" type="move" name="VYPIWFWC"/>
-      <point x="99.66978720651971" y="52.010101267766686" type="line" name="HDOGQIGX"/>
-      <point x="-75.13277400417181" y="73.22330470336311" type="line" name="NZGOSKZA"/>
+      <point x="106" y="31" type="move" name="VYPIWFWC"/>
+      <point x="130" y="10" type="line" name="HDOGQIGX"/>
+      <point x="-45" y="31" type="line" name="NZGOSKZA"/>
     </contour>
     <contour>
-      <point x="161.41138187311242" y="443.747258045114" type="move" name="DMOCMXSX"/>
-      <point x="298.7520023066784" y="434.5548698896889" type="line" name="BUWWFJIJ"/>
-      <point x="239.41138187311242" y="554.0559159102154" type="line" name="IIYOJRYX"/>
+      <point x="191" y="401" type="move" name="DMOCMXSX"/>
+      <point x="329" y="392" type="line" name="BUWWFJIJ"/>
+      <point x="269" y="512" type="line" name="IIYOJRYX"/>
     </contour>
     <contour>
-      <point x="370.86574669941297" y="464.9604614807105" type="move" name="ALZMLKRH"/>
-      <point x="520.2479976933216" y="438.7975105768082" type="line" name="GDQDOWGL"/>
-      <point x="570.3373554684167" y="554.0559159102154" type="line" name="OAVGTWOE"/>
+      <point x="401" y="423" type="move" name="ALZMLKRH"/>
+      <point x="550" y="396" type="line" name="GDQDOWGL"/>
+      <point x="600" y="512" type="line" name="OAVGTWOE"/>
     </contour>
   </outline>
 </glyph>

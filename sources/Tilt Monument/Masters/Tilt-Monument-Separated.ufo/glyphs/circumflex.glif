@@ -6,30 +6,28 @@
   <anchor x="280" y="517" name="center"/>
   <outline>
     <contour>
-      <point x="202.0" y="646.0" type="move" name="HGWQJEXT"/>
-      <point x="281" y="729" type="line" name="OKCAJDUE"/>
-      <point x="360.0" y="646.0" type="line" name="PWIYTAVU"/>
+      <point x="202.0" y="640.0" type="move" name="HGWQJEXT"/>
+      <point x="281" y="714" type="line" name="OKCAJDUE"/>
+      <point x="360.0" y="640.0" type="line" name="PWIYTAVU"/>
     </contour>
     <contour>
       <point x="219.0" y="584.0" type="move" name="SAWZNQBB"/>
-      <point x="202.0" y="646.0" type="line" name="JBOBMLZL"/>
+      <point x="202.0" y="640.0" type="line" name="JBOBMLZL"/>
       <point x="70.0" y="584.0" type="line" name="RGGYSVGZ"/>
     </contour>
     <contour>
       <point x="492.0" y="584.0" type="move" name="EKLXRYOY"/>
-      <point x="360.0" y="646.0" type="line" name="TSMRCCWM"/>
+      <point x="360.0" y="640.0" type="line" name="TSMRCCWM"/>
       <point x="343.0" y="584.0" type="line" name="XETUSRFI"/>
     </contour>
     <contour>
-      <point x="282.0" y="810.0" type="move" name="RJIJMKGM"/>
-      <point x="281.0" y="729.0" type="line" name="PBSLPXJM"/>
-      <point x="281.0" y="648.0" type="line" name="XFASUVZR"/>
+      <point x="282.0" y="785.0" type="move" name="RJIJMKGM"/>
+      <point x="281.0" y="714.0" type="line" name="PBSLPXJM"/>
+      <point x="281.0" y="639.0" type="line" name="XFASUVZR"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
       <key>com.andyclymer.zPosition</key>
       <dict>
         <key>EKLXRYOY</key>
@@ -57,8 +55,6 @@
         <key>XFASUVZR</key>
         <integer>0</integer>
       </dict>
-      <key>public.markColor</key>
-      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>
