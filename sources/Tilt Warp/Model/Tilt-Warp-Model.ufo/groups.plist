@@ -10,6 +10,7 @@
       <string>Aring</string>
       <string>Atilde</string>
       <string>A</string>
+      <string>Agrave</string>
     </array>
     <key>public.kern1.C</key>
     <array>
@@ -70,6 +71,11 @@
       <string>Yacute</string>
       <string>Ydieresis</string>
       <string>Y</string>
+    </array>
+    <key>public.kern1._colon</key>
+    <array>
+      <string>colon</string>
+      <string>semicolon</string>
     </array>
     <key>public.kern1._dashes</key>
     <array>
@@ -153,6 +159,7 @@
     <key>public.kern1.c</key>
     <array>
       <string>ccedilla</string>
+      <string>c</string>
     </array>
     <key>public.kern1.d</key>
     <array>
@@ -237,6 +244,8 @@
       <string>Adieresis</string>
       <string>Aring</string>
       <string>Atilde</string>
+      <string>A</string>
+      <string>Agrave</string>
     </array>
     <key>public.kern2.H</key>
     <array>
@@ -284,11 +293,18 @@
       <string>Ucircumflex</string>
       <string>Udieresis</string>
       <string>Ugrave</string>
+      <string>U</string>
     </array>
     <key>public.kern2.Y</key>
     <array>
       <string>Yacute</string>
       <string>Ydieresis</string>
+      <string>Y</string>
+    </array>
+    <key>public.kern2._colon</key>
+    <array>
+      <string>colon</string>
+      <string>semicolon</string>
     </array>
     <key>public.kern2._dashes</key>
     <array>
