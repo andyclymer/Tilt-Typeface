@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="500"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="132" y="526" type="move" name="HEADE"/>
+      <point x="132" y="275" type="line" name="ANCHO"/>
+    </contour>
+    <contour>
+      <point x="140" y="102" type="move" name="SNDLR"/>
+      <point x="106" y="105" name="FEYFO"/>
+      <point x="106" y="129" name="GGUGL"/>
+      <point x="140" y="133" type="curve" name="BOSHR"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="500"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="99" y="40" type="move" name="JOPUN"/>
+      <point x="75" y="45" name="MEMXI"/>
+      <point x="75" y="79" name="TAKUY"/>
+      <point x="99" y="84" type="curve" name="ARDNN"/>
+    </contour>
+    <contour>
+      <point x="283" y="40" type="move" name="RBURT"/>
+      <point x="259" y="45" name="TYLAN"/>
+      <point x="259" y="79" name="AZOTH"/>
+      <point x="283" y="84" type="curve" name="CONIE"/>
+    </contour>
+    <contour>
+      <point x="467" y="40" type="move" name="ZIRBI"/>
+      <point x="443" y="45" name="DELEE"/>
+      <point x="443" y="79" name="TOTVE"/>
+      <point x="467" y="84" type="curve" name="TICKS"/>
+    </contour>
+  </outline>
+</glyph>

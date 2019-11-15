@@ -3,33 +3,7 @@
   <advance width="281"/>
   <unicode hex="00ED"/>
   <outline>
-    <contour>
-      <point x="-28.0" y="499.0" type="curve" name="ULAWEQGQ"/>
-      <point x="33.0" y="509.0" name="WDZACSCI"/>
-      <point x="90.0" y="514.0" name="UIHOAMRC"/>
-      <point x="141.0" y="514.0" type="curve" name="OSYXQBGG"/>
-      <point x="158.0" y="555.0" name="SQGOCNHG"/>
-      <point x="158.0" y="579.0" name="MQCGMSJN"/>
-      <point x="139.0" y="584.0" type="curve" name="UUIIQOMJ"/>
-      <point x="91.0" y="595.0" name="LYJFWPCJ"/>
-      <point x="35.0" y="600.0" name="IYQRAKQF"/>
-      <point x="-27.0" y="597.0" type="curve" name="VFXRJSTF"/>
-      <point x="-10.0" y="582.0" name="VSRKCYNG"/>
-      <point x="-10.0" y="549.0" name="ZVEVKWTG"/>
-    </contour>
-    <contour>
-      <point x="-148.0" y="-206.0" type="curve" name="SCOPJPFT"/>
-      <point x="-83.0" y="-195.0" name="OWHFYWIR"/>
-      <point x="-22.0" y="-191.0" name="JBCUCDTY"/>
-      <point x="31.0" y="-192.0" type="curve" name="EIQDPTXK"/>
-      <point x="167.0" y="115.0" name="QSITPVPM"/>
-      <point x="215.0" y="338.0" name="QKWSIXGG"/>
-      <point x="174.0" y="468.0" type="curve" name="GLIEOCHP"/>
-      <point x="121.0" y="469.0" name="TZEJUMBT"/>
-      <point x="60.0" y="465.0" name="ASESDGWV"/>
-      <point x="-5.0" y="454.0" type="curve" name="HGELPJGS"/>
-      <point x="37.0" y="325.0" name="AROXYCUF"/>
-      <point x="-11.0" y="102.0" name="OYJCFZPQ"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="acute" xOffset="-13"/>
   </outline>
 </glyph>

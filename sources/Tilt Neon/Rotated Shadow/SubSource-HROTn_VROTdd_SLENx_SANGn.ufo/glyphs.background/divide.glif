@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="500"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="57" y="308" type="move" name="RAHKY"/>
+      <point x="325" y="308" type="line" name="CETAD"/>
+    </contour>
+    <contour>
+      <point x="196" y="460" type="move" name="MAGCO"/>
+      <point x="172" y="465" name="JEKUK"/>
+      <point x="172" y="499" name="SAMME"/>
+      <point x="196" y="504" type="curve" name="EBOXY"/>
+    </contour>
+    <contour>
+      <point x="196" y="114" type="move" name="TYSON"/>
+      <point x="172" y="119" name="ELLYE"/>
+      <point x="172" y="153" name="JHALL"/>
+      <point x="196" y="158" type="curve" name="MRTIN"/>
+    </contour>
+  </outline>
+</glyph>

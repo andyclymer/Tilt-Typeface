@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron.cap" format="2">
+  <advance width="500"/>
+  <anchor x="-72.0" y="680.0" name="top"/>
+  <anchor x="173.0" y="680.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="-29" y="661" type="move" name="CEBDU"/>
+      <point x="-206" y="661" type="line" name="NEDAE"/>
+    </contour>
+  </outline>
+</glyph>

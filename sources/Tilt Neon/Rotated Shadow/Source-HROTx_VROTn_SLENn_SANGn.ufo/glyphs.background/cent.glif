@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="500"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="314" y="183" type="move" name="MOSER"/>
+      <point x="254" y="140" name="KM39O"/>
+      <point x="108" y="188" name="CHITO"/>
+      <point x="33" y="295" type="curve" smooth="yes" name="HAREE"/>
+      <point x="-43" y="402" name="JIPRO"/>
+      <point x="34" y="451" name="MASHI"/>
+      <point x="155" y="408" type="curve" name="YUNUB"/>
+    </contour>
+    <contour>
+      <point x="301" y="66" type="move" name="ERNIK"/>
+      <point x="236" y="168" type="line" name="KAOLN"/>
+    </contour>
+    <contour>
+      <point x="69" y="424" type="move" name="GIGEM"/>
+      <point x="3" y="526" type="line" name="EMORE"/>
+    </contour>
+  </outline>
+</glyph>

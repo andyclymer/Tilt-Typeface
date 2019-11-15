@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright" format="2">
+  <advance width="500"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="43" y="747" type="move" name="ORAVY"/>
+      <point x="145" y="707" name="KAKAE"/>
+      <point x="239" y="559" name="RIDDG"/>
+      <point x="239" y="306" type="curve" smooth="yes" name="ARUBE"/>
+      <point x="239" y="53" name="TECUF"/>
+      <point x="145" y="-95" name="CEMAM"/>
+      <point x="43" y="-135" type="curve" name="CILAS"/>
+    </contour>
+  </outline>
+</glyph>

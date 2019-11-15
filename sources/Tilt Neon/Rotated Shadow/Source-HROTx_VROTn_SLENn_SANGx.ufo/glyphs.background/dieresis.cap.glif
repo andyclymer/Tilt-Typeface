@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.cap" format="2">
+  <advance width="500"/>
+  <anchor x="-84.0" y="680.0" name="top"/>
+  <anchor x="204.0" y="680.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="-150" y="652" type="move" name="MOURE"/>
+      <point x="-176" y="656" name="JIVLI"/>
+      <point x="-193" y="680" name="HIKAB"/>
+      <point x="-172" y="683" type="curve" name="CUBOP"/>
+    </contour>
+    <contour>
+      <point x="6" y="652" type="move" name="FESIG"/>
+      <point x="-21" y="656" name="ARGET"/>
+      <point x="-38" y="680" name="LNHOM"/>
+      <point x="-16" y="683" type="curve" name="MARSA"/>
+    </contour>
+  </outline>
+</glyph>

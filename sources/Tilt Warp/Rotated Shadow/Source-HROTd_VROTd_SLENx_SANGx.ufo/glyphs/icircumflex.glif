@@ -3,42 +3,7 @@
   <advance width="281"/>
   <unicode hex="00EE"/>
   <outline>
-    <contour>
-      <point x="10.0" y="495.0" type="curve" name="CNIMXRFF"/>
-      <point x="54.0" y="507.0" name="OMWCEXIM"/>
-      <point x="104.0" y="514.0" name="FCVKUHGS"/>
-      <point x="158.0" y="516.0" type="curve" name="KAPGEXNS"/>
-      <point x="185.0" y="536.0" name="RTJDFJCQ"/>
-      <point x="217.0" y="552.0" name="GKQRQUBY"/>
-      <point x="251.0" y="565.0" type="curve" name="TSVFIGHX"/>
-      <point x="251.0" y="552.0" name="NIFORBKQ"/>
-      <point x="255.0" y="536.0" name="KPIKBQPG"/>
-      <point x="262.0" y="516.0" type="curve" name="CINGYAJH"/>
-      <point x="320.0" y="514.0" name="SHCUBHVC"/>
-      <point x="384.0" y="507.0" name="TQKRICRB"/>
-      <point x="452.0" y="495.0" type="curve" name="YZDVNEVB"/>
-      <point x="425.0" y="546.0" name="ZIYSFPHO"/>
-      <point x="414.0" y="581.0" name="DUTBDNLM"/>
-      <point x="421.0" y="598.0" type="curve" name="USAWZEBX"/>
-      <point x="359.0" y="603.0" name="WWMDIDFX"/>
-      <point x="299.0" y="603.0" name="NKMYASNN"/>
-      <point x="247.0" y="598.0" type="curve" name="LPMPLKSC"/>
-      <point x="152.0" y="581.0" name="WAWUHGBK"/>
-      <point x="70.0" y="547.0" name="TGHUSOWI"/>
-    </contour>
-    <contour>
-      <point x="249.0" y="-191.0" type="curve" name="HSHSMIHU"/>
-      <point x="299.0" y="-187.0" name="KGEARSBP"/>
-      <point x="356.0" y="-187.0" name="UFYOXVQR"/>
-      <point x="414.0" y="-191.0" type="curve" name="WYYXJYAI"/>
-      <point x="277.0" y="117.0" name="UZWBEOPF"/>
-      <point x="229.0" y="340.0" name="AVSXKOFT"/>
-      <point x="271.0" y="469.0" type="curve" name="TECHSKSC"/>
-      <point x="213.0" y="473.0" name="RZOADZUT"/>
-      <point x="156.0" y="473.0" name="JTOBPTOK"/>
-      <point x="106.0" y="469.0" type="curve" name="VTDBICZS"/>
-      <point x="64.0" y="340.0" name="QMLRAXWQ"/>
-      <point x="112.0" y="117.0" name="PJVZYYMN"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="circumflex" xOffset="-139"/>
   </outline>
 </glyph>

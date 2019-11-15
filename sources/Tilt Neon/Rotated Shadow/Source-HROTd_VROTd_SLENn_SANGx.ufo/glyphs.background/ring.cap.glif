@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring.cap" format="2">
+  <advance width="500"/>
+  <anchor x="0" y="680.0" name="top"/>
+  <anchor x="210" y="680.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="209" y="759" type="curve" smooth="yes" name="SERRA"/>
+      <point x="155" y="759" name="ZASAN"/>
+      <point x="122" y="792" name="ESTRR"/>
+      <point x="122" y="843" type="curve" smooth="yes" name="ZOLOR"/>
+      <point x="122" y="891" name="HUDEV"/>
+      <point x="156" y="922" name="CEVIM"/>
+      <point x="209" y="922" type="curve" smooth="yes" name="KM30K"/>
+      <point x="263" y="922" name="RIVGE"/>
+      <point x="299" y="891" name="ZARAL"/>
+      <point x="299" y="843" type="curve" smooth="yes" name="HELOS"/>
+      <point x="299" y="792" name="TUCJA"/>
+      <point x="264" y="759" name="JASES"/>
+    </contour>
+  </outline>
+</glyph>

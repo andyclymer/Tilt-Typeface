@@ -3,42 +3,7 @@
   <advance width="281"/>
   <unicode hex="00EE"/>
   <outline>
-    <contour>
-      <point x="-79.0" y="486.17366491630685" type="curve" name="CNIMXRFF"/>
-      <point x="-23.0" y="486.17366491630685" name="OMWCEXIM"/>
-      <point x="34.0" y="486.17366491630685" name="FCVKUHGS"/>
-      <point x="90.0" y="486.17366491630685" type="curve" name="KAPGEXNS"/>
-      <point x="107.0" y="507.38686835190333" name="RTJDFJCQ"/>
-      <point x="125.0" y="528.6000717874997" name="GKQRQUBY"/>
-      <point x="142.0" y="549.8132752230962" type="curve" name="TSVFIGHX"/>
-      <point x="159.0" y="528.6000717874997" name="NIFORBKQ"/>
-      <point x="177.0" y="507.38686835190333" name="KPIKBQPG"/>
-      <point x="194.0" y="486.17366491630685" type="curve" name="CINGYAJH"/>
-      <point x="250.0" y="486.17366491630685" name="SHCUBHVC"/>
-      <point x="307.0" y="486.17366491630685" name="TQKRICRB"/>
-      <point x="363.0" y="486.17366491630685" type="curve" name="YZDVNEVB"/>
-      <point x="319.0" y="534.2569260369921" name="ZIYSFPHO"/>
-      <point x="273.0" y="583.7544007200504" name="DUTBDNLM"/>
-      <point x="229.0" y="631.8376618407357" type="curve" name="USAWZEBX"/>
-      <point x="172.0" y="631.8376618407357" name="WWMDIDFX"/>
-      <point x="112.0" y="631.8376618407357" name="NKMYASNN"/>
-      <point x="55.0" y="631.8376618407357" type="curve" name="LPMPLKSC"/>
-      <point x="11.0" y="583.7544007200504" name="WAWUHGBK"/>
-      <point x="-35.0" y="534.2569260369921" name="TGHUSOWI"/>
-    </contour>
-    <contour>
-      <point x="58.0" y="73.22330470336311" type="curve" name="HSHSMIHU"/>
-      <point x="112.0" y="73.22330470336311" name="KGEARSBP"/>
-      <point x="169.0" y="73.22330470336311" name="UFYOXVQR"/>
-      <point x="223.0" y="73.22330470336311" type="curve" name="WYYXJYAI"/>
-      <point x="223.0" y="194.13856428626275" name="UZWBEOPF"/>
-      <point x="223.0" y="317.88225099390854" name="AVSXKOFT"/>
-      <point x="223.0" y="438.79751057680824" type="curve" name="TECHSKSC"/>
-      <point x="169.0" y="438.79751057680824" name="RZOADZUT"/>
-      <point x="112.0" y="438.79751057680824" name="JTOBPTOK"/>
-      <point x="58.0" y="438.79751057680824" type="curve" name="VTDBICZS"/>
-      <point x="58.0" y="317.88225099390854" name="QMLRAXWQ"/>
-      <point x="58.0" y="194.13856428626275" name="PJVZYYMN"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="circumflex" xOffset="-139"/>
   </outline>
 </glyph>

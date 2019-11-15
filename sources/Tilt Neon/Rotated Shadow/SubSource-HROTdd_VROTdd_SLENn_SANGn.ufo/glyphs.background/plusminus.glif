@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plusminus" format="2">
+  <advance width="500"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="270" y="554" type="move" name="HEDEK"/>
+      <point x="270" y="224" type="line" name="CENEV"/>
+    </contour>
+    <contour>
+      <point x="460" y="378" type="move" name="OBREY"/>
+      <point x="80" y="378" type="line" name="CABTA"/>
+    </contour>
+    <contour>
+      <point x="460" y="78" type="move" name="VPSBM"/>
+      <point x="80" y="78" type="line" name="GUMMO"/>
+    </contour>
+  </outline>
+</glyph>

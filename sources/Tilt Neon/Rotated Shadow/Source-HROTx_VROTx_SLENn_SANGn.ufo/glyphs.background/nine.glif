@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine" format="2">
+  <advance width="500"/>
+  <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="435" y="441" type="move" name="OFKOR"/>
+      <point x="387" y="345" name="JAPDU"/>
+      <point x="281" y="274" name="JAYDI"/>
+      <point x="195" y="274" type="curve" smooth="yes" name="MOSCO"/>
+      <point x="125" y="274" name="ACUFF"/>
+      <point x="108" y="324" name="FARUL"/>
+      <point x="159" y="397" type="curve" smooth="yes" name="TAKSE"/>
+      <point x="212" y="472" name="ESONE"/>
+      <point x="300" y="527" name="RILIE"/>
+      <point x="378" y="527" type="curve" smooth="yes" name="MIDEE"/>
+      <point x="447" y="527" name="GPTCC"/>
+      <point x="475" y="473" name="HAREE"/>
+      <point x="375" y="331" type="curve" smooth="yes" name="LIPNE"/>
+      <point x="221" y="114" name="WAPAL"/>
+      <point x="47" y="67" name="OKKOR"/>
+      <point x="-13" y="118" type="curve" name="STETT"/>
+    </contour>
+  </outline>
+</glyph>

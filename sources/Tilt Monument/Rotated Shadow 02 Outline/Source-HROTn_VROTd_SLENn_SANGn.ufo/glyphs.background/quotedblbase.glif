@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase" format="2">
+  <advance width="500"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="202" y="161" type="curve" name="WETAR"/>
+      <point x="320" y="161" type="line" name="ADVAY"/>
+      <point x="327" y="50" name="JARBI"/>
+      <point x="291" y="-80" name="WELID"/>
+      <point x="177" y="-130" type="curve" name="KONKS"/>
+      <point x="218" y="-11" name="CEKNO"/>
+      <point x="219" y="72" name="EDAVE"/>
+    </contour>
+    <contour>
+      <point x="43" y="161" type="curve" name="FRALE"/>
+      <point x="161" y="161" type="line" name="MULLT"/>
+      <point x="168" y="50" name="ACILU"/>
+      <point x="132" y="-80" name="WEMEB"/>
+      <point x="18" y="-130" type="curve" name="CWARD"/>
+      <point x="59" y="-11" name="GRATE"/>
+      <point x="59" y="72" name="CRTEZ"/>
+    </contour>
+  </outline>
+</glyph>

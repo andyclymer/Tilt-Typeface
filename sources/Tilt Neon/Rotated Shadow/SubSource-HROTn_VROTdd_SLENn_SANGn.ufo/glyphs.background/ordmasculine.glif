@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="500"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="174" y="351" type="curve" smooth="yes" name="MAVNN"/>
+      <point x="232" y="351" name="NORNA"/>
+      <point x="273" y="413" name="HEMDI"/>
+      <point x="273" y="498" type="curve" smooth="yes" name="FIENE"/>
+      <point x="273" y="583" name="WARDZ"/>
+      <point x="232" y="645" name="THEMM"/>
+      <point x="174" y="645" type="curve" smooth="yes" name="YILUC"/>
+      <point x="116" y="645" name="TIDSE"/>
+      <point x="75" y="583" name="WAPMA"/>
+      <point x="75" y="498" type="curve" smooth="yes" name="TOBOC"/>
+      <point x="75" y="413" name="ZUBEL"/>
+      <point x="116" y="351" name="FEPUX"/>
+    </contour>
+    <contour>
+      <point x="273" y="178" type="move" name="ESTEM"/>
+      <point x="75" y="178" type="line" name="ANGGL"/>
+    </contour>
+  </outline>
+</glyph>

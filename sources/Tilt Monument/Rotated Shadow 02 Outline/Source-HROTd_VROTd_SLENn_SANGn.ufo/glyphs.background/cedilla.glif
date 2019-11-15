@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="500"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="238" y="41" type="curve" name="KOFAX"/>
+      <point x="122" y="41" type="line" name="CANOD"/>
+      <point x="122" y="-97" name="JONOB"/>
+      <point x="224" y="-79" name="CFRPS"/>
+      <point x="224" y="-131" type="curve" smooth="yes" name="ILIMY"/>
+      <point x="224" y="-176" name="JELOR"/>
+      <point x="149" y="-168" name="RASNE"/>
+      <point x="60" y="-104" type="curve" name="OCAPU"/>
+      <point x="60" y="-230" type="line" name="RUNTL"/>
+      <point x="235" y="-281" name="PASKE"/>
+      <point x="356" y="-238" name="TORRY"/>
+      <point x="356" y="-124" type="curve" smooth="yes" name="OZAMI"/>
+      <point x="356" y="-18" name="EDIME"/>
+      <point x="229" y="-46" name="CHURK"/>
+    </contour>
+  </outline>
+</glyph>

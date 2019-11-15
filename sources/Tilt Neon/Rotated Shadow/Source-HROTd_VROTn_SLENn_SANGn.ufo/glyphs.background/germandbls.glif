@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="germandbls" format="2">
+  <advance width="500"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="138" y="102" type="move" name="ZUBOD"/>
+      <point x="138" y="455" type="line" smooth="yes" name="DAWIN"/>
+      <point x="138" y="521" name="PLADD"/>
+      <point x="196" y="563" name="CALPO"/>
+      <point x="290" y="563" type="curve" smooth="yes" name="JIKTA"/>
+      <point x="376" y="563" name="NEWLN"/>
+      <point x="438" y="520" name="WINTA"/>
+      <point x="438" y="457" type="curve" smooth="yes" name="GRANI"/>
+      <point x="438" y="394" name="PAAPY"/>
+      <point x="354" y="358" name="PVINE"/>
+      <point x="260" y="346" type="curve" name="TOCAN"/>
+      <point x="408" y="350" name="WAGEG"/>
+      <point x="491" y="303" name="KEOTA"/>
+      <point x="491" y="225" type="curve" smooth="yes" name="HIRLA"/>
+      <point x="491" y="143" name="KENYY"/>
+      <point x="403" y="82" name="JALIP"/>
+      <point x="260" y="101" type="curve" name="MUDOE"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <advance width="500"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="180" y="640" type="move" name="KU48M"/>
+      <point x="146" y="40" type="line" name="CUSIT"/>
+    </contour>
+    <contour>
+      <point x="348" y="640" type="move" name="CITGA"/>
+      <point x="314" y="40" type="line" name="ZIVEK"/>
+    </contour>
+    <contour>
+      <point x="434" y="462" type="move" name="MADRY"/>
+      <point x="60" y="462" type="line" name="HASUR"/>
+    </contour>
+    <contour>
+      <point x="434" y="218" type="move" name="KA15Q"/>
+      <point x="60" y="218" type="line" name="JUSUG"/>
+    </contour>
+  </outline>
+</glyph>

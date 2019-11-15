@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Euro" format="2">
+  <advance width="500"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="372" y="92" type="move" name="ASBEY"/>
+      <point x="220" y="17" name="GICEG"/>
+      <point x="104" y="126" name="COGIT"/>
+      <point x="104" y="340" type="curve" smooth="yes" name="DREME"/>
+      <point x="104" y="554" name="FERUS"/>
+      <point x="220" y="663" name="NEWBE"/>
+      <point x="372" y="588" type="curve" name="JIDBO"/>
+    </contour>
+    <contour>
+      <point x="49" y="420" type="move" name="YOHER"/>
+      <point x="322" y="420" type="line" name="ZADMN"/>
+    </contour>
+    <contour>
+      <point x="49" y="262" type="move" name="DALAC"/>
+      <point x="312" y="262" type="line" name="GIZBU"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen" format="2">
+  <advance width="500"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="-132" y="526" type="move" name="TUYUG"/>
+      <point x="178" y="298" type="line" name="LILSE"/>
+      <point x="166" y="526" type="line" name="CFCDD"/>
+    </contour>
+    <contour>
+      <point x="178" y="298" type="move" name="MCKLS"/>
+      <point x="317" y="102" type="line" name="CFDWK"/>
+    </contour>
+    <contour>
+      <point x="391" y="185" type="move" name="CITMU"/>
+      <point x="124" y="185" type="line" name="SALOM"/>
+    </contour>
+    <contour>
+      <point x="44" y="298" type="move" name="LEYIR"/>
+      <point x="311" y="298" type="line" name="HITUX"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="500"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="129" y="432" type="move" name="PIDIC"/>
+      <point x="295" y="432" type="line" smooth="yes" name="ZEKBA"/>
+      <point x="405" y="432" name="IMLOY"/>
+      <point x="475" y="382" name="WITOL"/>
+      <point x="475" y="312" type="curve" smooth="yes" name="VPLHF"/>
+      <point x="475" y="240" name="KEEKA"/>
+      <point x="405" y="193" name="ZUNSA"/>
+      <point x="307" y="193" type="curve" smooth="yes" name="NISAE"/>
+      <point x="129" y="193" type="line" name="YOBUB"/>
+    </contour>
+    <contour>
+      <point x="125" y="102" type="move" name="DIABO"/>
+      <point x="125" y="522" type="line" name="IDAYE"/>
+    </contour>
+  </outline>
+</glyph>

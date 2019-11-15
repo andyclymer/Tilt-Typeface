@@ -3,33 +3,7 @@
   <advance width="325"/>
   <unicode hex="00CC"/>
   <outline>
-    <contour>
-      <point x="340.0" y="654.0" type="curve" name="AMLDAETB"/>
-      <point x="328.0" y="698.0" name="MGFFEVXE"/>
-      <point x="330.0" y="729.0" name="TIHWQIJS"/>
-      <point x="347.0" y="744.0" type="curve" name="NMUAIFND"/>
-      <point x="285.0" y="747.0" name="IBWXEAFG"/>
-      <point x="229.0" y="742.0" name="BBHXLCPH"/>
-      <point x="181.0" y="731.0" type="curve" name="EXOCDMIO"/>
-      <point x="162.0" y="726.0" name="MSKSWPAR"/>
-      <point x="159.0" y="705.0" name="IIIQVHXD"/>
-      <point x="172.0" y="668.0" type="curve" name="UYGUOHOD"/>
-      <point x="222.0" y="669.0" name="SAEDWAYF"/>
-      <point x="279.0" y="664.0" name="ZDKLWUWI"/>
-    </contour>
-    <contour>
-      <point x="283.0" y="-208.0" type="curve" name="LIRWFYTC"/>
-      <point x="339.0" y="-206.0" name="HEPXLHOK"/>
-      <point x="403.0" y="-211.0" name="WVGWKOFZ"/>
-      <point x="472.0" y="-222.0" type="curve" name="SDQBCEXT"/>
-      <point x="293.0" y="181.0" name="IVQFLGMX"/>
-      <point x="240.0" y="466.0" name="ZFFYNOBU"/>
-      <point x="316.0" y="614.0" type="curve" name="GGUQNFGC"/>
-      <point x="247.0" y="625.0" name="PZHJSZER"/>
-      <point x="183.0" y="630.0" name="EMMKMONV"/>
-      <point x="127.0" y="628.0" type="curve" name="EVNMFXMY"/>
-      <point x="51.0" y="480.0" name="VSZDLCGP"/>
-      <point x="104.0" y="195.0" name="SMINGBQJ"/>
-    </contour>
+    <component base="I"/>
+    <component base="grave.cap" xOffset="-91"/>
   </outline>
 </glyph>

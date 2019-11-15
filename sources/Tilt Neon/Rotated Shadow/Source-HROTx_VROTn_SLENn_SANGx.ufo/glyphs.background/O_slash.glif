@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="500"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <contour>
+      <point x="365" y="98" type="curve" smooth="yes" name="CIBPA"/>
+      <point x="251" y="98" name="ZIKUD"/>
+      <point x="108" y="188" name="VESZE"/>
+      <point x="18" y="314" type="curve" smooth="yes" name="JUBEB"/>
+      <point x="-70" y="440" name="MULRR"/>
+      <point x="-54" y="529" name="CBRIT"/>
+      <point x="60" y="529" type="curve" smooth="yes" name="ZUMOD"/>
+      <point x="175" y="529" name="NUGEN"/>
+      <point x="320" y="440" name="SULZU"/>
+      <point x="409" y="314" type="curve" smooth="yes" name="OXIFU"/>
+      <point x="498" y="188" name="REMAC"/>
+      <point x="480" y="98" name="ORRFN"/>
+    </contour>
+    <contour>
+      <point x="258" y="53" type="move" name="KUGEW"/>
+      <point x="170" y="575" type="line" name="HODAN"/>
+    </contour>
+  </outline>
+</glyph>

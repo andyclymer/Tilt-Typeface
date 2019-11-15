@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="500"/>
+  <unicode hex="00A8"/>
+  <anchor x="-84.0" y="497.0" name="top"/>
+  <anchor x="204.0" y="497.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="328" y="523" type="move" name="WIPIM"/>
+      <point x="306" y="526" name="IBUYU"/>
+      <point x="323" y="551" name="CESBA"/>
+      <point x="350" y="554" type="curve" name="JATPO"/>
+    </contour>
+    <contour>
+      <point x="483" y="523" type="move" name="MASSN"/>
+      <point x="462" y="526" name="USOBE"/>
+      <point x="479" y="551" name="FLIBZ"/>
+      <point x="505" y="554" type="curve" name="LIARR"/>
+    </contour>
+  </outline>
+</glyph>

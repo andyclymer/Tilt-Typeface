@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="500"/>
+  <unicode hex="00B8"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="208" y="0" name="center"/>
+  <outline>
+    <contour>
+      <point x="60" y="-230" type="move" name="YKSBPDZL"/>
+      <point x="222" y="-289" type="line" name="SJSBMLGJ"/>
+      <point x="60" y="-104" type="line" name="EVCDMOCG"/>
+    </contour>
+    <contour>
+      <point x="280" y="-59" type="move" name="FOQKKRCF"/>
+      <point x="276" y="-171" name="CPZYRFQC"/>
+      <point x="390" y="-148" name="TEEVDOSI"/>
+      <point x="390" y="-228" type="curve" smooth="yes" name="CWNFNKXY"/>
+      <point x="390" y="-294" name="TMRNVKLB"/>
+      <point x="322" y="-317" name="NNWWNVAZ"/>
+      <point x="222" y="-289" type="curve" smooth="yes" name="EQWNZZTS"/>
+    </contour>
+  </outline>
+</glyph>

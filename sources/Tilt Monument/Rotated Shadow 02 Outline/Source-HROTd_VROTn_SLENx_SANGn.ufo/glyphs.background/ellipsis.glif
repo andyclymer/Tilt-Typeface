@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="500"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="55" y="73" type="line" name="COLEG"/>
+      <point x="216" y="73" type="line" name="MUSHR"/>
+      <point x="216" y="187" type="line" name="HYDRL"/>
+      <point x="55" y="187" type="line" name="CEVOX"/>
+    </contour>
+    <contour>
+      <point x="326" y="73" type="line" name="COBTA"/>
+      <point x="487" y="73" type="line" name="XSTRA"/>
+      <point x="487" y="187" type="line" name="CHOPZ"/>
+      <point x="326" y="187" type="line" name="TRUEX"/>
+    </contour>
+    <contour>
+      <point x="597" y="73" type="line" name="UNEDY"/>
+      <point x="758" y="73" type="line" name="FIETR"/>
+      <point x="758" y="187" type="line" name="ZALZI"/>
+      <point x="597" y="187" type="line" name="ZAPAM"/>
+    </contour>
+  </outline>
+</glyph>

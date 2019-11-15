@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="500"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="315" y="314" type="move" name="RIESR"/>
+      <point x="45" y="314" type="line" name="SEBIS"/>
+    </contour>
+    <contour>
+      <point x="135" y="105" type="line" name="NITVY"/>
+      <point x="135" y="522" type="line" name="TELEX"/>
+      <point x="312" y="522" type="line" name="COALI"/>
+      <point x="473" y="522" name="DOGRE"/>
+      <point x="580" y="435" name="YANWU"/>
+      <point x="580" y="314" type="curve" smooth="yes" name="JISAK"/>
+      <point x="580" y="193" name="CHIMP"/>
+      <point x="475" y="105" name="LOOTH"/>
+      <point x="313" y="105" type="curve" name="LEVVI"/>
+    </contour>
+  </outline>
+</glyph>

@@ -3,33 +3,7 @@
   <advance width="199"/>
   <unicode hex="00ED"/>
   <outline>
-    <contour>
-      <point x="-144.14749262993325" y="426.06958851545033" type="curve" name="ULAWEQGQ"/>
-      <point x="-106.01397897755385" y="433.1406563273158" name="WDZACSCI"/>
-      <point x="-68.20889244992063" y="436.6761902332486" name="UIHOAMRC"/>
-      <point x="-32.146446609406695" y="436.6761902332486" type="curve" name="OSYXQBGG"/>
-      <point x="-40.625631329235375" y="465.66756826189703" name="SQGOCNHG"/>
-      <point x="-52.625631329235375" y="482.63813101037414" name="MQCGMSJN"/>
-      <point x="-68.5606601717798" y="486.17366491630685" type="curve" name="UUIIQOMJ"/>
-      <point x="-108.00178566873407" y="493.95183950935893" name="LYJFWPCJ"/>
-      <point x="-150.09976541518074" y="497.48737341529164" name="IYQRAKQF"/>
-      <point x="-192.4403858487467" y="495.36605307173204" type="curve" name="VFXRJSTF"/>
-      <point x="-172.9195705685754" y="484.7594513539338" name="VSRKCYNG"/>
-      <point x="-156.41957056857538" y="461.4249275747777" name="ZVEVKWTG"/>
-    </contour>
-    <contour>
-      <point x="123.49969362768098" y="-72.44069222106572" type="curve" name="SCOPJPFT"/>
-      <point x="163.9616344048066" y="-64.66251762801369" name="OWHFYWIR"/>
-      <point x="205.09514805718595" y="-61.834090503267475" name="JBCUCDTY"/>
-      <point x="243.071807460073" y="-62.54119728445403" type="curve" name="EIQDPTXK"/>
-      <point x="185.7383297014435" y="154.54058453981608" name="QSITPVPM"/>
-      <point x="108.17945519839782" y="312.2253967444162" name="QKWSIXGG"/>
-      <point x="14.188077169749363" y="404.14927829866735" type="curve" name="GLIEOCHP"/>
-      <point x="-23.78858223313766" y="404.8563850798539" name="TZEJUMBT"/>
-      <point x="-64.92209588551705" y="402.0279579551077" name="ASESDGWV"/>
-      <point x="-105.38403666264264" y="394.2497833620557" type="curve" name="HGELPJGS"/>
-      <point x="-11.185551852807663" y="303.03300858899104" name="AROXYCUF"/>
-      <point x="66.37332265023802" y="145.34819638439097" name="OYJCFZPQ"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="acute" xOffset="-13"/>
   </outline>
 </glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase" format="2">
+  <advance width="500"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="115" y="-7" type="move" name="URTOQ"/>
+      <point x="156" y="43" name="ROBIT"/>
+      <point x="172" y="103" name="HEWED"/>
+      <point x="129" y="130" type="curve" name="NINNA"/>
+    </contour>
+    <contour>
+      <point x="315" y="-7" type="move" name="DSHRT"/>
+      <point x="356" y="43" name="HRVRC"/>
+      <point x="372" y="103" name="ROMLE"/>
+      <point x="329" y="130" type="curve" name="DWSON"/>
+    </contour>
+  </outline>
+</glyph>

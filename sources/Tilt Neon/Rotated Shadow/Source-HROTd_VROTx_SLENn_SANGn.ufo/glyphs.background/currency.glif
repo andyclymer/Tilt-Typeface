@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency" format="2">
+  <advance width="500"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="201" y="402" type="move" name="ZURVO"/>
+      <point x="100" y="473" type="line" name="ZOLBU"/>
+    </contour>
+    <contour>
+      <point x="322" y="196" type="curve" smooth="yes" name="FEMSA"/>
+      <point x="224" y="196" name="BROAD"/>
+      <point x="157" y="246" name="AXQOX"/>
+      <point x="157" y="316" type="curve" smooth="yes" name="VIDAA"/>
+      <point x="157" y="387" name="KD54A"/>
+      <point x="224" y="435" name="MOONR"/>
+      <point x="322" y="435" type="curve" smooth="yes" name="JADPU"/>
+      <point x="420" y="435" name="WILHI"/>
+      <point x="490" y="387" name="IGIPY"/>
+      <point x="490" y="316" type="curve" smooth="yes" name="VPEGV"/>
+      <point x="490" y="246" name="SEGLR"/>
+      <point x="420" y="196" name="UGLAH"/>
+    </contour>
+    <contour>
+      <point x="547" y="473" type="move" name="HORAH"/>
+      <point x="446" y="402" type="line" name="DAUBY"/>
+    </contour>
+    <contour>
+      <point x="100" y="158" type="move" name="GUYER"/>
+      <point x="201" y="229" type="line" name="ZUGEN"/>
+    </contour>
+    <contour>
+      <point x="446" y="229" type="move" name="CLIEN"/>
+      <point x="547" y="158" type="line" name="VEINY"/>
+    </contour>
+  </outline>
+</glyph>

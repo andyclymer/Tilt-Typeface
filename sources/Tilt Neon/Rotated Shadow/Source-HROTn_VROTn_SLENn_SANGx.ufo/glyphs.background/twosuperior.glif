@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twosuperior" format="2">
+  <advance width="500"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <contour>
+      <point x="270" y="299" type="move" name="WATTY"/>
+      <point x="111" y="299" type="line" name="PIBBB"/>
+      <point x="258" y="377" type="line" smooth="yes" name="DARRB"/>
+      <point x="317" y="408" name="ZOMEM"/>
+      <point x="357" y="437" name="KOPDE"/>
+      <point x="376" y="464" type="curve" smooth="yes" name="HABUB"/>
+      <point x="419" y="524" name="EXPEN"/>
+      <point x="358" y="551" name="ZESOP"/>
+      <point x="265" y="512" type="curve" name="ARISE"/>
+    </contour>
+  </outline>
+</glyph>

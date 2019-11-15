@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling" format="2">
+  <advance width="500"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="-30" y="105" type="move" name="JASON"/>
+      <point x="26" y="105" name="MIKLE"/>
+      <point x="80" y="136" name="BOYBA"/>
+      <point x="116" y="187" type="curve" smooth="yes" name="HORNZ"/>
+      <point x="160" y="249" name="DMACK"/>
+      <point x="179" y="348" name="CIRKI"/>
+      <point x="233" y="425" type="curve" smooth="yes" name="COSME"/>
+      <point x="300" y="520" name="CODEY"/>
+      <point x="413" y="555" name="SUMAC"/>
+      <point x="493" y="507" type="curve" name="NEFDE"/>
+    </contour>
+    <contour>
+      <point x="101" y="302" type="move" name="KUMSE"/>
+      <point x="331" y="302" type="line" name="ZAGUN"/>
+    </contour>
+    <contour>
+      <point x="-46" y="105" type="move" name="ODNEF"/>
+      <point x="220" y="105" type="line" name="NUJCO"/>
+    </contour>
+  </outline>
+</glyph>

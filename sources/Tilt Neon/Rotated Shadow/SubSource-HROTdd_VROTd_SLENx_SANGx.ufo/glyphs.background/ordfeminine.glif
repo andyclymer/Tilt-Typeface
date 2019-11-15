@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="500"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="399" y="178" type="move" name="WABOR"/>
+      <point x="106" y="178" type="line" name="JOBVA"/>
+    </contour>
+    <contour>
+      <point x="386" y="354" type="move" name="SEGPE"/>
+      <point x="386" y="642" type="line" name="SODOY"/>
+    </contour>
+    <contour>
+      <point x="247" y="350" type="curve" smooth="yes" name="CHENI"/>
+      <point x="328" y="350" name="FILIG"/>
+      <point x="386" y="412" name="WIKOG"/>
+      <point x="386" y="498" type="curve" smooth="yes" name="KIHMY"/>
+      <point x="386" y="584" name="GELKE"/>
+      <point x="326" y="645" name="KIDSE"/>
+      <point x="246" y="645" type="curve" smooth="yes" name="RELIN"/>
+      <point x="165" y="645" name="BLUEE"/>
+      <point x="106" y="584" name="ZAKBU"/>
+      <point x="106" y="498" type="curve" smooth="yes" name="WARUT"/>
+      <point x="106" y="412" name="KONZL"/>
+      <point x="165" y="350" name="AYOTI"/>
+    </contour>
+  </outline>
+</glyph>

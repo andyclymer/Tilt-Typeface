@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="500"/>
+  <unicode hex="00B8"/>
+  <anchor x="-61.0" y="-20.0" name="bottom"/>
+  <anchor x="147.0" y="-20.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="130" y="38" type="move" name="TEBIE"/>
+      <point x="130" y="-62" type="line" name="SHIPZ"/>
+      <point x="177" y="-68" name="PAGIY"/>
+      <point x="202" y="-88" name="JEDEL"/>
+      <point x="202" y="-132" type="curve" smooth="yes" name="QITXO"/>
+      <point x="202" y="-191" name="JOEYE"/>
+      <point x="154" y="-217" name="BEMAR"/>
+      <point x="77" y="-194" type="curve" name="BNDIA"/>
+    </contour>
+  </outline>
+</glyph>

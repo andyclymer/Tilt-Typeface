@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mu.math" format="2">
+  <advance width="500"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="102" y="-110" type="move" name="EENIE"/>
+      <point x="102" y="458" type="line" name="GUBFO"/>
+    </contour>
+    <contour>
+      <point x="458" y="458" type="move" name="NAVRE"/>
+      <point x="458" y="40" type="line" name="BLIGH"/>
+    </contour>
+    <contour>
+      <point x="102" y="207" type="move" name="PIKAN"/>
+      <point x="102" y="96" name="HIVBO"/>
+      <point x="162" y="34" name="KUCOO"/>
+      <point x="258" y="34" type="curve" smooth="yes" name="YODVU"/>
+      <point x="373" y="34" name="BAYSH"/>
+      <point x="458" y="122" name="FIXME"/>
+      <point x="458" y="224" type="curve" name="HIPRO"/>
+    </contour>
+  </outline>
+</glyph>
