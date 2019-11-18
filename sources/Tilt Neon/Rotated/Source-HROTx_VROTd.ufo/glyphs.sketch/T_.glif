@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T" format="2">
-  <advance width="352"/>
+  <advance width="498"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="59.0" y="590.0" type="move" smooth="yes"/>
-      <point x="4.0" y="590.0"/>
-      <point x="3.0" y="680.0"/>
-      <point x="60.0" y="680.0" type="curve"/>
+      <point x="62" y="590" type="move"/>
+      <point x="-6" y="590"/>
+      <point x="-6" y="680"/>
+      <point x="62" y="680" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

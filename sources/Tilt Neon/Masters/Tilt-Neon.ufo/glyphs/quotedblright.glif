@@ -4,22 +4,41 @@
   <unicode hex="201D"/>
   <outline>
     <contour>
-      <point x="114.75701006646949" y="446.0" type="move"/>
-      <point x="155.7570100664695" y="517.0"/>
-      <point x="171.7570100664695" y="602.0"/>
-      <point x="128.7570100664695" y="641.0" type="curve"/>
+      <point x="114.75701006646949" y="446.0" type="move" name="LMKAELBR"/>
+      <point x="155.7570100664695" y="517.0" name="WCRPMNWG"/>
+      <point x="171.7570100664695" y="602.0" name="AMDLYBRF"/>
+      <point x="128.7570100664695" y="641.0" type="curve" name="DIMONXUO"/>
     </contour>
     <contour>
-      <point x="314.7570100664695" y="446.0" type="move"/>
-      <point x="355.7570100664695" y="517.0"/>
-      <point x="371.7570100664695" y="602.0"/>
-      <point x="328.7570100664695" y="641.0" type="curve"/>
+      <point x="314.7570100664695" y="446.0" type="move" name="AWPFCCPA"/>
+      <point x="355.7570100664695" y="517.0" name="OLXBGFEB"/>
+      <point x="371.7570100664695" y="602.0" name="OKTFNDWC"/>
+      <point x="328.7570100664695" y="641.0" type="curve" name="EBTVLGYM"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AMDLYBRF</key>
+        <integer>120</integer>
+        <key>AWPFCCPA</key>
+        <integer>120</integer>
+        <key>DIMONXUO</key>
+        <real>120.0</real>
+        <key>EBTVLGYM</key>
+        <real>120.0</real>
+        <key>LMKAELBR</key>
+        <integer>120</integer>
+        <key>OKTFNDWC</key>
+        <integer>120</integer>
+        <key>OLXBGFEB</key>
+        <integer>120</integer>
+        <key>WCRPMNWG</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

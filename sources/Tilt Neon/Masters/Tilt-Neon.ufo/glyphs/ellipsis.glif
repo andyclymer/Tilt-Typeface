@@ -4,28 +4,55 @@
   <unicode hex="2026"/>
   <outline>
     <contour>
-      <point x="140.0" y="40.0" type="move"/>
-      <point x="106.0" y="45"/>
-      <point x="106.0" y="79"/>
-      <point x="140.0" y="84.0" type="curve"/>
+      <point x="140.0" y="40.0" type="move" name="JGDLZQUF"/>
+      <point x="106.0" y="45" name="AVRJXGYW"/>
+      <point x="106.0" y="79" name="HOHNHAYN"/>
+      <point x="140.0" y="84.0" type="curve" name="GSKINUZS"/>
     </contour>
     <contour>
-      <point x="400.0" y="40.0" type="move"/>
-      <point x="366.0" y="45.0"/>
-      <point x="366.0" y="79.0"/>
-      <point x="400.0" y="84.0" type="curve"/>
+      <point x="400.0" y="40.0" type="move" name="WSXRMAJT"/>
+      <point x="366.0" y="45.0" name="LSKHPZAA"/>
+      <point x="366.0" y="79.0" name="CZVBDIMA"/>
+      <point x="400.0" y="84.0" type="curve" name="LJYVIXQA"/>
     </contour>
     <contour>
-      <point x="660.0" y="40.0" type="move"/>
-      <point x="626.0" y="45.0"/>
-      <point x="626.0" y="79.0"/>
-      <point x="660.0" y="84.0" type="curve"/>
+      <point x="660.0" y="40.0" type="move" name="MOQYHYOZ"/>
+      <point x="626.0" y="45.0" name="RMYTUVUG"/>
+      <point x="626.0" y="79.0" name="TTBILJIR"/>
+      <point x="660.0" y="84.0" type="curve" name="MWCHISXP"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AVRJXGYW</key>
+        <integer>120</integer>
+        <key>CZVBDIMA</key>
+        <integer>120</integer>
+        <key>GSKINUZS</key>
+        <real>120.0</real>
+        <key>HOHNHAYN</key>
+        <integer>120</integer>
+        <key>JGDLZQUF</key>
+        <integer>120</integer>
+        <key>LJYVIXQA</key>
+        <real>120.0</real>
+        <key>LSKHPZAA</key>
+        <integer>120</integer>
+        <key>MOQYHYOZ</key>
+        <integer>120</integer>
+        <key>MWCHISXP</key>
+        <real>120.0</real>
+        <key>RMYTUVUG</key>
+        <integer>120</integer>
+        <key>TTBILJIR</key>
+        <integer>120</integer>
+        <key>WSXRMAJT</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

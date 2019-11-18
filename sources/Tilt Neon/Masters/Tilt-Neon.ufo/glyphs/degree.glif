@@ -4,24 +4,54 @@
   <unicode hex="00B0"/>
   <outline>
     <contour>
-      <point x="265" y="317" type="curve" smooth="yes"/>
-      <point x="170" y="317"/>
-      <point x="105" y="384"/>
-      <point x="105" y="481" type="curve" smooth="yes"/>
-      <point x="105" y="577"/>
-      <point x="170" y="645"/>
-      <point x="265" y="645" type="curve" smooth="yes"/>
-      <point x="360" y="645"/>
-      <point x="428" y="577"/>
-      <point x="428" y="481" type="curve" smooth="yes"/>
-      <point x="428" y="384"/>
-      <point x="360" y="317"/>
+      <point x="208" y="326" type="move" name="GHJCFKFT"/>
+      <point x="145" y="347" name="EHORVBJO"/>
+      <point x="105" y="405" name="XMOIDMGZ"/>
+      <point x="105" y="481" type="curve" smooth="yes" name="SDDXGXAX"/>
+      <point x="105" y="577" name="ENGQVVRP"/>
+      <point x="170" y="645" name="TOMXKVTX"/>
+      <point x="265" y="645" type="curve" smooth="yes" name="IPZAKDGA"/>
+      <point x="360" y="645" name="BPUFOXWT"/>
+      <point x="428" y="577" name="JPGIJMZU"/>
+      <point x="428" y="481" type="curve" smooth="yes" name="KLIJPJOD"/>
+      <point x="428" y="405" name="FLCZTWZY"/>
+      <point x="386" y="347" name="FGNKVKBN"/>
+      <point x="323" y="326" type="curve" name="STDUOBWK"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BPUFOXWT</key>
+        <integer>120</integer>
+        <key>EHORVBJO</key>
+        <integer>110</integer>
+        <key>ENGQVVRP</key>
+        <integer>120</integer>
+        <key>FGNKVKBN</key>
+        <integer>110</integer>
+        <key>FLCZTWZY</key>
+        <integer>120</integer>
+        <key>GHJCFKFT</key>
+        <integer>90</integer>
+        <key>IPZAKDGA</key>
+        <integer>120</integer>
+        <key>JPGIJMZU</key>
+        <integer>120</integer>
+        <key>KLIJPJOD</key>
+        <integer>120</integer>
+        <key>SDDXGXAX</key>
+        <integer>120</integer>
+        <key>STDUOBWK</key>
+        <real>90.0</real>
+        <key>TOMXKVTX</key>
+        <integer>120</integer>
+        <key>XMOIDMGZ</key>
+        <real>120.0</real>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

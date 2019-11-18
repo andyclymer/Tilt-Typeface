@@ -4,70 +4,68 @@
   <unicode hex="003F"/>
   <outline>
     <contour>
-      <point x="88" y="611" type="move"/>
-      <point x="141" y="633"/>
-      <point x="194" y="643"/>
-      <point x="241" y="643" type="curve" smooth="yes"/>
-      <point x="348" y="643"/>
-      <point x="427" y="590"/>
-      <point x="427.0" y="509" type="curve" smooth="yes"/>
-      <point x="427" y="455"/>
-      <point x="388" y="406"/>
-      <point x="321" y="378" type="curve" smooth="yes"/>
-      <point x="235" y="342"/>
-      <point x="226" y="313"/>
-      <point x="226" y="266" type="curve"/>
+      <point x="88" y="611" type="move" name="TUGBTPLD"/>
+      <point x="141" y="633" name="ZCLKDDYL"/>
+      <point x="194" y="643" name="AJXQIKYT"/>
+      <point x="241" y="643" type="curve" smooth="yes" name="XACNGVSK"/>
+      <point x="348" y="643" name="ILXOZXVS"/>
+      <point x="427" y="590" name="BTSZWPXQ"/>
+      <point x="427.0" y="509" type="curve" smooth="yes" name="LYOKWAHI"/>
+      <point x="427" y="455" name="WCVIZSEZ"/>
+      <point x="388" y="406" name="LYFKILYU"/>
+      <point x="321" y="378" type="curve" smooth="yes" name="UBNDZMME"/>
+      <point x="235" y="342" name="ZSXQLWUH"/>
+      <point x="226" y="313" name="DZQGGFJM"/>
+      <point x="226" y="266" type="curve" name="WPHOMBUK"/>
     </contour>
     <contour>
-      <point x="227.0" y="36.0" type="move"/>
-      <point x="227.0" y="50"/>
-      <point x="227.0" y="75"/>
-      <point x="227.0" y="90.0" type="curve"/>
+      <point x="227.0" y="36.0" type="move" name="NYSYROUW"/>
+      <point x="227.0" y="50" name="SLNQUYAN"/>
+      <point x="227.0" y="75" name="VZMOLFTK"/>
+      <point x="227.0" y="90.0" type="curve" name="YMUVUDPY"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
       <key>com.andyclymer.zPosition</key>
       <dict>
-        <key>BOZQDDAS</key>
-        <integer>90</integer>
-        <key>CFQUXBFM</key>
-        <integer>50</integer>
-        <key>FLALIBEB</key>
-        <integer>120</integer>
-        <key>HVHUUJLY</key>
-        <integer>130</integer>
-        <key>JXKJXPBT</key>
-        <integer>120</integer>
-        <key>KHNBSHZX</key>
-        <integer>120</integer>
-        <key>LUHLITUI</key>
-        <integer>130</integer>
-        <key>NTERUOMQ</key>
-        <integer>50</integer>
-        <key>QCSUQDCB</key>
-        <integer>120</integer>
-        <key>RVHYNCDY</key>
-        <integer>131</integer>
-        <key>SCBXKWQE</key>
-        <integer>120</integer>
-        <key>TVQCOLII</key>
-        <integer>120</integer>
-        <key>ULDVPNHY</key>
-        <integer>120</integer>
-        <key>UXFGAZZN</key>
-        <integer>120</integer>
-        <key>YCOEALVL</key>
-        <integer>120</integer>
-        <key>ZJPOVKPS</key>
-        <integer>50</integer>
-        <key>ZQBQRJFA</key>
-        <integer>106</integer>
+        <key>AJXQIKYT</key>
+        <integer>0</integer>
+        <key>BTSZWPXQ</key>
+        <integer>0</integer>
+        <key>DZQGGFJM</key>
+        <integer>0</integer>
+        <key>ILXOZXVS</key>
+        <integer>0</integer>
+        <key>LYFKILYU</key>
+        <integer>0</integer>
+        <key>LYOKWAHI</key>
+        <integer>0</integer>
+        <key>NYSYROUW</key>
+        <integer>0</integer>
+        <key>SLNQUYAN</key>
+        <integer>0</integer>
+        <key>TUGBTPLD</key>
+        <integer>0</integer>
+        <key>UBNDZMME</key>
+        <integer>0</integer>
+        <key>VZMOLFTK</key>
+        <integer>0</integer>
+        <key>WCVIZSEZ</key>
+        <integer>0</integer>
+        <key>WPHOMBUK</key>
+        <integer>0</integer>
+        <key>XACNGVSK</key>
+        <integer>0</integer>
+        <key>YMUVUDPY</key>
+        <integer>0</integer>
+        <key>ZCLKDDYL</key>
+        <integer>0</integer>
+        <key>ZSXQLWUH</key>
+        <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.6171,0.9529,0.5725,1</string>
+      <string>0.7267,0.7266,0.7266,1</string>
     </dict>
   </lib>
 </glyph>

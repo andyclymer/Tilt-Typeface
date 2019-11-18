@@ -4,22 +4,41 @@
   <unicode hex="003A"/>
   <outline>
     <contour>
-      <point x="140.0" y="40.0" type="move"/>
-      <point x="106.0" y="45"/>
-      <point x="106.0" y="79"/>
-      <point x="140.0" y="84.0" type="curve"/>
+      <point x="140.0" y="40.0" type="move" name="JRVMFRMU"/>
+      <point x="106.0" y="45" name="IMDRBHPH"/>
+      <point x="106.0" y="79" name="JJPLYRCT"/>
+      <point x="140.0" y="84.0" type="curve" name="GDYJPRVU"/>
     </contour>
     <contour>
-      <point x="140.0" y="400.0" type="move"/>
-      <point x="106.0" y="405.0"/>
-      <point x="106.0" y="439.0"/>
-      <point x="140.0" y="444.0" type="curve"/>
+      <point x="140.0" y="400.0" type="move" name="KEXISDZS"/>
+      <point x="106.0" y="405.0" name="NKUOHHEL"/>
+      <point x="106.0" y="439.0" name="KBXOFBRV"/>
+      <point x="140.0" y="444.0" type="curve" name="BPPOLFRM"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BPPOLFRM</key>
+        <real>120.0</real>
+        <key>GDYJPRVU</key>
+        <real>120.0</real>
+        <key>IMDRBHPH</key>
+        <integer>120</integer>
+        <key>JJPLYRCT</key>
+        <integer>120</integer>
+        <key>JRVMFRMU</key>
+        <integer>120</integer>
+        <key>KBXOFBRV</key>
+        <integer>120</integer>
+        <key>KEXISDZS</key>
+        <integer>120</integer>
+        <key>NKUOHHEL</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

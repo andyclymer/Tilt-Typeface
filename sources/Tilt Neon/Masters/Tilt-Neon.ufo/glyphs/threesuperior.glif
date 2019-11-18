@@ -4,21 +4,63 @@
   <unicode hex="00B3"/>
   <outline>
     <contour>
-      <point x="110.0" y="333" type="move"/>
-      <point x="211.0" y="295"/>
-      <point x="321.0" y="321"/>
-      <point x="321.0" y="399" type="curve" smooth="yes"/>
-      <point x="321.0" y="469"/>
-      <point x="238.0" y="495"/>
-      <point x="136.0" y="482" type="curve"/>
-      <point x="314.0" y="635.0" type="line"/>
-      <point x="112.0" y="635.0" type="line"/>
+      <point x="110" y="333" type="move" name="BHATBUZI"/>
+      <point x="211" y="295" name="WSBCUATE"/>
+      <point x="321" y="321" name="HXSFLKFQ"/>
+      <point x="321" y="399" type="curve" smooth="yes" name="DAQMINFF"/>
+      <point x="321" y="444" name="RJQLZHZV"/>
+      <point x="287" y="480" name="NUANWZRJ"/>
+      <point x="209" y="484" type="curve" smooth="yes" name="GXGNSWUC"/>
+      <point x="143" y="488" name="ULPVXNFR"/>
+      <point x="156" y="499" name="DFIUUOMO"/>
+      <point x="218" y="551" type="curve" smooth="yes" name="NASRMLLZ"/>
+      <point x="292.06334487133205" y="611" name="XGPAVCJS"/>
+      <point x="315" y="635" name="OKGDOQLD"/>
+      <point x="250" y="635" type="curve" smooth="yes" name="URCLCGNB"/>
+      <point x="196" y="635" name="QAFHIRUO"/>
+      <point x="151" y="635" name="EWDPIVVG"/>
+      <point x="112" y="635" type="curve" name="OYWDVXGH"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BHATBUZI</key>
+        <integer>120</integer>
+        <key>DAQMINFF</key>
+        <integer>120</integer>
+        <key>DFIUUOMO</key>
+        <integer>-4</integer>
+        <key>EWDPIVVG</key>
+        <integer>120</integer>
+        <key>GXGNSWUC</key>
+        <integer>120</integer>
+        <key>HXSFLKFQ</key>
+        <integer>120</integer>
+        <key>NASRMLLZ</key>
+        <integer>10</integer>
+        <key>NUANWZRJ</key>
+        <integer>136</integer>
+        <key>OKGDOQLD</key>
+        <integer>120</integer>
+        <key>OYWDVXGH</key>
+        <real>120.0</real>
+        <key>QAFHIRUO</key>
+        <integer>120</integer>
+        <key>RJQLZHZV</key>
+        <integer>120</integer>
+        <key>ULPVXNFR</key>
+        <integer>102</integer>
+        <key>URCLCGNB</key>
+        <integer>120</integer>
+        <key>WSBCUATE</key>
+        <integer>120</integer>
+        <key>XGPAVCJS</key>
+        <integer>26</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

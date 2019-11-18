@@ -1,24 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i" format="2">
   <advance width="500"/>
+  <unicode hex="0069"/>
   <outline>
     <contour>
-      <point x="10.461686384744866" y="39.98254990605156" type="move" name="ASRMLMHF"/>
-      <point x="-0.15009853490710157" y="81.97993127249029" name="ENCFTFPP"/>
-      <point x="-3.690692336977771" y="122.97905798340301" name="XCNOETKN"/>
-      <point x="-3.695875700379318" y="164.97905734370642" type="curve" smooth="yes" name="UTTQRVZE"/>
-      <point x="-3.702786851581381" y="220.97905649077765" name="TOVRUFDL"/>
-      <point x="-3.70969800278346" y="276.9790556378489" name="HRBSDMDH"/>
-      <point x="-3.7166091539854733" y="332.9790547849201" type="curve" smooth="yes" name="IXMXKXNK"/>
-      <point x="-3.7217925173869832" y="374.97905414522353" name="DLGYHBZB"/>
-      <point x="-0.8984253857074407" y="415.9797516524551" name="IEZVKCLU"/>
-      <point x="10.410099577558157" y="457.9825435395475" type="curve" name="QHDACRAQ"/>
+      <point x="10" y="40" type="move" name="ASRMLMHF"/>
+      <point x="0" y="82" name="ENCFTFPP"/>
+      <point x="-4" y="123" name="XCNOETKN"/>
+      <point x="-4" y="165" type="curve" smooth="yes" name="UTTQRVZE"/>
+      <point x="-4" y="221" name="TOVRUFDL"/>
+      <point x="-4" y="277" name="HRBSDMDH"/>
+      <point x="-4" y="333" type="curve" smooth="yes" name="IXMXKXNK"/>
+      <point x="-4" y="375" name="DLGYHBZB"/>
+      <point x="-1" y="416" name="IEZVKCLU"/>
+      <point x="10" y="458" type="curve" name="QHDACRAQ"/>
     </contour>
     <contour>
-      <point x="3.3166940453988616" y="638.9807954535167" type="move" name="ILPNMAJT"/>
-      <point x="-3.756101446568607" y="652.9790499110413" name="EBNQYFUX"/>
-      <point x="-3.7579526477834264" y="667.9790496825783" name="PCPDQLUZ"/>
-      <point x="3.3113872685830046" y="681.9807947985893" type="curve" name="JAFZCSTS"/>
+      <point x="3" y="639" type="move" name="ILPNMAJT"/>
+      <point x="-4" y="653" name="EBNQYFUX"/>
+      <point x="-4" y="668" name="PCPDQLUZ"/>
+      <point x="3" y="682" type="curve" name="JAFZCSTS"/>
     </contour>
   </outline>
 </glyph>

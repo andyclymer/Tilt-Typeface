@@ -4,22 +4,41 @@
   <unicode hex="201C"/>
   <outline>
     <contour>
-      <point x="159" y="645.0" type="move"/>
-      <point x="118" y="574.0"/>
-      <point x="102" y="489.0"/>
-      <point x="145" y="450.0" type="curve"/>
+      <point x="159" y="645.0" type="move" name="YZDSRTHM"/>
+      <point x="118" y="574.0" name="OIQITCTY"/>
+      <point x="102" y="489.0" name="DTQQNIHU"/>
+      <point x="145" y="450.0" type="curve" name="YNLTRSSZ"/>
     </contour>
     <contour>
-      <point x="359" y="645.0" type="move"/>
-      <point x="318" y="574.0"/>
-      <point x="302" y="489.0"/>
-      <point x="345" y="450.0" type="curve"/>
+      <point x="359" y="645.0" type="move" name="AKXANNXD"/>
+      <point x="318" y="574.0" name="DYJPAFZV"/>
+      <point x="302" y="489.0" name="TYLWFWRE"/>
+      <point x="345" y="450.0" type="curve" name="BUWGZPNW"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AKXANNXD</key>
+        <integer>120</integer>
+        <key>BUWGZPNW</key>
+        <real>120.0</real>
+        <key>DTQQNIHU</key>
+        <integer>120</integer>
+        <key>DYJPAFZV</key>
+        <integer>120</integer>
+        <key>OIQITCTY</key>
+        <integer>120</integer>
+        <key>TYLWFWRE</key>
+        <integer>120</integer>
+        <key>YNLTRSSZ</key>
+        <real>120.0</real>
+        <key>YZDSRTHM</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>
