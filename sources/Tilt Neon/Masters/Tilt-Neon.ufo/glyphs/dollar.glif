@@ -9,18 +9,27 @@
       <point x="276" y="613" name="UNNEZUEZ"/>
       <point x="328" y="596" type="curve" smooth="yes" name="UQZDAIMF"/>
       <point x="437" y="560" name="KRRVTDGH"/>
-      <point x="412" y="576" name="GJYKRBZI"/>
+      <point x="413" y="576" name="GJYKRBZI"/>
       <point x="328" y="596" type="curve" smooth="yes" name="LFSWPQRE"/>
-      <point x="244" y="616" name="HZTYZZZL"/>
-      <point x="101.0" y="588.0" name="CTMHYBYH"/>
+      <point x="312" y="600" name="NTIWBARE"/>
+      <point x="293" y="602" name="ZCBAFLBV"/>
+      <point x="273" y="602" type="curve" smooth="yes" name="CFHULYNC"/>
+      <point x="194" y="602" name="SHGJOQQT"/>
+      <point x="101" y="566" name="ZIZLPKEN"/>
       <point x="101" y="478" type="curve" smooth="yes" name="KYFQDVIT"/>
-      <point x="101" y="329" name="DHQRFGSM"/>
-      <point x="421" y="353" name="TMGDBTFL"/>
+      <point x="101" y="405" name="SYHLQMFX"/>
+      <point x="179" y="373" name="ZQUMIQKU"/>
+      <point x="258" y="341" type="curve" smooth="yes" name="QGXOCGPV"/>
+      <point x="339" y="309" name="MOYWLDYL"/>
+      <point x="421" y="276" name="KKQLVNXT"/>
       <point x="421" y="198" type="curve" smooth="yes" name="UOUCGZKN"/>
-      <point x="421.0" y="88.0" name="AQWWSLGW"/>
-      <point x="273" y="57" name="CCIJJICH"/>
+      <point x="421" y="108" name="OOTHSWVK"/>
+      <point x="321" y="71" name="XKUPICVE"/>
+      <point x="239" y="71" type="curve" smooth="yes" name="DDGRWYFN"/>
+      <point x="221" y="71" name="WOCZTXDK"/>
+      <point x="204" y="73" name="KOJXFLXE"/>
       <point x="189" y="77" type="curve" smooth="yes" name="BBMRILWC"/>
-      <point x="105" y="97" name="JOJDWEQD"/>
+      <point x="106" y="97" name="JOJDWEQD"/>
       <point x="80" y="108" name="MUBILQAF"/>
       <point x="189" y="77" type="curve" smooth="yes" name="SDIZMYJH"/>
       <point x="242" y="62" name="JFJCIZAL"/>
@@ -32,39 +41,47 @@
     <dict>
       <key>com.andyclymer.zPosition</key>
       <dict>
-        <key>AQWWSLGW</key>
-        <integer>120</integer>
         <key>AWLJUCPQ</key>
         <integer>20</integer>
         <key>BAVVEPFG</key>
         <integer>20</integer>
         <key>BBMRILWC</key>
         <integer>120</integer>
-        <key>CCIJJICH</key>
+        <key>CFHULYNC</key>
         <integer>120</integer>
-        <key>CTMHYBYH</key>
-        <integer>120</integer>
-        <key>DHQRFGSM</key>
+        <key>DDGRWYFN</key>
         <integer>120</integer>
         <key>GJYKRBZI</key>
-        <integer>120</integer>
-        <key>HZTYZZZL</key>
         <integer>120</integer>
         <key>JFJCIZAL</key>
         <integer>20</integer>
         <key>JOJDWEQD</key>
         <integer>120</integer>
+        <key>KKQLVNXT</key>
+        <integer>120</integer>
+        <key>KOJXFLXE</key>
+        <real>120.0</real>
         <key>KRRVTDGH</key>
         <integer>20</integer>
         <key>KYFQDVIT</key>
         <integer>120</integer>
         <key>LFSWPQRE</key>
         <integer>120</integer>
+        <key>MOYWLDYL</key>
+        <integer>120</integer>
         <key>MUBILQAF</key>
         <integer>20</integer>
+        <key>NTIWBARE</key>
+        <integer>120</integer>
+        <key>OOTHSWVK</key>
+        <integer>120</integer>
+        <key>QGXOCGPV</key>
+        <integer>120</integer>
         <key>SDIZMYJH</key>
         <integer>20</integer>
-        <key>TMGDBTFL</key>
+        <key>SHGJOQQT</key>
+        <integer>120</integer>
+        <key>SYHLQMFX</key>
         <integer>120</integer>
         <key>UNNEZUEZ</key>
         <integer>20</integer>
@@ -74,8 +91,18 @@
         <integer>20</integer>
         <key>UWBHQWPS</key>
         <integer>20</integer>
+        <key>WOCZTXDK</key>
+        <integer>120</integer>
+        <key>XKUPICVE</key>
+        <integer>120</integer>
         <key>XNQSZXYX</key>
         <real>20.0</real>
+        <key>ZCBAFLBV</key>
+        <integer>120</integer>
+        <key>ZIZLPKEN</key>
+        <real>120.0</real>
+        <key>ZQUMIQKU</key>
+        <integer>120</integer>
       </dict>
       <key>public.markColor</key>
       <string>0.5725,0.9294,0.9529,1</string>
