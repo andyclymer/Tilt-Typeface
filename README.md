@@ -28,7 +28,7 @@ All three styles have been drawn to the “Google Latin Core” character set, w
 
 *As of November, 2019 —*
 
-The principle design of all three styles are due to be completed in December, 2019. The current status and next steps are as follows:
+The principle design of all three styles and manufacturing of version 1.0 is due to be completed in December, 2019. The current status and next steps are as follows:
 
 | Neon | |
 | :--- | :--- |
