@@ -3,8 +3,33 @@
   <advance width="500"/>
   <unicode hex="00BD"/>
   <outline>
-    <component base="onesuperior"/>
-    <component base="fraction" xOffset="140"/>
-    <component base="twosuperior" xOffset="510" yOffset="-271"/>
+    <contour>
+      <point x="-183" y="427" type="move" name="FAYXRHMJ"/>
+      <point x="-117" y="443" name="CNJVRONS"/>
+      <point x="-106" y="428" name="MXUXVNDI"/>
+      <point x="-73" y="381" type="curve" smooth="yes" name="ECCJJXFE"/>
+      <point x="-32" y="324" name="GPUGNIJY"/>
+      <point x="8" y="267" name="AVWSHZMG"/>
+      <point x="48" y="211" type="curve" name="YDKUCKAZ"/>
+    </contour>
+    <contour>
+      <point x="182" y="443" type="move" name="ASXCJWZU"/>
+      <point x="216" y="19" type="line" name="NDLBDZDB"/>
+    </contour>
+    <contour>
+      <point x="640" y="26" type="move" name="CXPXHKLO"/>
+      <point x="617" y="26" name="CQACSUPF"/>
+      <point x="595" y="26" name="RGBGOHMD"/>
+      <point x="572" y="26" type="curve" smooth="yes" name="ONLSQOIO"/>
+      <point x="492" y="26" name="BPGFRUCQ"/>
+      <point x="472" y="34" name="EVYBRCUV"/>
+      <point x="499" y="81" type="curve" smooth="yes" name="FIDWJRJL"/>
+      <point x="525" y="127" name="LDZVEPMJ"/>
+      <point x="536" y="158" name="DFQBUUVY"/>
+      <point x="513" y="190" type="curve" smooth="yes" name="BFCLMLUJ"/>
+      <point x="471" y="250" name="YKYOAPCS"/>
+      <point x="372" y="277" name="NTLHVZZB"/>
+      <point x="335" y="238" type="curve" name="RMXIWILP"/>
+    </contour>
   </outline>
 </glyph>
