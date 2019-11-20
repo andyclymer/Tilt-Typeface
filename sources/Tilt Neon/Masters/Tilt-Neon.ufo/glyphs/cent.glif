@@ -9,15 +9,21 @@
       <point x="278" y="514" name="QJBKQYRZ"/>
       <point x="310" y="499" type="curve" smooth="yes" name="GCLBQVWS"/>
       <point x="402" y="463" name="NSLAWINO"/>
-      <point x="387" y="475" name="YRXVFWPB"/>
+      <point x="385" y="478" name="YRXVFWPB"/>
       <point x="310" y="494" type="curve" smooth="yes" name="LNJLSXGL"/>
-      <point x="235" y="513" name="WNZSVLOQ"/>
-      <point x="92" y="469.0" name="UENFFFLM"/>
+      <point x="282" y="500" name="MYISNMZL"/>
+      <point x="250" y="499" name="MKDFIMNU"/>
+      <point x="216" y="489" type="curve" smooth="yes" name="WHYEKFHR"/>
+      <point x="153" y="470" name="AIUPCNPC"/>
+      <point x="92" y="432" name="VNZYFCDV"/>
       <point x="92" y="314" type="curve" smooth="yes" name="ODRVJLKN"/>
-      <point x="92" y="159.0" name="SCUBYDXA"/>
-      <point x="235" y="115" name="HDJYASHG"/>
+      <point x="92" y="213" name="BIUIZVDS"/>
+      <point x="153" y="158" name="IKUAPSBA"/>
+      <point x="216" y="139" type="curve" smooth="yes" name="MLQDFMFX"/>
+      <point x="250" y="129" name="KAHYBENK"/>
+      <point x="284" y="128" name="ZFICBWFI"/>
       <point x="310" y="134" type="curve" smooth="yes" name="FMAFLABT"/>
-      <point x="402" y="153" name="CYKAFFZK"/>
+      <point x="402" y="155" name="CYKAFFZK"/>
       <point x="387" y="165" name="ABFFATVL"/>
       <point x="310" y="129" type="curve" smooth="yes" name="GFVPAUIT"/>
       <point x="278" y="114" name="YUSWMKJA"/>
@@ -31,8 +37,12 @@
       <dict>
         <key>ABFFATVL</key>
         <real>45.0</real>
+        <key>AIUPCNPC</key>
+        <integer>120</integer>
+        <key>BIUIZVDS</key>
+        <integer>120</integer>
         <key>CYKAFFZK</key>
-        <real>120.0</real>
+        <integer>120</integer>
         <key>CYZMAJPT</key>
         <real>20.0</real>
         <key>FKIEQGQC</key>
@@ -43,12 +53,20 @@
         <real>28.0</real>
         <key>GFVPAUIT</key>
         <real>32.5</real>
-        <key>HDJYASHG</key>
-        <real>120.0</real>
+        <key>IKUAPSBA</key>
+        <integer>120</integer>
+        <key>KAHYBENK</key>
+        <integer>120</integer>
         <key>LACIWYIX</key>
         <real>21.5625</real>
         <key>LNJLSXGL</key>
-        <integer>108</integer>
+        <integer>110</integer>
+        <key>MKDFIMNU</key>
+        <integer>120</integer>
+        <key>MLQDFMFX</key>
+        <integer>120</integer>
+        <key>MYISNMZL</key>
+        <integer>118</integer>
         <key>NSLAWINO</key>
         <real>28.0</real>
         <key>ODRVJLKN</key>
@@ -57,16 +75,16 @@
         <real>28.0</real>
         <key>RUKKYSQX</key>
         <real>20.0</real>
-        <key>SCUBYDXA</key>
-        <real>120.0</real>
-        <key>UENFFFLM</key>
-        <real>116.875</real>
-        <key>WNZSVLOQ</key>
-        <integer>117</integer>
+        <key>VNZYFCDV</key>
+        <integer>120</integer>
+        <key>WHYEKFHR</key>
+        <integer>120</integer>
         <key>YRXVFWPB</key>
-        <integer>98</integer>
+        <integer>89</integer>
         <key>YUSWMKJA</key>
         <real>26.25</real>
+        <key>ZFICBWFI</key>
+        <real>120.0</real>
       </dict>
       <key>public.markColor</key>
       <string>0.5725,0.9294,0.9529,1</string>
