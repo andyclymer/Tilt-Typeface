@@ -4,18 +4,24 @@
   <unicode hex="2018"/>
   <outline>
     <contour>
-      <point x="198" y="622" type="curve" smooth="yes"/>
-      <point x="173" y="580"/>
-      <point x="149" y="507"/>
-      <point x="175" y="483" type="curve" smooth="yes"/>
-      <point x="225" y="438"/>
+      <point x="196.0" y="617.0" type="curve" smooth="yes"/>
+      <point x="166.0" y="565.0"/>
+      <point x="146.0" y="518.0"/>
+      <point x="176.0" y="489.0" type="curve" smooth="yes"/>
+      <point x="236.0" y="435.0"/>
       <point x="165" y="371"/>
       <point x="115" y="417" type="curve" smooth="yes"/>
-      <point x="57" y="469"/>
-      <point x="64" y="571"/>
+      <point x="57" y="470"/>
+      <point x="65" y="571"/>
       <point x="120" y="668" type="curve" smooth="yes"/>
       <point x="154" y="726"/>
-      <point x="232" y="681"/>
+      <point x="237.0" y="687.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
 </glyph>
