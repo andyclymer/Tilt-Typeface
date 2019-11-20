@@ -3,45 +3,8 @@
   <advance width="500"/>
   <unicode hex="00BE"/>
   <outline>
-    <contour>
-      <point x="225" y="443" type="move" name="MHJKINSQ"/>
-      <point x="259" y="19" type="line" name="VWSWNNZF"/>
-    </contour>
-    <contour>
-      <point x="625" y="85" type="move" name="SNNBJCKS"/>
-      <point x="582" y="85" name="HZCIGTSY"/>
-      <point x="538" y="85" name="VZIGGGLK"/>
-      <point x="495" y="85" type="curve" smooth="yes" name="PZMYCWFT"/>
-      <point x="451" y="85" name="WMGDPCUI"/>
-      <point x="425" y="102" name="SJRTJMPJ"/>
-      <point x="418" y="141" type="curve" smooth="yes" name="WWIVECYG"/>
-      <point x="415" y="166" name="JCRWWWBX"/>
-      <point x="413" y="176" name="RVEJANZM"/>
-      <point x="408" y="210" type="curve" smooth="yes" name="RVRAKMNL"/>
-      <point x="400" y="262" name="ISYDJUIB"/>
-      <point x="444" y="262" name="GVWINSQQ"/>
-      <point x="486" y="203" type="curve" smooth="yes" name="UOTBPCDT"/>
-      <point x="518" y="157" name="STQCTCGZ"/>
-      <point x="570" y="84" name="NPSTHZXC"/>
-      <point x="616" y="19" type="curve" name="TLDEXMSQ"/>
-    </contour>
-    <contour>
-      <point x="-20" y="226" type="move" name="BHATBUZI"/>
-      <point x="71" y="199" name="WSBCUATE"/>
-      <point x="135" y="218" name="HXSFLKFQ"/>
-      <point x="96" y="273" type="curve" smooth="yes" name="DAQMINFF"/>
-      <point x="74" y="305" name="RJQLZHZV"/>
-      <point x="32" y="330" name="NUANWZRJ"/>
-      <point x="-25" y="333" type="curve" smooth="yes" name="GXGNSWUC"/>
-      <point x="-74" y="336" name="ULPVXNFR"/>
-      <point x="-71" y="344" name="DFIUUOMO"/>
-      <point x="-53" y="380" type="curve" smooth="yes" name="NASRMLLZ"/>
-      <point x="-31" y="423" name="XGPAVCJS"/>
-      <point x="-26" y="440" name="OKGDOQLD"/>
-      <point x="-72" y="440" type="curve" smooth="yes" name="URCLCGNB"/>
-      <point x="-110" y="440" name="QAFHIRUO"/>
-      <point x="-142" y="440" name="EWDPIVVG"/>
-      <point x="-169" y="440" type="curve" name="OYWDVXGH"/>
-    </contour>
+    <component base="fraction" xOffset="201"/>
+    <component base="four.superior" xOffset="521" yOffset="-271"/>
+    <component base="threesuperior"/>
   </outline>
 </glyph>
