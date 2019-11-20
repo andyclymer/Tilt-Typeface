@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="260"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="140.0" y="40.0" type="move" name="YACKK"/>
+      <point x="106.0" y="45"/>
+      <point x="106.0" y="79"/>
+      <point x="140.0" y="84.0" type="curve" name="FREEZ"/>
+    </contour>
+    <contour>
+      <point x="140.0" y="400.0" type="move" name="YACKK"/>
+      <point x="106.0" y="405.0"/>
+      <point x="106.0" y="439.0"/>
+      <point x="140.0" y="444.0" type="curve" name="FREEZ"/>
+    </contour>
+  </outline>
+</glyph>

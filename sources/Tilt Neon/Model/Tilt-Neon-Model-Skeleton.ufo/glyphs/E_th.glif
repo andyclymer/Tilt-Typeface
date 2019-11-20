@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="670"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="315" y="340" type="move"/>
+      <point x="45" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="135.0" y="45.0" type="line" name="JITUK"/>
+      <point x="135.0" y="635.0" type="line" name="IPTAQ"/>
+      <point x="312.0" y="635.0" type="line" name="RENLY"/>
+      <point x="473.0" y="635.0" name="NOOKS"/>
+      <point x="580.0" y="512" name="BLUJA"/>
+      <point x="580.0" y="341.0" type="curve" smooth="yes" name="BONEE"/>
+      <point x="580.0" y="169" name="PFILA"/>
+      <point x="475.0" y="45.0" name="MAMUE"/>
+      <point x="313.0" y="45.0" type="curve" name="MAAAX"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9529,0.7529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

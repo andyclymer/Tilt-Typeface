@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="495"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="399" y="178" type="move"/>
+      <point x="106" y="178" type="line"/>
+    </contour>
+    <contour>
+      <point x="386" y="354" type="move" name="YACKK"/>
+      <point x="386" y="642" type="line" name="FREEZ"/>
+    </contour>
+    <contour>
+      <point x="247" y="350" type="curve" smooth="yes" name="MAAAX"/>
+      <point x="328" y="350" name="MAMUE"/>
+      <point x="386" y="412" name="PFILA"/>
+      <point x="386" y="498" type="curve" smooth="yes" name="BONEE"/>
+      <point x="386" y="584" name="BLUJA"/>
+      <point x="326" y="645" name="NOOKS"/>
+      <point x="246" y="645" type="curve" smooth="yes" name="RENLY"/>
+      <point x="165" y="645" name="YUTUP"/>
+      <point x="106.0" y="584" name="SAMNN"/>
+      <point x="106.0" y="498" type="curve" smooth="yes" name="IXEXE"/>
+      <point x="106.0" y="412" name="WAGIP"/>
+      <point x="165" y="350" name="GINKE"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

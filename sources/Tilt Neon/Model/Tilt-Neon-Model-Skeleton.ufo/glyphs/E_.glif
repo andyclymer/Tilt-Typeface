@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="523"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="423.0" y="45.0" type="move" name="CAGED"/>
+      <point x="125.0" y="45.0" type="line" name="JITUK"/>
+      <point x="125.0" y="635.0" type="line" name="IPTAQ"/>
+      <point x="423.0" y="635.0" type="line" name="CAGED"/>
+    </contour>
+    <contour>
+      <point x="125.0" y="350.0" type="move" name="CFBCJ"/>
+      <point x="403.0" y="350.0" type="line" name="CAGED"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

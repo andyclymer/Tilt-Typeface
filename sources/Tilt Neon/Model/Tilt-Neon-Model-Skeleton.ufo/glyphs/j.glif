@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="245"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="129" y="458" type="move" name="FREEZ"/>
+      <point x="129" y="-17" type="line" smooth="yes"/>
+      <point x="129.0" y="-118.0"/>
+      <point x="56" y="-141"/>
+      <point x="-15" y="-114" type="curve"/>
+    </contour>
+    <contour>
+      <point x="129" y="639" type="move" name="YACKK"/>
+      <point x="129" y="682" type="line" name="FREEZ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>
