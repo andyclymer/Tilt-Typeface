@@ -4,20 +4,18 @@
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="216.06527752977456" y="-26.931024229187614" type="curve" smooth="yes"/>
-      <point x="-165.06527752977456" y="-26.931024229187614" type="line" smooth="yes"/>
-      <point x="-232.56527752977456" y="-26.931024229187596"/>
-      <point x="-232.56527752977456" y="63.0689757708124"/>
-      <point x="-165.06527752977456" y="63.068975770812386" type="curve" smooth="yes"/>
-      <point x="216.06527752977456" y="63.068975770812386" type="line" smooth="yes"/>
-      <point x="283.56527752977456" y="63.068975770812365"/>
-      <point x="283.56527752977456" y="-26.93102422918764"/>
+      <point x="152" y="60" type="curve" smooth="yes"/>
+      <point x="-3" y="60"/>
+      <point x="-126" y="60"/>
+      <point x="-229" y="60" type="curve" smooth="yes"/>
+      <point x="-296" y="60"/>
+      <point x="-296" y="150"/>
+      <point x="-229" y="150" type="curve" smooth="yes"/>
+      <point x="-75" y="150"/>
+      <point x="48" y="150"/>
+      <point x="152" y="150" type="curve" smooth="yes"/>
+      <point x="220" y="150"/>
+      <point x="220" y="60"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
-    </dict>
-  </lib>
 </glyph>
