@@ -8,17 +8,23 @@
       <point x="299" y="404" name="HZCIGTSY"/>
       <point x="237" y="404" name="VZIGGGLK"/>
       <point x="176" y="404" type="curve" smooth="yes" name="PZMYCWFT"/>
-      <point x="114" y="404.0" name="WMGDPCUI"/>
+      <point x="114" y="404" name="WMGDPCUI"/>
       <point x="93" y="428" name="SJRTJMPJ"/>
       <point x="124" y="484" type="curve" smooth="yes" name="WWIVECYG"/>
       <point x="143" y="519" name="JCRWWWBX"/>
-      <point x="151" y="533" name="RVEJANZM"/>
-      <point x="178" y="581" type="curve" smooth="yes" name="RVRAKMNL"/>
-      <point x="219" y="655" name="ISYDJUIB"/>
-      <point x="281" y="655" name="GVWINSQQ"/>
-      <point x="281" y="571" type="curve" smooth="yes" name="UOTBPCDT"/>
-      <point x="281" y="506" name="STQCTCGZ"/>
-      <point x="281" y="403" name="NPSTHZXC"/>
+      <point x="150" y="532" name="RVEJANZM"/>
+      <point x="170" y="565" type="curve" smooth="yes" name="RVRAKMNL"/>
+      <point x="188" y="595" name="SGKZWCQZ"/>
+      <point x="200" y="621" name="ULQTEEVP"/>
+      <point x="222" y="629" type="curve" smooth="yes" name="RBKDEUJH"/>
+      <point x="240" y="636" name="SUQNPAIX"/>
+      <point x="281.0" y="640.0" name="SEEOUASI"/>
+      <point x="281.0" y="590" type="curve" smooth="yes" name="UOTBPCDT"/>
+      <point x="281" y="554" name="NVVHLRUB"/>
+      <point x="281" y="535" name="RRWGTVCV"/>
+      <point x="281" y="515" type="curve" smooth="yes" name="LERZTHCX"/>
+      <point x="281" y="454" name="BHZBXUMY"/>
+      <point x="281" y="379" name="MESKCPOF"/>
       <point x="281" y="311" type="curve" name="TLDEXMSQ"/>
     </contour>
   </outline>
@@ -26,30 +32,42 @@
     <dict>
       <key>com.andyclymer.zPosition</key>
       <dict>
-        <key>GVWINSQQ</key>
+        <key>BHZBXUMY</key>
         <integer>120</integer>
         <key>HZCIGTSY</key>
         <integer>20</integer>
-        <key>ISYDJUIB</key>
-        <integer>20</integer>
         <key>JCRWWWBX</key>
         <integer>40</integer>
-        <key>NPSTHZXC</key>
+        <key>LERZTHCX</key>
+        <integer>120</integer>
+        <key>MESKCPOF</key>
+        <real>120.0</real>
+        <key>NVVHLRUB</key>
         <integer>120</integer>
         <key>PZMYCWFT</key>
         <integer>0</integer>
+        <key>RBKDEUJH</key>
+        <integer>43</integer>
+        <key>RRWGTVCV</key>
+        <integer>120</integer>
         <key>RVEJANZM</key>
-        <integer>20</integer>
+        <integer>31</integer>
         <key>RVRAKMNL</key>
-        <integer>20</integer>
+        <integer>17</integer>
+        <key>SEEOUASI</key>
+        <integer>120</integer>
+        <key>SGKZWCQZ</key>
+        <integer>4</integer>
         <key>SJRTJMPJ</key>
         <integer>40</integer>
         <key>SNNBJCKS</key>
         <integer>20</integer>
-        <key>STQCTCGZ</key>
-        <integer>120</integer>
+        <key>SUQNPAIX</key>
+        <integer>61</integer>
         <key>TLDEXMSQ</key>
         <real>120.0</real>
+        <key>ULQTEEVP</key>
+        <integer>22</integer>
         <key>UOTBPCDT</key>
         <integer>120</integer>
         <key>VZIGGGLK</key>
