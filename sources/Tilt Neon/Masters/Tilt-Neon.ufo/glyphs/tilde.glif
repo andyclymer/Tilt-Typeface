@@ -6,22 +6,45 @@
   <anchor x="282" y="497.0" name="center"/>
   <outline>
     <contour>
-      <point x="432.0" y="710.0" type="move"/>
-      <point x="432.0" y="650.7678571428571"/>
-      <point x="405.0" y="603.0"/>
-      <point x="354.0" y="603.0" type="curve" smooth="yes"/>
-      <point x="284.36842105263156" y="603.0"/>
-      <point x="276.0" y="710.0"/>
-      <point x="207.0" y="710.0" type="curve" smooth="yes"/>
-      <point x="157.0" y="710.0"/>
-      <point x="131.0" y="662.2321428571429"/>
-      <point x="131.0" y="603.0" type="curve"/>
+      <point x="432.0" y="710.0" type="move" name="KNPPZUPY"/>
+      <point x="432.0" y="651" name="ESYBERFC"/>
+      <point x="405.0" y="603.0" name="EYOJDJBA"/>
+      <point x="354.0" y="603.0" type="curve" smooth="yes" name="SIAPJNCJ"/>
+      <point x="284.36842105263156" y="603.0" name="MGGGMMMT"/>
+      <point x="276.0" y="710.0" name="FNTNHMEU"/>
+      <point x="207.0" y="710.0" type="curve" smooth="yes" name="CCDPPWNF"/>
+      <point x="157.0" y="710.0" name="GMXHJJGA"/>
+      <point x="131.0" y="662" name="DCSKORTP"/>
+      <point x="131.0" y="603.0" type="curve" name="NWKDFVEF"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CCDPPWNF</key>
+        <integer>120</integer>
+        <key>DCSKORTP</key>
+        <integer>120</integer>
+        <key>ESYBERFC</key>
+        <integer>120</integer>
+        <key>EYOJDJBA</key>
+        <integer>120</integer>
+        <key>FNTNHMEU</key>
+        <integer>120</integer>
+        <key>GMXHJJGA</key>
+        <integer>120</integer>
+        <key>KNPPZUPY</key>
+        <integer>90</integer>
+        <key>MGGGMMMT</key>
+        <integer>120</integer>
+        <key>NWKDFVEF</key>
+        <real>90.0</real>
+        <key>SIAPJNCJ</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

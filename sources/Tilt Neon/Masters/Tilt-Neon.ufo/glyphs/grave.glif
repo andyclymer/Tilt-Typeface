@@ -6,14 +6,27 @@
   <anchor x="254" y="497.0" name="center"/>
   <outline>
     <contour>
-      <point x="246.0" y="604.0" type="move"/>
-      <point x="155.0" y="710.0" type="line"/>
+      <point x="246.0" y="604.0" type="move" name="EKYHDXUS"/>
+      <point x="216" y="639" name="EYUQAYHG"/>
+      <point x="185" y="675" name="MDXPGRRZ"/>
+      <point x="155.0" y="710.0" type="curve" name="ZBZRDUBQ"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>EKYHDXUS</key>
+        <integer>120</integer>
+        <key>EYUQAYHG</key>
+        <integer>120</integer>
+        <key>MDXPGRRZ</key>
+        <real>120.0</real>
+        <key>ZBZRDUBQ</key>
+        <real>100.0</real>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

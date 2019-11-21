@@ -4,14 +4,27 @@
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="537" y="-78" type="move"/>
-      <point x="-2" y="-78" type="line"/>
+      <point x="537" y="-78" type="move" name="PBIZMKQO"/>
+      <point x="358" y="-78.0" name="APHQVELN"/>
+      <point x="177" y="-78.0" name="XROZHWJC"/>
+      <point x="-2" y="-78" type="curve" name="GLIRGNZG"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>APHQVELN</key>
+        <integer>120</integer>
+        <key>GLIRGNZG</key>
+        <real>120.0</real>
+        <key>PBIZMKQO</key>
+        <integer>120</integer>
+        <key>XROZHWJC</key>
+        <real>120.0</real>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>
