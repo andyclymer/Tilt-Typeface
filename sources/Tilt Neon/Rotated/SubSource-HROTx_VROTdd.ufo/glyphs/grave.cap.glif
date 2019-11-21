@@ -3,20 +3,14 @@
   <advance width="288"/>
   <outline>
     <contour>
-      <point x="135.16720135235926" y="763.6452712965792" type="curve" smooth="yes"/>
-      <point x="70.80740244246523" y="869.6452696821068" type="line" smooth="yes"/>
-      <point x="35.77532165580047" y="927.3427853630839"/>
-      <point x="112.70534256376989" y="974.0522264119703"/>
-      <point x="147.73742335043465" y="916.3547107309932" type="curve" smooth="yes"/>
-      <point x="212.09722226032864" y="810.3547123454656" type="line" smooth="yes"/>
-      <point x="247.12930304699339" y="752.6571966644885"/>
-      <point x="170.199282139024" y="705.9477556156021"/>
+      <point x="219" y="764" type="curve" smooth="yes"/>
+      <point x="155" y="870" type="line" smooth="yes"/>
+      <point x="121" y="928"/>
+      <point x="198" y="974"/>
+      <point x="233" y="916" type="curve" smooth="yes"/>
+      <point x="297" y="810" type="line" smooth="yes"/>
+      <point x="331" y="752"/>
+      <point x="254" y="706"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
-    </dict>
-  </lib>
 </glyph>

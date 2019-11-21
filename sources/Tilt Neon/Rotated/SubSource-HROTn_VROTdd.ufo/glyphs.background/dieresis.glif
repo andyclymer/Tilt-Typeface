@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis" format="2">
   <advance width="500"/>
-  <unicode hex="00A8"/>
   <anchor x="-84.0" y="497.0" name="top"/>
   <anchor x="204.0" y="497.0" name="center"/>
   <outline>
@@ -13,8 +12,8 @@
     </contour>
     <contour>
       <point x="206" y="636" type="move" name="RCWGFLBI"/>
-      <point x="182" y="641" name="FLURJDQF"/>
-      <point x="182" y="675" name="NLJJMCTT"/>
+      <point x="181" y="641" name="FLURJDQF"/>
+      <point x="181" y="675" name="NLJJMCTT"/>
       <point x="206" y="680" type="curve" name="QYXTBEIS"/>
     </contour>
   </outline>

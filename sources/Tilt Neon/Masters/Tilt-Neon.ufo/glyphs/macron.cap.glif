@@ -5,14 +5,21 @@
   <anchor x="245" y="680.0" name="center"/>
   <outline>
     <contour>
-      <point x="370.0" y="831.0" type="move"/>
-      <point x="120.0" y="831.0" type="line"/>
+      <point x="370.0" y="831.0" type="move" name="NNAJGEBD"/>
+      <point x="120.0" y="831.0" type="line" name="OCORVOZJ"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>NNAJGEBD</key>
+        <integer>120</integer>
+        <key>OCORVOZJ</key>
+        <real>120.0</real>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>
