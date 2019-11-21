@@ -4,30 +4,36 @@
   <unicode hex="02DC"/>
   <outline>
     <contour>
-      <point x="620" y="504" type="curve" smooth="yes"/>
-      <point x="598" y="414"/>
-      <point x="533" y="372"/>
-      <point x="482" y="372" type="curve" smooth="yes"/>
-      <point x="353" y="372"/>
-      <point x="450" y="448"/>
-      <point x="432" y="448" type="curve" smooth="yes"/>
-      <point x="416" y="448"/>
-      <point x="349" y="407"/>
-      <point x="329" y="397" type="curve" smooth="yes"/>
-      <point x="268" y="368"/>
-      <point x="230" y="450"/>
-      <point x="291" y="479" type="curve" smooth="yes"/>
-      <point x="355" y="509"/>
-      <point x="381" y="538"/>
-      <point x="432" y="538" type="curve" smooth="yes"/>
-      <point x="561" y="538"/>
-      <point x="464" y="462"/>
-      <point x="482" y="462" type="curve" smooth="yes"/>
-      <point x="501" y="462"/>
-      <point x="524" y="491"/>
-      <point x="532" y="524" type="curve" smooth="yes"/>
-      <point x="548" y="590"/>
-      <point x="635" y="569"/>
+      <point x="620.0" y="502.0" type="curve" smooth="yes"/>
+      <point x="599.0" y="415.0"/>
+      <point x="533.0" y="372.0"/>
+      <point x="483.0" y="372.0" type="curve" smooth="yes"/>
+      <point x="412.0" y="372.0"/>
+      <point x="430.0" y="438.0"/>
+      <point x="408.0" y="438.0" type="curve" smooth="yes"/>
+      <point x="396.0" y="438.0"/>
+      <point x="379.0" y="421.0"/>
+      <point x="332.0" y="398.0" type="curve" smooth="yes"/>
+      <point x="266.0" y="365.0"/>
+      <point x="234.0" y="451.0"/>
+      <point x="288.0" y="477.0" type="curve" smooth="yes"/>
+      <point x="359.0" y="510.0"/>
+      <point x="386.0" y="538.0"/>
+      <point x="427.0" y="538.0" type="curve" smooth="yes"/>
+      <point x="485.0" y="538.0"/>
+      <point x="476.0" y="470.0"/>
+      <point x="500.0" y="470.0" type="curve" smooth="yes"/>
+      <point x="513.0" y="470.0"/>
+      <point x="523.0" y="487.0"/>
+      <point x="533.0" y="528.0" type="curve" smooth="yes"/>
+      <point x="547.0" y="586.0"/>
+      <point x="636.0" y="570.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
 </glyph>
