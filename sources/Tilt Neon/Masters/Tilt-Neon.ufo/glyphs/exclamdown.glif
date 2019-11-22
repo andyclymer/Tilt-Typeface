@@ -4,18 +4,33 @@
   <unicode hex="00A1"/>
   <outline>
     <contour>
-      <point x="132.25" y="295.0" type="move"/>
-      <point x="132.25" y="-60.0" type="line"/>
+      <point x="132.25" y="295.0" type="move" name="CZNOPTJN"/>
+      <point x="132.25" y="-60.0" type="line" name="JGAUJSAH"/>
     </contour>
     <contour>
-      <point x="140.25" y="496.0" type="move"/>
-      <point x="106.25" y="501.0"/>
-      <point x="106.25" y="535.0"/>
-      <point x="140.25" y="540.0" type="curve"/>
+      <point x="140.25" y="496.0" type="move" name="AKHBCZBC"/>
+      <point x="106.25" y="501.0" name="EPWOIIND"/>
+      <point x="106.25" y="535.0" name="XYJYMAMB"/>
+      <point x="140.25" y="540.0" type="curve" name="KPVJKKQT"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AKHBCZBC</key>
+        <integer>120</integer>
+        <key>CZNOPTJN</key>
+        <integer>120</integer>
+        <key>EPWOIIND</key>
+        <integer>120</integer>
+        <key>JGAUJSAH</key>
+        <real>120.0</real>
+        <key>KPVJKKQT</key>
+        <real>120.0</real>
+        <key>XYJYMAMB</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
       <string>0.5725,0.5725,0.9529,1</string>
     </dict>
