@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="question" format="2">
   <advance width="500"/>
-  <unicode hex="003F"/>
   <outline>
     <contour>
       <point x="-2" y="611" type="move" name="TUGBTPLD"/>
@@ -19,10 +18,10 @@
       <point x="110" y="266" type="curve" name="WPHOMBUK"/>
     </contour>
     <contour>
-      <point x="76" y="36" type="move" name="NYSYROUW"/>
-      <point x="76" y="50" name="SLNQUYAN"/>
-      <point x="76" y="75" name="VZMOLFTK"/>
-      <point x="76" y="90" type="curve" name="YMUVUDPY"/>
+      <point x="75" y="36" type="move" name="NYSYROUW"/>
+      <point x="75" y="50" name="SLNQUYAN"/>
+      <point x="75" y="75" name="VZMOLFTK"/>
+      <point x="75" y="90" type="curve" name="YMUVUDPY"/>
     </contour>
   </outline>
 </glyph>
