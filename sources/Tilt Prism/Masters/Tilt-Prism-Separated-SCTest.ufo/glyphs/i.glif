@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="307"/>
+  <outline>
+    <contour>
+      <point x="154.0" y="518.0" type="move" name="JKIZUAWY"/>
+      <point x="154.0" y="62.0" type="line" name="IKYWWOLM"/>
+    </contour>
+    <contour>
+      <point x="252.0" y="0.0" type="move" name="JRLMZRMB"/>
+      <point x="154.0" y="62.0" type="line" name="VWUMAPUP"/>
+      <point x="55" y="0" type="line" name="XJBUXPFQ"/>
+    </contour>
+    <contour>
+      <point x="55.0" y="580.0" type="move" name="ECUUNSVW"/>
+      <point x="154.0" y="518.0" type="line" name="WZGBHWZC"/>
+      <point x="252.0" y="580.0" type="line" name="SFLOLYUF"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ECUUNSVW</key>
+        <integer>0</integer>
+        <key>IKYWWOLM</key>
+        <real>100.0</real>
+        <key>JKIZUAWY</key>
+        <integer>100</integer>
+        <key>JRLMZRMB</key>
+        <integer>0</integer>
+        <key>SFLOLYUF</key>
+        <real>0.0</real>
+        <key>VWUMAPUP</key>
+        <integer>100</integer>
+        <key>WZGBHWZC</key>
+        <integer>100</integer>
+        <key>XJBUXPFQ</key>
+        <real>0.0</real>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

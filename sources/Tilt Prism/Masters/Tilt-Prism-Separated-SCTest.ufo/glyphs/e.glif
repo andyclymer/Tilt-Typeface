@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e" format="2">
+  <advance width="485"/>
+  <outline>
+    <contour>
+      <point x="357" y="70" type="move" smooth="yes" name="WICKS"/>
+      <point x="296" y="64" name="CATDG"/>
+      <point x="209" y="62" name="AVUKE"/>
+      <point x="148" y="64" type="curve" name="KECEN"/>
+      <point x="148" y="300" type="line" name="CRAYG"/>
+      <point x="148" y="517" type="line" name="KALTE"/>
+      <point x="209" y="519" name="TAITS"/>
+      <point x="299" y="516" name="WIGGO"/>
+      <point x="359" y="511" type="curve" smooth="yes" name="LGHRN"/>
+    </contour>
+    <contour>
+      <point x="332.0" y="300.0" type="move" name="CUYKI"/>
+      <point x="148.0" y="300.0" type="line" name="COVEZ"/>
+    </contour>
+    <contour>
+      <point x="223.0" y="125.0" type="move" name="MJVZATKE"/>
+      <point x="148.0" y="64.0" type="line" name="ZWRNCKHQ"/>
+      <point x="50" y="0" type="line" name="EFSHOVMG"/>
+    </contour>
+    <contour>
+      <point x="50.0" y="580.0" type="move" name="GRZQCAGM"/>
+      <point x="148.0" y="517.0" type="line" name="LXMSTDXV"/>
+      <point x="223.0" y="455.0" type="line" name="MENRSPSU"/>
+    </contour>
+    <contour>
+      <point x="421.0" y="580.0" type="move" name="IIYOJRYX"/>
+      <point x="359.0" y="511.0" type="line" name="BUWWFJIJ"/>
+      <point x="421.0" y="424.0" type="line" name="DMOCMXSX"/>
+    </contour>
+    <contour>
+      <point x="439.0" y="166.0" type="move" name="NFCLXEKZ"/>
+      <point x="357.0" y="70.0" type="line" name="DGWJLFZR"/>
+      <point x="419.0" y="0.0" type="line" name="RDJQSJBO"/>
+    </contour>
+    <contour>
+      <point x="394.0" y="382.0" type="move" name="UBWSCXEJ"/>
+      <point x="332.0" y="300.0" type="line" name="OGPDTMUS"/>
+      <point x="394.0" y="219.0" type="line" name="JMWBMAFS"/>
+    </contour>
+    <contour>
+      <point x="220.0" y="360.0" type="move" name="HAWFMGNR"/>
+      <point x="148.0" y="300.0" type="line" name="ROFWTZTV"/>
+      <point x="220.0" y="240.0" type="line" name="GOKVVXDN"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AVUKE</key>
+        <integer>100</integer>
+        <key>BUWWFJIJ</key>
+        <integer>100</integer>
+        <key>CATDG</key>
+        <integer>100</integer>
+        <key>COVEZ</key>
+        <real>100.0</real>
+        <key>CRAYG</key>
+        <integer>100</integer>
+        <key>CUYKI</key>
+        <integer>100</integer>
+        <key>DGWJLFZR</key>
+        <integer>100</integer>
+        <key>DMOCMXSX</key>
+        <real>0.0</real>
+        <key>EFSHOVMG</key>
+        <real>0.0</real>
+        <key>GOKVVXDN</key>
+        <real>0.0</real>
+        <key>GRZQCAGM</key>
+        <integer>0</integer>
+        <key>HAWFMGNR</key>
+        <integer>0</integer>
+        <key>IIYOJRYX</key>
+        <integer>0</integer>
+        <key>JMWBMAFS</key>
+        <real>0.0</real>
+        <key>KALTE</key>
+        <integer>100</integer>
+        <key>KECEN</key>
+        <integer>100</integer>
+        <key>LGHRN</key>
+        <real>100.0</real>
+        <key>LXMSTDXV</key>
+        <integer>100</integer>
+        <key>MENRSPSU</key>
+        <real>0.0</real>
+        <key>MJVZATKE</key>
+        <integer>0</integer>
+        <key>NFCLXEKZ</key>
+        <integer>0</integer>
+        <key>OGPDTMUS</key>
+        <integer>100</integer>
+        <key>RDJQSJBO</key>
+        <real>0.0</real>
+        <key>ROFWTZTV</key>
+        <integer>100</integer>
+        <key>TAITS</key>
+        <integer>100</integer>
+        <key>UBWSCXEJ</key>
+        <integer>0</integer>
+        <key>WICKS</key>
+        <integer>100</integer>
+        <key>WIGGO</key>
+        <integer>100</integer>
+        <key>ZWRNCKHQ</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

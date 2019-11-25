@@ -3,6 +3,21 @@
   <advance width="500"/>
   <unicode hex="0069"/>
   <outline>
-    <component base="I"/>
+    <contour>
+      <point x="194" y="116" type="curve" name="IGUBE"/>
+      <point x="333" y="116" type="line" name="YEBTO"/>
+      <point x="303" y="140" name="DEJPI"/>
+      <point x="274" y="173" name="IVOVE"/>
+      <point x="165" y="327" type="curve" smooth="yes" name="PACFC"/>
+      <point x="63" y="471" name="TECOL"/>
+      <point x="48" y="501" name="ELEOT"/>
+      <point x="43" y="526" type="curve" name="DUDAC"/>
+      <point x="-96" y="526" type="line" name="CLIFH"/>
+      <point x="-66" y="501" name="GEGEC"/>
+      <point x="-38" y="471" name="LAFAY"/>
+      <point x="63" y="327" type="curve" smooth="yes" name="IDUBY"/>
+      <point x="172" y="173" name="SOGTY"/>
+      <point x="189" y="140" name="ASHLY"/>
+    </contour>
   </outline>
 </glyph>

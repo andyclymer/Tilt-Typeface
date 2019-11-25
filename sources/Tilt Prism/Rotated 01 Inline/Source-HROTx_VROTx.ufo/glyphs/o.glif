@@ -1,7 +1,58 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o" format="2">
-  <advance width="524"/>
+  <advance width="452"/>
   <outline>
-    <component base="O"/>
+    <contour>
+      <point x="207" y="-11" type="curve"/>
+      <point x="207" y="-11"/>
+      <point x="207" y="-11"/>
+      <point x="207" y="-11" type="curve"/>
+      <point x="110" y="-11"/>
+      <point x="91" y="63"/>
+      <point x="166" y="171" type="curve" smooth="yes"/>
+      <point x="166" y="171"/>
+      <point x="166" y="171"/>
+      <point x="166" y="171" type="curve" smooth="yes"/>
+      <point x="240" y="274"/>
+      <point x="352" y="341"/>
+      <point x="445" y="341" type="curve"/>
+      <point x="445" y="341"/>
+      <point x="445" y="341"/>
+      <point x="445" y="341" type="curve"/>
+      <point x="541" y="341"/>
+      <point x="562" y="268"/>
+      <point x="487" y="161" type="curve" smooth="yes"/>
+      <point x="487" y="161"/>
+      <point x="487" y="161"/>
+      <point x="487" y="161" type="curve" smooth="yes"/>
+      <point x="413" y="58"/>
+      <point x="299" y="-11"/>
+    </contour>
+    <contour>
+      <point x="207" y="5" type="curve"/>
+      <point x="295" y="5"/>
+      <point x="403" y="72"/>
+      <point x="473" y="171" type="curve" smooth="yes"/>
+      <point x="473" y="171"/>
+      <point x="473" y="171"/>
+      <point x="473" y="171" type="curve" smooth="yes"/>
+      <point x="540" y="264"/>
+      <point x="529" y="325"/>
+      <point x="445" y="325" type="curve"/>
+      <point x="445" y="325"/>
+      <point x="445" y="325"/>
+      <point x="445" y="325" type="curve"/>
+      <point x="356" y="325"/>
+      <point x="250" y="260"/>
+      <point x="180" y="161" type="curve" smooth="yes"/>
+      <point x="180" y="161"/>
+      <point x="180" y="161"/>
+      <point x="180" y="161" type="curve" smooth="yes"/>
+      <point x="113" y="67"/>
+      <point x="122" y="5"/>
+      <point x="207" y="5" type="curve"/>
+      <point x="207" y="5"/>
+      <point x="207" y="5"/>
+    </contour>
   </outline>
 </glyph>

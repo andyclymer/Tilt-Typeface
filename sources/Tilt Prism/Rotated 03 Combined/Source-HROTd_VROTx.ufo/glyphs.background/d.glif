@@ -3,6 +3,26 @@
   <advance width="500"/>
   <unicode hex="0064"/>
   <outline>
-    <component base="D"/>
+    <contour>
+      <point x="148" y="326" type="line" name="EKADE"/>
+      <point x="148" y="4" type="line" name="GIRYE"/>
+      <point x="289" y="4" type="line" smooth="yes" name="TOZTU"/>
+      <point x="426" y="4" name="FOKVO"/>
+      <point x="521" y="68" name="VATSY"/>
+      <point x="521" y="166" type="curve" smooth="yes" name="ANEBE"/>
+      <point x="521" y="263" name="NALEY"/>
+      <point x="426" y="326" name="XODYU"/>
+      <point x="289" y="326" type="curve" smooth="yes" name="HUKPO"/>
+    </contour>
+    <contour>
+      <point x="223" y="119" type="move" name="MJVZATKE"/>
+      <point x="148" y="4" type="line" name="ZWRNCKHQ"/>
+      <point x="50" y="31" type="line" name="EFSHOVMG"/>
+    </contour>
+    <contour>
+      <point x="50" y="441" type="move" name="PGAOAJGW"/>
+      <point x="148" y="326" type="line" name="ZPXQPUIZ"/>
+      <point x="223" y="353" type="line" name="MKNQWECE"/>
+    </contour>
   </outline>
 </glyph>

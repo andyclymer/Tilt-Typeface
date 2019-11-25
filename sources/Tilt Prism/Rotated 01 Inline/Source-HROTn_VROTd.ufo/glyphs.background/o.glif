@@ -3,6 +3,19 @@
   <advance width="500"/>
   <unicode hex="006F"/>
   <outline>
-    <component base="O"/>
+    <contour>
+      <point x="113" y="52" type="curve" smooth="yes" name="FOMAN"/>
+      <point x="203" y="52" name="SKEES"/>
+      <point x="266" y="148" name="XANTY"/>
+      <point x="266" y="291" type="curve" smooth="yes" name="JODIV"/>
+      <point x="266" y="433" name="HINAV"/>
+      <point x="203" y="528" name="ODGUE"/>
+      <point x="113" y="528" type="curve" smooth="yes" name="TURES"/>
+      <point x="22" y="528" name="TOUSY"/>
+      <point x="-41" y="434" name="MICKY"/>
+      <point x="-41" y="291" type="curve" smooth="yes" name="VAREQ"/>
+      <point x="-41" y="148" name="RULSE"/>
+      <point x="22" y="52" name="FIXAR"/>
+    </contour>
   </outline>
 </glyph>

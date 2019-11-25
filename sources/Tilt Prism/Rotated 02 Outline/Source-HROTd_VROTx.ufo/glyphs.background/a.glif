@@ -3,6 +3,34 @@
   <advance width="500"/>
   <unicode hex="0061"/>
   <outline>
-    <component base="A"/>
+    <contour>
+      <point x="413" y="31" type="curve" name="VPSTC"/>
+      <point x="632" y="31" type="line" name="BOCTA"/>
+      <point x="605" y="56" name="KIELL"/>
+      <point x="579" y="87" name="IVVRY"/>
+      <point x="492" y="242" type="curve" smooth="yes" name="JALGA"/>
+      <point x="409" y="390" name="PRFEC"/>
+      <point x="395" y="418" name="OCCHO"/>
+      <point x="389" y="441" type="curve" name="HOKER"/>
+      <point x="233" y="441" type="line" name="CHUGA"/>
+      <point x="231" y="418" name="BURAY"/>
+      <point x="213" y="390" name="JIKAB"/>
+      <point x="130" y="242" type="curve" smooth="yes" name="WEVEN"/>
+      <point x="43" y="87" name="KECKE"/>
+      <point x="17" y="56" name="YIDUK"/>
+      <point x="-10" y="31" type="curve" name="JIRVI"/>
+      <point x="195" y="31" type="line" name="WOOFF"/>
+      <point x="186" y="48" name="CAMAF"/>
+      <point x="182" y="67" name="JIKON"/>
+      <point x="200" y="113" type="curve" name="DEVLE"/>
+      <point x="408" y="113" type="line" name="BEVDE"/>
+      <point x="426" y="67" name="HUDUT"/>
+      <point x="422" y="48" name="NOVIY"/>
+    </contour>
+    <contour>
+      <point x="304" y="314" type="line" name="FRANO"/>
+      <point x="366" y="201" type="line" name="ACADO"/>
+      <point x="242" y="201" type="line" name="CLOSE"/>
+    </contour>
   </outline>
 </glyph>

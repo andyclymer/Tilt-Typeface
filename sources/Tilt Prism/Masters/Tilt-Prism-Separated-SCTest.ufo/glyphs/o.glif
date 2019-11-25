@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="638"/>
+  <outline>
+    <contour>
+      <point x="319" y="52" type="curve" smooth="yes" name="FOMAN"/>
+      <point x="446" y="52" name="SKEES"/>
+      <point x="536" y="148" name="XANTY"/>
+      <point x="536" y="291" type="curve" smooth="yes" name="JODIV"/>
+      <point x="536" y="433" name="HINAV"/>
+      <point x="446" y="528" name="ODGUE"/>
+      <point x="319" y="528" type="curve" smooth="yes" name="TURES"/>
+      <point x="191" y="528" name="TOUSY"/>
+      <point x="102" y="434" name="MICKY"/>
+      <point x="102" y="291" type="curve" smooth="yes" name="VAREQ"/>
+      <point x="102" y="148" name="RULSE"/>
+      <point x="191" y="52" name="FIXAR"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>FIXAR</key>
+        <real>100.0</real>
+        <key>FOMAN</key>
+        <integer>100</integer>
+        <key>HINAV</key>
+        <integer>100</integer>
+        <key>JODIV</key>
+        <integer>100</integer>
+        <key>MICKY</key>
+        <integer>100</integer>
+        <key>ODGUE</key>
+        <integer>100</integer>
+        <key>RULSE</key>
+        <integer>100</integer>
+        <key>SKEES</key>
+        <integer>100</integer>
+        <key>TOUSY</key>
+        <integer>100</integer>
+        <key>TURES</key>
+        <integer>100</integer>
+        <key>VAREQ</key>
+        <integer>100</integer>
+        <key>XANTY</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

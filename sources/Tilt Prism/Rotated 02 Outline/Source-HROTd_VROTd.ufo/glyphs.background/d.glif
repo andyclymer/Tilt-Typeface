@@ -3,6 +3,37 @@
   <advance width="500"/>
   <unicode hex="0064"/>
   <outline>
-    <component base="D"/>
+    <contour>
+      <point x="50" y="0" type="curve" name="JIMIR"/>
+      <point x="294" y="0" type="line" smooth="yes" name="WITCH"/>
+      <point x="469" y="0" name="MARNR"/>
+      <point x="597" y="114" name="LUCAR"/>
+      <point x="597" y="291" type="curve" smooth="yes" name="WALRS"/>
+      <point x="597" y="466" name="MOGFE"/>
+      <point x="469" y="580" name="JAGNI"/>
+      <point x="294" y="580" type="curve" smooth="yes" name="AZOMY"/>
+      <point x="50" y="580" type="line" name="NICIT"/>
+      <point x="68" y="545" name="SOBCO"/>
+      <point x="77" y="502" name="BECER"/>
+      <point x="77" y="299" type="curve" smooth="yes" name="EGANE"/>
+      <point x="77" y="81" name="GOTHE"/>
+      <point x="68" y="35" name="HUTGU"/>
+    </contour>
+    <contour>
+      <point x="284" y="455" type="line" smooth="yes" name="KD78W"/>
+      <point x="383" y="455" name="PUKTE"/>
+      <point x="445" y="390" name="GRAZE"/>
+      <point x="445" y="291" type="curve" smooth="yes" name="GAYEL"/>
+      <point x="445" y="190" name="DWOOD"/>
+      <point x="383" y="125" name="DANEY"/>
+      <point x="284" y="125" type="curve" smooth="yes" name="HUCRI"/>
+      <point x="223" y="125" type="line" name="HURTA"/>
+      <point x="221" y="166" name="KAYOO"/>
+      <point x="220" y="222" name="BUYAL"/>
+      <point x="220" y="299" type="curve" smooth="yes" name="KB87A"/>
+      <point x="220" y="367" name="BISAC"/>
+      <point x="221" y="417" name="ZIKDO"/>
+      <point x="223" y="455" type="curve" name="IFNUR"/>
+    </contour>
   </outline>
 </glyph>

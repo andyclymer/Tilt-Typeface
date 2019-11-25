@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="G" format="2">
+  <advance width="670"/>
+  <unicode hex="0047"/>
+  <outline>
+    <contour>
+      <point x="592.0" y="652.0" type="move" name="ZVSPBBMH"/>
+      <point x="530.0" y="599.0" type="line" name="PJYICBXU"/>
+      <point x="592.0" y="484.0" type="line" name="JTRIQKLW"/>
+    </contour>
+    <contour>
+      <point x="442.0" y="350.0" type="move" name="EFSHOVMG"/>
+      <point x="536.0" y="288.0" type="line" name="ZWRNCKHQ"/>
+      <point x="620.0" y="350.0" type="line" name="MJVZATKE"/>
+    </contour>
+    <contour>
+      <point x="530" y="599" type="move" smooth="yes" name="NUEXWVON"/>
+      <point x="485" y="618" name="ZWXFJNRG"/>
+      <point x="431" y="628" name="NVYKQXKG"/>
+      <point x="386" y="628" type="curve" smooth="yes" name="METJVKML"/>
+      <point x="220" y="628" name="GNXJIUSZ"/>
+      <point x="113" y="511" name="MLLZPMHI"/>
+      <point x="113" y="338" type="curve" smooth="yes" name="NAATNOMK"/>
+      <point x="113" y="170" name="EUIEBEJW"/>
+      <point x="216" y="50" name="UXZQUAFU"/>
+      <point x="380" y="50" type="curve" smooth="yes" name="ULTRUYDN"/>
+      <point x="434" y="50" name="RJTFLYZP"/>
+      <point x="488" y="62" name="CONFMRBF"/>
+      <point x="540" y="85" type="curve" name="FXBRPKQM"/>
+      <point x="539" y="189" name="CUUVEUMC"/>
+      <point x="538" y="249" name="WDVJWSHR"/>
+      <point x="536" y="288" type="curve" smooth="yes" name="QRCQOBFX"/>
+    </contour>
+    <contour>
+      <point x="471.0" y="127.0" type="move" name="BFJNLYWT"/>
+      <point x="540.0" y="85.0" type="line" name="JBXGVBLG"/>
+      <point x="608.0" y="40.0" type="line" name="PERFQIHH"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BFJNLYWT</key>
+        <integer>0</integer>
+        <key>CONFMRBF</key>
+        <integer>100</integer>
+        <key>CUUVEUMC</key>
+        <integer>100</integer>
+        <key>EFSHOVMG</key>
+        <integer>0</integer>
+        <key>EUIEBEJW</key>
+        <integer>100</integer>
+        <key>FXBRPKQM</key>
+        <integer>100</integer>
+        <key>GNXJIUSZ</key>
+        <integer>100</integer>
+        <key>JBXGVBLG</key>
+        <integer>100</integer>
+        <key>JTRIQKLW</key>
+        <integer>0</integer>
+        <key>METJVKML</key>
+        <integer>100</integer>
+        <key>MJVZATKE</key>
+        <integer>0</integer>
+        <key>MLLZPMHI</key>
+        <integer>100</integer>
+        <key>NAATNOMK</key>
+        <integer>100</integer>
+        <key>NUEXWVON</key>
+        <integer>100</integer>
+        <key>NVYKQXKG</key>
+        <integer>100</integer>
+        <key>PERFQIHH</key>
+        <integer>0</integer>
+        <key>PJYICBXU</key>
+        <integer>100</integer>
+        <key>QRCQOBFX</key>
+        <integer>100</integer>
+        <key>RJTFLYZP</key>
+        <integer>100</integer>
+        <key>ULTRUYDN</key>
+        <integer>100</integer>
+        <key>UXZQUAFU</key>
+        <integer>100</integer>
+        <key>WDVJWSHR</key>
+        <integer>100</integer>
+        <key>ZVSPBBMH</key>
+        <integer>0</integer>
+        <key>ZWRNCKHQ</key>
+        <integer>100</integer>
+        <key>ZWXFJNRG</key>
+        <integer>100</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
