@@ -4,70 +4,53 @@
   <unicode hex="006D"/>
   <outline>
     <contour>
-      <point x="50" y="0" type="curve"/>
-      <point x="227" y="0" type="line"/>
-      <point x="209" y="35"/>
-      <point x="200" y="81"/>
-      <point x="200" y="299" type="curve" smooth="yes"/>
-      <point x="200" y="502"/>
-      <point x="209" y="545"/>
-      <point x="227" y="580" type="curve"/>
-      <point x="50" y="580" type="line"/>
-      <point x="68" y="545"/>
-      <point x="77" y="502"/>
-      <point x="77" y="299" type="curve" smooth="yes"/>
-      <point x="77" y="81"/>
-      <point x="68" y="35"/>
+      <point x="645.0" y="62.0" type="move"/>
+      <point x="645" y="519" type="line"/>
+      <point x="557" y="519" type="line"/>
+      <point x="391" y="63" type="line"/>
+      <point x="230" y="519" type="line"/>
+      <point x="138" y="519" type="line"/>
+      <point x="138" y="62" type="line"/>
     </contour>
     <contour>
-      <point x="554" y="0" type="curve"/>
-      <point x="736" y="0" type="line"/>
-      <point x="718" y="35"/>
-      <point x="709" y="81"/>
-      <point x="709" y="299" type="curve" smooth="yes"/>
-      <point x="709" y="502"/>
-      <point x="718" y="545"/>
-      <point x="736" y="580" type="curve"/>
-      <point x="554" y="580" type="line"/>
-      <point x="572" y="545"/>
-      <point x="581" y="502"/>
-      <point x="581" y="299" type="curve" smooth="yes"/>
-      <point x="581" y="81"/>
-      <point x="572" y="35"/>
+      <point x="227.0" y="0.0" type="move" name="MULFSODH"/>
+      <point x="138.0" y="62.0" type="line" name="TCQYCOJQ"/>
+      <point x="50.0" y="0.0" type="line" name="CMRVBPXT"/>
     </contour>
     <contour>
-      <point x="424" y="281" type="curve" smooth="yes"/>
-      <point x="330" y="0" type="line"/>
-      <point x="453" y="0" type="line"/>
-      <point x="453" y="33"/>
-      <point x="469" y="76"/>
-      <point x="538" y="281" type="curve" smooth="yes"/>
-      <point x="612" y="501"/>
-      <point x="632" y="543"/>
-      <point x="659" y="580" type="curve"/>
-      <point x="499" y="580" type="line"/>
-      <point x="501" y="538"/>
-      <point x="497" y="500"/>
+      <point x="736.0" y="0.0" type="move" name="OVNMQVHV"/>
+      <point x="645.0" y="62.0" type="line" name="PHQTURTS"/>
+      <point x="554.0" y="0.0" type="line" name="TGTXDCAV"/>
     </contour>
     <contour>
-      <point x="368" y="281" type="line" smooth="yes"/>
-      <point x="302" y="499"/>
-      <point x="293" y="538"/>
-      <point x="296" y="580" type="curve"/>
-      <point x="122" y="580" type="line"/>
-      <point x="147" y="544"/>
-      <point x="167" y="501"/>
-      <point x="240" y="281" type="curve" smooth="yes"/>
-      <point x="308" y="76"/>
-      <point x="319" y="33"/>
-      <point x="322" y="0" type="curve"/>
-      <point x="453" y="0" type="line"/>
+      <point x="50.0" y="580.0" type="move"/>
+      <point x="138.0" y="519.0" type="line"/>
+      <point x="201.0" y="412.0" type="line"/>
+      <point x="230.0" y="519.0" type="line"/>
+      <point x="296.0" y="580.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="499" y="580" type="move"/>
+      <point x="557" y="519" type="line"/>
+      <point x="580.0" y="417.0" type="line"/>
+      <point x="645" y="519" type="line"/>
+      <point x="645" y="519" type="line"/>
+      <point x="736" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="344.0" y="0.0" type="move"/>
+      <point x="391.0" y="63.0" type="line"/>
+      <point x="429.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="391.0" y="63.0" type="move"/>
+      <point x="395.0" y="230.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

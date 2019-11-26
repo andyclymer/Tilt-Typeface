@@ -3,13 +3,55 @@
   <advance width="541"/>
   <unicode hex="00E7"/>
   <outline>
-    <component base="c"/>
-    <component base="cedilla" xOffset="81" yOffset="-12"/>
+    <contour>
+      <point x="424" y="509" type="move" smooth="yes"/>
+      <point x="393" y="522"/>
+      <point x="358" y="531"/>
+      <point x="322" y="531" type="curve" smooth="yes"/>
+      <point x="190" y="531"/>
+      <point x="102" y="434"/>
+      <point x="102" y="289" type="curve" smooth="yes"/>
+      <point x="102" y="167"/>
+      <point x="165" y="81"/>
+      <point x="263" y="57" type="curve" smooth="yes"/>
+      <point x="315.4761904761905" y="43.19047619047619"/>
+      <point x="375.4054054054054" y="51.18918918918919"/>
+      <point x="424" y="70" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="486.0" y="558.0" type="move" name="ZVSPBBMH"/>
+      <point x="424.0" y="509.0" type="line" name="PJYICBXU"/>
+      <point x="486.0" y="396.0" type="line" name="JTRIQKLW"/>
+    </contour>
+    <contour>
+      <point x="486.0" y="184.0" type="move" name="IQVNJISR"/>
+      <point x="424.0" y="70.0" type="line" name="MBLKTCQA"/>
+      <point x="486.0" y="22.0" type="line" name="LMCNVRTT"/>
+    </contour>
+    <contour>
+      <point x="140.0" y="-240.0" type="move" name="YKSBPDZL"/>
+      <point x="202.0" y="-199.0" type="line" name="SJSBMLGJ"/>
+      <point x="140.0" y="-114.0" type="line" name="EVCDMOCG"/>
+    </contour>
+    <contour>
+      <point x="263" y="57" type="move" smooth="yes"/>
+      <point x="240" y="-85"/>
+      <point x="370" y="-52"/>
+      <point x="370" y="-138" type="curve" smooth="yes"/>
+      <point x="370" y="-204"/>
+      <point x="302" y="-227"/>
+      <point x="202" y="-199" type="curve"/>
+    </contour>
+    <contour>
+      <point x="203" y="9" type="move"/>
+      <point x="263.0" y="57.0" type="line"/>
+      <point x="329" y="-12" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.502,0.502,0.502,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>
