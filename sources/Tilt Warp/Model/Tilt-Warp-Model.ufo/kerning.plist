@@ -6,10 +6,16 @@
     <dict>
       <key>T</key>
       <integer>-10</integer>
+      <key>V</key>
+      <integer>-10</integer>
+      <key>W</key>
+      <integer>-10</integer>
       <key>X</key>
       <integer>-10</integer>
-      <key>public.kern2.Y</key>
+      <key>j</key>
       <integer>-10</integer>
+      <key>public.kern2.Y</key>
+      <integer>-20</integer>
       <key>public.kern2._enclosures_1</key>
       <integer>-20</integer>
       <key>public.kern2._ptslow</key>
@@ -41,9 +47,19 @@
       <integer>-60</integer>
       <key>public.kern2._sups</key>
       <integer>-10</integer>
+      <key>public.kern2.n</key>
+      <integer>-10</integer>
       <key>public.kern2.o</key>
       <integer>-10</integer>
+      <key>public.kern2.u</key>
+      <integer>-10</integer>
       <key>public.kern2.v</key>
+      <integer>-10</integer>
+      <key>s</key>
+      <integer>-10</integer>
+      <key>x</key>
+      <integer>-10</integer>
+      <key>z</key>
       <integer>-10</integer>
     </dict>
     <key>G</key>
@@ -78,7 +94,7 @@
       <key>public.kern2.t</key>
       <integer>-10</integer>
       <key>public.kern2.v</key>
-      <integer>-25</integer>
+      <integer>-30</integer>
       <key>question</key>
       <integer>-30</integer>
     </dict>
@@ -95,7 +111,7 @@
       <key>eth</key>
       <integer>-10</integer>
       <key>j</key>
-      <integer>-10</integer>
+      <integer>-15</integer>
       <key>public.kern2.A</key>
       <integer>-40</integer>
       <key>public.kern2.Y</key>
@@ -121,6 +137,8 @@
       <integer>-20</integer>
       <key>eth</key>
       <integer>-10</integer>
+      <key>j</key>
+      <integer>-5</integer>
       <key>public.kern2.O</key>
       <integer>-20</integer>
       <key>public.kern2.U</key>
@@ -137,19 +155,25 @@
       <integer>-40</integer>
       <key>public.kern2.o</key>
       <integer>-15</integer>
+      <key>public.kern2.u</key>
+      <integer>-10</integer>
       <key>public.kern2.v</key>
       <integer>-10</integer>
       <key>question</key>
       <integer>-10</integer>
+      <key>s</key>
+      <integer>-5</integer>
     </dict>
     <key>S</key>
     <dict>
       <key>V</key>
-      <integer>-10</integer>
+      <integer>-5</integer>
       <key>W</key>
-      <integer>-10</integer>
+      <integer>-5</integer>
       <key>X</key>
       <integer>-10</integer>
+      <key>j</key>
+      <integer>-5</integer>
       <key>public.kern2.A</key>
       <integer>-10</integer>
       <key>public.kern2.Y</key>
@@ -164,6 +188,8 @@
       <integer>-10</integer>
       <key>public.kern2.v</key>
       <integer>-10</integer>
+      <key>s</key>
+      <integer>-5</integer>
       <key>x</key>
       <integer>-10</integer>
     </dict>
@@ -180,7 +206,7 @@
       <key>public.kern2.A</key>
       <integer>-30</integer>
       <key>public.kern2.O</key>
-      <integer>-30</integer>
+      <integer>-20</integer>
       <key>public.kern2._dashes</key>
       <integer>-40</integer>
       <key>public.kern2._ptslow</key>
@@ -212,6 +238,8 @@
       <integer>20</integer>
       <key>J</key>
       <integer>-20</integer>
+      <key>S</key>
+      <integer>-5</integer>
       <key>T</key>
       <integer>-20</integer>
       <key>V</key>
@@ -222,6 +250,8 @@
       <integer>-40</integer>
       <key>Z</key>
       <integer>-20</integer>
+      <key>j</key>
+      <integer>-10</integer>
       <key>public.kern2.A</key>
       <integer>-10</integer>
       <key>public.kern2.Y</key>
@@ -234,11 +264,15 @@
       <integer>-20</integer>
       <key>question</key>
       <integer>-20</integer>
+      <key>x</key>
+      <integer>-10</integer>
     </dict>
     <key>V</key>
     <dict>
       <key>J</key>
       <integer>-40</integer>
+      <key>S</key>
+      <integer>-10</integer>
       <key>eth</key>
       <integer>-20</integer>
       <key>j</key>
@@ -274,6 +308,8 @@
     <dict>
       <key>J</key>
       <integer>-30</integer>
+      <key>S</key>
+      <integer>-5</integer>
       <key>eth</key>
       <integer>-20</integer>
       <key>j</key>
@@ -348,6 +384,8 @@
     </dict>
     <key>germandbls</key>
     <dict>
+      <key>j</key>
+      <integer>-5</integer>
       <key>public.kern2.v</key>
       <integer>-10</integer>
     </dict>
@@ -361,6 +399,8 @@
       <integer>-20</integer>
       <key>public.kern2.O</key>
       <integer>-20</integer>
+      <key>public.kern2.U</key>
+      <integer>-10</integer>
       <key>public.kern2.Y</key>
       <integer>-50</integer>
       <key>public.kern2._dashes</key>
@@ -380,6 +420,8 @@
     <dict>
       <key>J</key>
       <integer>-10</integer>
+      <key>j</key>
+      <integer>-5</integer>
       <key>public.kern2.O</key>
       <integer>-20</integer>
       <key>public.kern2._dashes</key>
@@ -387,9 +429,18 @@
       <key>public.kern2._sups</key>
       <integer>-10</integer>
       <key>public.kern2.o</key>
-      <integer>-5</integer>
+      <integer>-10</integer>
       <key>public.kern2.v</key>
       <integer>-10</integer>
+    </dict>
+    <key>public.kern1.H</key>
+    <dict>
+      <key>j</key>
+      <integer>-5</integer>
+      <key>public.kern2.t</key>
+      <integer>-5</integer>
+      <key>s</key>
+      <integer>-5</integer>
     </dict>
     <key>public.kern1.O</key>
     <dict>
@@ -397,8 +448,10 @@
       <integer>20</integer>
       <key>J</key>
       <integer>-20</integer>
+      <key>S</key>
+      <integer>-5</integer>
       <key>T</key>
-      <integer>-30</integer>
+      <integer>-20</integer>
       <key>V</key>
       <integer>-20</integer>
       <key>W</key>
@@ -430,6 +483,10 @@
     </dict>
     <key>public.kern1.U</key>
     <dict>
+      <key>J</key>
+      <integer>-10</integer>
+      <key>j</key>
+      <integer>-10</integer>
       <key>public.kern2.A</key>
       <integer>-10</integer>
       <key>public.kern2._ptslow</key>
@@ -452,9 +509,11 @@
       <key>public.kern2.o</key>
       <integer>-30</integer>
       <key>public.kern2.t</key>
-      <integer>-10</integer>
+      <integer>-15</integer>
+      <key>public.kern2.u</key>
+      <integer>-15</integer>
       <key>public.kern2.v</key>
-      <integer>-25</integer>
+      <integer>-30</integer>
       <key>s</key>
       <integer>-5</integer>
     </dict>
@@ -596,10 +655,14 @@
     </dict>
     <key>public.kern1.c</key>
     <dict>
+      <key>eth</key>
+      <integer>-5</integer>
       <key>j</key>
       <integer>-5</integer>
       <key>public.kern2._enclosures_1</key>
       <integer>-20</integer>
+      <key>public.kern2.o</key>
+      <integer>-5</integer>
     </dict>
     <key>public.kern1.e</key>
     <dict>
@@ -615,9 +678,13 @@
       <integer>-10</integer>
       <key>question</key>
       <integer>-20</integer>
+      <key>x</key>
+      <integer>-10</integer>
     </dict>
     <key>public.kern1.i</key>
     <dict>
+      <key>j</key>
+      <integer>-10</integer>
       <key>public.kern2._ptslow</key>
       <integer>-10</integer>
     </dict>
@@ -717,11 +784,15 @@
       <integer>-5</integer>
       <key>question</key>
       <integer>-10</integer>
+      <key>s</key>
+      <integer>-5</integer>
     </dict>
     <key>t</key>
     <dict>
       <key>eth</key>
       <integer>-5</integer>
+      <key>j</key>
+      <integer>-10</integer>
       <key>public.kern2._enclosures_1</key>
       <integer>-10</integer>
       <key>public.kern2._ptslow</key>
