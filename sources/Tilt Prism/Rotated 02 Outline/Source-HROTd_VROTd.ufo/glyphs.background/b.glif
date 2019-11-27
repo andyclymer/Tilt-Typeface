@@ -3,6 +3,53 @@
   <advance width="500"/>
   <unicode hex="0062"/>
   <outline>
-    <component base="B"/>
+    <contour>
+      <point x="50" y="0" type="curve" name="CHULA"/>
+      <point x="296" y="0" type="line" smooth="yes" name="ZAXER"/>
+      <point x="419" y="0" name="FLAGG"/>
+      <point x="504" y="70" name="KEVZU"/>
+      <point x="504" y="172" type="curve" smooth="yes" name="NEUKS"/>
+      <point x="504" y="231" name="NESOE"/>
+      <point x="476" y="276" name="DESEA"/>
+      <point x="425" y="304" type="curve" name="SAAMS"/>
+      <point x="462" y="330" name="HUSOK"/>
+      <point x="484" y="369" name="YUNGG"/>
+      <point x="484" y="419" type="curve" smooth="yes" name="ZERAX"/>
+      <point x="484" y="515" name="SAUVI"/>
+      <point x="403" y="580" name="ZERBO"/>
+      <point x="272" y="580" type="curve" smooth="yes" name="SEELY"/>
+      <point x="50" y="580" type="line" name="TORSK"/>
+      <point x="68" y="545" name="HAGUL"/>
+      <point x="77" y="503" name="EVOCO"/>
+      <point x="77" y="299" type="curve" smooth="yes" name="YOVUB"/>
+      <point x="77" y="81" name="LOGGR"/>
+      <point x="68" y="35" name="POCNO"/>
+    </contour>
+    <contour>
+      <point x="282" y="464" type="line" smooth="yes" name="RUVHO"/>
+      <point x="318" y="464" name="CADAR"/>
+      <point x="340" y="441" name="EKJER"/>
+      <point x="340" y="407" type="curve" smooth="yes" name="BILDE"/>
+      <point x="340" y="375" name="KK60G"/>
+      <point x="315" y="352" name="TAMBY"/>
+      <point x="282" y="352" type="curve" smooth="yes" name="PITVA"/>
+      <point x="214" y="352" type="line" name="YOTUG"/>
+      <point x="215" y="399" name="WEPRU"/>
+      <point x="216" y="435" name="HALLL"/>
+      <point x="218" y="464" type="curve" name="HEVNA"/>
+    </contour>
+    <contour>
+      <point x="292" y="243" type="line" smooth="yes" name="JETAG"/>
+      <point x="334" y="243" name="WOPGA"/>
+      <point x="360" y="218" name="TYGRT"/>
+      <point x="360" y="180" type="curve" smooth="yes" name="SLACR"/>
+      <point x="360" y="141" name="JEFSN"/>
+      <point x="331" y="116" name="SOYYA"/>
+      <point x="292" y="116" type="curve" smooth="yes" name="XIPAQ"/>
+      <point x="218" y="116" type="line" name="SPURR"/>
+      <point x="216" y="148" name="HEVDI"/>
+      <point x="215" y="189" name="JODUN"/>
+      <point x="214" y="243" type="curve" name="JELIG"/>
+    </contour>
   </outline>
 </glyph>

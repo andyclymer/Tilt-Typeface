@@ -4,44 +4,87 @@
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="140.0" y="62.0" type="move"/>
-      <point x="140" y="519" type="line"/>
-      <point x="488" y="60" type="line"/>
-      <point x="488.0" y="518.0" type="line"/>
+      <point x="140.0" y="62.0" type="move" name="STRBOUFB"/>
+      <point x="140" y="519" type="line" name="UYRRPNOG"/>
+      <point x="488" y="60" type="line" name="JBCGXMFD"/>
+      <point x="488.0" y="518.0" type="line" name="TIGKLFVM"/>
     </contour>
     <contour>
-      <point x="231.0" y="0.0" type="move" name="VSXLDNKZ"/>
-      <point x="140.0" y="62.0" type="line" name="SUKSFYIY"/>
-      <point x="50.0" y="0.0" type="line" name="HDGFSUZS"/>
+      <point x="231.0" y="0.0" type="move" name="DXNYCTGV"/>
+      <point x="140.0" y="62.0" type="line" name="XXHYBWOV"/>
+      <point x="50.0" y="0.0" type="line" name="YUCRETBA"/>
     </contour>
     <contour>
-      <point x="398.0" y="580.0" type="move" name="ZLEMENNY"/>
-      <point x="488.0" y="518.0" type="line" name="OXQATKAG"/>
-      <point x="579.0" y="580.0" type="line" name="BUSIROAB"/>
+      <point x="398.0" y="580.0" type="move" name="EILKZTUR"/>
+      <point x="488.0" y="518.0" type="line" name="DTJRKPNP"/>
+      <point x="579.0" y="580.0" type="line" name="ZPMGBLSB"/>
     </contour>
     <contour>
-      <point x="50.0" y="580.0" type="move" name="JYHUHSXA"/>
-      <point x="140.0" y="519.0" type="line" name="OHDQCNUI"/>
-      <point x="177.0" y="580.0" type="line" name="YQCUMHNN"/>
+      <point x="50.0" y="580.0" type="move" name="DDVDTXGM"/>
+      <point x="140.0" y="519.0" type="line" name="MXESJJKW"/>
+      <point x="177.0" y="580.0" type="line" name="YKACSXVL"/>
     </contour>
     <contour>
-      <point x="569.0" y="0.0" type="move" name="AXQSEQZU"/>
-      <point x="488.0" y="60.0" type="line" name="FIQCBHOY"/>
-      <point x="442.0" y="0.0" type="line" name="ZJLCBJAV"/>
+      <point x="569.0" y="0.0" type="move" name="AFPOAXAE"/>
+      <point x="488.0" y="60.0" type="line" name="MYOILNYV"/>
+      <point x="442.0" y="0.0" type="line" name="HZMODJVZ"/>
     </contour>
     <contour>
-      <point x="140.0" y="518.0" type="move"/>
-      <point x="204.0" y="315.0" type="line"/>
+      <point x="140.0" y="518.0" type="move" name="LMFBNHTK"/>
+      <point x="204.0" y="315.0" type="line" name="GJVQHMUI"/>
     </contour>
     <contour>
-      <point x="425.0" y="257.0" type="move"/>
-      <point x="488.0" y="60.0" type="line"/>
+      <point x="425.0" y="257.0" type="move" name="CSTPJOWM"/>
+      <point x="488.0" y="60.0" type="line" name="LKRZKEQI"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AFPOAXAE</key>
+        <integer>0</integer>
+        <key>CSTPJOWM</key>
+        <integer>0</integer>
+        <key>DDVDTXGM</key>
+        <integer>0</integer>
+        <key>DTJRKPNP</key>
+        <integer>100</integer>
+        <key>DXNYCTGV</key>
+        <integer>0</integer>
+        <key>EILKZTUR</key>
+        <integer>0</integer>
+        <key>GJVQHMUI</key>
+        <real>0.0</real>
+        <key>HZMODJVZ</key>
+        <real>0.0</real>
+        <key>JBCGXMFD</key>
+        <integer>100</integer>
+        <key>LKRZKEQI</key>
+        <real>100.0</real>
+        <key>LMFBNHTK</key>
+        <integer>100</integer>
+        <key>MXESJJKW</key>
+        <integer>100</integer>
+        <key>MYOILNYV</key>
+        <integer>100</integer>
+        <key>STRBOUFB</key>
+        <integer>100</integer>
+        <key>TIGKLFVM</key>
+        <real>100.0</real>
+        <key>UYRRPNOG</key>
+        <integer>100</integer>
+        <key>XXHYBWOV</key>
+        <integer>100</integer>
+        <key>YKACSXVL</key>
+        <real>0.0</real>
+        <key>YUCRETBA</key>
+        <real>0.0</real>
+        <key>ZPMGBLSB</key>
+        <real>0.0</real>
+      </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.5725,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

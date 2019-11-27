@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="germandbls" format="2">
-  <advance width="354"/>
+  <advance width="700"/>
   <unicode hex="00DF"/>
   <outline>
+    <component base="s"/>
+    <component base="s" xOffset="495"/>
   </outline>
 </glyph>

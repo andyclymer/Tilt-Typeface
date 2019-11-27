@@ -3,6 +3,40 @@
   <advance width="500"/>
   <unicode hex="00FE"/>
   <outline>
-    <component base="Thorn"/>
+    <contour>
+      <point x="50" y="31" type="curve" name="JOPMO"/>
+      <point x="241" y="31" type="line" name="HYDER"/>
+      <point x="232" y="44" name="NORNE"/>
+      <point x="224" y="58" name="ROARS"/>
+      <point x="219" y="92" type="curve" name="WYNDI"/>
+      <point x="295" y="92" type="line" smooth="yes" name="HOVOG"/>
+      <point x="438" y="92" name="DREFF"/>
+      <point x="526" y="151" name="ZEDUX"/>
+      <point x="526" y="238" type="curve" smooth="yes" name="SOPOE"/>
+      <point x="526" y="325" name="OTDOZ"/>
+      <point x="438" y="382" name="IYGAF"/>
+      <point x="295" y="382" type="curve" smooth="yes" name="KF33C"/>
+      <point x="221" y="382" type="line" name="MANLE"/>
+      <point x="225" y="413" name="WATAN"/>
+      <point x="232" y="427" name="MUMMY"/>
+      <point x="241" y="441" type="curve" name="JILKU"/>
+      <point x="50" y="441" type="line" name="HUDOX"/>
+      <point x="70" y="413" name="FANIR"/>
+      <point x="77" y="377" name="CAPTJ"/>
+      <point x="77" y="207" type="curve" smooth="yes" name="AFJEF"/>
+      <point x="77" y="79" name="SAHIW"/>
+      <point x="66" y="53" name="ZEBIB"/>
+    </contour>
+    <contour>
+      <point x="214" y="176" type="line" name="HABRI"/>
+      <point x="215" y="298" type="line" name="PEASY"/>
+      <point x="297" y="298" type="line" smooth="yes" name="VANTZ"/>
+      <point x="353" y="298" name="OCEKO"/>
+      <point x="385" y="273" name="NAPPS"/>
+      <point x="385" y="237" type="curve" smooth="yes" name="HAILE"/>
+      <point x="385" y="200" name="EWUHY"/>
+      <point x="353" y="176" name="WUKAL"/>
+      <point x="297" y="176" type="curve" name="JUGLO"/>
+    </contour>
   </outline>
 </glyph>

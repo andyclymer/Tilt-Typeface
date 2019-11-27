@@ -4,24 +4,43 @@
   <unicode hex="0069"/>
   <outline>
     <contour>
-      <point x="151.0" y="518.0" type="move"/>
-      <point x="151.0" y="62.0" type="line"/>
+      <point x="151.0" y="518.0" type="move" name="NGQIBTUD"/>
+      <point x="151.0" y="62.0" type="line" name="ANENNTSD"/>
     </contour>
     <contour>
-      <point x="246.0" y="0.0" type="move" name="JRLMZRMB"/>
-      <point x="151.0" y="62.0" type="line" name="VWUMAPUP"/>
-      <point x="55" y="0" type="line" name="XJBUXPFQ"/>
+      <point x="246.0" y="0.0" type="move" name="UWWNYKML"/>
+      <point x="151.0" y="62.0" type="line" name="AVJJLKWB"/>
+      <point x="55" y="0" type="line" name="IJIQLRDX"/>
     </contour>
     <contour>
-      <point x="55.0" y="580.0" type="move" name="XJBUXPFQ"/>
-      <point x="151.0" y="518.0" type="line" name="VWUMAPUP"/>
-      <point x="246.0" y="580.0" type="line" name="JRLMZRMB"/>
+      <point x="55.0" y="580.0" type="move" name="VBAJLJFP"/>
+      <point x="151.0" y="518.0" type="line" name="LAGTBZLV"/>
+      <point x="246.0" y="580.0" type="line" name="WBBMDHZA"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ANENNTSD</key>
+        <real>100.0</real>
+        <key>AVJJLKWB</key>
+        <integer>100</integer>
+        <key>IJIQLRDX</key>
+        <real>0.0</real>
+        <key>LAGTBZLV</key>
+        <integer>100</integer>
+        <key>NGQIBTUD</key>
+        <integer>100</integer>
+        <key>UWWNYKML</key>
+        <integer>0</integer>
+        <key>VBAJLJFP</key>
+        <integer>0</integer>
+        <key>WBBMDHZA</key>
+        <real>0.0</real>
+      </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.5725,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

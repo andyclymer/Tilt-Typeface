@@ -3,6 +3,25 @@
   <advance width="500"/>
   <unicode hex="006C"/>
   <outline>
-    <component base="L"/>
+    <contour>
+      <point x="50" y="116" type="curve" name="WUNAD"/>
+      <point x="416" y="116" type="line" name="COGRI"/>
+      <point x="436" y="232" type="line" name="ZARAL"/>
+      <point x="404" y="214" name="KIPPY"/>
+      <point x="361" y="204" name="SPOTZ"/>
+      <point x="217" y="205" type="curve" name="PHURN"/>
+      <point x="215" y="234" name="COOKD"/>
+      <point x="214" y="273" name="POTOY"/>
+      <point x="214" y="327" type="curve" smooth="yes" name="FOBUG"/>
+      <point x="214" y="471" name="KIKME"/>
+      <point x="223" y="501" name="WAKAX"/>
+      <point x="241" y="526" type="curve" name="LAZEY"/>
+      <point x="50" y="526" type="line" name="URZUM"/>
+      <point x="68" y="501" name="KENZO"/>
+      <point x="77" y="471" name="WEEBR"/>
+      <point x="77" y="327" type="curve" smooth="yes" name="FIDLO"/>
+      <point x="77" y="173" name="LAGGS"/>
+      <point x="68" y="140" name="ZIMEK"/>
+    </contour>
   </outline>
 </glyph>

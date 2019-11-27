@@ -5,24 +5,51 @@
   <anchor x="319" y="585" name="top"/>
   <outline>
     <contour>
-      <point x="319" y="48" type="curve" smooth="yes"/>
-      <point x="191" y="48"/>
-      <point x="102" y="146"/>
-      <point x="102" y="291" type="curve" smooth="yes"/>
-      <point x="102" y="436"/>
-      <point x="191" y="532"/>
-      <point x="319" y="532" type="curve" smooth="yes"/>
-      <point x="446" y="532"/>
-      <point x="536" y="435"/>
-      <point x="536" y="291" type="curve" smooth="yes"/>
-      <point x="536" y="146"/>
-      <point x="446" y="48"/>
+      <point x="319" y="48" type="curve" smooth="yes" name="DFKCAXCA"/>
+      <point x="191" y="48" name="ELPILGRR"/>
+      <point x="102" y="146" name="UDOOMFQR"/>
+      <point x="102" y="291" type="curve" smooth="yes" name="LFRBSEFU"/>
+      <point x="102" y="436" name="EBGAXWTF"/>
+      <point x="191" y="532" name="XIVSCLDP"/>
+      <point x="319" y="532" type="curve" smooth="yes" name="MBNTYKZP"/>
+      <point x="446" y="532" name="HUGGUWLD"/>
+      <point x="536" y="435" name="ENGAXZNP"/>
+      <point x="536" y="291" type="curve" smooth="yes" name="SZMJQQHS"/>
+      <point x="536" y="146" name="UHKYOQNW"/>
+      <point x="446" y="48" name="QRUYFMRF"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>DFKCAXCA</key>
+        <integer>100</integer>
+        <key>EBGAXWTF</key>
+        <integer>100</integer>
+        <key>ELPILGRR</key>
+        <integer>100</integer>
+        <key>ENGAXZNP</key>
+        <integer>100</integer>
+        <key>HUGGUWLD</key>
+        <integer>100</integer>
+        <key>LFRBSEFU</key>
+        <integer>100</integer>
+        <key>MBNTYKZP</key>
+        <integer>100</integer>
+        <key>QRUYFMRF</key>
+        <real>100.0</real>
+        <key>SZMJQQHS</key>
+        <integer>100</integer>
+        <key>UDOOMFQR</key>
+        <integer>100</integer>
+        <key>UHKYOQNW</key>
+        <integer>100</integer>
+        <key>XIVSCLDP</key>
+        <integer>100</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.5725,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

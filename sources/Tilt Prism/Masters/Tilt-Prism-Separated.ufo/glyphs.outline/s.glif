@@ -4,44 +4,103 @@
   <unicode hex="0073"/>
   <outline>
     <contour>
-      <point x="319" y="160" type="curve" smooth="yes"/>
-      <point x="319" y="131"/>
-      <point x="290" y="107"/>
-      <point x="234" y="107" type="curve" smooth="yes"/>
-      <point x="175" y="107"/>
-      <point x="107" y="132"/>
-      <point x="52" y="175" type="curve"/>
-      <point x="52" y="15" type="line"/>
-      <point x="112" y="-1"/>
-      <point x="168" y="-13"/>
-      <point x="222" y="-13" type="curve" smooth="yes"/>
-      <point x="362" y="-14"/>
-      <point x="463" y="53"/>
-      <point x="463" y="169" type="curve" smooth="yes"/>
-      <point x="463" y="272"/>
-      <point x="377" y="313"/>
-      <point x="302" y="344" type="curve" smooth="yes"/>
-      <point x="245" y="368"/>
-      <point x="194" y="386"/>
-      <point x="194" y="421" type="curve" smooth="yes"/>
-      <point x="194" y="450"/>
-      <point x="220" y="472"/>
-      <point x="270" y="472" type="curve" smooth="yes"/>
-      <point x="323" y="472"/>
-      <point x="383" y="447"/>
-      <point x="434" y="406" type="curve"/>
-      <point x="434" y="564" type="line"/>
-      <point x="380" y="579"/>
-      <point x="331" y="590"/>
-      <point x="283" y="590" type="curve" smooth="yes"/>
-      <point x="142" y="590"/>
-      <point x="48" y="521"/>
-      <point x="48" y="414" type="curve" smooth="yes"/>
-      <point x="48" y="307"/>
-      <point x="136" y="266"/>
-      <point x="211" y="236" type="curve" smooth="yes"/>
-      <point x="269" y="213"/>
-      <point x="319" y="195"/>
+      <point x="52" y="175" type="curve" name="GOODY"/>
+      <point x="52.0" y="122"/>
+      <point x="52.0" y="68"/>
+      <point x="52" y="15" type="curve" name="ZEBOR"/>
+      <point x="112" y="-1" name="OSUFO"/>
+      <point x="168" y="-13" name="YODTU"/>
+      <point x="222" y="-13" type="curve" smooth="yes" name="AVWOH"/>
+      <point x="362" y="-14" name="VICGU"/>
+      <point x="463" y="53" name="ANEYI"/>
+      <point x="463" y="169" type="curve" smooth="yes" name="JEPUL"/>
+      <point x="463" y="272" name="EPAZE"/>
+      <point x="377" y="313" name="HEBIL"/>
+      <point x="302" y="344" type="curve" smooth="yes" name="UFIPI"/>
+      <point x="245" y="368" name="JIIVE"/>
+      <point x="194" y="386" name="INARE"/>
+      <point x="194" y="421" type="curve" smooth="yes" name="WEDPU"/>
+      <point x="194" y="450" name="EDINS"/>
+      <point x="220" y="472" name="WOGIG"/>
+      <point x="270" y="472" type="curve" smooth="yes" name="DIZGY"/>
+      <point x="323" y="472" name="KYACK"/>
+      <point x="383" y="447" name="OMEHU"/>
+      <point x="434" y="406" type="curve" name="WAXON"/>
+      <point x="434" y="564" type="line" name="LAVKE"/>
+      <point x="380" y="579" name="ZZIPR"/>
+      <point x="331" y="590" name="WOLFI"/>
+      <point x="283" y="590" type="curve" smooth="yes" name="AVPEY"/>
+      <point x="142" y="590" name="WUMBA"/>
+      <point x="48" y="521" name="GNARR"/>
+      <point x="48" y="414" type="curve" smooth="yes" name="SPITT"/>
+      <point x="48" y="307" name="ENITY"/>
+      <point x="136" y="266" name="FEPLO"/>
+      <point x="211" y="236" type="curve" smooth="yes" name="INVUW"/>
+      <point x="269" y="213" name="SETME"/>
+      <point x="319" y="195" name="BLYTZ"/>
+      <point x="319" y="160" type="curve" smooth="yes" name="CUKOR"/>
+      <point x="319" y="131" name="LOBLE"/>
+      <point x="290" y="107" name="VAALI"/>
+      <point x="234" y="107" type="curve" smooth="yes" name="ZEDUX"/>
+      <point x="175" y="107" name="CESOL"/>
+      <point x="107" y="132" name="SKEBR"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ABBNCXNV</key>
+        <integer>100</integer>
+        <key>CYDKMKIL</key>
+        <integer>100</integer>
+        <key>DFDATFPN</key>
+        <integer>0</integer>
+        <key>DHVBPXFQ</key>
+        <integer>100</integer>
+        <key>FIGUIEVH</key>
+        <real>0.0</real>
+        <key>GBAJDDLT</key>
+        <integer>100</integer>
+        <key>GINLPLUR</key>
+        <integer>100</integer>
+        <key>IQTDKISY</key>
+        <integer>100</integer>
+        <key>JNQYRVWM</key>
+        <integer>100</integer>
+        <key>KAHFGFRT</key>
+        <integer>100</integer>
+        <key>LORTKWVP</key>
+        <integer>100</integer>
+        <key>MXEYNKXJ</key>
+        <integer>100</integer>
+        <key>ODWBLNXO</key>
+        <integer>100</integer>
+        <key>ORALJYSH</key>
+        <real>0.0</real>
+        <key>PFVPXPLK</key>
+        <integer>100</integer>
+        <key>POTQCKKW</key>
+        <integer>100</integer>
+        <key>QEXQCLXP</key>
+        <real>100.0</real>
+        <key>REJSEOGK</key>
+        <integer>100</integer>
+        <key>SGFFCVPQ</key>
+        <integer>100</integer>
+        <key>UZTPOQJP</key>
+        <integer>100</integer>
+        <key>VYCEZKVJ</key>
+        <integer>100</integer>
+        <key>XECKAHOA</key>
+        <integer>100</integer>
+        <key>YHBOJRSB</key>
+        <integer>100</integer>
+        <key>YLHZFNTF</key>
+        <integer>0</integer>
+        <key>ZNFVJGGM</key>
+        <integer>100</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

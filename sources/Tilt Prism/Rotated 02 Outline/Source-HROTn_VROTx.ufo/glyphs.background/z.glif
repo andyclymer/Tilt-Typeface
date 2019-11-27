@@ -3,6 +3,19 @@
   <advance width="500"/>
   <unicode hex="007A"/>
   <outline>
-    <component base="Z"/>
+    <contour>
+      <point x="154" y="441" type="line" name="IKEBE"/>
+      <point x="-161" y="441" type="line" name="WATAS"/>
+      <point x="-86" y="335" type="line" name="HORTE"/>
+      <point x="-73" y="346" name="BOINT"/>
+      <point x="-58" y="359" name="FORRD"/>
+      <point x="58" y="356" type="curve" name="TODDS"/>
+      <point x="110" y="31" type="line" name="RGERS"/>
+      <point x="417" y="31" type="line" name="FIBDO"/>
+      <point x="351" y="144" type="line" name="MAVBE"/>
+      <point x="341" y="125" name="ATEPY"/>
+      <point x="322" y="113" name="HODOE"/>
+      <point x="206" y="116" type="curve" name="IMUYE"/>
+    </contour>
   </outline>
 </glyph>

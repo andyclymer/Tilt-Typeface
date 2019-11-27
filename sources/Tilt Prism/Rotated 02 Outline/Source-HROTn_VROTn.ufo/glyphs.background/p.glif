@@ -3,6 +3,38 @@
   <advance width="500"/>
   <unicode hex="0070"/>
   <outline>
-    <component base="P"/>
+    <contour>
+      <point x="-119" y="116" type="curve" name="MOSGE"/>
+      <point x="16" y="116" type="line" name="CAMEM"/>
+      <point x="19" y="134" name="WIDTH"/>
+      <point x="27" y="155" name="ELOME"/>
+      <point x="82" y="236" type="curve" name="CALIL"/>
+      <point x="139" y="236" type="line" smooth="yes" name="CABLI"/>
+      <point x="240" y="236" name="KABVE"/>
+      <point x="344" y="295" name="HAVVI"/>
+      <point x="405" y="382" type="curve" smooth="yes" name="INHOF"/>
+      <point x="467" y="468" name="PAXIE"/>
+      <point x="445" y="526" name="GESRT"/>
+      <point x="344" y="526" type="curve" smooth="yes" name="ASEVE"/>
+      <point x="171" y="526" type="line" name="JITPA"/>
+      <point x="165" y="498" name="JALBU"/>
+      <point x="144" y="461" name="WAPCE"/>
+      <point x="24" y="292" type="curve" smooth="yes" name="PENNA"/>
+      <point x="-66" y="164" name="WAMAS"/>
+      <point x="-93" y="138" name="LOLXU"/>
+    </contour>
+    <contour>
+      <point x="304" y="380" type="curve" smooth="yes" name="DECKE"/>
+      <point x="278" y="343" name="RLONG"/>
+      <point x="239" y="320" name="FEKMI"/>
+      <point x="200" y="320" type="curve" smooth="yes" name="ADIXE"/>
+      <point x="141" y="320" type="line" name="ZIGRU"/>
+      <point x="180" y="374" name="HALEM"/>
+      <point x="208" y="413" name="WARIN"/>
+      <point x="230" y="442" type="curve" name="WATRR"/>
+      <point x="286" y="442" type="line" smooth="yes" name="AYNES"/>
+      <point x="325" y="442" name="CFFRN"/>
+      <point x="330" y="417" name="SCOLL"/>
+    </contour>
   </outline>
 </glyph>
