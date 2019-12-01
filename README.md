@@ -26,23 +26,23 @@ All three styles have been drawn to the “Google Latin Core” character set, w
 
 ## Current status
 
-*As of November, 2019 —*
+*As of December 1st, 2019 —*
 
-The principle design of all three styles and manufacturing of version 1.0 is due to be completed in December, 2019. The current status and next steps are as follows:
+The principle design of all three styles and manufacturing of version 1.0 is due to be completed the first week of December, 2019. The current status and next steps are as follows:
 
 | Neon | |
 | :--- | :--- |
 | Character set | The full “Google Latin Core” character set has been drawn |
 | Drawing quality | Caps, lowercase, figures, and most punctuation are fully 3D, a few remaining symbols and punctuation will rotate but aren’t in their final dimensional state |
 | Kerning | Very quick first pass is complete |
-| Manufacturing | Not yet begun |
+| Manufacturing | Not yet begun. File sizes still need to be optimized (most glyphs use more masters than needed) |
 
 | Prism | |
 | :--- | :--- |
 | Character set | The full “Google Latin Core” character set has been drawn, including small capitals in place of the lowercase |
 | Drawing quality | All glyphs are in their fully final 3D state |
 | Kerning | Very quick first pass is complete |
-| Manufacturing | Not yet begun |
+| Manufacturing | Not yet begun. File sizes still need to be optimized (most glyphs use more masters than needed) |
 
 | Warp | |
 | :--- | :--- |
