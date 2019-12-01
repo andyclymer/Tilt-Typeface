@@ -33,21 +33,21 @@ The principle design of all three styles and manufacturing of version 1.0 is due
 | Neon | |
 | :--- | :--- |
 | Character set | The full “Google Latin Core” character set has been drawn |
-| Drawing quality | Caps, lowercase, figures, and some punctuation are fully 3D, the remaining symbols and punctuation will rotate but aren’t in their final dimensional state |
+| Drawing quality | Caps, lowercase, figures, and most punctuation are fully 3D, a few remaining symbols and punctuation will rotate but aren’t in their final dimensional state |
 | Kerning | Very quick first pass is complete |
 | Manufacturing | Not yet begun |
 
 | Prism | |
 | :--- | :--- |
-| Character set | The full “Google Latin Core” character set has been drawn, with the exception of the small caps |
-| Drawing quality | All glyphs are in their fully 3D state, but some will require a second pass to dial in their details |
+| Character set | The full “Google Latin Core” character set has been drawn, including small capitals in place of the lowercase |
+| Drawing quality | All glyphs are in their fully final 3D state |
 | Kerning | Very quick first pass is complete |
 | Manufacturing | Not yet begun |
 
 | Warp | |
 | :--- | :--- |
 | Character set | The full “Google Latin Core” character set has been drawn |
-| Drawing quality | All glyphs are in their fully 3D state, but some will require a second pass to dial in their details |
+| Drawing quality | All glyphs are in their fully final 3D state |
 | Kerning | Very quick first pass is complete |
 | Manufacturing | Not yet begun |
 
