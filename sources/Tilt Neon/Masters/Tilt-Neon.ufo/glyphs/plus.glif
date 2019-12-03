@@ -4,18 +4,41 @@
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="270" y="504" type="move"/>
-      <point x="270" y="114" type="line"/>
+      <point x="270" y="504" type="move" name="PCAKXIDN"/>
+      <point x="270" y="377" name="JEJWYRHZ"/>
+      <point x="270" y="243" name="XCGWGKFR"/>
+      <point x="270" y="114" type="curve" name="HJXCHVXN"/>
     </contour>
     <contour>
-      <point x="460" y="308" type="move"/>
-      <point x="80" y="308" type="line"/>
+      <point x="460" y="308" type="move" name="WLUIEITZ"/>
+      <point x="335" y="308" name="HJKVTFYJ"/>
+      <point x="205" y="308" name="YMWRTGQY"/>
+      <point x="80" y="308" type="curve" name="VDKHWVVK"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>HJKVTFYJ</key>
+        <integer>170</integer>
+        <key>HJXCHVXN</key>
+        <real>120.0</real>
+        <key>JEJWYRHZ</key>
+        <integer>70</integer>
+        <key>PCAKXIDN</key>
+        <integer>120</integer>
+        <key>VDKHWVVK</key>
+        <real>120.0</real>
+        <key>WLUIEITZ</key>
+        <integer>120</integer>
+        <key>XCGWGKFR</key>
+        <integer>70</integer>
+        <key>YMWRTGQY</key>
+        <integer>170</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

@@ -4,22 +4,54 @@
   <unicode hex="007E"/>
   <outline>
     <contour>
-      <point x="532" y="387" type="move"/>
-      <point x="532" y="293"/>
-      <point x="498" y="219"/>
-      <point x="428" y="219" type="curve" smooth="yes"/>
-      <point x="342" y="219"/>
-      <point x="296" y="384"/>
-      <point x="210" y="384" type="curve" smooth="yes"/>
-      <point x="141" y="384"/>
-      <point x="108" y="311"/>
-      <point x="108" y="216" type="curve"/>
+      <point x="532" y="387" type="move" name="KLGJIRPD"/>
+      <point x="532" y="293" name="MDJANHYG"/>
+      <point x="498" y="219" name="KBOHXEAE"/>
+      <point x="428" y="219" type="curve" smooth="yes" name="ATUAKXKW"/>
+      <point x="386" y="219" name="NPQKPBMS"/>
+      <point x="353" y="259" name="ITWYJEQC"/>
+      <point x="321" y="299" type="curve" smooth="yes" name="ELZHGAGY"/>
+      <point x="287" y="341" name="WRNNWGUC"/>
+      <point x="254" y="384" name="SWRIVIFZ"/>
+      <point x="210" y="384" type="curve" smooth="yes" name="OYHLASLY"/>
+      <point x="139" y="384" name="ILDAPAPQ"/>
+      <point x="108" y="311" name="VHJAYLRW"/>
+      <point x="108" y="216" type="curve" name="CXXYYRQV"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ATUAKXKW</key>
+        <integer>120</integer>
+        <key>CXXYYRQV</key>
+        <real>70.0</real>
+        <key>ELZHGAGY</key>
+        <integer>120</integer>
+        <key>ILDAPAPQ</key>
+        <integer>120</integer>
+        <key>ITWYJEQC</key>
+        <integer>120</integer>
+        <key>KBOHXEAE</key>
+        <integer>120</integer>
+        <key>KLGJIRPD</key>
+        <integer>70</integer>
+        <key>MDJANHYG</key>
+        <integer>100</integer>
+        <key>NPQKPBMS</key>
+        <integer>120</integer>
+        <key>OYHLASLY</key>
+        <integer>120</integer>
+        <key>SWRIVIFZ</key>
+        <real>120.0</real>
+        <key>VHJAYLRW</key>
+        <integer>100</integer>
+        <key>WRNNWGUC</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

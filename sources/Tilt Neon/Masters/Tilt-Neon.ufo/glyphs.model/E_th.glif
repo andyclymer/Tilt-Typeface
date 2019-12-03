@@ -4,8 +4,8 @@
   <unicode hex="00D0"/>
   <outline>
     <contour>
-      <point x="315" y="340" type="move"/>
-      <point x="45" y="340" type="line"/>
+      <point x="315" y="340" type="move" name="YRRKSNRF"/>
+      <point x="45" y="340" type="line" name="SNNBVHBG"/>
     </contour>
     <contour>
       <point x="135.0" y="45.0" type="line" name="JITUK"/>
@@ -19,4 +19,33 @@
       <point x="313.0" y="45.0" type="curve" name="MAAAX"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BLUJA</key>
+        <integer>0</integer>
+        <key>BONEE</key>
+        <integer>0</integer>
+        <key>IPTAQ</key>
+        <integer>0</integer>
+        <key>JITUK</key>
+        <integer>0</integer>
+        <key>MAAAX</key>
+        <real>0.0</real>
+        <key>MAMUE</key>
+        <integer>0</integer>
+        <key>NOOKS</key>
+        <integer>0</integer>
+        <key>PFILA</key>
+        <integer>0</integer>
+        <key>RENLY</key>
+        <integer>0</integer>
+        <key>SNNBVHBG</key>
+        <real>0.0</real>
+        <key>YRRKSNRF</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

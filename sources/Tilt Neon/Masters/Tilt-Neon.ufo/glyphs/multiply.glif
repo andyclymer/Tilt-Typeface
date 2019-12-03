@@ -4,18 +4,41 @@
   <unicode hex="00D7"/>
   <outline>
     <contour>
-      <point x="115.25" y="452.0" type="move"/>
-      <point x="403.25" y="164.0" type="line"/>
+      <point x="115.25" y="452.0" type="move" name="PTLOYANM"/>
+      <point x="210" y="357" name="FRYJITUK"/>
+      <point x="308" y="259" name="PBZSQQKE"/>
+      <point x="403.25" y="164.0" type="curve" name="VDMMQVOF"/>
     </contour>
     <contour>
-      <point x="403.25" y="452.0" type="move"/>
-      <point x="115.25" y="164.0" type="line"/>
+      <point x="403.25" y="452.0" type="move" name="CZVXUILT"/>
+      <point x="308" y="357" name="YNRGPHJO"/>
+      <point x="210" y="259" name="CJGRELBD"/>
+      <point x="115.25" y="164.0" type="curve" name="DSCYSKIP"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CJGRELBD</key>
+        <integer>170</integer>
+        <key>CZVXUILT</key>
+        <integer>120</integer>
+        <key>DSCYSKIP</key>
+        <real>120.0</real>
+        <key>FRYJITUK</key>
+        <integer>70</integer>
+        <key>PBZSQQKE</key>
+        <integer>70</integer>
+        <key>PTLOYANM</key>
+        <integer>120</integer>
+        <key>VDMMQVOF</key>
+        <real>120.0</real>
+        <key>YNRGPHJO</key>
+        <integer>170</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

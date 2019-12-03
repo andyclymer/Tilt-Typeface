@@ -4,15 +4,45 @@
   <unicode hex="00AC"/>
   <outline>
     <contour>
-      <point x="80" y="388" type="move"/>
-      <point x="390.0" y="388.0" type="line"/>
-      <point x="390" y="194" type="line"/>
+      <point x="80" y="388" type="move" name="SMPNDTCM"/>
+      <point x="148" y="388" name="USJKQTFN"/>
+      <point x="217" y="388" name="KHXOZTRQ"/>
+      <point x="286" y="388" type="curve" smooth="yes" name="KNZNOPVX"/>
+      <point x="389" y="388" name="RYHJMIMM"/>
+      <point x="390" y="388" name="JBAURPQS"/>
+      <point x="390" y="305" type="curve" smooth="yes" name="VBPKAPZD"/>
+      <point x="390" y="268" name="XFQQQRCH"/>
+      <point x="390" y="231" name="HYOPKITN"/>
+      <point x="390" y="194" type="curve" name="UWSDQTKD"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>HYOPKITN</key>
+        <integer>70</integer>
+        <key>JBAURPQS</key>
+        <integer>70</integer>
+        <key>KHXOZTRQ</key>
+        <integer>120</integer>
+        <key>KNZNOPVX</key>
+        <integer>120</integer>
+        <key>RYHJMIMM</key>
+        <integer>120</integer>
+        <key>SMPNDTCM</key>
+        <integer>90</integer>
+        <key>USJKQTFN</key>
+        <integer>120</integer>
+        <key>UWSDQTKD</key>
+        <real>70.0</real>
+        <key>VBPKAPZD</key>
+        <integer>70</integer>
+        <key>XFQQQRCH</key>
+        <integer>70</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

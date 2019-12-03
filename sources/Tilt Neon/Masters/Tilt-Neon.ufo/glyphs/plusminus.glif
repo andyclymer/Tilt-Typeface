@@ -4,22 +4,55 @@
   <unicode hex="00B1"/>
   <outline>
     <contour>
-      <point x="270" y="554" type="move"/>
-      <point x="270" y="224" type="line"/>
+      <point x="270" y="554" type="move" name="FVNHSOAF"/>
+      <point x="270" y="446" name="UVVVXVQR"/>
+      <point x="270" y="332" name="EMMJQWCS"/>
+      <point x="270" y="224" type="curve" name="XDOHOIUI"/>
     </contour>
     <contour>
-      <point x="460" y="378" type="move"/>
-      <point x="80" y="378" type="line"/>
+      <point x="460" y="378" type="move" name="ESTNWYCT"/>
+      <point x="335" y="378" name="BETJFPEH"/>
+      <point x="205" y="378" name="NNPWRYLD"/>
+      <point x="80" y="378" type="curve" name="HAKQVDYP"/>
     </contour>
     <contour>
-      <point x="460" y="78" type="move"/>
-      <point x="80" y="78" type="line"/>
+      <point x="460" y="78" type="move" name="XIXBQWCI"/>
+      <point x="335" y="78" name="CWYYPYXS"/>
+      <point x="205" y="78" name="DJRJTPSL"/>
+      <point x="80" y="78" type="curve" name="FSGNNJPN"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BETJFPEH</key>
+        <integer>170</integer>
+        <key>CWYYPYXS</key>
+        <integer>170</integer>
+        <key>DJRJTPSL</key>
+        <integer>170</integer>
+        <key>EMMJQWCS</key>
+        <integer>70</integer>
+        <key>ESTNWYCT</key>
+        <integer>120</integer>
+        <key>FSGNNJPN</key>
+        <real>120.0</real>
+        <key>FVNHSOAF</key>
+        <integer>120</integer>
+        <key>HAKQVDYP</key>
+        <real>120.0</real>
+        <key>NNPWRYLD</key>
+        <integer>170</integer>
+        <key>UVVVXVQR</key>
+        <integer>70</integer>
+        <key>XDOHOIUI</key>
+        <real>120.0</real>
+        <key>XIXBQWCI</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

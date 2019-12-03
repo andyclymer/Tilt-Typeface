@@ -4,18 +4,41 @@
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="158" y="230" type="move"/>
-      <point x="158" y="-120" type="line"/>
+      <point x="158" y="230" type="move" name="OSZVDWXJ"/>
+      <point x="158" y="154" name="EWAIDPEP"/>
+      <point x="158" y="26" name="POONVTDK"/>
+      <point x="158" y="-120" type="curve" name="NWYRZGEE"/>
     </contour>
     <contour>
-      <point x="158" y="730" type="move"/>
-      <point x="158" y="380" type="line"/>
+      <point x="158" y="730" type="move" name="MAPPYVCA"/>
+      <point x="158" y="583" name="KMFEHLRA"/>
+      <point x="158" y="466" name="UHQKFNGW"/>
+      <point x="158" y="380" type="curve" name="UPQIWOPW"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>EWAIDPEP</key>
+        <integer>120</integer>
+        <key>KMFEHLRA</key>
+        <integer>120</integer>
+        <key>MAPPYVCA</key>
+        <integer>120</integer>
+        <key>NWYRZGEE</key>
+        <real>120.0</real>
+        <key>OSZVDWXJ</key>
+        <integer>80</integer>
+        <key>POONVTDK</key>
+        <integer>120</integer>
+        <key>UHQKFNGW</key>
+        <integer>120</integer>
+        <key>UPQIWOPW</key>
+        <real>80.0</real>
+      </dict>
       <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>
