@@ -6,7 +6,7 @@
     <contour>
       <point x="474" y="458" type="move" name="UDRVZOSY"/>
       <point x="474" y="413" name="KMLDDVCX"/>
-      <point x="474.0" y="367.0" name="BUHYTEYD"/>
+      <point x="474" y="367" name="BUHYTEYD"/>
       <point x="474" y="244" type="curve" smooth="yes" name="VWCIAONC"/>
       <point x="474" y="119" name="YQMJWPTM"/>
       <point x="393" y="34" name="WSKGDUKE"/>
@@ -20,9 +20,12 @@
       <point x="391" y="463" name="ZMYYZVLO"/>
       <point x="474" y="379" name="BXABRHZH"/>
       <point x="474" y="254" type="curve" smooth="yes" name="LLOHVJPF"/>
-      <point x="474.0" y="56.0" name="YBTYVEXH"/>
-      <point x="657.0" y="-24.0" name="GRBTZXNW"/>
-      <point x="841.0" y="80.0" type="curve" name="JSSKAPGA"/>
+      <point x="474" y="116" name="KTDVOHYP"/>
+      <point x="563" y="35" name="GZCIYXHN"/>
+      <point x="679" y="34" type="curve" smooth="yes" name="BXEREAXO"/>
+      <point x="730" y="34" name="RWJEQWMF"/>
+      <point x="785" y="49" name="BKIVQIQO"/>
+      <point x="841" y="80" type="curve" name="JSSKAPGA"/>
     </contour>
     <contour>
       <point x="558" y="249" type="move" name="MCERLEIE"/>
@@ -51,11 +54,15 @@
         <integer>139</integer>
         <key>ARYGWQLA</key>
         <integer>0</integer>
+        <key>BKIVQIQO</key>
+        <real>120.0</real>
         <key>BUHYTEYD</key>
         <integer>0</integer>
         <key>BVOBZTPY</key>
         <integer>120</integer>
         <key>BXABRHZH</key>
+        <integer>120</integer>
+        <key>BXEREAXO</key>
         <integer>120</integer>
         <key>CTPJUFDF</key>
         <integer>120</integer>
@@ -67,7 +74,7 @@
         <integer>0</integer>
         <key>GIHDXVYY</key>
         <integer>120</integer>
-        <key>GRBTZXNW</key>
+        <key>GZCIYXHN</key>
         <integer>120</integer>
         <key>JDDSBBPL</key>
         <integer>130</integer>
@@ -79,6 +86,8 @@
         <integer>120</integer>
         <key>KMLDDVCX</key>
         <integer>0</integer>
+        <key>KTDVOHYP</key>
+        <integer>120</integer>
         <key>LLOHVJPF</key>
         <integer>120</integer>
         <key>MCERLEIE</key>
@@ -93,6 +102,8 @@
         <integer>120</integer>
         <key>RMZJHHTD</key>
         <integer>0</integer>
+        <key>RWJEQWMF</key>
+        <integer>120</integer>
         <key>SYWZOKIR</key>
         <integer>120</integer>
         <key>TDNZGXIU</key>
@@ -109,8 +120,6 @@
         <integer>0</integer>
         <key>WSKGDUKE</key>
         <integer>80</integer>
-        <key>YBTYVEXH</key>
-        <integer>120</integer>
         <key>YKKGOQIC</key>
         <real>0.0</real>
         <key>YQMJWPTM</key>

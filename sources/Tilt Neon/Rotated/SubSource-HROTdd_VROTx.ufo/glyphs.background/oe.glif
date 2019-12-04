@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oe" format="2">
   <advance width="500"/>
-  <unicode hex="0153"/>
   <outline>
     <contour>
-      <point x="567" y="188" type="move" name="JSZIRAMU"/>
-      <point x="643" y="167" name="AZDUHUEX"/>
+      <point x="577" y="188" type="move" name="JSZIRAMU"/>
+      <point x="653" y="167" name="AZDUHUEX"/>
       <point x="680" y="167" name="CAEKTHPZ"/>
       <point x="769" y="167" type="curve" smooth="yes" name="ZNCQEENJ"/>
       <point x="845" y="167" name="ZEOPTNVA"/>
@@ -19,7 +18,7 @@
       <point x="493" y="163" type="curve" smooth="yes" name="KOXBDYOT"/>
       <point x="493" y="76" name="HBBVTRIZ"/>
       <point x="407" y="15" name="VFLXBNJX"/>
-      <point x="288" y="15" type="curve" name="RJEFOMVM"/>
+      <point x="288" y="15" type="curve" smooth="yes" name="RJEFOMVM"/>
       <point x="170" y="15" name="FERRHXRL"/>
       <point x="84" y="79" name="WROJCYTT"/>
       <point x="84" y="167" type="curve" smooth="yes" name="MNDDQZFD"/>
@@ -29,8 +28,11 @@
       <point x="407" y="340" name="VTZQSTVU"/>
       <point x="493" y="329" name="UZBLECRS"/>
       <point x="493" y="241" type="curve" smooth="yes" name="WWLYFTHS"/>
-      <point x="493" y="101" name="ONHECQOP"/>
-      <point x="676" y="-26" name="WEOELORN"/>
+      <point x="493" y="144" name="BSLHUFVL"/>
+      <point x="582" y="51" name="JUAMZNJB"/>
+      <point x="698" y="29" type="curve" smooth="yes" name="HZOYIXCL"/>
+      <point x="748" y="20" name="MCYYAIXO"/>
+      <point x="804" y="26" name="EKYQMZBH"/>
       <point x="860" y="47" type="curve" name="JRWSDEWF"/>
     </contour>
   </outline>

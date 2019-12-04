@@ -4,12 +4,12 @@
   <unicode hex="0153"/>
   <outline>
     <contour>
-      <point x="567" y="249" type="move" name="JSZIRAMU"/>
-      <point x="643" y="249" name="AZDUHUEX"/>
+      <point x="577" y="249" type="move" name="JSZIRAMU"/>
+      <point x="653" y="249" name="AZDUHUEX"/>
       <point x="680" y="249" name="CAEKTHPZ"/>
-      <point x="769" y="249.0" type="curve" smooth="yes" name="ZNCQEENJ"/>
-      <point x="845" y="249.0" name="ZEOPTNVA"/>
-      <point x="880.1766877304439" y="279" name="FSIKMUSO"/>
+      <point x="769" y="249" type="curve" smooth="yes" name="ZNCQEENJ"/>
+      <point x="845" y="249" name="ZEOPTNVA"/>
+      <point x="880" y="279" name="FSIKMUSO"/>
       <point x="860" y="340" type="curve" smooth="yes" name="TGAHKKNW"/>
       <point x="835" y="416" name="KZGTRWAN"/>
       <point x="774" y="463" name="OMRHTAXP"/>
@@ -19,7 +19,7 @@
       <point x="493" y="244" type="curve" smooth="yes" name="KOXBDYOT"/>
       <point x="493" y="120" name="HBBVTRIZ"/>
       <point x="407" y="34" name="VFLXBNJX"/>
-      <point x="288" y="34" type="curve" name="RJEFOMVM"/>
+      <point x="288" y="34" type="curve" smooth="yes" name="RJEFOMVM"/>
       <point x="170" y="34" name="FERRHXRL"/>
       <point x="84" y="125" name="WROJCYTT"/>
       <point x="84" y="249" type="curve" smooth="yes" name="MNDDQZFD"/>
@@ -29,8 +29,11 @@
       <point x="407" y="463" name="VTZQSTVU"/>
       <point x="493" y="378" name="UZBLECRS"/>
       <point x="493" y="254" type="curve" smooth="yes" name="WWLYFTHS"/>
-      <point x="493" y="56" name="ONHECQOP"/>
-      <point x="676" y="-24" name="WEOELORN"/>
+      <point x="493" y="116" name="BSLHUFVL"/>
+      <point x="582" y="34" name="JUAMZNJB"/>
+      <point x="698" y="34" type="curve" smooth="yes" name="HZOYIXCL"/>
+      <point x="748" y="34" name="MCYYAIXO"/>
+      <point x="804" y="49" name="EKYQMZBH"/>
       <point x="860" y="80" type="curve" name="JRWSDEWF"/>
     </contour>
   </outline>
@@ -40,20 +43,28 @@
       <dict>
         <key>AZDUHUEX</key>
         <integer>120</integer>
+        <key>BSLHUFVL</key>
+        <integer>20</integer>
         <key>CAEKTHPZ</key>
         <integer>120</integer>
         <key>DEDHTMVG</key>
         <integer>120</integer>
+        <key>EKYQMZBH</key>
+        <real>120.0</real>
         <key>FERRHXRL</key>
         <integer>120</integer>
         <key>FSIKMUSO</key>
         <integer>120</integer>
         <key>HBBVTRIZ</key>
         <integer>120</integer>
+        <key>HZOYIXCL</key>
+        <integer>100</integer>
         <key>JRWSDEWF</key>
         <real>120.0</real>
         <key>JSZIRAMU</key>
         <integer>90</integer>
+        <key>JUAMZNJB</key>
+        <integer>69</integer>
         <key>KOXBDYOT</key>
         <integer>120</integer>
         <key>KZGTRWAN</key>
@@ -62,14 +73,14 @@
         <integer>110</integer>
         <key>LWUNUQZV</key>
         <integer>130</integer>
+        <key>MCYYAIXO</key>
+        <integer>113</integer>
         <key>MNDDQZFD</key>
         <integer>120</integer>
         <key>NBKYLTFI</key>
         <integer>120</integer>
         <key>OMRHTAXP</key>
         <integer>120</integer>
-        <key>ONHECQOP</key>
-        <integer>20</integer>
         <key>RJEFOMVM</key>
         <integer>120</integer>
         <key>TAUZLCKL</key>
@@ -82,8 +93,6 @@
         <integer>120</integer>
         <key>VTZQSTVU</key>
         <integer>90</integer>
-        <key>WEOELORN</key>
-        <integer>120</integer>
         <key>WROJCYTT</key>
         <integer>120</integer>
         <key>WWLYFTHS</key>
