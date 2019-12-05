@@ -33,7 +33,7 @@ The principle design of all three styles and manufacturing of version 1.0 is due
 | Neon | |
 | :--- | :--- |
 | Character set | The full “Google Latin Core” character set has been drawn |
-| Drawing quality | Caps, lowercase, figures, and most punctuation are fully 3D, a few remaining symbols and punctuation will rotate but aren’t in their final dimensional state |
+| Drawing quality | All glyphs are in their fully final 3D state |
 | Kerning | Very quick first pass is complete |
 | Manufacturing | Not yet begun. File sizes still need to be optimized (most glyphs use more masters than needed) |
 
@@ -48,7 +48,7 @@ The principle design of all three styles and manufacturing of version 1.0 is due
 | :--- | :--- |
 | Character set | The full “Google Latin Core” character set has been drawn |
 | Drawing quality | All glyphs are in their fully final 3D state |
-| Kerning | Very quick first pass is complete |
+| Kerning | Two passes are complete in the "Model" source, still a small amount of proofing to be done |
 | Manufacturing | Not yet begun |
 
 
