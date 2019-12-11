@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ccedilla" format="2">
-  <advance width="586"/>
+  <advance width="588"/>
   <unicode hex="00C7"/>
   <outline>
-    <contour>
-      <point x="481" y="-106" type="curve" name="URKBAXYO"/>
-      <point x="481" y="-34" name="UEFTOURJ"/>
-      <point x="437" y="3" name="KGLVRANX"/>
-      <point x="374" y="22" type="curve" name="GHNNWAWB"/>
-      <point x="374" y="31" name="SXXPJXEQ"/>
-      <point x="374" y="38" name="VSGWULHY"/>
-      <point x="374" y="46" type="curve" name="TFLVXKLY"/>
-      <point x="424" y="42" name="WJYAFNUD"/>
-      <point x="479" y="45" name="AGHADPPO"/>
-      <point x="536" y="53" type="curve" name="WOUTRFZA"/>
-      <point x="536" y="105" name="DNIBXYQS"/>
-      <point x="536" y="154" name="QTYGKULG"/>
-      <point x="536" y="196" type="curve" name="OXRBLKJV"/>
-      <point x="378" y="162" name="LPSDCJJX"/>
-      <point x="211" y="215" name="TKXFLRST"/>
-      <point x="211" y="316" type="curve" smooth="yes" name="ITTZDZKU"/>
-      <point x="211" y="417" name="LUHELTYR"/>
-      <point x="378" y="423" name="GDUJXAVO"/>
-      <point x="536" y="373" type="curve" name="YMQRPDOO"/>
-      <point x="536" y="394" name="KTLBTQRO"/>
-      <point x="536" y="409" name="WQFJQVAR"/>
-      <point x="536" y="418" type="curve" name="JVXDSSWA"/>
-      <point x="246" y="473" name="LMMEAGUB"/>
-      <point x="31" y="442" name="EIUAYBSF"/>
-      <point x="31" y="299" type="curve" smooth="yes" name="XKIROMYF"/>
-      <point x="31" y="206" name="VWTMVNFO"/>
-      <point x="122" y="104" name="RGDQOIBB"/>
-      <point x="266" y="64" type="curve" name="ZYKGNOXD"/>
-      <point x="265" y="26" name="YMUEZJTY"/>
-      <point x="264" y="-14" name="ZVCWNHFQ"/>
-      <point x="263" y="-56" type="curve" name="IIOTMNOC"/>
-      <point x="334" y="-51" name="RLYDIEQW"/>
-      <point x="361" y="-63" name="LELZLKHF"/>
-      <point x="361" y="-87" type="curve" smooth="yes" name="CJCSNYNC"/>
-      <point x="361" y="-119" name="RZYIMZNO"/>
-      <point x="302" y="-123" name="RAOUKZEN"/>
-      <point x="205" y="-92" type="curve" name="JCOJGGPZ"/>
-      <point x="205" y="-130" name="BPJUWIWH"/>
-      <point x="205" y="-173" name="AUFGPWOK"/>
-      <point x="205" y="-215" type="curve" name="ZIZUMETP"/>
-      <point x="370" y="-266" name="FQFJLFQH"/>
-      <point x="481" y="-224" name="LFMMAQXX"/>
-      <point x="481" y="-106" type="curve" name="SBVNMCKK"/>
-      <point x="481" y="-106" name="XBYBAJIV"/>
-      <point x="481" y="-106" name="WKTRMPTE"/>
-    </contour>
+    <component base="C"/>
+    <component base="cedilla" xOffset="132" yOffset="-12"/>
   </outline>
 </glyph>
