@@ -3,53 +3,8 @@
   <advance width="476"/>
   <unicode hex="00E7"/>
   <outline>
-    <contour>
-      <point x="416" y="-147" type="curve" name="QIHEJYRA"/>
-      <point x="416" y="-83" name="KFTLBJGL"/>
-      <point x="372" y="-51" name="FBQYRIGL"/>
-      <point x="309" y="-34" type="curve" name="OSFJRVHU"/>
-      <point x="309" y="-26" name="UBNFVXSS"/>
-      <point x="309" y="-19" name="LEXQTSCF"/>
-      <point x="309" y="-11" type="curve" name="UTHKJHOW"/>
-      <point x="346" y="-11" name="IALOWKWU"/>
-      <point x="386" y="-5" name="JVXMDTYE"/>
-      <point x="428" y="8" type="curve" name="MNRIXXMW"/>
-      <point x="428" y="59" name="MGUSVQNB"/>
-      <point x="428" y="111" name="QMWZPLNA"/>
-      <point x="428" y="162" type="curve" name="VDZEVYZI"/>
-      <point x="312" y="107" name="BABWCTWM"/>
-      <point x="196" y="139" name="QOKLFAXK"/>
-      <point x="196" y="259" type="curve" smooth="yes" name="TPIKNQRC"/>
-      <point x="196" y="379" name="ZRGGSSAA"/>
-      <point x="312" y="411" name="IKBTQKTF"/>
-      <point x="428" y="356" type="curve" name="VDZJNTCH"/>
-      <point x="428" y="407" name="BSLFJFZV"/>
-      <point x="428" y="459" name="PZUHRNXP"/>
-      <point x="428" y="510" type="curve" name="IRIRJPNA"/>
-      <point x="206" y="577" name="SJBCHGBG"/>
-      <point x="27" y="461" name="FEYYLBNB"/>
-      <point x="27" y="259" type="curve" smooth="yes" name="NNDEUCUF"/>
-      <point x="27" y="134" name="ZAATESBG"/>
-      <point x="96" y="42" name="NVLPPHRY"/>
-      <point x="201" y="6" type="curve" name="IBZUKSVU"/>
-      <point x="200" y="-33" name="QMEHNHOZ"/>
-      <point x="199" y="-73" name="KFSAXDFX"/>
-      <point x="198" y="-112" type="curve" name="IVKVHNED"/>
-      <point x="269" y="-107" name="JNYIVAIY"/>
-      <point x="296" y="-116" name="PRDWKYDL"/>
-      <point x="296" y="-138" type="curve" smooth="yes" name="RJSWOPND"/>
-      <point x="296" y="-166" name="FKAOVCDA"/>
-      <point x="237" y="-173" name="NJKKNXGZ"/>
-      <point x="140" y="-143" type="curve" name="DIOHJPDC"/>
-      <point x="140" y="-177" name="IKXSIEQE"/>
-      <point x="140" y="-212" name="CNYUKWEO"/>
-      <point x="140" y="-246" type="curve" name="HGQIOUFC"/>
-      <point x="305" y="-293" name="YYWSRHIS"/>
-      <point x="416" y="-251" name="MIXOTEXL"/>
-      <point x="416" y="-147" type="curve" name="CGUKTTJK"/>
-      <point x="416" y="-147" name="ZPSCFVBN"/>
-      <point x="416" y="-147" name="ZDVJGWFF"/>
-    </contour>
+    <component base="c"/>
+    <component base="cedilla" xOffset="70" yOffset="-11.04064034751707"/>
   </outline>
   <lib>
     <dict>
@@ -147,7 +102,7 @@
         <integer>78</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.502,0.502,0.502,1</string>
     </dict>
   </lib>
 </glyph>
