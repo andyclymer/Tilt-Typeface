@@ -102,6 +102,7 @@
     <key>public.kern1._guils_1</key>
     <array>
       <string>guillemetleft</string>
+      <string>guilsinglleft</string>
     </array>
     <key>public.kern1._guils_2</key>
     <array>
@@ -179,7 +180,6 @@
     <array>
       <string>i</string>
       <string>j</string>
-      <string>dotlessi</string>
       <string>iacute</string>
       <string>icircumflex</string>
       <string>idieresis</string>
@@ -222,6 +222,7 @@
       <string>mu.math</string>
       <string>a</string>
       <string>g</string>
+      <string>dotlessi</string>
     </array>
     <key>public.kern1.v</key>
     <array>
@@ -334,6 +335,7 @@
     <key>public.kern2._guils_2</key>
     <array>
       <string>guillemetleft</string>
+      <string>guilsinglleft</string>
     </array>
     <key>public.kern2._math</key>
     <array>
@@ -393,7 +395,6 @@
     </array>
     <key>public.kern2.i</key>
     <array>
-      <string>dotlessi</string>
       <string>iacute</string>
       <string>icircumflex</string>
       <string>idieresis</string>
@@ -408,6 +409,7 @@
       <string>r</string>
       <string>ntilde</string>
       <string>mu.math</string>
+      <string>dotlessi</string>
     </array>
     <key>public.kern2.o</key>
     <array>
