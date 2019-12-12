@@ -90,8 +90,8 @@ for fileName in os.listdir(sourceFolderPath):
         
         familyName = "Tilt Beta Warp Shadow"
         styleName = "Regular"
-        version = (0, 3)
-        versionString = "BETA 2019_12_05"
+        version = (0, 4)
+        versionString = "BETA 2019_12_12"
         
         setFontInfo(f, familyName, styleName, version=version, versionString=versionString)
         
