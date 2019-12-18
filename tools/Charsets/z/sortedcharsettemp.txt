@@ -1,0 +1,795 @@
+A	0x0041	A	LATIN CAPITAL LETTER A	GF-latin-core	0
+B	0x0042	B	LATIN CAPITAL LETTER B	GF-latin-core	0
+C	0x0043	C	LATIN CAPITAL LETTER C	GF-latin-core	0
+D	0x0044	D	LATIN CAPITAL LETTER D	GF-latin-core	0
+E	0x0045	E	LATIN CAPITAL LETTER E	GF-latin-core	0
+F	0x0046	F	LATIN CAPITAL LETTER F	GF-latin-core	0
+G	0x0047	G	LATIN CAPITAL LETTER G	GF-latin-core	0
+H	0x0048	H	LATIN CAPITAL LETTER H	GF-latin-core	0
+I	0x0049	I	LATIN CAPITAL LETTER I	GF-latin-core	0
+J	0x004A	J	LATIN CAPITAL LETTER J	GF-latin-core	0
+K	0x004B	K	LATIN CAPITAL LETTER K	GF-latin-core	0
+L	0x004C	L	LATIN CAPITAL LETTER L	GF-latin-core	0
+M	0x004D	M	LATIN CAPITAL LETTER M	GF-latin-core	0
+N	0x004E	N	LATIN CAPITAL LETTER N	GF-latin-core	0
+O	0x004F	O	LATIN CAPITAL LETTER O	GF-latin-core	0
+P	0x0050	P	LATIN CAPITAL LETTER P	GF-latin-core	0
+Q	0x0051	Q	LATIN CAPITAL LETTER Q	GF-latin-core	0
+R	0x0052	R	LATIN CAPITAL LETTER R	GF-latin-core	0
+S	0x0053	S	LATIN CAPITAL LETTER S	GF-latin-core	0
+T	0x0054	T	LATIN CAPITAL LETTER T	GF-latin-core	0
+U	0x0055	U	LATIN CAPITAL LETTER U	GF-latin-core	0
+V	0x0056	V	LATIN CAPITAL LETTER V	GF-latin-core	0
+W	0x0057	W	LATIN CAPITAL LETTER W	GF-latin-core	0
+X	0x0058	X	LATIN CAPITAL LETTER X	GF-latin-core	0
+Y	0x0059	Y	LATIN CAPITAL LETTER Y	GF-latin-core	0
+Z	0x005A	Z	LATIN CAPITAL LETTER Z	GF-latin-core	0
+a	0x0061	a	LATIN SMALL LETTER A	GF-latin-core	0
+b	0x0062	b	LATIN SMALL LETTER B	GF-latin-core	0
+c	0x0063	c	LATIN SMALL LETTER C	GF-latin-core	0
+d	0x0064	d	LATIN SMALL LETTER D	GF-latin-core	0
+e	0x0065	e	LATIN SMALL LETTER E	GF-latin-core	0
+f	0x0066	f	LATIN SMALL LETTER F	GF-latin-core	0
+g	0x0067	g	LATIN SMALL LETTER G	GF-latin-core	0
+h	0x0068	h	LATIN SMALL LETTER H	GF-latin-core	0
+i	0x0069	i	LATIN SMALL LETTER I	GF-latin-core	0
+j	0x006A	j	LATIN SMALL LETTER J	GF-latin-core	0
+k	0x006B	k	LATIN SMALL LETTER K	GF-latin-core	0
+l	0x006C	l	LATIN SMALL LETTER L	GF-latin-core	0
+m	0x006D	m	LATIN SMALL LETTER M	GF-latin-core	0
+n	0x006E	n	LATIN SMALL LETTER N	GF-latin-core	0
+o	0x006F	o	LATIN SMALL LETTER O	GF-latin-core	0
+p	0x0070	p	LATIN SMALL LETTER P	GF-latin-core	0
+q	0x0071	q	LATIN SMALL LETTER Q	GF-latin-core	0
+r	0x0072	r	LATIN SMALL LETTER R	GF-latin-core	0
+s	0x0073	s	LATIN SMALL LETTER S	GF-latin-core	0
+t	0x0074	t	LATIN SMALL LETTER T	GF-latin-core	0
+u	0x0075	u	LATIN SMALL LETTER U	GF-latin-core	0
+v	0x0076	v	LATIN SMALL LETTER V	GF-latin-core	0
+w	0x0077	w	LATIN SMALL LETTER W	GF-latin-core	0
+x	0x0078	x	LATIN SMALL LETTER X	GF-latin-core	0
+y	0x0079	y	LATIN SMALL LETTER Y	GF-latin-core	0
+z	0x007A	z	LATIN SMALL LETTER Z	GF-latin-core	0
+zero	0x0030	0	DIGIT ZERO	GF-latin-core	0
+one	0x0031	1	DIGIT ONE	GF-latin-core	0
+two	0x0032	2	DIGIT TWO	GF-latin-core	0
+three	0x0033	3	DIGIT THREE	GF-latin-core	0
+four	0x0034	4	DIGIT FOUR	GF-latin-core	0
+five	0x0035	5	DIGIT FIVE	GF-latin-core	0
+six	0x0036	6	DIGIT SIX	GF-latin-core	0
+seven	0x0037	7	DIGIT SEVEN	GF-latin-core	0
+eight	0x0038	8	DIGIT EIGHT	GF-latin-core	0
+nine	0x0039	9	DIGIT NINE	GF-latin-core	0
+period	0x002E	.	FULL STOP	GF-latin-core	0
+comma	0x002C	,	COMMA	GF-latin-core	0
+colon	0x003A	:	COLON	GF-latin-core	0
+semicolon	0x003B	;	SEMICOLON	GF-latin-core	0
+periodcentered	0x00B7	·	MIDDLE DOT	GF-latin-core	0
+ellipsis	0x2026	…	HORIZONTAL ELLIPSIS	GF-latin-core	0
+exclam	0x0021	!	EXCLAMATION MARK	GF-latin-core	0
+exclamdown	0x00A1	¡	INVERTED EXCLAMATION MARK	GF-latin-core	0
+question	0x003F	?	QUESTION MARK	GF-latin-core	0
+questiondown	0x00BF	¿	INVERTED QUESTION MARK	GF-latin-core	0
+quotesingle	0x0027	'	APOSTROPHE	GF-latin-core	0
+quotedbl	0x0022	"	QUOTATION MARK	GF-latin-core	0
+quoteleft	0x2018	‘	LEFT SINGLE QUOTATION MARK	GF-latin-core	0
+quoteright	0x2019	’	RIGHT SINGLE QUOTATION MARK	GF-latin-core	0
+quotesinglbase	0x201A	‚	SINGLE LOW-9 QUOTATION MARK	GF-latin-core	0
+quotedblleft	0x201C	“	LEFT DOUBLE QUOTATION MARK	GF-latin-core	0
+quotedblright	0x201D	”	RIGHT DOUBLE QUOTATION MARK	GF-latin-core	0
+quotedblbase	0x201E	„	DOUBLE LOW-9 QUOTATION MARK	GF-latin-core	0
+guilsinglleft	0x2039	‹	SINGLE LEFT-POINTING ANGLE QUOTATION MARK	GF-latin-core	0
+guilsinglright	0x203A	›	SINGLE RIGHT-POINTING ANGLE QUOTATION MARK	GF-latin-core	0
+guillemetleft	0x00AB	«	LEFT-POINTING DOUBLE ANGLE QUOTATION MARK	GF-latin-core	0
+guillemetright	0x00BB	»	RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK	GF-latin-core	0
+parenleft	0x0028	(	LEFT PARENTHESIS	GF-latin-core	0
+parenright	0x0029	)	RIGHT PARENTHESIS	GF-latin-core	0
+bracketleft	0x005B	[	LEFT SQUARE BRACKET	GF-latin-core	0
+bracketright	0x005D	]	RIGHT SQUARE BRACKET	GF-latin-core	0
+braceleft	0x007B	{	LEFT CURLY BRACKET	GF-latin-core	0
+braceright	0x007D	}	RIGHT CURLY BRACKET	GF-latin-core	0
+slash	0x002F	/	SOLIDUS	GF-latin-core	0
+bar	0x007C	|	VERTICAL LINE	GF-latin-core	0
+brokenbar	0x00A6	¦	BROKEN BAR	GF-latin-core	0
+backslash	0x005C	\	REVERSE SOLIDUS	GF-latin-core	0
+fraction	0x2044	⁄	FRACTION SLASH	GF-latin-core	0
+bullet	0x2022	•	BULLET	GF-latin-core	0
+hyphen	0x002D	-	HYPHEN-MINUS	GF-latin-core	0
+hyphensoft	0x00AD	­	SOFT HYPHEN	GF-latin-core	0
+endash	0x2013	–	EN DASH	GF-latin-core	0
+emdash	0x2014	—	EM DASH	GF-latin-core	0
+underscore	0x005F	_	LOW LINE	GF-latin-core	0
+dollar	0x0024	$	DOLLAR SIGN	GF-latin-core	0
+cent	0x00A2	¢	CENT SIGN	GF-latin-core	0
+sterling	0x00A3	£	POUND SIGN	GF-latin-core	0
+yen	0x00A5	¥	YEN SIGN	GF-latin-core	0
+Euro	0x20AC	€	EURO SIGN	GF-latin-core	0
+colonmonetary	0x20A1	₡	COLON SIGN	GF-latin-plus	0
+franc	0x20A3	₣	FRENCH FRANC SIGN	GF-latin-plus	0
+lira	0x20A4	₤	LIRA SIGN	GF-latin-plus	0
+naira	0x20A6	₦	NAIRA SIGN	GF-latin-plus	0
+peseta	0x20A7	₧	PESETA SIGN	GF-latin-plus	0
+won	0x20A9	₩	WON SIGN	GF-latin-plus	0
+dong	0x20AB	₫	DONG SIGN	GF-latin-plus	0
+kip	0x20AD	₭	KIP SIGN	GF-latin-plus	0
+peso	0x20B1	₱	PESO SIGN	GF-latin-plus	0
+guarani	0x20B2	₲	GUARANI SIGN	GF-latin-plus	0
+cedi	0x20B5	₵	CEDI SIGN	GF-latin-plus	0
+indianrupee	0x20B9	₹	INDIAN RUPEE SIGN	GF-latin-plus	0
+turkishlira	0x20BA	₺	TURKISH LIRA SIGN	GF-latin-plus	0
+manat	0x20BC	₼	MANAT SIGN	GF-latin-plus	0
+ruble	0x20BD	₽	RUBLE SIGN	GF-latin-plus	0
+numero	0x2116	№	NUMERO SIGN	GF-latin-plus	0
+currency	0x00A4	¤	CURRENCY SIGN	GF-latin-core	0
+plus	0x002B	+	PLUS SIGN	GF-latin-core	0
+minus	0x2212	−	MINUS SIGN	GF-latin-core	0
+multiply	0x00D7	×	MULTIPLICATION SIGN	GF-latin-core	0
+bulletoperator	0x2219	∙	BULLET OPERATOR	GF-latin-plus	0
+divide	0x00F7	÷	DIVISION SIGN	GF-latin-core	0
+plusminus	0x00B1	±	PLUS-MINUS SIGN	GF-latin-core	0
+equal	0x003D	=	EQUALS SIGN	GF-latin-core	0
+approxequal	0x2248	≈	ALMOST EQUAL TO	GF-latin-plus	0
+notequal	0x2260	≠	NOT EQUAL TO	GF-latin-plus	0
+less	0x003C	<	LESS-THAN SIGN	GF-latin-core	0
+greater	0x003E	>	GREATER-THAN SIGN	GF-latin-core	0
+lessequal	0x2264	≤	LESS-THAN OR EQUAL TO	GF-latin-plus	0
+greaterequal	0x2265	≥	GREATER-THAN OR EQUAL TO	GF-latin-plus	0
+bracketangleleft	0x27E8	⟨	MATHEMATICAL LEFT ANGLE BRACKET	GF-latin-plus	0
+bracketangleright	0x27E9	⟩	MATHEMATICAL RIGHT ANGLE BRACKET	GF-latin-plus	0
+divisionslash	0x2215	∕	DIVISION SLASH	GF-latin-core	0
+logicalnot	0x00AC	¬	NOT SIGN	GF-latin-core	0
+mu.math	0x00B5	µ	MICRO SIGN	GF-latin-core	0
+asterisk	0x002A	*	ASTERISK	GF-latin-core	0
+dagger	0x2020	†	DAGGER	GF-latin-plus	0
+daggerdbl	0x2021	‡	DOUBLE DAGGER	GF-latin-plus	0
+asciicircum	0x005E	^	CIRCUMFLEX ACCENT	GF-latin-core	0
+asciitilde	0x007E	~	TILDE	GF-latin-core	0
+percent	0x0025	%	PERCENT SIGN	GF-latin-core	0
+perthousand	0x2030	‰	PER MILLE SIGN	GF-latin-plus	0
+degree	0x00B0	°	DEGREE SIGN	GF-latin-core	0
+minute	0x2032	′	PRIME	GF-latin-plus	0
+second	0x2033	″	DOUBLE PRIME	GF-latin-plus	0
+gnrl:hyphen	0x2010	‐	HYPHEN	GF-latin-plus	0
+commercialminussign	0x2052	⁒	COMMERCIAL MINUS SIGN	GF-latin-plus	0
+ordmasculine	0x00BA	º	MASCULINE ORDINAL INDICATOR	GF-latin-core	0
+ordfeminine	0x00AA	ª	FEMININE ORDINAL INDICATOR	GF-latin-core	0
+copyright	0x00A9	©	COPYRIGHT SIGN	GF-latin-core	0
+registered	0x00AE	®	REGISTERED SIGN	GF-latin-core	0
+trademark	0x2122	™	TRADE MARK SIGN	GF-latin-plus	0
+at	0x0040	@	COMMERCIAL AT	GF-latin-core	0
+numbersign	0x0023	#	NUMBER SIGN	GF-latin-core	0
+ampersand	0x0026	&	AMPERSAND	GF-latin-core	0
+section	0x00A7	§	SECTION SIGN	GF-latin-core	0
+paragraph	0x00B6	¶	PILCROW SIGN	GF-latin-core	0
+pi	0x03C0	π	GREEK SMALL LETTER PI	GF-latin-pro	0
+litre	0x2113	ℓ	SCRIPT SMALL L	GF-latin-pro	0
+ohm	0x2126	Ω	OHM SIGN	GF-latin-pro	0
+estimated	0x212E	℮	ESTIMATED SYMBOL	GF-latin-pro	0
+partialdiff	0x2202	∂	PARTIAL DIFFERENTIAL	GF-latin-pro	0
+emptyset	0x2205	∅	EMPTY SET	GF-latin-pro	0
+increment	0x2206	∆	INCREMENT	GF-latin-pro	0
+product	0x220F	∏	N-ARY PRODUCT	GF-latin-pro	0
+summation	0x2211	∑	N-ARY SUMMATION	GF-latin-pro	0
+radical	0x221A	√	SQUARE ROOT	GF-latin-pro	0
+infinity	0x221E	∞	INFINITY	GF-latin-pro	0
+integral	0x222B	∫	INTEGRAL	GF-latin-pro	0
+lozenge	0x25CA	◊	LOZENGE	GF-latin-pro	0
+zero.dnom				GF-latin-pro	0
+one.dnom				GF-latin-pro	0
+two.dnom				GF-latin-pro	0
+three.dnom				GF-latin-pro	0
+four.dnom				GF-latin-pro	0
+five.dnom				GF-latin-pro	0
+six.dnom				GF-latin-pro	0
+seven.dnom				GF-latin-pro	0
+eight.dnom				GF-latin-pro	0
+nine.dnom				GF-latin-pro	0
+zero.numr				GF-latin-pro	0
+one.numr				GF-latin-pro	0
+two.numr				GF-latin-pro	0
+three.numr				GF-latin-pro	0
+four.numr				GF-latin-pro	0
+five.numr				GF-latin-pro	0
+six.numr				GF-latin-pro	0
+seven.numr				GF-latin-pro	0
+eight.numr				GF-latin-pro	0
+nine.numr				GF-latin-pro	0
+zero.subs				GF-latin-pro	0
+one.subs				GF-latin-pro	0
+two.subs				GF-latin-pro	0
+three.subs				GF-latin-pro	0
+four.subs				GF-latin-pro	0
+five.subs				GF-latin-pro	0
+six.subs				GF-latin-pro	0
+seven.subs				GF-latin-pro	0
+eight.subs				GF-latin-pro	0
+nine.subs				GF-latin-pro	0
+zero.superior	0x2070	⁰	SUPERSCRIPT ZERO	GF-latin-pro	0
+onesuperior	0x00B9	¹	SUPERSCRIPT ONE	GF-latin-core	0
+twosuperior	0x00B2	²	SUPERSCRIPT TWO	GF-latin-core	0
+threesuperior	0x00B3	³	SUPERSCRIPT THREE	GF-latin-core	0
+four.superior	0x2074	⁴	SUPERSCRIPT FOUR	GF-latin-core	0
+five.superior	0x2075	⁵	SUPERSCRIPT FIVE	GF-latin-pro	0
+six.superior	0x2076	⁶	SUPERSCRIPT SIX	GF-latin-pro	0
+seven.superior	0x2077	⁷	SUPERSCRIPT SEVEN	GF-latin-pro	0
+eight.superior	0x2078	⁸	SUPERSCRIPT EIGHT	GF-latin-pro	0
+nine.superior	0x2079	⁹	SUPERSCRIPT NINE	GF-latin-pro	0
+zero.inferior	0x2080	₀	SUBSCRIPT ZERO	GF-latin-pro	0
+one.inferior	0x2081	₁	SUBSCRIPT ONE	GF-latin-pro	0
+two.inferior	0x2082	₂	SUBSCRIPT TWO	GF-latin-pro	0
+three.inferior	0x2083	₃	SUBSCRIPT THREE	GF-latin-pro	0
+four.inferior	0x2084	₄	SUBSCRIPT FOUR	GF-latin-pro	0
+five.inferior	0x2085	₅	SUBSCRIPT FIVE	GF-latin-pro	0
+six.inferior	0x2086	₆	SUBSCRIPT SIX	GF-latin-pro	0
+seven.inferior	0x2087	₇	SUBSCRIPT SEVEN	GF-latin-pro	0
+eight.inferior	0x2088	₈	SUBSCRIPT EIGHT	GF-latin-pro	0
+nine.inferior	0x2089	₉	SUBSCRIPT NINE	GF-latin-pro	0
+onehalf	0x00BD	½	VULGAR FRACTION ONE HALF	GF-latin-core	0
+onethird	0x2153	⅓	VULGAR FRACTION ONE THIRD	GF-latin-expert	0
+onequarter	0x00BC	¼	VULGAR FRACTION ONE QUARTER	GF-latin-core	0
+oneeighth	0x215B	⅛	VULGAR FRACTION ONE EIGHTH	GF-latin-expert	0
+twothirds	0x2154	⅔	VULGAR FRACTION TWO THIRDS	GF-latin-expert	0
+threequarters	0x00BE	¾	VULGAR FRACTION THREE QUARTERS	GF-latin-core	0
+threeeighths	0x215C	⅜	VULGAR FRACTION THREE EIGHTHS	GF-latin-expert	0
+fiveeighths	0x215D	⅝	VULGAR FRACTION FIVE EIGHTHS	GF-latin-expert	0
+seveneighths	0x215E	⅞	VULGAR FRACTION SEVEN EIGHTHS	GF-latin-expert	0
+dieresis	0x00A8	¨	DIAERESIS	GF-latin-core	0
+grave	0x0060	`	GRAVE ACCENT	GF-latin-core	0
+macron	0x00AF	¯	MACRON	GF-latin-core	0
+acute	0x00B4	´	ACUTE ACCENT	GF-latin-core	0
+cedilla	0x00B8	¸	CEDILLA	GF-latin-core	0
+circumflex	0x02C6	ˆ	MODIFIER LETTER CIRCUMFLEX ACCENT	GF-latin-core	0
+ring	0x02DA	˚	RING ABOVE	GF-latin-core	0
+tilde	0x02DC	˜	SMALL TILDE	GF-latin-core	0
+primemod	0x02B9	ʹ	MODIFIER LETTER PRIME	GF-latin-plus	0
+primedblmod	0x02BA	ʺ	MODIFIER LETTER DOUBLE PRIME	GF-latin-plus	0
+apostrophemod	0x02BC	ʼ	MODIFIER LETTER APOSTROPHE	GF-latin-plus	0
+caron	0x02C7	ˇ	CARON	GF-latin-plus	0
+breve	0x02D8	˘	BREVE	GF-latin-plus	0
+dotaccent	0x02D9	˙	DOT ABOVE	GF-latin-plus	0
+ogonek	0x02DB	˛	OGONEK	GF-latin-plus	0
+hungarumlaut	0x02DD	˝	DOUBLE ACUTE ACCENT	GF-latin-plus	0
+gravecmb	0x0300	̀	COMBINING GRAVE ACCENT	GF-latin-plus	0
+acutecmb	0x0301	́	COMBINING ACUTE ACCENT	GF-latin-plus	0
+circumflexcmb	0x0302	̂	COMBINING CIRCUMFLEX ACCENT	GF-latin-plus	0
+tildecmb	0x0303	̃	COMBINING TILDE	GF-latin-plus	0
+macroncmb	0x0304	̄	COMBINING MACRON	GF-latin-plus	0
+brevecmb	0x0306	̆	COMBINING BREVE	GF-latin-plus	0
+dotaccentcmb	0x0307	̇	COMBINING DOT ABOVE	GF-latin-plus	0
+dieresiscmb	0x0308	̈	COMBINING DIAERESIS	GF-latin-plus	0
+hookabovecmb	0x0309	̉	COMBINING HOOK ABOVE	GF-latin-plus	0
+ringabovecmb	0x030A	̊	COMBINING RING ABOVE	GF-latin-plus	0
+hungarumlautcmb	0x030B	̋	COMBINING DOUBLE ACUTE ACCENT	GF-latin-plus	0
+caroncmb	0x030C	̌	COMBINING CARON	GF-latin-plus	0
+gravedoublecmb	0x030F	̏	COMBINING DOUBLE GRAVE ACCENT	GF-latin-plus	0
+invertedbrevecmb	0x0311	̑	COMBINING INVERTED BREVE	GF-latin-plus	0
+commaturnedabovecmb	0x0312	̒	COMBINING TURNED COMMA ABOVE	GF-latin-plus	0
+horncmb	0x031B	̛	COMBINING HORN	GF-latin-plus	0
+dotbelowcombcmb	0x0323	̣	COMBINING DOT BELOW	GF-latin-plus	0
+dieresisbelowcmb	0x0324	̤	COMBINING DIAERESIS BELOW	GF-latin-plus	0
+commaaccentbelowcmb	0x0326	̦	COMBINING COMMA BELOW	GF-latin-plus	0
+cedillacmb	0x0327	̧	COMBINING CEDILLA	GF-latin-plus	0
+ogonekcmb	0x0328	̨	COMBINING OGONEK	GF-latin-plus	0
+belowbrevecmb	0x032E	̮	COMBINING BREVE BELOW	GF-latin-plus	0
+macronbelowcmb	0x0331	̱	COMBINING MACRON BELOW	GF-latin-plus	0
+overlaystrokeshortcmb	0x0335	̵	COMBINING SHORT STROKE OVERLAY	GF-latin-plus	0
+circumflexcomb_acutecomb				GF-latin-plus	0
+circumflexcomb_gravecomb				GF-latin-plus	0
+circumflexcomb_hookabovecomb				GF-latin-plus	0
+circumflexcomb_tildecomb				GF-latin-plus	0
+brevecomb_acutecomb				GF-latin-plus	0
+brevecomb_gravecomb				GF-latin-plus	0
+brevecomb_hookabovecomb				GF-latin-plus	0
+brevecomb_tildecomb				GF-latin-plus	0
+idotaccent				GF-latin-plus	0
+caroncomb.alt				GF-latin-plus	0
+periodcentered.loclCAT				GF-latin-plus	0
+Aacute	0x00C1	Á	LATIN CAPITAL LETTER A WITH ACUTE	GF-latin-core	0
+Abreve	0x0102	Ă	LATIN CAPITAL LETTER A WITH BREVE	GF-latin-plus	0
+Abreveacute	0x1EAE	Ắ	LATIN CAPITAL LETTER A WITH BREVE AND ACUTE	GF-latin-plus	0
+Abrevedotbelow	0x1EB6	Ặ	LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW	GF-latin-plus	0
+Abrevegrave	0x1EB0	Ằ	LATIN CAPITAL LETTER A WITH BREVE AND GRAVE	GF-latin-plus	0
+Abrevehoi	0x1EB2	Ẳ	LATIN CAPITAL LETTER A WITH BREVE AND HOOK ABOVE	GF-latin-plus	0
+Abrevetilde	0x1EB4	Ẵ	LATIN CAPITAL LETTER A WITH BREVE AND TILDE	GF-latin-plus	0
+Acircumflex	0x00C2	Â	LATIN CAPITAL LETTER A WITH CIRCUMFLEX	GF-latin-core	0
+Acircumflexacute	0x1EA4	Ấ	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE	GF-latin-plus	0
+Acircumflexdotbelow	0x1EAC	Ậ	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW	GF-latin-plus	0
+Acircumflexgrave	0x1EA6	Ầ	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE	GF-latin-plus	0
+Acircumflexhoi	0x1EA8	Ẩ	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE	GF-latin-plus	0
+Acircumflextilde	0x1EAA	Ẫ	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE	GF-latin-plus	0
+Adieresis	0x00C4	Ä	LATIN CAPITAL LETTER A WITH DIAERESIS	GF-latin-core	0
+Adotbelow	0x1EA0	Ạ	LATIN CAPITAL LETTER A WITH DOT BELOW	GF-latin-plus	0
+Agravedbl	0x0200	Ȁ	LATIN CAPITAL LETTER A WITH DOUBLE GRAVE	GF-latin-plus	0
+Agrave	0x00C0	À	LATIN CAPITAL LETTER A WITH GRAVE	GF-latin-core	0
+Ahoi	0x1EA2	Ả	LATIN CAPITAL LETTER A WITH HOOK ABOVE	GF-latin-plus	0
+Ainvertedbreve	0x0202	Ȃ	LATIN CAPITAL LETTER A WITH INVERTED BREVE	GF-latin-plus	0
+Amacron	0x0100	Ā	LATIN CAPITAL LETTER A WITH MACRON	GF-latin-plus	0
+Aogonek	0x0104	Ą	LATIN CAPITAL LETTER A WITH OGONEK	GF-latin-plus	0
+Aring	0x00C5	Å	LATIN CAPITAL LETTER A WITH RING ABOVE	GF-latin-core	0
+Aringacute	0x01FA	Ǻ	LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE	GF-latin-plus	0
+Atilde	0x00C3	Ã	LATIN CAPITAL LETTER A WITH TILDE	GF-latin-core	0
+AE	0x00C6	Æ	LATIN CAPITAL LETTER AE	GF-latin-core	0
+AEacute	0x01FC	Ǽ	LATIN CAPITAL LETTER AE WITH ACUTE	GF-latin-plus	0
+Cacute	0x0106	Ć	LATIN CAPITAL LETTER C WITH ACUTE	GF-latin-plus	0
+Ccaron	0x010C	Č	LATIN CAPITAL LETTER C WITH CARON	GF-latin-plus	0
+Ccedilla	0x00C7	Ç	LATIN CAPITAL LETTER C WITH CEDILLA	GF-latin-core	0
+Ccedillaacute	0x1E08	Ḉ	LATIN CAPITAL LETTER C WITH CEDILLA AND ACUTE	GF-latin-pro	0
+Ccircumflex	0x0108	Ĉ	LATIN CAPITAL LETTER C WITH CIRCUMFLEX	GF-latin-plus	0
+Cdotaccent	0x010A	Ċ	LATIN CAPITAL LETTER C WITH DOT ABOVE	GF-latin-plus	0
+Dcaron	0x010E	Ď	LATIN CAPITAL LETTER D WITH CARON	GF-latin-plus	0
+Ddotbelow	0x1E0C	Ḍ	LATIN CAPITAL LETTER D WITH DOT BELOW	GF-latin-pro	0
+Dlinebelow	0x1E0E	Ḏ	LATIN CAPITAL LETTER D WITH LINE BELOW	GF-latin-pro	0
+Dcroat	0x0110	Đ	LATIN CAPITAL LETTER D WITH STROKE	GF-latin-plus	0
+Eth	0x00D0	Ð	LATIN CAPITAL LETTER ETH	GF-latin-core	0
+Eacute	0x00C9	É	LATIN CAPITAL LETTER E WITH ACUTE	GF-latin-core	0
+Ebreve	0x0114	Ĕ	LATIN CAPITAL LETTER E WITH BREVE	GF-latin-plus	0
+Ecaron	0x011A	Ě	LATIN CAPITAL LETTER E WITH CARON	GF-latin-plus	0
+Ecedillabreve	0x1E1C	Ḝ	LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE	GF-latin-pro	0
+Ecircumflex	0x00CA	Ê	LATIN CAPITAL LETTER E WITH CIRCUMFLEX	GF-latin-core	0
+Ecircumflexacute	0x1EBE	Ế	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE	GF-latin-plus	0
+Ecircumflexdotbelow	0x1EC6	Ệ	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW	GF-latin-plus	0
+Ecircumflexgrave	0x1EC0	Ề	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE	GF-latin-plus	0
+Ecircumflexhoi	0x1EC2	Ể	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE	GF-latin-plus	0
+Ecircumflextilde	0x1EC4	Ễ	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE	GF-latin-plus	0
+Edieresis	0x00CB	Ë	LATIN CAPITAL LETTER E WITH DIAERESIS	GF-latin-core	0
+Edotaccent	0x0116	Ė	LATIN CAPITAL LETTER E WITH DOT ABOVE	GF-latin-plus	0
+Edotbelow	0x1EB8	Ẹ	LATIN CAPITAL LETTER E WITH DOT BELOW	GF-latin-plus	0
+Egravedbl	0x0204	Ȅ	LATIN CAPITAL LETTER E WITH DOUBLE GRAVE	GF-latin-plus	0
+Egrave	0x00C8	È	LATIN CAPITAL LETTER E WITH GRAVE	GF-latin-core	0
+Ehoi	0x1EBA	Ẻ	LATIN CAPITAL LETTER E WITH HOOK ABOVE	GF-latin-plus	0
+Einvertedbreve	0x0206	Ȇ	LATIN CAPITAL LETTER E WITH INVERTED BREVE	GF-latin-plus	0
+Emacron	0x0112	Ē	LATIN CAPITAL LETTER E WITH MACRON	GF-latin-plus	0
+Emacronacute	0x1E16	Ḗ	LATIN CAPITAL LETTER E WITH MACRON AND ACUTE	GF-latin-pro	0
+Emacrongrave	0x1E14	Ḕ	LATIN CAPITAL LETTER E WITH MACRON AND GRAVE	GF-latin-pro	0
+Eogonek	0x0118	Ę	LATIN CAPITAL LETTER E WITH OGONEK	GF-latin-plus	0
+Etilde	0x1EBC	Ẽ	LATIN CAPITAL LETTER E WITH TILDE	GF-latin-plus	0
+Gbreve	0x011E	Ğ	LATIN CAPITAL LETTER G WITH BREVE	GF-latin-plus	0
+Gcaron	0x01E6	Ǧ	LATIN CAPITAL LETTER G WITH CARON	GF-latin-plus	0
+Gcedilla	0x0122	Ģ	LATIN CAPITAL LETTER G WITH CEDILLA	GF-latin-plus	0
+Gcircumflex	0x011C	Ĝ	LATIN CAPITAL LETTER G WITH CIRCUMFLEX	GF-latin-plus	0
+Gdotaccent	0x0120	Ġ	LATIN CAPITAL LETTER G WITH DOT ABOVE	GF-latin-plus	0
+Gmacron	0x1E20	Ḡ	LATIN CAPITAL LETTER G WITH MACRON	GF-latin-pro	0
+Hbrevebelow	0x1E2A	Ḫ	LATIN CAPITAL LETTER H WITH BREVE BELOW	GF-latin-pro	0
+Hcircumflex	0x0124	Ĥ	LATIN CAPITAL LETTER H WITH CIRCUMFLEX	GF-latin-plus	0
+Hdotbelow	0x1E24	Ḥ	LATIN CAPITAL LETTER H WITH DOT BELOW	GF-latin-pro	0
+Hbar	0x0126	Ħ	LATIN CAPITAL LETTER H WITH STROKE	GF-latin-plus	0
+Iacute	0x00CD	Í	LATIN CAPITAL LETTER I WITH ACUTE	GF-latin-core	0
+Ibreve	0x012C	Ĭ	LATIN CAPITAL LETTER I WITH BREVE	GF-latin-plus	0
+Icircumflex	0x00CE	Î	LATIN CAPITAL LETTER I WITH CIRCUMFLEX	GF-latin-core	0
+Idieresis	0x00CF	Ï	LATIN CAPITAL LETTER I WITH DIAERESIS	GF-latin-core	0
+Idieresisacute	0x1E2E	Ḯ	LATIN CAPITAL LETTER I WITH DIAERESIS AND ACUTE	GF-latin-pro	0
+Idotaccent	0x0130	İ	LATIN CAPITAL LETTER I WITH DOT ABOVE	GF-latin-plus	0
+Idotbelow	0x1ECA	Ị	LATIN CAPITAL LETTER I WITH DOT BELOW	GF-latin-plus	0
+Igravedbl	0x0208	Ȉ	LATIN CAPITAL LETTER I WITH DOUBLE GRAVE	GF-latin-plus	0
+Igrave	0x00CC	Ì	LATIN CAPITAL LETTER I WITH GRAVE	GF-latin-core	0
+Ihoi	0x1EC8	Ỉ	LATIN CAPITAL LETTER I WITH HOOK ABOVE	GF-latin-plus	0
+Iinvertedbreve	0x020A	Ȋ	LATIN CAPITAL LETTER I WITH INVERTED BREVE	GF-latin-plus	0
+Imacron	0x012A	Ī	LATIN CAPITAL LETTER I WITH MACRON	GF-latin-plus	0
+Iogonek	0x012E	Į	LATIN CAPITAL LETTER I WITH OGONEK	GF-latin-plus	0
+Itilde	0x0128	Ĩ	LATIN CAPITAL LETTER I WITH TILDE	GF-latin-plus	0
+Jcircumflex	0x0134	Ĵ	LATIN CAPITAL LETTER J WITH CIRCUMFLEX	GF-latin-plus	0
+Kcedilla	0x0136	Ķ	LATIN CAPITAL LETTER K WITH CEDILLA	GF-latin-plus	0
+Lacute	0x0139	Ĺ	LATIN CAPITAL LETTER L WITH ACUTE	GF-latin-plus	0
+Lcaron	0x013D	Ľ	LATIN CAPITAL LETTER L WITH CARON	GF-latin-plus	0
+Lcedilla	0x013B	Ļ	LATIN CAPITAL LETTER L WITH CEDILLA	GF-latin-plus	0
+Ldotbelow	0x1E36	Ḷ	LATIN CAPITAL LETTER L WITH DOT BELOW	GF-latin-pro	0
+Llinebelow	0x1E3A	Ḻ	LATIN CAPITAL LETTER L WITH LINE BELOW	GF-latin-pro	0
+Ldot	0x013F	Ŀ	LATIN CAPITAL LETTER L WITH MIDDLE DOT	GF-latin-plus	0
+Lslash	0x0141	Ł	LATIN CAPITAL LETTER L WITH STROKE	GF-latin-plus	0
+Mdotbelow	0x1E42	Ṃ	LATIN CAPITAL LETTER M WITH DOT BELOW	GF-latin-pro	0
+Nacute	0x0143	Ń	LATIN CAPITAL LETTER N WITH ACUTE	GF-latin-plus	0
+Ncaron	0x0147	Ň	LATIN CAPITAL LETTER N WITH CARON	GF-latin-plus	0
+Ncedilla	0x0145	Ņ	LATIN CAPITAL LETTER N WITH CEDILLA	GF-latin-plus	0
+Ndot	0x1E44	Ṅ	LATIN CAPITAL LETTER N WITH DOT ABOVE	GF-latin-pro	0
+Ndotbelow	0x1E46	Ṇ	LATIN CAPITAL LETTER N WITH DOT BELOW	GF-latin-pro	0
+Nlinebelow	0x1E48	Ṉ	LATIN CAPITAL LETTER N WITH LINE BELOW	GF-latin-pro	0
+Ntilde	0x00D1	Ñ	LATIN CAPITAL LETTER N WITH TILDE	GF-latin-core	0
+Eng	0x014A	Ŋ	LATIN CAPITAL LETTER ENG	GF-latin-plus	0
+Oacute	0x00D3	Ó	LATIN CAPITAL LETTER O WITH ACUTE	GF-latin-core	0
+Obreve	0x014E	Ŏ	LATIN CAPITAL LETTER O WITH BREVE	GF-latin-plus	0
+Ocircumflex	0x00D4	Ô	LATIN CAPITAL LETTER O WITH CIRCUMFLEX	GF-latin-core	0
+Ocircumflexacute	0x1ED0	Ố	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE	GF-latin-plus	0
+Ocircumflexdotbelow	0x1ED8	Ộ	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW	GF-latin-plus	0
+Ocircumflexgrave	0x1ED2	Ồ	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE	GF-latin-plus	0
+Ocircumflexhoi	0x1ED4	Ổ	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE	GF-latin-plus	0
+Ocircumflextilde	0x1ED6	Ỗ	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE	GF-latin-plus	0
+Odieresis	0x00D6	Ö	LATIN CAPITAL LETTER O WITH DIAERESIS	GF-latin-core	0
+Odieresismacron	0x022A	Ȫ	LATIN CAPITAL LETTER O WITH DIAERESIS AND MACRON	GF-latin-plus	0
+Odotmacron	0x0230	Ȱ	LATIN CAPITAL LETTER O WITH DOT ABOVE AND MACRON	GF-latin-plus	0
+Odotbelow	0x1ECC	Ọ	LATIN CAPITAL LETTER O WITH DOT BELOW	GF-latin-plus	0
+Ohungarumlaut	0x0150	Ő	LATIN CAPITAL LETTER O WITH DOUBLE ACUTE	GF-latin-plus	0
+Ogravedbl	0x020C	Ȍ	LATIN CAPITAL LETTER O WITH DOUBLE GRAVE	GF-latin-plus	0
+Ograve	0x00D2	Ò	LATIN CAPITAL LETTER O WITH GRAVE	GF-latin-core	0
+Ohoi	0x1ECE	Ỏ	LATIN CAPITAL LETTER O WITH HOOK ABOVE	GF-latin-plus	0
+Ohorn	0x01A0	Ơ	LATIN CAPITAL LETTER O WITH HORN	GF-latin-plus	0
+Ohornacute	0x1EDA	Ớ	LATIN CAPITAL LETTER O WITH HORN AND ACUTE	GF-latin-plus	0
+Ohorndotbelow	0x1EE2	Ợ	LATIN CAPITAL LETTER O WITH HORN AND DOT BELOW	GF-latin-plus	0
+Ohorngrave	0x1EDC	Ờ	LATIN CAPITAL LETTER O WITH HORN AND GRAVE	GF-latin-plus	0
+Ohornhoi	0x1EDE	Ở	LATIN CAPITAL LETTER O WITH HORN AND HOOK ABOVE	GF-latin-plus	0
+Ohorntilde	0x1EE0	Ỡ	LATIN CAPITAL LETTER O WITH HORN AND TILDE	GF-latin-plus	0
+Oinvertedbreve	0x020E	Ȏ	LATIN CAPITAL LETTER O WITH INVERTED BREVE	GF-latin-plus	0
+Omacron	0x014C	Ō	LATIN CAPITAL LETTER O WITH MACRON	GF-latin-plus	0
+Omacronacute	0x1E52	Ṓ	LATIN CAPITAL LETTER O WITH MACRON AND ACUTE	GF-latin-pro	0
+Omacrongrave	0x1E50	Ṑ	LATIN CAPITAL LETTER O WITH MACRON AND GRAVE	GF-latin-pro	0
+Oogonek	0x01EA	Ǫ	LATIN CAPITAL LETTER O WITH OGONEK	GF-latin-plus	0
+Oslash	0x00D8	Ø	LATIN CAPITAL LETTER O WITH STROKE	GF-latin-core	0
+Oslashacute	0x01FE	Ǿ	LATIN CAPITAL LETTER O WITH STROKE AND ACUTE	GF-latin-plus	0
+Otilde	0x00D5	Õ	LATIN CAPITAL LETTER O WITH TILDE	GF-latin-core	0
+Otildeacute	0x1E4C	Ṍ	LATIN CAPITAL LETTER O WITH TILDE AND ACUTE	GF-latin-pro	0
+Otildedieresis	0x1E4E	Ṏ	LATIN CAPITAL LETTER O WITH TILDE AND DIAERESIS	GF-latin-pro	0
+Otildemacron	0x022C	Ȭ	LATIN CAPITAL LETTER O WITH TILDE AND MACRON	GF-latin-plus	0
+OE	0x0152	Œ	LATIN CAPITAL LIGATURE OE	GF-latin-core	0
+Racute	0x0154	Ŕ	LATIN CAPITAL LETTER R WITH ACUTE	GF-latin-plus	0
+Rcaron	0x0158	Ř	LATIN CAPITAL LETTER R WITH CARON	GF-latin-plus	0
+Rcedilla	0x0156	Ŗ	LATIN CAPITAL LETTER R WITH CEDILLA	GF-latin-plus	0
+Rdotbelow	0x1E5A	Ṛ	LATIN CAPITAL LETTER R WITH DOT BELOW	GF-latin-pro	0
+Rgravedbl	0x0210	Ȑ	LATIN CAPITAL LETTER R WITH DOUBLE GRAVE	GF-latin-plus	0
+Rinvertedbreve	0x0212	Ȓ	LATIN CAPITAL LETTER R WITH INVERTED BREVE	GF-latin-plus	0
+Rlinebelow	0x1E5E	Ṟ	LATIN CAPITAL LETTER R WITH LINE BELOW	GF-latin-pro	0
+Sacute	0x015A	Ś	LATIN CAPITAL LETTER S WITH ACUTE	GF-latin-plus	0
+Sacutedotaccent	0x1E64	Ṥ	LATIN CAPITAL LETTER S WITH ACUTE AND DOT ABOVE	GF-latin-pro	0
+Scaron	0x0160	Š	LATIN CAPITAL LETTER S WITH CARON	GF-latin-plus	0
+Scarondot	0x1E66	Ṧ	LATIN CAPITAL LETTER S WITH CARON AND DOT ABOVE	GF-latin-pro	0
+Scedilla	0x015E	Ş	LATIN CAPITAL LETTER S WITH CEDILLA	GF-latin-plus	0
+Scircumflex	0x015C	Ŝ	LATIN CAPITAL LETTER S WITH CIRCUMFLEX	GF-latin-plus	0
+Scommaaccent	0x0218	Ș	LATIN CAPITAL LETTER S WITH COMMA BELOW	GF-latin-plus	0
+Sdot	0x1E60	Ṡ	LATIN CAPITAL LETTER S WITH DOT ABOVE	GF-latin-pro	0
+Sdotbelow	0x1E62	Ṣ	LATIN CAPITAL LETTER S WITH DOT BELOW	GF-latin-pro	0
+Sdotbelowdotabove	0x1E68	Ṩ	LATIN CAPITAL LETTER S WITH DOT BELOW AND DOT ABOVE	GF-latin-pro	0
+Germandbls	0x1E9E	ẞ	LATIN CAPITAL LETTER SHARP S	GF-latin-plus	0
+Schwa	0x018F	Ə	LATIN CAPITAL LETTER SCHWA	GF-latin-plus	0
+Tcaron	0x0164	Ť	LATIN CAPITAL LETTER T WITH CARON	GF-latin-plus	0
+Tcedilla	0x0162	Ţ	LATIN CAPITAL LETTER T WITH CEDILLA	GF-latin-plus	0
+Tcommaaccent	0x021A	Ț	LATIN CAPITAL LETTER T WITH COMMA BELOW	GF-latin-plus	0
+Tdotbelow	0x1E6C	Ṭ	LATIN CAPITAL LETTER T WITH DOT BELOW	GF-latin-pro	0
+Tlinebelow	0x1E6E	Ṯ	LATIN CAPITAL LETTER T WITH LINE BELOW	GF-latin-pro	0
+Tbar	0x0166	Ŧ	LATIN CAPITAL LETTER T WITH STROKE	GF-latin-plus	0
+Thorn	0x00DE	Þ	LATIN CAPITAL LETTER THORN	GF-latin-core	0
+Uacute	0x00DA	Ú	LATIN CAPITAL LETTER U WITH ACUTE	GF-latin-core	0
+Ubreve	0x016C	Ŭ	LATIN CAPITAL LETTER U WITH BREVE	GF-latin-plus	0
+Ucircumflex	0x00DB	Û	LATIN CAPITAL LETTER U WITH CIRCUMFLEX	GF-latin-core	0
+Udieresis	0x00DC	Ü	LATIN CAPITAL LETTER U WITH DIAERESIS	GF-latin-core	0
+Udotbelow	0x1EE4	Ụ	LATIN CAPITAL LETTER U WITH DOT BELOW	GF-latin-plus	0
+Uhungarumlaut	0x0170	Ű	LATIN CAPITAL LETTER U WITH DOUBLE ACUTE	GF-latin-plus	0
+Ugravedbl	0x0214	Ȕ	LATIN CAPITAL LETTER U WITH DOUBLE GRAVE	GF-latin-plus	0
+Ugrave	0x00D9	Ù	LATIN CAPITAL LETTER U WITH GRAVE	GF-latin-core	0
+Uhoi	0x1EE6	Ủ	LATIN CAPITAL LETTER U WITH HOOK ABOVE	GF-latin-plus	0
+Uhorn	0x01AF	Ư	LATIN CAPITAL LETTER U WITH HORN	GF-latin-plus	0
+Uhornacute	0x1EE8	Ứ	LATIN CAPITAL LETTER U WITH HORN AND ACUTE	GF-latin-plus	0
+Uhorndotbelow	0x1EF0	Ự	LATIN CAPITAL LETTER U WITH HORN AND DOT BELOW	GF-latin-plus	0
+Uhorngrave	0x1EEA	Ừ	LATIN CAPITAL LETTER U WITH HORN AND GRAVE	GF-latin-plus	0
+Uhornhoi	0x1EEC	Ử	LATIN CAPITAL LETTER U WITH HORN AND HOOK ABOVE	GF-latin-plus	0
+Uhorntilde	0x1EEE	Ữ	LATIN CAPITAL LETTER U WITH HORN AND TILDE	GF-latin-plus	0
+Uinvertedbreve	0x0216	Ȗ	LATIN CAPITAL LETTER U WITH INVERTED BREVE	GF-latin-plus	0
+Umacron	0x016A	Ū	LATIN CAPITAL LETTER U WITH MACRON	GF-latin-plus	0
+Umacrondieresis	0x1E7A	Ṻ	LATIN CAPITAL LETTER U WITH MACRON AND DIAERESIS	GF-latin-pro	0
+Uogonek	0x0172	Ų	LATIN CAPITAL LETTER U WITH OGONEK	GF-latin-plus	0
+Uring	0x016E	Ů	LATIN CAPITAL LETTER U WITH RING ABOVE	GF-latin-plus	0
+Utilde	0x0168	Ũ	LATIN CAPITAL LETTER U WITH TILDE	GF-latin-plus	0
+Utildeacute	0x1E78	Ṹ	LATIN CAPITAL LETTER U WITH TILDE AND ACUTE	GF-latin-pro	0
+Wacute	0x1E82	Ẃ	LATIN CAPITAL LETTER W WITH ACUTE	GF-latin-plus	0
+Wcircumflex	0x0174	Ŵ	LATIN CAPITAL LETTER W WITH CIRCUMFLEX	GF-latin-plus	0
+Wdieresis	0x1E84	Ẅ	LATIN CAPITAL LETTER W WITH DIAERESIS	GF-latin-plus	0
+Wgrave	0x1E80	Ẁ	LATIN CAPITAL LETTER W WITH GRAVE	GF-latin-plus	0
+Yacute	0x00DD	Ý	LATIN CAPITAL LETTER Y WITH ACUTE	GF-latin-core	0
+Ycircumflex	0x0176	Ŷ	LATIN CAPITAL LETTER Y WITH CIRCUMFLEX	GF-latin-plus	0
+Ydieresis	0x0178	Ÿ	LATIN CAPITAL LETTER Y WITH DIAERESIS	GF-latin-plus	0
+Ydot	0x1E8E	Ẏ	LATIN CAPITAL LETTER Y WITH DOT ABOVE	GF-latin-pro	0
+Ydotbelow	0x1EF4	Ỵ	LATIN CAPITAL LETTER Y WITH DOT BELOW	GF-latin-plus	0
+Ygrave	0x1EF2	Ỳ	LATIN CAPITAL LETTER Y WITH GRAVE	GF-latin-plus	0
+Yhoi	0x1EF6	Ỷ	LATIN CAPITAL LETTER Y WITH HOOK ABOVE	GF-latin-plus	0
+Ymacron	0x0232	Ȳ	LATIN CAPITAL LETTER Y WITH MACRON	GF-latin-plus	0
+Ytilde	0x1EF8	Ỹ	LATIN CAPITAL LETTER Y WITH TILDE	GF-latin-plus	0
+Zacute	0x0179	Ź	LATIN CAPITAL LETTER Z WITH ACUTE	GF-latin-plus	0
+Zcaron	0x017D	Ž	LATIN CAPITAL LETTER Z WITH CARON	GF-latin-plus	0
+Zdotaccent	0x017B	Ż	LATIN CAPITAL LETTER Z WITH DOT ABOVE	GF-latin-plus	0
+Zdotbelow	0x1E92	Ẓ	LATIN CAPITAL LETTER Z WITH DOT BELOW	GF-latin-pro	0
+aacute	0x00E1	á	LATIN SMALL LETTER A WITH ACUTE	GF-latin-core	0
+abreve	0x0103	ă	LATIN SMALL LETTER A WITH BREVE	GF-latin-plus	0
+abreveacute	0x1EAF	ắ	LATIN SMALL LETTER A WITH BREVE AND ACUTE	GF-latin-plus	0
+abrevedotbelow	0x1EB7	ặ	LATIN SMALL LETTER A WITH BREVE AND DOT BELOW	GF-latin-plus	0
+abrevegrave	0x1EB1	ằ	LATIN SMALL LETTER A WITH BREVE AND GRAVE	GF-latin-plus	0
+abrevehoi	0x1EB3	ẳ	LATIN SMALL LETTER A WITH BREVE AND HOOK ABOVE	GF-latin-plus	0
+abrevetilde	0x1EB5	ẵ	LATIN SMALL LETTER A WITH BREVE AND TILDE	GF-latin-plus	0
+acircumflex	0x00E2	â	LATIN SMALL LETTER A WITH CIRCUMFLEX	GF-latin-core	0
+acircumflexacute	0x1EA5	ấ	LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE	GF-latin-plus	0
+acircumflexdotbelow	0x1EAD	ậ	LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW	GF-latin-plus	0
+acircumflexgrave	0x1EA7	ầ	LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE	GF-latin-plus	0
+acircumflexhoi	0x1EA9	ẩ	LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE	GF-latin-plus	0
+acircumflextilde	0x1EAB	ẫ	LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE	GF-latin-plus	0
+adieresis	0x00E4	ä	LATIN SMALL LETTER A WITH DIAERESIS	GF-latin-core	0
+adotbelow	0x1EA1	ạ	LATIN SMALL LETTER A WITH DOT BELOW	GF-latin-plus	0
+agravedbl	0x0201	ȁ	LATIN SMALL LETTER A WITH DOUBLE GRAVE	GF-latin-plus	0
+agrave	0x00E0	à	LATIN SMALL LETTER A WITH GRAVE	GF-latin-core	0
+ahoi	0x1EA3	ả	LATIN SMALL LETTER A WITH HOOK ABOVE	GF-latin-plus	0
+ainvertedbreve	0x0203	ȃ	LATIN SMALL LETTER A WITH INVERTED BREVE	GF-latin-plus	0
+amacron	0x0101	ā	LATIN SMALL LETTER A WITH MACRON	GF-latin-plus	0
+aogonek	0x0105	ą	LATIN SMALL LETTER A WITH OGONEK	GF-latin-plus	0
+aring	0x00E5	å	LATIN SMALL LETTER A WITH RING ABOVE	GF-latin-core	0
+aringacute	0x01FB	ǻ	LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE	GF-latin-plus	0
+atilde	0x00E3	ã	LATIN SMALL LETTER A WITH TILDE	GF-latin-core	0
+ae	0x00E6	æ	LATIN SMALL LETTER AE	GF-latin-core	0
+aeacute	0x01FD	ǽ	LATIN SMALL LETTER AE WITH ACUTE	GF-latin-plus	0
+cacute	0x0107	ć	LATIN SMALL LETTER C WITH ACUTE	GF-latin-plus	0
+ccaron	0x010D	č	LATIN SMALL LETTER C WITH CARON	GF-latin-plus	0
+ccedilla	0x00E7	ç	LATIN SMALL LETTER C WITH CEDILLA	GF-latin-core	0
+ccedillaacute	0x1E09	ḉ	LATIN SMALL LETTER C WITH CEDILLA AND ACUTE	GF-latin-pro	0
+ccircumflex	0x0109	ĉ	LATIN SMALL LETTER C WITH CIRCUMFLEX	GF-latin-plus	0
+cdotaccent	0x010B	ċ	LATIN SMALL LETTER C WITH DOT ABOVE	GF-latin-plus	0
+dcaron	0x010F	ď	LATIN SMALL LETTER D WITH CARON	GF-latin-plus	0
+ddotbelow	0x1E0D	ḍ	LATIN SMALL LETTER D WITH DOT BELOW	GF-latin-pro	0
+dlinebelow	0x1E0F	ḏ	LATIN SMALL LETTER D WITH LINE BELOW	GF-latin-pro	0
+dcroat	0x0111	đ	LATIN SMALL LETTER D WITH STROKE	GF-latin-plus	0
+eth	0x00F0	ð	LATIN SMALL LETTER ETH	GF-latin-core	0
+eacute	0x00E9	é	LATIN SMALL LETTER E WITH ACUTE	GF-latin-core	0
+ebreve	0x0115	ĕ	LATIN SMALL LETTER E WITH BREVE	GF-latin-plus	0
+ecaron	0x011B	ě	LATIN SMALL LETTER E WITH CARON	GF-latin-plus	0
+ecedillabreve	0x1E1D	ḝ	LATIN SMALL LETTER E WITH CEDILLA AND BREVE	GF-latin-pro	0
+ecircumflex	0x00EA	ê	LATIN SMALL LETTER E WITH CIRCUMFLEX	GF-latin-core	0
+ecircumflexacute	0x1EBF	ế	LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE	GF-latin-plus	0
+ecircumflexdotbelow	0x1EC7	ệ	LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW	GF-latin-plus	0
+ecircumflexgrave	0x1EC1	ề	LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE	GF-latin-plus	0
+ecircumflexhoi	0x1EC3	ể	LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE	GF-latin-plus	0
+ecircumflextilde	0x1EC5	ễ	LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE	GF-latin-plus	0
+edieresis	0x00EB	ë	LATIN SMALL LETTER E WITH DIAERESIS	GF-latin-core	0
+edotaccent	0x0117	ė	LATIN SMALL LETTER E WITH DOT ABOVE	GF-latin-plus	0
+edotbelow	0x1EB9	ẹ	LATIN SMALL LETTER E WITH DOT BELOW	GF-latin-plus	0
+egravedbl	0x0205	ȅ	LATIN SMALL LETTER E WITH DOUBLE GRAVE	GF-latin-plus	0
+egrave	0x00E8	è	LATIN SMALL LETTER E WITH GRAVE	GF-latin-core	0
+ehoi	0x1EBB	ẻ	LATIN SMALL LETTER E WITH HOOK ABOVE	GF-latin-plus	0
+einvertedbreve	0x0207	ȇ	LATIN SMALL LETTER E WITH INVERTED BREVE	GF-latin-plus	0
+emacron	0x0113	ē	LATIN SMALL LETTER E WITH MACRON	GF-latin-plus	0
+emacronacute	0x1E17	ḗ	LATIN SMALL LETTER E WITH MACRON AND ACUTE	GF-latin-pro	0
+emacrongrave	0x1E15	ḕ	LATIN SMALL LETTER E WITH MACRON AND GRAVE	GF-latin-pro	0
+eogonek	0x0119	ę	LATIN SMALL LETTER E WITH OGONEK	GF-latin-plus	0
+etilde	0x1EBD	ẽ	LATIN SMALL LETTER E WITH TILDE	GF-latin-plus	0
+fhook	0x0192	ƒ	LATIN SMALL LETTER F WITH HOOK	GF-latin-plus	0
+gbreve	0x011F	ğ	LATIN SMALL LETTER G WITH BREVE	GF-latin-plus	0
+gcaron	0x01E7	ǧ	LATIN SMALL LETTER G WITH CARON	GF-latin-plus	0
+gcedilla	0x0123	ģ	LATIN SMALL LETTER G WITH CEDILLA	GF-latin-plus	0
+gcircumflex	0x011D	ĝ	LATIN SMALL LETTER G WITH CIRCUMFLEX	GF-latin-plus	0
+gdotaccent	0x0121	ġ	LATIN SMALL LETTER G WITH DOT ABOVE	GF-latin-plus	0
+gmacron	0x1E21	ḡ	LATIN SMALL LETTER G WITH MACRON	GF-latin-pro	0
+hbrevebelow	0x1E2B	ḫ	LATIN SMALL LETTER H WITH BREVE BELOW	GF-latin-pro	0
+hcircumflex	0x0125	ĥ	LATIN SMALL LETTER H WITH CIRCUMFLEX	GF-latin-plus	0
+hdotbelow	0x1E25	ḥ	LATIN SMALL LETTER H WITH DOT BELOW	GF-latin-pro	0
+hbar	0x0127	ħ	LATIN SMALL LETTER H WITH STROKE	GF-latin-plus	0
+dotlessi	0x0131	ı	LATIN SMALL LETTER DOTLESS I	GF-latin-core	0
+iacute	0x00ED	í	LATIN SMALL LETTER I WITH ACUTE	GF-latin-core	0
+ibreve	0x012D	ĭ	LATIN SMALL LETTER I WITH BREVE	GF-latin-plus	0
+icircumflex	0x00EE	î	LATIN SMALL LETTER I WITH CIRCUMFLEX	GF-latin-core	0
+idieresis	0x00EF	ï	LATIN SMALL LETTER I WITH DIAERESIS	GF-latin-core	0
+idieresisacute	0x1E2F	ḯ	LATIN SMALL LETTER I WITH DIAERESIS AND ACUTE	GF-latin-pro	0
+idotbelow	0x1ECB	ị	LATIN SMALL LETTER I WITH DOT BELOW	GF-latin-plus	0
+igravedbl	0x0209	ȉ	LATIN SMALL LETTER I WITH DOUBLE GRAVE	GF-latin-plus	0
+igrave	0x00EC	ì	LATIN SMALL LETTER I WITH GRAVE	GF-latin-core	0
+ihoi	0x1EC9	ỉ	LATIN SMALL LETTER I WITH HOOK ABOVE	GF-latin-plus	0
+iinvertedbreve	0x020B	ȋ	LATIN SMALL LETTER I WITH INVERTED BREVE	GF-latin-plus	0
+imacron	0x012B	ī	LATIN SMALL LETTER I WITH MACRON	GF-latin-plus	0
+iogonek	0x012F	į	LATIN SMALL LETTER I WITH OGONEK	GF-latin-plus	0
+itilde	0x0129	ĩ	LATIN SMALL LETTER I WITH TILDE	GF-latin-plus	0
+dotlessj	0x0237	ȷ	LATIN SMALL LETTER DOTLESS J	GF-latin-plus	0
+jcircumflex	0x0135	ĵ	LATIN SMALL LETTER J WITH CIRCUMFLEX	GF-latin-plus	0
+kcedilla	0x0137	ķ	LATIN SMALL LETTER K WITH CEDILLA	GF-latin-plus	0
+kra	0x0138	ĸ	LATIN SMALL LETTER KRA	GF-latin-plus	0
+lacute	0x013A	ĺ	LATIN SMALL LETTER L WITH ACUTE	GF-latin-plus	0
+lcaron	0x013E	ľ	LATIN SMALL LETTER L WITH CARON	GF-latin-plus	0
+lcedilla	0x013C	ļ	LATIN SMALL LETTER L WITH CEDILLA	GF-latin-plus	0
+ldotbelow	0x1E37	ḷ	LATIN SMALL LETTER L WITH DOT BELOW	GF-latin-pro	0
+llinebelow	0x1E3B	ḻ	LATIN SMALL LETTER L WITH LINE BELOW	GF-latin-pro	0
+ldot	0x0140	ŀ	LATIN SMALL LETTER L WITH MIDDLE DOT	GF-latin-plus	0
+lslash	0x0142	ł	LATIN SMALL LETTER L WITH STROKE	GF-latin-plus	0
+mdotbelow	0x1E43	ṃ	LATIN SMALL LETTER M WITH DOT BELOW	GF-latin-pro	0
+nacute	0x0144	ń	LATIN SMALL LETTER N WITH ACUTE	GF-latin-plus	0
+ncaron	0x0148	ň	LATIN SMALL LETTER N WITH CARON	GF-latin-plus	0
+ncedilla	0x0146	ņ	LATIN SMALL LETTER N WITH CEDILLA	GF-latin-plus	0
+ndot	0x1E45	ṅ	LATIN SMALL LETTER N WITH DOT ABOVE	GF-latin-pro	0
+ndotbelow	0x1E47	ṇ	LATIN SMALL LETTER N WITH DOT BELOW	GF-latin-pro	0
+nlinebelow	0x1E49	ṉ	LATIN SMALL LETTER N WITH LINE BELOW	GF-latin-pro	0
+ntilde	0x00F1	ñ	LATIN SMALL LETTER N WITH TILDE	GF-latin-core	0
+eng	0x014B	ŋ	LATIN SMALL LETTER ENG	GF-latin-plus	0
+oacute	0x00F3	ó	LATIN SMALL LETTER O WITH ACUTE	GF-latin-core	0
+obreve	0x014F	ŏ	LATIN SMALL LETTER O WITH BREVE	GF-latin-plus	0
+ocircumflex	0x00F4	ô	LATIN SMALL LETTER O WITH CIRCUMFLEX	GF-latin-core	0
+ocircumflexacute	0x1ED1	ố	LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE	GF-latin-plus	0
+ocircumflexdotbelow	0x1ED9	ộ	LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW	GF-latin-plus	0
+ocircumflexgrave	0x1ED3	ồ	LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE	GF-latin-plus	0
+ocircumflexhoi	0x1ED5	ổ	LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE	GF-latin-plus	0
+ocircumflextilde	0x1ED7	ỗ	LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE	GF-latin-plus	0
+odieresis	0x00F6	ö	LATIN SMALL LETTER O WITH DIAERESIS	GF-latin-core	0
+odieresismacron	0x022B	ȫ	LATIN SMALL LETTER O WITH DIAERESIS AND MACRON	GF-latin-plus	0
+odotmacron	0x0231	ȱ	LATIN SMALL LETTER O WITH DOT ABOVE AND MACRON	GF-latin-plus	0
+odotbelow	0x1ECD	ọ	LATIN SMALL LETTER O WITH DOT BELOW	GF-latin-plus	0
+ohungarumlaut	0x0151	ő	LATIN SMALL LETTER O WITH DOUBLE ACUTE	GF-latin-plus	0
+ogravedbl	0x020D	ȍ	LATIN SMALL LETTER O WITH DOUBLE GRAVE	GF-latin-plus	0
+ograve	0x00F2	ò	LATIN SMALL LETTER O WITH GRAVE	GF-latin-core	0
+ohoi	0x1ECF	ỏ	LATIN SMALL LETTER O WITH HOOK ABOVE	GF-latin-plus	0
+ohorn	0x01A1	ơ	LATIN SMALL LETTER O WITH HORN	GF-latin-plus	0
+ohornacute	0x1EDB	ớ	LATIN SMALL LETTER O WITH HORN AND ACUTE	GF-latin-plus	0
+ohorndotbelow	0x1EE3	ợ	LATIN SMALL LETTER O WITH HORN AND DOT BELOW	GF-latin-plus	0
+ohorngrave	0x1EDD	ờ	LATIN SMALL LETTER O WITH HORN AND GRAVE	GF-latin-plus	0
+ohornhoi	0x1EDF	ở	LATIN SMALL LETTER O WITH HORN AND HOOK ABOVE	GF-latin-plus	0
+ohorntilde	0x1EE1	ỡ	LATIN SMALL LETTER O WITH HORN AND TILDE	GF-latin-plus	0
+oinvertedbreve	0x020F	ȏ	LATIN SMALL LETTER O WITH INVERTED BREVE	GF-latin-plus	0
+omacron	0x014D	ō	LATIN SMALL LETTER O WITH MACRON	GF-latin-plus	0
+omacronacute	0x1E53	ṓ	LATIN SMALL LETTER O WITH MACRON AND ACUTE	GF-latin-pro	0
+omacrongrave	0x1E51	ṑ	LATIN SMALL LETTER O WITH MACRON AND GRAVE	GF-latin-pro	0
+oogonek	0x01EB	ǫ	LATIN SMALL LETTER O WITH OGONEK	GF-latin-plus	0
+oslash	0x00F8	ø	LATIN SMALL LETTER O WITH STROKE	GF-latin-core	0
+oslashacute	0x01FF	ǿ	LATIN SMALL LETTER O WITH STROKE AND ACUTE	GF-latin-plus	0
+otilde	0x00F5	õ	LATIN SMALL LETTER O WITH TILDE	GF-latin-core	0
+otildeacute	0x1E4D	ṍ	LATIN SMALL LETTER O WITH TILDE AND ACUTE	GF-latin-pro	0
+otildedieresis	0x1E4F	ṏ	LATIN SMALL LETTER O WITH TILDE AND DIAERESIS	GF-latin-pro	0
+otildemacron	0x022D	ȭ	LATIN SMALL LETTER O WITH TILDE AND MACRON	GF-latin-plus	0
+oe	0x0153	œ	LATIN SMALL LIGATURE OE	GF-latin-core	0
+racute	0x0155	ŕ	LATIN SMALL LETTER R WITH ACUTE	GF-latin-plus	0
+rcaron	0x0159	ř	LATIN SMALL LETTER R WITH CARON	GF-latin-plus	0
+rcedilla	0x0157	ŗ	LATIN SMALL LETTER R WITH CEDILLA	GF-latin-plus	0
+rdotbelow	0x1E5B	ṛ	LATIN SMALL LETTER R WITH DOT BELOW	GF-latin-pro	0
+rgravedbl	0x0211	ȑ	LATIN SMALL LETTER R WITH DOUBLE GRAVE	GF-latin-plus	0
+rinvertedbreve	0x0213	ȓ	LATIN SMALL LETTER R WITH INVERTED BREVE	GF-latin-plus	0
+rlinebelow	0x1E5F	ṟ	LATIN SMALL LETTER R WITH LINE BELOW	GF-latin-pro	0
+sacute	0x015B	ś	LATIN SMALL LETTER S WITH ACUTE	GF-latin-plus	0
+sacutedotaccent	0x1E65	ṥ	LATIN SMALL LETTER S WITH ACUTE AND DOT ABOVE	GF-latin-pro	0
+scaron	0x0161	š	LATIN SMALL LETTER S WITH CARON	GF-latin-plus	0
+scarondot	0x1E67	ṧ	LATIN SMALL LETTER S WITH CARON AND DOT ABOVE	GF-latin-pro	0
+scedilla	0x015F	ş	LATIN SMALL LETTER S WITH CEDILLA	GF-latin-plus	0
+scircumflex	0x015D	ŝ	LATIN SMALL LETTER S WITH CIRCUMFLEX	GF-latin-plus	0
+scommaaccent	0x0219	ș	LATIN SMALL LETTER S WITH COMMA BELOW	GF-latin-plus	0
+sdot	0x1E61	ṡ	LATIN SMALL LETTER S WITH DOT ABOVE	GF-latin-pro	0
+sdotbelow	0x1E63	ṣ	LATIN SMALL LETTER S WITH DOT BELOW	GF-latin-pro	0
+sdotbelowdotabove	0x1E69	ṩ	LATIN SMALL LETTER S WITH DOT BELOW AND DOT ABOVE	GF-latin-pro	0
+germandbls	0x00DF	ß	LATIN SMALL LETTER SHARP S	GF-latin-core	0
+schwa	0x0259	ə	LATIN SMALL LETTER SCHWA	GF-latin-plus	0
+tcaron	0x0165	ť	LATIN SMALL LETTER T WITH CARON	GF-latin-plus	0
+tcedilla	0x0163	ţ	LATIN SMALL LETTER T WITH CEDILLA	GF-latin-plus	0
+tcommaaccent	0x021B	ț	LATIN SMALL LETTER T WITH COMMA BELOW	GF-latin-plus	0
+tdieresis	0x1E97	ẗ	LATIN SMALL LETTER T WITH DIAERESIS	GF-latin-pro	0
+tdotbelow	0x1E6D	ṭ	LATIN SMALL LETTER T WITH DOT BELOW	GF-latin-pro	0
+tlinebelow	0x1E6F	ṯ	LATIN SMALL LETTER T WITH LINE BELOW	GF-latin-pro	0
+tbar	0x0167	ŧ	LATIN SMALL LETTER T WITH STROKE	GF-latin-plus	0
+thorn	0x00FE	þ	LATIN SMALL LETTER THORN	GF-latin-core	0
+uacute	0x00FA	ú	LATIN SMALL LETTER U WITH ACUTE	GF-latin-core	0
+ubreve	0x016D	ŭ	LATIN SMALL LETTER U WITH BREVE	GF-latin-plus	0
+ucircumflex	0x00FB	û	LATIN SMALL LETTER U WITH CIRCUMFLEX	GF-latin-core	0
+udieresis	0x00FC	ü	LATIN SMALL LETTER U WITH DIAERESIS	GF-latin-core	0
+udotbelow	0x1EE5	ụ	LATIN SMALL LETTER U WITH DOT BELOW	GF-latin-plus	0
+uhungarumlaut	0x0171	ű	LATIN SMALL LETTER U WITH DOUBLE ACUTE	GF-latin-plus	0
+ugravedbl	0x0215	ȕ	LATIN SMALL LETTER U WITH DOUBLE GRAVE	GF-latin-plus	0
+ugrave	0x00F9	ù	LATIN SMALL LETTER U WITH GRAVE	GF-latin-core	0
+uhoi	0x1EE7	ủ	LATIN SMALL LETTER U WITH HOOK ABOVE	GF-latin-plus	0
+uhorn	0x01B0	ư	LATIN SMALL LETTER U WITH HORN	GF-latin-plus	0
+uhornacute	0x1EE9	ứ	LATIN SMALL LETTER U WITH HORN AND ACUTE	GF-latin-plus	0
+uhorndotbelow	0x1EF1	ự	LATIN SMALL LETTER U WITH HORN AND DOT BELOW	GF-latin-plus	0
+uhorngrave	0x1EEB	ừ	LATIN SMALL LETTER U WITH HORN AND GRAVE	GF-latin-plus	0
+uhornhoi	0x1EED	ử	LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE	GF-latin-plus	0
+uhorntilde	0x1EEF	ữ	LATIN SMALL LETTER U WITH HORN AND TILDE	GF-latin-plus	0
+uinvertedbreve	0x0217	ȗ	LATIN SMALL LETTER U WITH INVERTED BREVE	GF-latin-plus	0
+umacron	0x016B	ū	LATIN SMALL LETTER U WITH MACRON	GF-latin-plus	0
+umacrondieresis	0x1E7B	ṻ	LATIN SMALL LETTER U WITH MACRON AND DIAERESIS	GF-latin-pro	0
+uogonek	0x0173	ų	LATIN SMALL LETTER U WITH OGONEK	GF-latin-plus	0
+uring	0x016F	ů	LATIN SMALL LETTER U WITH RING ABOVE	GF-latin-plus	0
+utilde	0x0169	ũ	LATIN SMALL LETTER U WITH TILDE	GF-latin-plus	0
+utildeacute	0x1E79	ṹ	LATIN SMALL LETTER U WITH TILDE AND ACUTE	GF-latin-pro	0
+wacute	0x1E83	ẃ	LATIN SMALL LETTER W WITH ACUTE	GF-latin-plus	0
+wcircumflex	0x0175	ŵ	LATIN SMALL LETTER W WITH CIRCUMFLEX	GF-latin-plus	0
+wdieresis	0x1E85	ẅ	LATIN SMALL LETTER W WITH DIAERESIS	GF-latin-plus	0
+wgrave	0x1E81	ẁ	LATIN SMALL LETTER W WITH GRAVE	GF-latin-plus	0
+yacute	0x00FD	ý	LATIN SMALL LETTER Y WITH ACUTE	GF-latin-core	0
+ycircumflex	0x0177	ŷ	LATIN SMALL LETTER Y WITH CIRCUMFLEX	GF-latin-plus	0
+ydieresis	0x00FF	ÿ	LATIN SMALL LETTER Y WITH DIAERESIS	GF-latin-core	0
+ydot	0x1E8F	ẏ	LATIN SMALL LETTER Y WITH DOT ABOVE	GF-latin-pro	0
+ydotbelow	0x1EF5	ỵ	LATIN SMALL LETTER Y WITH DOT BELOW	GF-latin-plus	0
+ygrave	0x1EF3	ỳ	LATIN SMALL LETTER Y WITH GRAVE	GF-latin-plus	0
+yhoi	0x1EF7	ỷ	LATIN SMALL LETTER Y WITH HOOK ABOVE	GF-latin-plus	0
+ymacron	0x0233	ȳ	LATIN SMALL LETTER Y WITH MACRON	GF-latin-plus	0
+ytilde	0x1EF9	ỹ	LATIN SMALL LETTER Y WITH TILDE	GF-latin-plus	0
+zacute	0x017A	ź	LATIN SMALL LETTER Z WITH ACUTE	GF-latin-plus	0
+zcaron	0x017E	ž	LATIN SMALL LETTER Z WITH CARON	GF-latin-plus	0
+zdotaccent	0x017C	ż	LATIN SMALL LETTER Z WITH DOT ABOVE	GF-latin-plus	0
+zdotbelow	0x1E93	ẓ	LATIN SMALL LETTER Z WITH DOT BELOW	GF-latin-pro	0
+space	0x0020		 SPACE	GF-latin-core	0
+nbspace	0x00A0	 	NO-BREAK SPACE	GF-latin-core	0
+figurespace	0x2007	 	FIGURE SPACE	GF-latin-pro	0
+punctuationspace	0x2008	 	PUNCTUATION SPACE	GF-latin-pro	0
+thinspace	0x2009	 	THIN SPACE	GF-latin-pro	0
+hairspace	0x200A	 	HAIR SPACE	GF-latin-pro	0
+zerowidthspace	0x200B	​	ZERO WIDTH SPACE	GF-latin-pro	0
+figuredash	0x2012	‒	FIGURE DASH	GF-latin-pro	0
+horizontalbar	0x2015	―	HORIZONTAL BAR	GF-latin-pro	0
+fi	0xFB01	ﬁ	LATIN SMALL LIGATURE FI	GF-latin-plus	0
+fl	0xFB02	ﬂ	LATIN SMALL LIGATURE FL	GF-latin-plus	0
+f_f				GF-latin-plus	0
+f_f_i				GF-latin-plus	0
+f_f_l				GF-latin-plus	0
+T_h				GF-latin-expert	0
+c_h				GF-latin-expert	0
+c_t				GF-latin-expert	0
+s_t				GF-latin-expert	0
+NJ	0x01CA	Ǌ	LATIN CAPITAL LETTER NJ	GF-latin-plus	0
+Nj	0x01CB	ǋ	LATIN CAPITAL LETTER N WITH SMALL LETTER J	GF-latin-plus	0
+nj	0x01CC	ǌ	LATIN SMALL LETTER NJ	GF-latin-plus	0
+LJ	0x01C7	Ǉ	LATIN CAPITAL LETTER LJ	GF-latin-plus	0
+Lj	0x01C8	ǈ	LATIN CAPITAL LETTER L WITH SMALL LETTER J	GF-latin-plus	0
+lj	0x01C9	ǉ	LATIN SMALL LETTER LJ	GF-latin-plus	0
+DZcaron	0x01C4	Ǆ	LATIN CAPITAL LETTER DZ WITH CARON	GF-latin-plus	0
+Dzcaron	0x01C5	ǅ	LATIN CAPITAL LETTER D WITH SMALL LETTER Z WITH CARON	GF-latin-plus	0
+dzcaron	0x01C6	ǆ	LATIN SMALL LETTER DZ WITH CARON	GF-latin-plus	0
+zero.lf				GF-latin-plus	0
+one.lf				GF-latin-plus	0
+two.lf				GF-latin-plus	0
+three.lf				GF-latin-plus	0
+four.lf				GF-latin-plus	0
+five.lf				GF-latin-plus	0
+six.lf				GF-latin-plus	0
+seven.lf				GF-latin-plus	0
+eight.lf				GF-latin-plus	0
+nine.lf				GF-latin-plus	0
+zero.zero				GF-latin-plus	1
+parenright.case				GF-latin-pro	1
+hyphen.case				GF-latin-pro	1
+slash.case				GF-latin-pro	1
+at.case				GF-latin-pro	1
+bracketleft.case				GF-latin-pro	1
+backslash.case				GF-latin-pro	1
+bracketright.case				GF-latin-pro	1
+braceleft.case				GF-latin-pro	1
+braceright.case				GF-latin-pro	1
+guillemetleft.case				GF-latin-pro	1
+periodcentered.case				GF-latin-pro	1
+guillemetright.case				GF-latin-pro	1
+endash.case				GF-latin-pro	1
+emdash.case				GF-latin-pro	1
+bullet.case				GF-latin-pro	1
+guilsinglleft.case				GF-latin-pro	1
+guilsinglright.case				GF-latin-pro	1
+gravecomb.case				GF-latin-plus	1
+acutecomb.case				GF-latin-plus	1
+circumflexcomb.case				GF-latin-plus	1
+tildecomb.case				GF-latin-plus	1
+macroncomb.case				GF-latin-plus	1
+brevecomb.case				GF-latin-plus	1
+dotaccentcomb.case				GF-latin-plus	1
+dieresiscomb.case				GF-latin-plus	1
+hookabovecomb.case				GF-latin-plus	1
+ringcomb.case				GF-latin-plus	1
+hungarumlautcomb.case				GF-latin-plus	1
+caroncomb.case				GF-latin-plus	1
+dblgravecomb.case				GF-latin-plus	1
+breveinvertedcomb.case				GF-latin-plus	1
+commaturnedabovecomb.case				GF-latin-plus	1
+horncomb.case				GF-latin-plus	1
+dotbelowcomb.case				GF-latin-plus	1
+dieresisbelowcomb.case				GF-latin-plus	1
+commaaccentcomb.case				GF-latin-plus	1
+cedillacomb.case				GF-latin-plus	1
+ogonekcomb.case				GF-latin-plus	1
+brevebelowcomb.case				GF-latin-plus	1
+macronbelowcomb.case				GF-latin-plus	1
+periodcentered.loclCAT.case				GF-latin-plus	1
+commaturnedmod	0x02BB	ʻ	MODIFIER LETTER TURNED COMMA	GF-latin-pro	0
+ringhalfrightmod	0x02BE	ʾ	MODIFIER LETTER RIGHT HALF RING	GF-latin-pro	0
+ringhalfleftmod	0x02BF	ʿ	MODIFIER LETTER LEFT HALF RING	GF-latin-pro	0
+verticallinemod	0x02C8	ˈ	MODIFIER LETTER VERTICAL LINE	GF-latin-pro	0
+macronmod	0x02C9	ˉ	MODIFIER LETTER MACRON	GF-latin-pro	0
+acutemod	0x02CA	ˊ	MODIFIER LETTER ACUTE ACCENT	GF-latin-pro	0
+gravemod	0x02CB	ˋ	MODIFIER LETTER GRAVE ACCENT	GF-latin-pro	0
+verticallinelowmod	0x02CC	ˌ	MODIFIER LETTER LOW VERTICAL LINE	GF-latin-pro	0
+arrowleft	0x2190	←	LEFTWARDS ARROW	GF-latin-expert	0
+arrowup	0x2191	↑	UPWARDS ARROW	GF-latin-expert	0
+arrowright	0x2192	→	RIGHTWARDS ARROW	GF-latin-expert	0
+arrowdown	0x2193	↓	DOWNWARDS ARROW	GF-latin-expert	0
+squareblack	0x25A0	■	BLACK SQUARE	GF-latin-expert	0
+squarewhite	0x25A1	□	WHITE SQUARE	GF-latin-expert	0
+triangleupblack	0x25B2	▲	BLACK UP-POINTING TRIANGLE	GF-latin-expert	0
+triangleupwhite	0x25B3	△	WHITE UP-POINTING TRIANGLE	GF-latin-expert	0
+trianglerightblack	0x25B6	▶	BLACK RIGHT-POINTING TRIANGLE	GF-latin-expert	0
+trianglerightwhite	0x25B7	▷	WHITE RIGHT-POINTING TRIANGLE	GF-latin-expert	0
+triangledownblack	0x25BC	▼	BLACK DOWN-POINTING TRIANGLE	GF-latin-expert	0
+triangledownwhite	0x25BD	▽	WHITE DOWN-POINTING TRIANGLE	GF-latin-expert	0
+triangleleftblack	0x25C0	◀	BLACK LEFT-POINTING TRIANGLE	GF-latin-expert	0
+triangleleftwhite	0x25C1	◁	WHITE LEFT-POINTING TRIANGLE	GF-latin-expert	0
+gmtr:diamondblack	0x25C6	◆	BLACK DIAMOND	GF-latin-expert	0
+gmtr:diamondwhite	0x25C7	◇	WHITE DIAMOND	GF-latin-expert	0
+NULL				GF-latin-core	0
+	0x000D		 CR	GF-latin-core	0
