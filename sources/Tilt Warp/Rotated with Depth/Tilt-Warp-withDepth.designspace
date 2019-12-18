@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="HROT" name="Horizontal Rotation" minimum="-45" maximum="45" default="0">
+      <labelname xml:lang="en">Horizontal Rotation</labelname>
+    </axis>
+    <axis tag="VROT" name="Vertical Rotation" minimum="-45" maximum="45" default="0">
+      <labelname xml:lang="en">Vertical Rotation</labelname>
+    </axis>
+    <axis tag="DPTH" name="Depth" minimum="0" maximum="100" default="100">
+      <labelname xml:lang="en">Depth</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Source-HROTn_VROTn_DPTHn.ufo" name="Source-HROTn_VROTn_DPTHn" familyname="Tilt Warp Model" stylename="Source-HROTn_VROTn_DPTHn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Depth" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTn_DPTHx.ufo" name="Source-HROTn_VROTn_DPTHx" familyname="Tilt Warp Model" stylename="Source-HROTn_VROTn_DPTHx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Depth" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTd_DPTHn.ufo" name="Source-HROTn_VROTd_DPTHn" familyname="Tilt Warp Model" stylename="Source-HROTn_VROTd_DPTHn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Depth" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTd_DPTHx.ufo" name="Source-HROTn_VROTd_DPTHx" familyname="Tilt Warp Model" stylename="Source-HROTn_VROTd_DPTHx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Depth" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTx_DPTHn.ufo" name="Source-HROTn_VROTx_DPTHn" familyname="Tilt Warp Model" stylename="Source-HROTn_VROTx_DPTHn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Depth" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Source-HROTn_VROTx_DPTHx.ufo" name="Source-HROTn_VROTx_DPTHx" familyname="Tilt Warp Model" stylename="Source-HROTn_VROTx_DPTHx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="-45"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Depth" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTn_DPTHn.ufo" name="Source-HROTd_VROTn_DPTHn" familyname="Tilt Warp Model" stylename="Source-HROTd_VROTn_DPTHn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Depth" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTn_DPTHx.ufo" name="Source-HROTd_VROTn_DPTHx" familyname="Tilt Warp Model" stylename="Source-HROTd_VROTn_DPTHx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Depth" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTd_DPTHn.ufo" name="Source-HROTd_VROTd_DPTHn" familyname="Tilt Warp Model" stylename="Source-HROTd_VROTd_DPTHn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Depth" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTd_DPTHx.ufo" name="Source-HROTd_VROTd_DPTHx" familyname="Tilt Warp Model" stylename="Source-HROTd_VROTd_DPTHx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Depth" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTx_DPTHn.ufo" name="Source-HROTd_VROTx_DPTHn" familyname="Tilt Warp Model" stylename="Source-HROTd_VROTx_DPTHn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Depth" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Source-HROTd_VROTx_DPTHx.ufo" name="Source-HROTd_VROTx_DPTHx" familyname="Tilt Warp Model" stylename="Source-HROTd_VROTx_DPTHx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="0"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Depth" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTn_DPTHn.ufo" name="Source-HROTx_VROTn_DPTHn" familyname="Tilt Warp Model" stylename="Source-HROTx_VROTn_DPTHn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Depth" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTn_DPTHx.ufo" name="Source-HROTx_VROTn_DPTHx" familyname="Tilt Warp Model" stylename="Source-HROTx_VROTn_DPTHx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="-45"/>
+        <dimension name="Depth" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTd_DPTHn.ufo" name="Source-HROTx_VROTd_DPTHn" familyname="Tilt Warp Model" stylename="Source-HROTx_VROTd_DPTHn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Depth" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTd_DPTHx.ufo" name="Source-HROTx_VROTd_DPTHx" familyname="Tilt Warp Model" stylename="Source-HROTx_VROTd_DPTHx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="0"/>
+        <dimension name="Depth" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTx_DPTHn.ufo" name="Source-HROTx_VROTx_DPTHn" familyname="Tilt Warp Model" stylename="Source-HROTx_VROTx_DPTHn">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Depth" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Source-HROTx_VROTx_DPTHx.ufo" name="Source-HROTx_VROTx_DPTHx" familyname="Tilt Warp Model" stylename="Source-HROTx_VROTx_DPTHx">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Horizontal Rotation" xvalue="45"/>
+        <dimension name="Vertical Rotation" xvalue="45"/>
+        <dimension name="Depth" xvalue="100"/>
+      </location>
+    </source>
+  </sources>
+</designspace>

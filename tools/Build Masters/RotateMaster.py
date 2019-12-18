@@ -16,7 +16,8 @@ AXISINFO = {
     "VROT": dict(name="Vertical Rotation", minimum=-45, maximum=45, default=0),
     "DPTH": dict(name="Depth", minimum=-100, maximum=100, default=100),
     "SLEN": dict(name="Shadow Length", minimum=0, maximum=100, default=100),
-    "SANG": dict(name="Shadow Angle", minimum=-45, maximum=45, default=45)}
+    "SANG": dict(name="Shadow Angle", minimum=-45, maximum=45, default=45),
+    "DPTH": dict(name="Depth", minimum=0, maximum=100, default=100)}
 AXISORDER = ["HROT", "VROT", "DPTH", "SLEN", "SANG"]
 SLIGHTLYOFFAXIS = 0.01
 
@@ -336,7 +337,15 @@ def buildDesignSpace(
                         loc = dict(HROT=locHROT, VROT=locVROT, SLEN=locSLEN, SANG=locSANG)
                         sourceInfo = dict(glyphNames=glyphNames, loc=loc, fileName=fileName, nudgeLoc=[0, 0])
                         sourceCombinations.append(sourceInfo)
-            else: # Rotate only, skip the shadow axis data
+            elif "depth" in compositionType:
+                for locDPTH, tagDPTH in [(0, "DPTHn"), (100, "DPTHx")]:
+                    # Rotate and depth
+                    fileName = "Source-%s_%s_%s.ufo" % (tagHROT, tagVROT, tagDPTH)
+                    loc = dict(HROT=locHROT, VROT=locVROT, DPTH=locDPTH)
+                    sourceInfo = dict(glyphNames=glyphNames, loc=loc, fileName=fileName, nudgeLoc=[0, 0])
+                    sourceCombinations.append(sourceInfo)
+            else:
+                # Rotate only
                 fileName = "Source-%s_%s.ufo" % (tagHROT, tagVROT)
                 loc = dict(HROT=locHROT, VROT=locVROT)
                 sourceInfo = dict(glyphNames=glyphNames, loc=loc, fileName=fileName, nudgeLoc=[0, 0])
@@ -448,8 +457,13 @@ def buildDesignSpace(
                     pointData[ident] = basePointData[ident]
             """
             
+            # Flatten the depth
+            if "DPTH" in sourceInfo["loc"].keys():
+                for ident in pointData:
+                    pointData[ident]["z"] *= (sourceInfo["loc"]["DPTH"] * 0.01) # Scale by the depth value
+            
             # Shift the "z" value by an offset
-            if zOffset:
+            if doZOffset and not zOffset == None:
                 for ident in pointData:
                     pointData[ident]["z"] += zOffset
         
