@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb_gravecmb" format="2">
+  <anchor x="0" y="517" name="top"/>
+  <outline>
+    <component base="brevecmb"/>
+    <component base="gravecmb" yOffset="216"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7529,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

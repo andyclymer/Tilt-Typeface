@@ -14,7 +14,7 @@
       </dict>
     </array>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>Accents with caps</string>
+    <string>Accents-Expert</string>
     <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
     <false/>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
@@ -508,6 +508,7 @@
       <string>yen</string>
       <string>Euro</string>
       <string>colonmonetary</string>
+      <string>fhook</string>
       <string>franc</string>
       <string>lira</string>
       <string>naira</string>
@@ -631,9 +632,6 @@
       <string>circumflex</string>
       <string>ring</string>
       <string>tilde</string>
-      <string>primemod</string>
-      <string>primedblmod</string>
-      <string>apostrophemod</string>
       <string>caron</string>
       <string>breve</string>
       <string>dotaccent</string>
@@ -655,7 +653,7 @@
       <string>invertedbrevecmb</string>
       <string>commaturnedabovecmb</string>
       <string>horncmb</string>
-      <string>dotbelowcmbcmb</string>
+      <string>dotbelowcmb</string>
       <string>dieresisbelowcmb</string>
       <string>commaaccentbelowcmb</string>
       <string>cedillacmb</string>
@@ -671,8 +669,28 @@
       <string>brevecmb_gravecmb</string>
       <string>brevecmb_hookabovecmb</string>
       <string>brevecmb_tildecmb</string>
+      <string>macroncmb_tildecmb</string>
+      <string>macroncmb_gravecmb</string>
+      <string>dieresiscmb_macroncmb</string>
+      <string>dotaccentcmb_macroncmb</string>
+      <string>tildecmb_acutecmb</string>
+      <string>tildecmb_dieresiscmb</string>
+      <string>tildecmb_macroncmb</string>
+      <string>acutecmb_dotaccentcmb</string>
+      <string>caroncmb_dotaccentcmb</string>
       <string>caroncmb.alt</string>
       <string>periodcentered.loclCAT</string>
+      <string>primemod</string>
+      <string>primedblmod</string>
+      <string>apostrophemod</string>
+      <string>commaturnedmod</string>
+      <string>ringhalfrightmod</string>
+      <string>ringhalfleftmod</string>
+      <string>verticallinemod</string>
+      <string>macronmod</string>
+      <string>acutemod</string>
+      <string>gravemod</string>
+      <string>verticallinelowmod</string>
       <string>Aacute</string>
       <string>Abreve</string>
       <string>Abreveacute</string>
@@ -932,7 +950,6 @@
       <string>emacrongrave</string>
       <string>eogonek</string>
       <string>etilde</string>
-      <string>fhook</string>
       <string>gbreve</string>
       <string>gcaron</string>
       <string>gcedilla</string>
@@ -1096,14 +1113,6 @@
       <string>DZcaron</string>
       <string>Dzcaron</string>
       <string>dzcaron</string>
-      <string>commaturnedmod</string>
-      <string>ringhalfrightmod</string>
-      <string>ringhalfleftmod</string>
-      <string>verticallinemod</string>
-      <string>macronmod</string>
-      <string>acutemod</string>
-      <string>gravemod</string>
-      <string>verticallinelowmod</string>
       <string>arrowleft</string>
       <string>arrowup</string>
       <string>arrowright</string>
@@ -1180,32 +1189,6 @@
       <string>uring.alt</string>
       <string>utilde.alt</string>
       <string>utildeacute.alt</string>
-      <string>dieresis.cap</string>
-      <string>grave.cap</string>
-      <string>macron.cap</string>
-      <string>acute.cap</string>
-      <string>circumflex.cap</string>
-      <string>ring.cap</string>
-      <string>tilde.cap</string>
-      <string>comma.alt</string>
-      <string>semicolon.alt</string>
-      <string>quoteleft.alt</string>
-      <string>quoteright.alt</string>
-      <string>quotedblleft.alt</string>
-      <string>quotedblright.alt</string>
-      <string>Z.sharp</string>
-      <string>z.sharp</string>
-      <string>one.sharp</string>
-      <string>two.sharp</string>
-      <string>three.sharp</string>
-      <string>four.sharp</string>
-      <string>seven.sharp</string>
-      <string>R.alt</string>
-      <string>zero.alt</string>
-      <string>one.alt</string>
-      <string>four.alt</string>
-      <string>K.alt</string>
-      <string>three.alt</string>
     </array>
   </dict>
 </plist>

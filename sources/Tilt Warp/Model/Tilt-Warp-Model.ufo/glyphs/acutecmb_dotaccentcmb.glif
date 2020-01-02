@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecmb_dotaccentcmb" format="2">
+  <anchor x="0" y="517" name="top"/>
+  <outline>
+    <component base="acutecmb"/>
+    <component base="dotaccentcmb" yOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7529,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

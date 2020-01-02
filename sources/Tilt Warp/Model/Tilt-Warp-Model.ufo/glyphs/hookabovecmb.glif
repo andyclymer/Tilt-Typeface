@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecmb" format="2">
+  <unicode hex="0309"/>
+  <anchor x="0" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="-86" y="753" type="curve"/>
+      <point x="-86" y="663" type="line"/>
+      <point x="26.0" y="672"/>
+      <point x="117" y="707"/>
+      <point x="117.0" y="813" type="curve" smooth="yes"/>
+      <point x="117" y="916"/>
+      <point x="22" y="962"/>
+      <point x="-116" y="929" type="curve"/>
+      <point x="-116" y="818" type="line"/>
+      <point x="-60" y="835"/>
+      <point x="-8" y="828"/>
+      <point x="-8" y="793" type="curve" smooth="yes"/>
+      <point x="-8" y="771"/>
+      <point x="-30" y="759"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>
