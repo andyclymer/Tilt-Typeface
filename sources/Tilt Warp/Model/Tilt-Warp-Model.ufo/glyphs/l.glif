@@ -2,10 +2,8 @@
 <glyph name="l" format="2">
   <advance width="285"/>
   <unicode hex="006C"/>
-  <anchor x="0" y="730" name="top"/>
-  <anchor x="142" y="0" name="center"/>
-  <anchor x="0" y="0" name="bottom"/>
-  <anchor x="0" y="517" name="top_caron"/>
+  <anchor x="142.0" y="730" name="above"/>
+  <anchor x="142.0" y="0" name="below"/>
   <outline>
     <contour>
       <point x="60" y="0" type="line"/>

@@ -74,6 +74,8 @@
     <string>C_dotaccent.glif</string>
     <key>D</key>
     <string>D_.glif</string>
+    <key>DZcaron</key>
+    <string>D_Z_caron.glif</string>
     <key>Dcaron</key>
     <string>D_caron.glif</string>
     <key>Dcroat</key>
@@ -82,6 +84,8 @@
     <string>D_dotbelow.glif</string>
     <key>Dlinebelow</key>
     <string>D_linebelow.glif</string>
+    <key>Dzcaron</key>
+    <string>D_zcaron.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>Eacute</key>
@@ -90,6 +94,8 @@
     <string>E_breve.glif</string>
     <key>Ecaron</key>
     <string>E_caron.glif</string>
+    <key>Ecedilla</key>
+    <string>E_cedilla.glif</string>
     <key>Ecedillabreve</key>
     <string>E_cedillabreve.glif</string>
     <key>Ecircumflex</key>
@@ -202,6 +208,8 @@
     <string>K_cedilla.glif</string>
     <key>L</key>
     <string>L_.glif</string>
+    <key>LJ</key>
+    <string>L_J_.glif</string>
     <key>Lacute</key>
     <string>L_acute.glif</string>
     <key>Lcaron</key>
@@ -212,6 +220,8 @@
     <string>L_dot.glif</string>
     <key>Ldotbelow</key>
     <string>L_dotbelow.glif</string>
+    <key>Lj</key>
+    <string>L_j.glif</string>
     <key>Llinebelow</key>
     <string>L_linebelow.glif</string>
     <key>Lslash</key>
@@ -222,6 +232,8 @@
     <string>M_dotbelow.glif</string>
     <key>N</key>
     <string>N_.glif</string>
+    <key>NJ</key>
+    <string>N_J_.glif</string>
     <key>Nacute</key>
     <string>N_acute.glif</string>
     <key>Ncaron</key>
@@ -232,6 +244,8 @@
     <string>N_dot.glif</string>
     <key>Ndotbelow</key>
     <string>N_dotbelow.glif</string>
+    <key>Nj</key>
+    <string>N_j.glif</string>
     <key>Nlinebelow</key>
     <string>N_linebelow.glif</string>
     <key>Ntilde</key>
@@ -516,8 +530,6 @@
     <string>acute.glif</string>
     <key>acutecmb</key>
     <string>acutecmb.glif</string>
-    <key>acutecmb_dotaccentcmb</key>
-    <string>acutecmb_dotaccentcmb.glif</string>
     <key>adieresis</key>
     <string>adieresis.glif</string>
     <key>adieresis.alt</key>
@@ -600,14 +612,6 @@
     <string>breve.glif</string>
     <key>brevecmb</key>
     <string>brevecmb.glif</string>
-    <key>brevecmb_acutecmb</key>
-    <string>brevecmb_acutecmb.glif</string>
-    <key>brevecmb_gravecmb</key>
-    <string>brevecmb_gravecmb.glif</string>
-    <key>brevecmb_hookabovecmb</key>
-    <string>brevecmb_hookabovecmb.glif</string>
-    <key>brevecmb_tildecmb</key>
-    <string>brevecmb_tildecmb.glif</string>
     <key>brokenbar</key>
     <string>brokenbar.glif</string>
     <key>bullet</key>
@@ -622,8 +626,6 @@
     <string>caroncmb.glif</string>
     <key>caroncmb.alt</key>
     <string>caroncmb.alt.glif</string>
-    <key>caroncmb_dotaccentcmb</key>
-    <string>caroncmb_dotaccentcmb.glif</string>
     <key>ccaron</key>
     <string>ccaron.glif</string>
     <key>ccedilla</key>
@@ -644,14 +646,6 @@
     <string>circumflex.glif</string>
     <key>circumflexcmb</key>
     <string>circumflexcmb.glif</string>
-    <key>circumflexcmb_acutecmb</key>
-    <string>circumflexcmb_acutecmb.glif</string>
-    <key>circumflexcmb_gravecmb</key>
-    <string>circumflexcmb_gravecmb.glif</string>
-    <key>circumflexcmb_hookabovecmb</key>
-    <string>circumflexcmb_hookabovecmb.glif</string>
-    <key>circumflexcmb_tildecmb</key>
-    <string>circumflexcmb_tildecmb.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
@@ -680,10 +674,6 @@
     <string>dieresisbelowcmb.glif</string>
     <key>dieresiscmb</key>
     <string>dieresiscmb.glif</string>
-    <key>dieresiscmb_acutecmb</key>
-    <string>dieresiscmb_acutecmb.glif</string>
-    <key>dieresiscmb_macroncmb</key>
-    <string>dieresiscmb_macroncmb.glif</string>
     <key>divide</key>
     <string>divide.glif</string>
     <key>divisionslash</key>
@@ -696,14 +686,14 @@
     <string>dotaccent.glif</string>
     <key>dotaccentcmb</key>
     <string>dotaccentcmb.glif</string>
-    <key>dotaccentcmb_macroncmb</key>
-    <string>dotaccentcmb_macroncmb.glif</string>
     <key>dotbelowcmb</key>
     <string>dotbelowcmb.glif</string>
     <key>dotlessi</key>
     <string>dotlessi.glif</string>
     <key>dotlessj</key>
     <string>dotlessj.glif</string>
+    <key>dzcaron</key>
+    <string>dzcaron.glif</string>
     <key>e</key>
     <string>e.glif</string>
     <key>eacute</key>
@@ -712,6 +702,8 @@
     <string>ebreve.glif</string>
     <key>ecaron</key>
     <string>ecaron.glif</string>
+    <key>ecedilla</key>
+    <string>ecedilla.glif</string>
     <key>ecedillabreve</key>
     <string>ecedillabreve.glif</string>
     <key>ecircumflex</key>
@@ -888,6 +880,8 @@
     <string>ldotbelow.glif</string>
     <key>less</key>
     <string>less.glif</string>
+    <key>lj</key>
+    <string>lj.glif</string>
     <key>llinebelow</key>
     <string>llinebelow.glif</string>
     <key>logicalnot</key>
@@ -902,10 +896,6 @@
     <string>macronbelowcmb.glif</string>
     <key>macroncmb</key>
     <string>macroncmb.glif</string>
-    <key>macroncmb_gravecmb</key>
-    <string>macroncmb_gravecmb.glif</string>
-    <key>macroncmb_tildecmb</key>
-    <string>macroncmb_tildecmb.glif</string>
     <key>mdotbelow</key>
     <string>mdotbelow.glif</string>
     <key>minus</key>
@@ -930,6 +920,8 @@
     <string>ndotbelow.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
+    <key>nj</key>
+    <string>nj.glif</string>
     <key>nlinebelow</key>
     <string>nlinebelow.glif</string>
     <key>ntilde</key>
@@ -1164,12 +1156,6 @@
     <string>tilde.glif</string>
     <key>tildecmb</key>
     <string>tildecmb.glif</string>
-    <key>tildecmb_acutecmb</key>
-    <string>tildecmb_acutecmb.glif</string>
-    <key>tildecmb_dieresiscmb</key>
-    <string>tildecmb_dieresiscmb.glif</string>
-    <key>tildecmb_macroncmb</key>
-    <string>tildecmb_macroncmb.glif</string>
     <key>tlinebelow</key>
     <string>tlinebelow.glif</string>
     <key>tlinebelow.alt</key>
@@ -1258,6 +1244,8 @@
     <string>underscore.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
+    <key>uogonek.alt</key>
+    <string>uogonek.alt.glif</string>
     <key>uring</key>
     <string>uring.glif</string>
     <key>uring.alt</key>

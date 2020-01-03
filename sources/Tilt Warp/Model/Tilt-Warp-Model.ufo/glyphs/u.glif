@@ -3,9 +3,8 @@
   <advance width="593"/>
   <unicode hex="0075"/>
   <anchor x="373" y="517" name="horn"/>
-  <anchor x="0" y="517" name="top"/>
-  <anchor x="292" y="0" name="center"/>
-  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="292.0" y="517" name="above"/>
+  <anchor x="292.0" y="-10" name="below"/>
   <outline>
     <contour>
       <point x="538.0" y="517.0" type="line"/>

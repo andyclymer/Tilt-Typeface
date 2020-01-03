@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abrevedotbelow" format="2">
-  <advance width="500"/>
+  <advance width="620"/>
   <unicode hex="1EB7"/>
   <outline>
-    <component base="adotbelow"/>
-    <component base="brevecmb" xOffset="-4.776122516674678e-14" yOffset="-780"/>
+    <component base="a"/>
+    <component base="brevecmb" xOffset="321" yOffset="10"/>
+    <component base="dotbelowcmb" xOffset="321" yOffset="-10"/>
   </outline>
   <lib>
     <dict>

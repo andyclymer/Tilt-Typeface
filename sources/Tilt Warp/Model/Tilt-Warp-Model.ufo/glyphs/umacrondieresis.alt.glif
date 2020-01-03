@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="umacrondieresis.alt" format="2">
-  <advance width="593"/>
+  <advance width="585"/>
   <outline>
-    <component base="umacron"/>
-    <component base="dieresiscmb" xOffset="292.49999999999994" yOffset="223"/>
+    <component base="u.alt"/>
+    <component base="macroncmb" xOffset="292"/>
+    <component base="dieresiscmb" xOffset="292" yOffset="213"/>
   </outline>
   <lib>
     <dict>

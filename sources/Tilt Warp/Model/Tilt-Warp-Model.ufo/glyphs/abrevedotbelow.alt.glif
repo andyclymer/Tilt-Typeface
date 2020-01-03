@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abrevedotbelow.alt" format="2">
-  <advance width="500"/>
+  <advance width="543"/>
   <outline>
-    <component base="adotbelow.alt"/>
-    <component base="brevecmb" xOffset="-4.776122516674678e-14" yOffset="-780"/>
+    <component base="a.alt"/>
+    <component base="brevecmb" xOffset="270" yOffset="5"/>
+    <component base="dotbelowcmb" xOffset="272"/>
   </outline>
   <lib>
     <dict>

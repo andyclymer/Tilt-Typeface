@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ldot" format="2">
   <advance width="492"/>
+  <anchor x="142.0" y="730" name="above"/>
+  <anchor x="142.0" y="0" name="below"/>
   <outline>
     <component base="l"/>
     <component base="periodcentered.loclCAT" xOffset="285"/>

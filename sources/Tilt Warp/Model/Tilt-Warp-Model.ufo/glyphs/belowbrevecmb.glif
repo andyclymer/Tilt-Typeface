@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="belowbrevecmb" format="2">
   <unicode hex="032E"/>
-  <anchor x="0" y="0" name="bottom"/>
-  <anchor x="0" y="0" name="center"/>
+  <anchor x="0" y="0" name="_below"/>
+  <anchor x="0" y="-267" name="below"/>
   <outline>
     <contour>
       <point x="0" y="-267" type="curve" smooth="yes"/>

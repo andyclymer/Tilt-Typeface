@@ -4,7 +4,8 @@
   <unicode hex="1EB5"/>
   <outline>
     <component base="a"/>
-    <component base="brevecmb_tildecmb" xOffset="320.99999999999994"/>
+    <component base="brevecmb" xOffset="321" yOffset="10"/>
+    <component base="tildecmb" xOffset="321" yOffset="253"/>
   </outline>
   <lib>
     <dict>

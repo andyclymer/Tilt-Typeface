@@ -3,7 +3,8 @@
   <advance width="543"/>
   <outline>
     <component base="a.alt"/>
-    <component base="brevecmb_hookabovecmb" xOffset="261.99999999999994"/>
+    <component base="brevecmb" xOffset="270" yOffset="5"/>
+    <component base="hookabovecmb" xOffset="270" yOffset="248"/>
   </outline>
   <lib>
     <dict>

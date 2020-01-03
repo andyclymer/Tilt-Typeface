@@ -2,14 +2,16 @@
 <glyph name="Ccedilla" format="2">
   <advance width="586"/>
   <unicode hex="00C7"/>
+  <anchor x="338.0" y="-10" name="below"/>
+  <anchor x="338.0" y="690.0" name="above"/>
   <outline>
     <component base="C"/>
-    <component base="cedillacmb" xOffset="338" yOffset="-10"/>
+    <component base="cedillacmb" xOffset="339" yOffset="-10"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.502,0.502,0.502,1</string>
+      <string>0.9529,0.7529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

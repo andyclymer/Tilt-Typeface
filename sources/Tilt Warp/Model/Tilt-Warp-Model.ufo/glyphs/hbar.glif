@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbar" format="2">
   <advance width="599"/>
+  <anchor x="306.0" y="730" name="above"/>
+  <anchor x="306.0" y="0" name="below"/>
   <outline>
     <contour>
       <point x="60" y="0" type="line"/>

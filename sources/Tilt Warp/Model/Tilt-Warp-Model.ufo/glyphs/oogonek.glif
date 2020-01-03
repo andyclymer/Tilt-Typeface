@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oogonek" format="2">
   <advance width="600"/>
+  <anchor x="299.0" y="527.0" name="above"/>
+  <anchor x="300.0" y="0" name="below"/>
   <outline>
     <contour>
       <point x="300" y="133" type="curve" smooth="yes"/>

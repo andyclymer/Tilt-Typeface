@@ -2,6 +2,8 @@
 <glyph name="Ohorn" format="2">
   <advance width="736"/>
   <unicode hex="01A0"/>
+  <anchor x="358.0" y="700.0" name="above"/>
+  <anchor x="368.0" y="-15" name="below"/>
   <outline>
     <component base="O"/>
     <component base="horncmb" xOffset="452" yOffset="163"/>
@@ -9,7 +11,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.502,0.502,0.502,1</string>
+      <string>0.9529,0.7529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

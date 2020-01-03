@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflexdotbelow.alt" format="2">
-  <advance width="620"/>
+  <advance width="543"/>
   <outline>
-    <component base="acircumflex"/>
-    <component base="dotbelowcmb" xOffset="296" yOffset="-14"/>
+    <component base="a.alt"/>
+    <component base="circumflexcmb" xOffset="270" yOffset="5"/>
+    <component base="dotbelowcmb" xOffset="272"/>
   </outline>
   <lib>
     <dict>

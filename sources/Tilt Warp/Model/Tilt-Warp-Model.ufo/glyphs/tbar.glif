@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tbar" format="2">
   <advance width="403"/>
+  <anchor x="198.0" y="657" name="above"/>
+  <anchor x="198.0" y="0" name="below"/>
+  <anchor x="274" y="517" name="right"/>
   <outline>
     <contour>
       <point x="119" y="0" type="line"/>
