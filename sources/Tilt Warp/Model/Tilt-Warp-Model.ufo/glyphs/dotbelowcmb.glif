@@ -2,20 +2,21 @@
 <glyph name="dotbelowcmb" format="2">
   <unicode hex="0323"/>
   <anchor x="0" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="center"/>
   <outline>
     <contour>
-      <point x="1" y="-272" type="curve" smooth="yes"/>
-      <point x="57" y="-272"/>
-      <point x="104" y="-226"/>
-      <point x="104" y="-170" type="curve" smooth="yes"/>
-      <point x="104" y="-115"/>
-      <point x="57" y="-69"/>
-      <point x="1" y="-69" type="curve" smooth="yes"/>
-      <point x="-57" y="-69"/>
-      <point x="-103" y="-115"/>
-      <point x="-103" y="-170" type="curve" smooth="yes"/>
-      <point x="-103" y="-226"/>
-      <point x="-57" y="-272"/>
+      <point x="1" y="-262" type="curve" smooth="yes"/>
+      <point x="57" y="-262"/>
+      <point x="104" y="-216"/>
+      <point x="104" y="-160" type="curve" smooth="yes"/>
+      <point x="104" y="-105"/>
+      <point x="57" y="-59"/>
+      <point x="1" y="-59" type="curve" smooth="yes"/>
+      <point x="-57" y="-59"/>
+      <point x="-103" y="-105"/>
+      <point x="-103" y="-160" type="curve" smooth="yes"/>
+      <point x="-103" y="-216"/>
+      <point x="-57" y="-262"/>
     </contour>
   </outline>
   <lib>

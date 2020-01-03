@@ -2,6 +2,9 @@
 <glyph name="Oslash" format="2">
   <advance width="736"/>
   <unicode hex="00D8"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="0" y="700" name="top"/>
+  <anchor x="368" y="0" name="center"/>
   <outline>
     <contour>
       <point x="368" y="139" type="curve" smooth="yes"/>

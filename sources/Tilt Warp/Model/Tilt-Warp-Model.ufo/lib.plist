@@ -6,7 +6,7 @@
     <array>
       <dict>
         <key>allowPseudoUnicode</key>
-        <integer>1</integer>
+        <integer>0</integer>
         <key>ascending</key>
         <string>GF Latin Tilt</string>
         <key>type</key>
@@ -32,6 +32,10 @@
     <key>com.typemytype.robofont.compileSettings.path</key>
     <string>/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Warp/ Build/Tilt-Warp-Model.otf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.magnetic.r2sw9HWePw</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.showMeasurements.r2sw9HWePw</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
@@ -678,6 +682,7 @@
       <string>tildecmb_macroncmb</string>
       <string>acutecmb_dotaccentcmb</string>
       <string>caroncmb_dotaccentcmb</string>
+      <string>dieresiscmb_acutecmb</string>
       <string>caroncmb.alt</string>
       <string>periodcentered.loclCAT</string>
       <string>primemod</string>

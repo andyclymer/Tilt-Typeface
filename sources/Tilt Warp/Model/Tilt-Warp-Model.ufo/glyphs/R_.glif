@@ -2,6 +2,10 @@
 <glyph name="R" format="2">
   <advance width="626"/>
   <unicode hex="0052"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="278" y="680" name="center_top"/>
+  <anchor x="0" y="680.0" name="top"/>
+  <anchor x="334" y="0" name="center"/>
   <outline>
     <contour>
       <point x="65" y="0" type="line"/>

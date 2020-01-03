@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecmb_tildecmb" format="2">
   <anchor x="0" y="517" name="top"/>
+  <anchor x="0" y="0" name="center"/>
   <outline>
     <component base="brevecmb"/>
-    <component base="tildecmb" xOffset="10" yOffset="242"/>
+    <component base="tildecmb" xOffset="10" yOffset="252"/>
   </outline>
   <lib>
     <dict>

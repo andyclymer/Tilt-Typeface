@@ -59,7 +59,7 @@ Einvertedbreve = E + invertedbrevecmb @ center, top
 Emacron = E + macroncmb @ center, top
 Emacronacute = E + macroncmb_tildecmb @ center, top
 Emacrongrave = E + macroncmb_gravecmb @ center, top
-Eogonek = E + ogonekcmb @ center, bottom
+Eogonek = E + ogonekcmb @ ogonek, ogonek
 Etilde = E + tildecmb @ center, top
 
 Gbreve = G + brevecmb @ center, top
@@ -78,7 +78,7 @@ Iacute = I + acutecmb @ center, top
 Ibreve = I + brevecmb @ center, top
 Icircumflex = I + circumflexcmb @ center, top
 Idieresis = I + dieresiscmb @ center, top
-Idieresisacute = Idieresis + acutecmb @ center, top
+Idieresisacute = I + dieresiscmb_acutecmb @ center, top
 Idotaccent = I + dotaccentcmb @ center, top
 Idotbelow = I + dotbelowcmb @ center, bottom
 Igravedbl = I + gravedoublecmb @ center, top
@@ -91,10 +91,10 @@ Itilde = I + tildecmb @ center, top
 
 Jcircumflex = J + circumflexcmb @ center, top
 
-Kcedilla = K + cedillacmb @ center, bottom
+Kcedilla = K + commaaccentbelowcmb @ center, bottom
 
-Lacute = L + acutecmb @ center, top
-Lcaron = L + caroncmb @ center, top
+Lacute = L + acutecmb @ center_top, top
+Lcaron = L + caroncmb @ center_top, top
 Lcedilla = L + cedillacmb @ center, bottom
 Ldotbelow = L + dotbelowcmb @ center, bottom
 Llinebelow = L + macronbelowcmb @ center, bottom
@@ -104,8 +104,9 @@ Llinebelow = L + macronbelowcmb @ center, bottom
 Mdotbelow = M + dotbelowcmb @ center, bottom
 Nacute = N + acutecmb @ center, top
 Ncaron = N + caroncmb @ center, top
-Ncedilla = N + cedillacmb @ center, bottom # @@@@@@@@@@@@ commaaccent
-Ndot = N + dotaccentcmb @ center, below
+Ncedilla = N + commaaccentbelowcmb @ center, bottom
+
+Ndot = N + dotaccentcmb @ center, top
 Ndotbelow = N + dotbelowcmb @ center, bottom
 Nlinebelow = N + macronbelowcmb @ center, bottom
 Ntilde = N + tildecmb @ center, top
@@ -146,12 +147,12 @@ Otildedieresis = O + tildecmb_dieresiscmb @ center, top
 Otildemacron = O + tildecmb_macroncmb @ center, top
 # OE = @@@
 
-Racute = R + acutecmb @ center, top
-Rcaron = R + caroncmb @ center, top
-Rcedilla = R + cedillacmb @ center, bottom
+Racute = R + acutecmb @ center_top, top
+Rcaron = R + caroncmb @ center_top, top
+Rcedilla = R + commaaccentbelowcmb @ center, bottom
 Rdotbelow = R + dotbelowcmb @ center, bottom
-Rgravedbl = R + gravedoublecmb @ center, top
-Rinvertedbreve = R + invertedbrevecmb @ center, top
+Rgravedbl = R + gravedoublecmb @ center_top, top
+Rinvertedbreve = R + invertedbrevecmb @ center_top, top
 Rlinebelow = R + macronbelowcmb @ center, bottom
 
 Sacute = S + acutecmb @ center, top
@@ -160,17 +161,16 @@ Scaron = S + caroncmb @ center, top
 Scarondot = Scaron + dotaccentcmb @ center, top
 Scedilla = S + cedillacmb @ center, bottom
 Scircumflex = S + circumflexcmb @ center, top
-Scommaaccent = S + commaaccentbelowcmb @ center, top
+Scommaaccent = S + commaaccentbelowcmb @ center, bottom
 Sdot = S + dotaccentcmb @ center, top
 Sdotbelow = S + dotbelowcmb @ center, bottom
 Sdotbelowdotabove = Sdotbelow + dotaccentcmb @ center, bottom
-
 # Germandbls = @@@
 # Schwa = @@@
 
 Tcaron = T + caroncmb @ center, top
 Tcedilla = T + cedillacmb @ center, bottom
-Tcommaaccent = T + commaaccentbelowcmb @ center, top
+Tcommaaccent = T + commaaccentbelowcmb @ center, bottom
 Tdotbelow = T + dotbelowcmb @ center, bottom
 Tlinebelow = T + macronbelowcmb @ center, bottom
 # Tbar = @@@
@@ -254,7 +254,7 @@ ccedillaacute = ccedilla + acutecmb @ center, top
 ccircumflex = c + circumflexcmb @ center, top
 cdotaccent = c + dotaccentcmb @ center, top
 
-dcaron = d + caroncmb @ center, top
+dcaron = d + caroncmb.alt @ right, top_caron
 ddotbelow = d + dotbelowcmb @ center, bottom
 dlinebelow = d + macronbelowcmb @ center, bottom
 # dcroat = @@@
@@ -285,7 +285,7 @@ etilde = e + tildecmb @ center, top
 
 gbreve = g + brevecmb @ center, top
 gcaron = g + caroncmb @ center, top
-gcedilla = g + cedillacmb @ center, bottom
+gcedilla = g + commaturnedabovecmb @ center, top
 gcircumflex = g + circumflexcmb @ center, top
 gdotaccent = g + dotaccentcmb @ center, top
 gmacron = g + macroncmb @ center, top
@@ -300,7 +300,7 @@ iacute = dotlessi + acutecmb @ center, top
 ibreve = dotlessi + brevecmb @ center, top
 icircumflex = dotlessi + circumflexcmb @ center, top
 idieresis = dotlessi + dieresiscmb @ center, top
-idieresisacute = idieresis + acutecmb @ center, top
+idieresisacute = i + dieresiscmb_acutecmb @ center, top
 idotaccent = i
 idotbelow = i + dotbelowcmb @ center, bottom
 igravedbl = dotlessi + gravedoublecmb @ center, top
@@ -314,11 +314,11 @@ itilde = dotlessi + tildecmb @ center, top
 # dotlessj = @@@
 jcircumflex = dotlessj + circumflexcmb @ center, top
 
-kcedilla = k + cedillacmb @ center, bottom
+kcedilla = k + commaaccentbelowcmb @ center, bottom
 # kra = @@@
 
 lacute = l + acutecmb @ center, top
-lcaron = l + caroncmb @ center, top
+lcaron = l + caroncmb.alt @ right, top_caron
 lcedilla = l + cedillacmb @ center, bottom
 ldotbelow = l + dotbelowcmb @ center, bottom
 llinebelow = l + macronbelowcmb @ center, bottom
@@ -329,7 +329,7 @@ mdotbelow = m + dotbelowcmb @ center, bottom
 
 nacute = n + acutecmb @ center, top
 ncaron = n + caroncmb @ center, top
-ncedilla = n + cedillacmb @ center, bottom
+ncedilla = n + commaaccentbelowcmb @ center, bottom
 ndot = n + dotaccentcmb @ center, top
 ndotbelow = n + dotbelowcmb @ center, bottom
 nlinebelow = n + macronbelowcmb @ center, bottom
@@ -373,8 +373,8 @@ otildemacron = otilde + macroncmb @ center, top
 
 racute = r + acutecmb @ center, top
 rcaron = r + caroncmb @ center, top
-rcedilla = r + cedillacmb @ center, bottom
-rdotbelow = r + dotbelowcmb @ center, bottom
+rcedilla = r + cedillacmb @ center_bottom, bottom
+rdotbelow = r + dotbelowcmb @ center_bottom, bottom
 rgravedbl = r + gravedoublecmb @ center, top
 rinvertedbreve = r + invertedbrevecmb @ center, top
 rlinebelow = r + macronbelowcmb @ center, bottom
@@ -393,7 +393,7 @@ sdotbelowdotabove = sdotbelow + dotaccentcmb @ center, top
 # germandbls = @@@
 # schwa = @@@
 
-tcaron = t + caroncmb @ center, top
+tcaron = t + caroncmb.alt @ right, top_caron
 tcedilla = t + cedillacmb @ center, bottom
 tcommaaccent = t + commaaccentbelowcmb @ center, bottom
 tdieresis = t + dieresiscmb @ center, top
@@ -446,7 +446,7 @@ zdotaccent = z + dotaccentcmb @ center, top
 zdotbelow = z + dotbelowcmb @ center, bottom
 
 aacute.alt = a.alt + acutecmb @ center, top
-abreve.alt = a .alt+ brevecmb @ center, top
+abreve.alt = a.alt + brevecmb @ center, top
 abreveacute.alt = a.alt + brevecmb_acutecmb @ center, top
 abrevedotbelow.alt = adotbelow.alt + brevecmb @ center, bottom
 abrevegrave.alt = a.alt + brevecmb_gravecmb @ center, top
@@ -454,7 +454,7 @@ abrevehoi.alt = a.alt + brevecmb_hookabovecmb @ center, top
 abrevetilde.alt = a.alt + brevecmb_tildecmb @ center, top
 acircumflex.alt = a.alt + circumflexcmb @ center, top
 acircumflexacute.alt = a.alt + circumflexcmb_acutecmb @ center, top
-acircumflexdotbelow.alt = acircumflex + dotbelowcmb @ center, bottom
+acircumflexdotbelow.alt = acircumflex.alt + dotbelowcmb @ center, bottom
 acircumflexgrave.alt = a.alt + circumflexcmb_gravecmb @ center, top
 acircumflexhoi.alt = a.alt + circumflexcmb_hookabovecmb @ center, top
 acircumflextilde.alt = a.alt + circumflexcmb_tildecmb @ center, top
@@ -467,18 +467,18 @@ ainvertedbreve.alt = a.alt + invertedbrevecmb @ center, top
 amacron.alt = a.alt + macroncmb @ center, top
 # aogonek.alt = a.alt + ogonekcmb @ center, bottom
 aring.alt = a.alt + ringabovecmb @ center, top
-aringacute.alt = aring + acutecmb @ center, top
+aringacute.alt = aring.alt + acutecmb @ center, top
 atilde.alt = a.alt + tildecmb @ center, top
 
 # ae.alt = @@@
 aeacute.alt = ae.alt + acutecmb @ center, top
 
 tcaron.alt = t.alt + caroncmb @ center, top
-tcedilla.alt = t.alt + cedillacmb @ center, bottom
-tcommaaccent.alt = t.alt + commaaccentbelowcmb @ center, bottom
+tcedilla.alt = t.alt + cedillacmb @ center_bottom, bottom
+tcommaaccent.alt = t.alt + commaaccentbelowcmb @ center_bottom, bottom
 tdieresis.alt = t.alt + dieresiscmb @ center, top
-tdotbelow.alt = t.alt + dotbelowcmb @ center, bottom
-tlinebelow.alt = t.alt + macronbelowcmb @ center, bottom
+tdotbelow.alt = t.alt + dotbelowcmb @ center_bottom, bottom
+tlinebelow.alt = t.alt + macronbelowcmb @ center_bottom, bottom
 # tbar.alt = @@@
 
 uacute.alt = u.alt + acutecmb @ center, top
@@ -498,7 +498,7 @@ uhornhoi.alt = uhorn.alt + hookabovecmb @ center, top
 uhorntilde.alt = uhorn.alt + tildecmb @ center, top
 uinvertedbreve.alt = u.alt + invertedbrevecmb @ center, top
 umacron.alt = u.alt + macroncmb @ center, top
-umacrondieresis.alt = umacron + dieresiscmb @ center, top
+umacrondieresis.alt = umacron.alt + dieresiscmb @ center, top
 # uogonek.alt = u.alt + ogonekcmb @ center, bottom
 uring.alt = u.alt + ringabovecmb @ center, top
 utilde.alt = u.alt + tildecmb @ center, top

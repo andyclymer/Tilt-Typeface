@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t.alt" format="2">
   <advance width="430"/>
+  <anchor x="0" y="657" name="top"/>
+  <anchor x="188" y="0" name="center"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="0" y="617" name="top_caron"/>
+  <anchor x="274" y="517" name="right"/>
+  <anchor x="242" y="0" name="center_bottom"/>
   <outline>
     <contour>
       <point x="24" y="369" type="line"/>
