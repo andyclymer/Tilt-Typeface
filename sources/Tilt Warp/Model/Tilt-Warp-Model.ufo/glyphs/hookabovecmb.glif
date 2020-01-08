@@ -2,23 +2,24 @@
 <glyph name="hookabovecmb" format="2">
   <unicode hex="0309"/>
   <anchor x="0" y="517" name="_above"/>
-  <anchor x="0" y="835" name="above"/>
+  <anchor x="0" y="825" name="above"/>
+  <anchor x="0" y="517" name="_aboveright"/>
   <outline>
     <contour>
-      <point x="-86" y="653" type="curve"/>
-      <point x="-86" y="563" type="line"/>
-      <point x="26.0" y="572"/>
-      <point x="117" y="607"/>
-      <point x="117.0" y="713" type="curve" smooth="yes"/>
-      <point x="117" y="816"/>
-      <point x="22" y="862"/>
-      <point x="-116" y="829" type="curve"/>
-      <point x="-116" y="718" type="line"/>
-      <point x="-60" y="735"/>
-      <point x="-8" y="728"/>
-      <point x="-8" y="693" type="curve" smooth="yes"/>
-      <point x="-8" y="671"/>
-      <point x="-30" y="659"/>
+      <point x="-81" y="648" type="curve"/>
+      <point x="-81" y="558" type="line"/>
+      <point x="31.0" y="567"/>
+      <point x="122" y="598"/>
+      <point x="122.0" y="704" type="curve" smooth="yes"/>
+      <point x="122" y="807"/>
+      <point x="27" y="849"/>
+      <point x="-111" y="816" type="curve"/>
+      <point x="-111" y="705" type="line"/>
+      <point x="-55" y="722"/>
+      <point x="-3" y="719"/>
+      <point x="-3" y="684" type="curve" smooth="yes"/>
+      <point x="-3" y="662"/>
+      <point x="-25" y="654"/>
     </contour>
   </outline>
   <lib>
