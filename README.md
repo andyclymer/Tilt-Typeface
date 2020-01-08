@@ -26,28 +26,34 @@ All three styles have been drawn to the “Google Latin Core” character set, w
 
 ## Current status
 
-*As of December 16th, 2019 —*
+*As of January 8th, 2019 —*
 
-The principle design of all three styles and manufacturing of version 1.0 is due to be completed the first week of December, 2019. The current status and next steps are as follows:
+The principle design of all three styles is complete, and in the early months of 2020 the language support is being extended from "Google Latin Core" to "Google Latin Expert" and an extended set of symbols, dingbats and arrows are being drawn.
 
 | Neon | |
 | :--- | :--- |
-| Character set | The full “Google Latin Core” character set has been drawn |
+| Core character set | The full “Google Latin Core” character set has been drawn |
 | Drawing quality | All glyphs are in their fully final 3D state |
+| Extended language support | Not yet begun |
+| Extended symbols and dingbats | Not yet begun |
 | Kerning | Complete |
 | Manufacturing | Not yet begun. File sizes still need to be optimized (most glyphs use more masters than needed) |
 
 | Prism | |
 | :--- | :--- |
-| Character set | The full “Google Latin Core” character set has been drawn, including small capitals in place of the lowercase |
+| Core character set | The full “Google Latin Core” character set has been drawn, including small capitals in place of the lowercase |
 | Drawing quality | All glyphs are in their fully final 3D state |
+| Extended language support | Not yet begun |
+| Extended symbols and dingbats | Not yet begun |
 | Kerning | Complete |
 | Manufacturing | Not yet begun. File sizes still need to be optimized (most glyphs use more masters than needed) |
 
 | Warp | |
 | :--- | :--- |
-| Character set | The full “Google Latin Core” character set has been drawn |
+| Core character set | The full “Google Latin Core” character set has been drawn |
 | Drawing quality | All glyphs are in their fully final 3D state |
+| Extended language support | Latin Expert set is done in the Warp "Model" style |
+| Extended symbols and dingbats | Not yet begun |
 | Kerning | Complete |
 | Manufacturing | Not yet begun |
 
