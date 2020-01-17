@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani" format="2">
+  <advance width="558"/>
+  <unicode hex="20B2"/>
+  <outline>
+    <contour>
+      <point x="496" y="66" type="line"/>
+      <point x="213" y="-49"/>
+      <point x="31.0" y="100.0"/>
+      <point x="31" y="335" type="curve" smooth="yes"/>
+      <point x="31.0" y="565.0"/>
+      <point x="200" y="714"/>
+      <point x="480" y="627" type="curve"/>
+      <point x="480" y="465" type="line"/>
+      <point x="318.61467352774014" y="529.3561117834165"/>
+      <point x="201.0" y="484.43283582089555"/>
+      <point x="201" y="341" type="curve" smooth="yes"/>
+      <point x="201.0" y="243.85227272727275"/>
+      <point x="248.0" y="175.0"/>
+      <point x="315" y="175" type="curve" smooth="yes"/>
+      <point x="339" y="175.0"/>
+      <point x="366" y="185"/>
+      <point x="390" y="194" type="curve"/>
+      <point x="335" y="115" type="line"/>
+      <point x="335" y="329" type="line"/>
+      <point x="371" y="262" type="line"/>
+      <point x="275" y="262" type="line"/>
+      <point x="275" y="406" type="line"/>
+      <point x="496" y="406" type="line"/>
+    </contour>
+    <contour>
+      <point x="224" y="590.0" type="line"/>
+      <point x="236" y="770.0" type="line"/>
+      <point x="385" y="770.0" type="line"/>
+      <point x="373" y="590.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="-100.0" type="line"/>
+      <point x="192" y="79.0" type="line"/>
+      <point x="341" y="79.0" type="line"/>
+      <point x="328" y="-100.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>
