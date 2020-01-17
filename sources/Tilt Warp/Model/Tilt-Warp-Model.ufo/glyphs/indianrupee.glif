@@ -1,44 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="indianrupee" format="2">
-  <advance width="586"/>
+  <advance width="556"/>
   <unicode hex="20B9"/>
   <outline>
     <contour>
-      <point x="345" y="0" type="line"/>
-      <point x="551" y="0" type="line"/>
-      <point x="299" y="280" type="line"/>
-      <point x="98" y="280" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="269" y="280" type="line"/>
+      <point x="68" y="280" type="line"/>
     </contour>
     <contour>
       <point x="50" y="168" type="line"/>
-      <point x="210" y="168" type="line" smooth="yes"/>
-      <point x="364" y="168"/>
-      <point x="479" y="266"/>
-      <point x="479" y="421" type="curve" smooth="yes"/>
-      <point x="479" y="576"/>
-      <point x="362" y="680"/>
-      <point x="186" y="680" type="curve" smooth="yes"/>
+      <point x="180" y="168" type="line" smooth="yes"/>
+      <point x="334.0" y="168.0"/>
+      <point x="449" y="266"/>
+      <point x="449" y="421" type="curve" smooth="yes"/>
+      <point x="449" y="576"/>
+      <point x="332.0" y="680.0"/>
+      <point x="156" y="680" type="curve" smooth="yes"/>
       <point x="50" y="680" type="line"/>
       <point x="50" y="532" type="line"/>
-      <point x="206" y="532" type="line" smooth="yes"/>
-      <point x="268" y="532"/>
-      <point x="304" y="477"/>
-      <point x="304" y="418" type="curve" smooth="yes"/>
-      <point x="304" y="359"/>
-      <point x="268" y="304"/>
-      <point x="216" y="304" type="curve" smooth="yes"/>
+      <point x="176" y="532" type="line" smooth="yes"/>
+      <point x="238.0" y="532.0"/>
+      <point x="274" y="477"/>
+      <point x="274" y="418" type="curve" smooth="yes"/>
+      <point x="274" y="359"/>
+      <point x="238.0" y="304.0"/>
+      <point x="186" y="304" type="curve" smooth="yes"/>
       <point x="50" y="304" type="line"/>
     </contour>
     <contour>
       <point x="50" y="532" type="line"/>
-      <point x="542" y="532" type="line"/>
-      <point x="542" y="680" type="line"/>
+      <point x="512" y="532" type="line"/>
+      <point x="512" y="680" type="line"/>
       <point x="50" y="680" type="line"/>
     </contour>
     <contour>
       <point x="50" y="359" type="line"/>
-      <point x="542" y="359" type="line"/>
-      <point x="542" y="477" type="line"/>
+      <point x="512" y="359" type="line"/>
+      <point x="512" y="477" type="line"/>
       <point x="50" y="477" type="line"/>
     </contour>
   </outline>
