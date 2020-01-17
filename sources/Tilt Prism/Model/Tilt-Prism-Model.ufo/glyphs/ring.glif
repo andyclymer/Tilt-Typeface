@@ -1,43 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ring" format="2">
-  <advance width="420"/>
+  <advance width="500"/>
   <unicode hex="02DA"/>
-  <anchor x="0" y="517" name="top"/>
-  <anchor x="210" y="517" name="center"/>
   <outline>
-    <contour>
-      <point x="209" y="622" type="curve" smooth="yes"/>
-      <point x="244.953125" y="622.0"/>
-      <point x="268.0" y="645.2131147540983"/>
-      <point x="268" y="681.0" type="curve" smooth="yes"/>
-      <point x="268.0" y="717"/>
-      <point x="245.0" y="740.0"/>
-      <point x="209" y="740" type="curve" smooth="yes"/>
-      <point x="174.0" y="740.0"/>
-      <point x="153.0" y="717"/>
-      <point x="153.0" y="681.0" type="curve" smooth="yes"/>
-      <point x="153.0" y="645.2131147540983"/>
-      <point x="174.11475409836066" y="622.0"/>
-    </contour>
-    <contour>
-      <point x="209" y="542" type="curve" smooth="yes"/>
-      <point x="124.9391891891892" y="542.0"/>
-      <point x="66.0" y="600.1631205673759"/>
-      <point x="66" y="681" type="curve" smooth="yes"/>
-      <point x="66.0" y="760"/>
-      <point x="125.0" y="818.0"/>
-      <point x="209" y="818" type="curve" smooth="yes"/>
-      <point x="294.0" y="818.0"/>
-      <point x="355.0" y="760"/>
-      <point x="355" y="681" type="curve" smooth="yes"/>
-      <point x="355.0" y="600.1631205673759"/>
-      <point x="294.08609271523176" y="542.0"/>
-    </contour>
+    <component base="ringabovecmb" xOffset="250"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.5725,0.5725,0.9529,1</string>
+      <string>0.7267,0.7266,0.7266,1</string>
     </dict>
   </lib>
 </glyph>

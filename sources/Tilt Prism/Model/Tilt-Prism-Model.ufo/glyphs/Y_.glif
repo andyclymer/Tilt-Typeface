@@ -2,6 +2,8 @@
 <glyph name="Y" format="2">
   <advance width="623"/>
   <unicode hex="0059"/>
+  <anchor x="312" y="0" name="below"/>
+  <anchor x="312" y="680.0" name="above"/>
   <outline>
     <contour>
       <point x="241" y="349" type="line"/>
@@ -34,4 +36,10 @@
       <point x="264" y="212" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
 </glyph>
