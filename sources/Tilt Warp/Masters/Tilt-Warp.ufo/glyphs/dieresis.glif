@@ -1,110 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis" format="2">
-  <advance width="577"/>
+  <advance width="500"/>
   <unicode hex="00A8"/>
-  <anchor x="0" y="517" name="top"/>
-  <anchor x="288" y="517" name="center"/>
   <outline>
-    <contour>
-      <point x="169" y="576" type="curve" name="EWGWQVWM"/>
-      <point x="225" y="576" name="YVEPXWBB"/>
-      <point x="272" y="622" name="WOGPHOOQ"/>
-      <point x="272" y="678" type="curve" smooth="yes" name="TDAIGGCG"/>
-      <point x="272" y="733" name="YAPVNEKL"/>
-      <point x="225" y="779" name="JILJUPRV"/>
-      <point x="169" y="779" type="curve" smooth="yes" name="THDLPDMI"/>
-      <point x="111" y="779" name="RBNUMQHQ"/>
-      <point x="65" y="733" name="NWFPMIWW"/>
-      <point x="65" y="678" type="curve" smooth="yes" name="JIPDXKLH"/>
-      <point x="65" y="622" name="IOYMYAUE"/>
-      <point x="111" y="576" name="HJQVJGWV"/>
-      <point x="169" y="576" type="curve" name="SBSQRSQN"/>
-      <point x="169" y="576" name="NEZUJBXX"/>
-      <point x="169" y="576" name="ROPRWNCM"/>
-    </contour>
-    <contour>
-      <point x="409" y="576" type="curve" name="PCMRDNGU"/>
-      <point x="465" y="576" name="YWHYRMBT"/>
-      <point x="512" y="622" name="TWQNKJWJ"/>
-      <point x="512" y="678" type="curve" smooth="yes" name="PUQOVCQH"/>
-      <point x="512" y="733" name="RDZLIHBV"/>
-      <point x="465" y="779" name="MLPKIHVL"/>
-      <point x="409" y="779" type="curve" smooth="yes" name="ACBSRRQT"/>
-      <point x="351" y="779" name="WACXZPEO"/>
-      <point x="305" y="733" name="BLIDQJRK"/>
-      <point x="305" y="678" type="curve" smooth="yes" name="LUYGHRST"/>
-      <point x="305" y="622" name="YGCORYND"/>
-      <point x="351" y="576" name="AKWKJWRX"/>
-      <point x="409" y="576" type="curve" name="QOAZDAUA"/>
-      <point x="409" y="576" name="JXQVQLSE"/>
-      <point x="409" y="576" name="BGUJBWOP"/>
-    </contour>
+    <component base="dieresiscmb" xOffset="250"/>
   </outline>
   <lib>
     <dict>
       <key>com.andyclymer.zPosition</key>
-      <dict>
-        <key>ACBSRRQT</key>
-        <integer>135</integer>
-        <key>AKWKJWRX</key>
-        <integer>129</integer>
-        <key>BGUJBWOP</key>
-        <integer>135</integer>
-        <key>BLIDQJRK</key>
-        <integer>89</integer>
-        <key>EWGWQVWM</key>
-        <integer>135</integer>
-        <key>HJQVJGWV</key>
-        <integer>141</integer>
-        <key>IOYMYAUE</key>
-        <integer>110</integer>
-        <key>JILJUPRV</key>
-        <integer>129</integer>
-        <key>JIPDXKLH</key>
-        <integer>110</integer>
-        <key>JXQVQLSE</key>
-        <integer>135</integer>
-        <key>LUYGHRST</key>
-        <integer>88</integer>
-        <key>MLPKIHVL</key>
-        <integer>141</integer>
-        <key>NEZUJBXX</key>
-        <integer>135</integer>
-        <key>NWFPMIWW</key>
-        <integer>111</integer>
-        <key>PCMRDNGU</key>
-        <integer>135</integer>
-        <key>PUQOVCQH</key>
-        <integer>110</integer>
-        <key>QOAZDAUA</key>
-        <integer>135</integer>
-        <key>RBNUMQHQ</key>
-        <integer>141</integer>
-        <key>RDZLIHBV</key>
-        <integer>110</integer>
-        <key>ROPRWNCM</key>
-        <integer>135</integer>
-        <key>SBSQRSQN</key>
-        <integer>135</integer>
-        <key>TDAIGGCG</key>
-        <integer>88</integer>
-        <key>THDLPDMI</key>
-        <integer>135</integer>
-        <key>TWQNKJWJ</key>
-        <integer>110</integer>
-        <key>WACXZPEO</key>
-        <integer>129</integer>
-        <key>WOGPHOOQ</key>
-        <integer>88</integer>
-        <key>YAPVNEKL</key>
-        <integer>88</integer>
-        <key>YGCORYND</key>
-        <integer>88</integer>
-        <key>YVEPXWBB</key>
-        <integer>129</integer>
-        <key>YWHYRMBT</key>
-        <integer>141</integer>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

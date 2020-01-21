@@ -1,54 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acute" format="2">
-  <advance width="408"/>
+  <advance width="500"/>
   <unicode hex="00B4"/>
-  <anchor x="0" y="517" name="top"/>
-  <anchor x="154" y="517" name="center"/>
   <outline>
-    <contour>
-      <point x="70" y="584" type="curve" name="NPRNXCFM"/>
-      <point x="121" y="584" name="DWRLYCLB"/>
-      <point x="173" y="584" name="NHDYULFD"/>
-      <point x="224" y="584" type="curve" name="IYESGBWR"/>
-      <point x="268" y="649" name="AVEBZHHZ"/>
-      <point x="314" y="715" name="FVJFYJPZ"/>
-      <point x="358" y="780" type="curve" name="YANZWQJP"/>
-      <point x="299" y="780" name="SNMFTGOI"/>
-      <point x="238" y="780" name="EEWFMEIN"/>
-      <point x="179" y="780" type="curve" name="EHFYUEEB"/>
-      <point x="143" y="715" name="TSEYCRTF"/>
-      <point x="106" y="649" name="OZKSUYRJ"/>
-    </contour>
+    <component base="acutecmb" xOffset="200"/>
   </outline>
   <lib>
     <dict>
       <key>com.andyclymer.zPosition</key>
-      <dict>
-        <key>AVEBZHHZ</key>
-        <integer>81</integer>
-        <key>DWRLYCLB</key>
-        <integer>136</integer>
-        <key>EEWFMEIN</key>
-        <integer>130</integer>
-        <key>EHFYUEEB</key>
-        <integer>133</integer>
-        <key>FVJFYJPZ</key>
-        <integer>86</integer>
-        <key>IYESGBWR</key>
-        <integer>132</integer>
-        <key>NHDYULFD</key>
-        <integer>131</integer>
-        <key>NPRNXCFM</key>
-        <integer>146</integer>
-        <key>OZKSUYRJ</key>
-        <integer>87</integer>
-        <key>SNMFTGOI</key>
-        <integer>135</integer>
-        <key>TSEYCRTF</key>
-        <integer>83</integer>
-        <key>YANZWQJP</key>
-        <integer>146</integer>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

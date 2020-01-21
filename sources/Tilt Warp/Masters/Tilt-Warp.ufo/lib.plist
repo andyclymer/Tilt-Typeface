@@ -6,7 +6,7 @@
     <array>
       <dict>
         <key>allowPseudoUnicode</key>
-        <integer>1</integer>
+        <integer>0</integer>
         <key>ascending</key>
         <string>GF Latin Tilt</string>
         <key>type</key>
@@ -14,7 +14,7 @@
       </dict>
     </array>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>Accents with caps</string>
+    <string>Accents-Expert</string>
     <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
     <false/>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
@@ -32,6 +32,10 @@
     <key>com.typemytype.robofont.compileSettings.path</key>
     <string>/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Warp/ Build/Tilt-Warp-Model.otf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.magnetic.r2sw9HWePw</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.showMeasurements.r2sw9HWePw</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
@@ -508,6 +512,7 @@
       <string>yen</string>
       <string>Euro</string>
       <string>colonmonetary</string>
+      <string>fhook</string>
       <string>franc</string>
       <string>lira</string>
       <string>naira</string>
@@ -631,9 +636,6 @@
       <string>circumflex</string>
       <string>ring</string>
       <string>tilde</string>
-      <string>primemod</string>
-      <string>primedblmod</string>
-      <string>apostrophemod</string>
       <string>caron</string>
       <string>breve</string>
       <string>dotaccent</string>
@@ -655,24 +657,26 @@
       <string>invertedbrevecmb</string>
       <string>commaturnedabovecmb</string>
       <string>horncmb</string>
-      <string>dotbelowcmbcmb</string>
+      <string>dotbelowcmb</string>
       <string>dieresisbelowcmb</string>
       <string>commaaccentbelowcmb</string>
       <string>cedillacmb</string>
       <string>ogonekcmb</string>
       <string>belowbrevecmb</string>
       <string>macronbelowcmb</string>
-      <string>overlaystrokeshortcmb</string>
-      <string>circumflexcmb_acutecmb</string>
-      <string>circumflexcmb_gravecmb</string>
-      <string>circumflexcmb_hookabovecmb</string>
-      <string>circumflexcmb_tildecmb</string>
-      <string>brevecmb_acutecmb</string>
-      <string>brevecmb_gravecmb</string>
-      <string>brevecmb_hookabovecmb</string>
-      <string>brevecmb_tildecmb</string>
       <string>caroncmb.alt</string>
       <string>periodcentered.loclCAT</string>
+      <string>primemod</string>
+      <string>primedblmod</string>
+      <string>apostrophemod</string>
+      <string>commaturnedmod</string>
+      <string>ringhalfrightmod</string>
+      <string>ringhalfleftmod</string>
+      <string>verticallinemod</string>
+      <string>macronmod</string>
+      <string>acutemod</string>
+      <string>gravemod</string>
+      <string>verticallinelowmod</string>
       <string>Aacute</string>
       <string>Abreve</string>
       <string>Abreveacute</string>
@@ -713,6 +717,7 @@
       <string>Eacute</string>
       <string>Ebreve</string>
       <string>Ecaron</string>
+      <string>Ecedilla</string>
       <string>Ecedillabreve</string>
       <string>Ecircumflex</string>
       <string>Ecircumflexacute</string>
@@ -913,6 +918,7 @@
       <string>eacute</string>
       <string>ebreve</string>
       <string>ecaron</string>
+      <string>ecedilla</string>
       <string>ecedillabreve</string>
       <string>ecircumflex</string>
       <string>ecircumflexacute</string>
@@ -932,7 +938,6 @@
       <string>emacrongrave</string>
       <string>eogonek</string>
       <string>etilde</string>
-      <string>fhook</string>
       <string>gbreve</string>
       <string>gcaron</string>
       <string>gcedilla</string>
@@ -1096,14 +1101,6 @@
       <string>DZcaron</string>
       <string>Dzcaron</string>
       <string>dzcaron</string>
-      <string>commaturnedmod</string>
-      <string>ringhalfrightmod</string>
-      <string>ringhalfleftmod</string>
-      <string>verticallinemod</string>
-      <string>macronmod</string>
-      <string>acutemod</string>
-      <string>gravemod</string>
-      <string>verticallinelowmod</string>
       <string>arrowleft</string>
       <string>arrowup</string>
       <string>arrowright</string>
@@ -1180,14 +1177,6 @@
       <string>uring.alt</string>
       <string>utilde.alt</string>
       <string>utildeacute.alt</string>
-      <string>dieresis.cap</string>
-      <string>grave.cap</string>
-      <string>macron.cap</string>
-      <string>acute.cap</string>
-      <string>circumflex.cap</string>
-      <string>ring.cap</string>
-      <string>tilde.cap</string>
-      <string>cedilla.cap</string>
     </array>
   </dict>
 </plist>

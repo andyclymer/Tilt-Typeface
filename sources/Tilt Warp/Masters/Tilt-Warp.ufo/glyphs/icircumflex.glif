@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="icircumflex" format="2">
-  <advance width="275"/>
+  <advance width="281"/>
   <unicode hex="00EE"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="circumflex" xOffset="-142.5"/>
+    <component base="circumflexcmb" xOffset="140"/>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict/>
       <key>public.markColor</key>
       <string>0.502,0.502,0.502,1</string>
     </dict>

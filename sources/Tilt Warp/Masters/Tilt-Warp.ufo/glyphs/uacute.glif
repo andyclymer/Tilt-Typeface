@@ -4,10 +4,12 @@
   <unicode hex="00FA"/>
   <outline>
     <component base="u"/>
-    <component base="acute" xOffset="138.5"/>
+    <component base="acutecmb" xOffset="292"/>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict/>
       <key>public.markColor</key>
       <string>0.502,0.502,0.502,1</string>
     </dict>

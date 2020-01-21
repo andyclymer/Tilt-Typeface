@@ -55,6 +55,10 @@ def readGlyphPointData(glyph):
     return pointData
 
 
+def boundsCenter(bounds):
+    return (bounds[2]+bounds[0]) * 0.5, (bounds[3]+bounds[1]) *0.5
+
+
 def forceSmooth(bPt):
     """
     Force a bPoint to be smooth by moving its bcps into alignment
@@ -158,41 +162,52 @@ def rotateGlyphPointData(g, loc, pointData, angle=45, aLoc=None):
     axisVectorX = Vector3(1, 0, 0)
     axisVectorY = Vector3(0, 1, 0)
     
-    # Location in the glph for the rotation to happen
+    # Location in the glyph for the rotation to happen
     aLoc = (g.width * 0.5, 
             g.font.info.xHeight * 0.5,
             0)
+    
+    
+    # @@@ Components should be a delta from aLoc?
+    # @@@ Components should be a delta from aLoc?
+    # @@@ Components should be a delta from aLoc?
+    # @@@ Components should be a delta from aLoc?
+    # @@@ Components should be a delta from aLoc?
+    # @@@ Components should be a delta from aLoc?
             
-    for c in g.contours:
-        for pt in c.points:
-            
-            # Fetch the point data
-            ident = getIdent(pt)
-            
-            if ident in pointData:
-                # and make a vector object
-                v = Vector3(pointData[ident]["x"], pointData[ident]["y"], pointData[ident]["z"])
+    #for c in g.contours:
+    #    for pt in c.points:
+    #        
+    #        # Fetch the point data
+    #        ident = getIdent(pt)
+    #        
+    #        if ident in pointData:
+                
+    for ident in pointData:
+        # make a vector object
+        v = Vector3(pointData[ident]["x"], pointData[ident]["y"], pointData[ident]["z"])
+
+        # Invert the "z" position @@@ no longer necessary
+        #v.z = -v.z
+        #v.z = v.z * 0.5
+        # Translate
+        m = Matrix4.new_translate(-aLoc[0], -aLoc[1], -aLoc[2])
+        v = m.transform(v)
+        # Rotate X
+        m = m.new_rotate_axis(math.radians(loc["VROT"]), axisVectorX)
+        v = m.transform(v)
+        # Rotate Y
+        m = m.new_rotate_axis(math.radians(loc["HROT"]), axisVectorY)
+        v = m.transform(v)
+        # Translate
+        m = Matrix4.new_translate(aLoc[0], aLoc[1], aLoc[2])
+        v = m.transform(v)
+    
+        # Move the point in the pointData
+        pointData[ident]["x"] = v.x
+        pointData[ident]["y"] = v.y
+        pointData[ident]["z"] = v.z
         
-                # Invert the "z" position @@@ no longer necessary
-                #v.z = -v.z
-                #v.z = v.z * 0.5
-                # Translate
-                m = Matrix4.new_translate(-aLoc[0], -aLoc[1], -aLoc[2])
-                v = m.transform(v)
-                # Rotate X
-                m = m.new_rotate_axis(math.radians(loc["VROT"]), axisVectorX)
-                v = m.transform(v)
-                # Rotate Y
-                m = m.new_rotate_axis(math.radians(loc["HROT"]), axisVectorY)
-                v = m.transform(v)
-                # Translate
-                m = Matrix4.new_translate(aLoc[0], aLoc[1], aLoc[2])
-                v = m.transform(v)
-            
-                # Move the point in the pointData
-                pointData[ident]["x"] = v.x
-                pointData[ident]["y"] = v.y
-                pointData[ident]["z"] = v.z
                 
     # Transform the margins
     # Rotate a point from (0, 0) and use the x offset for both margins
@@ -206,7 +221,7 @@ def rotateGlyphPointData(g, loc, pointData, angle=45, aLoc=None):
     m = Matrix4.new_translate(aLoc[0], aLoc[1], aLoc[2])
     v = m.transform(v)
     # The "y" value is the LSB and RSB offset
-    marginChange = int(round(v[0]))
+    marginChange = int(round(v[0])), int(round(v[1]))
                 
     return marginChange, pointData
 
@@ -445,6 +460,16 @@ def buildDesignSpace(
             gDest.width = g.width
             gDest.unicode = g.unicode
             
+            # Add components to the pointData so that they shift correctly
+            # Use component + str(idx) as the ident
+            for cIdx, c in enumerate(gDest.components):
+                ident = "component%s" % cIdx
+                pos = list(c.offset)
+                # pos = boundsCenter(c.bounds)
+                # @@@ I don't want a component with (0, 0) offset to move
+                # @@@ TO keep it from moving, the pos would have to be at the center of the glyph
+                pointData[ident] = dict(x=pos[0], y=pos[1], z=0)
+            
             # Decompose
             """ # @@@ Leaving this out for now, decomposed contours lose their point IDs
             for c in gDest.components:
@@ -463,7 +488,7 @@ def buildDesignSpace(
                     pointData[ident]["z"] *= (sourceInfo["loc"]["DPTH"] * 0.01) # Scale by the depth value
             
             # Shift the "z" value by an offset
-            if doZOffset and not zOffset == None:
+            if not zOffset == None:
                 for ident in pointData:
                     pointData[ident]["z"] += zOffset
         
@@ -487,13 +512,26 @@ def buildDesignSpace(
                         pt.x = pointData[ident]["x"]
                         pt.y = pointData[ident]["y"]
             
-            # Shift the glyph
-            gDest.moveBy((-marginChange, 0))
-            gDest.width -= marginChange * 2
-            # hift the components back?
-            for c in gDest.components:
-                c.moveBy((marginChange, 0))
+            # Move the components
+            #for cIdx, c in enumerate(gDest.components):
+            #    ident = "component%s" % cIdx
+            #    if ident in pointData:
+            #        #c.offset = (c.offset[0] - int(round(pointData[ident]["x"])), 
+            #        #           c.offset[1] - int(round(pointData[ident]["y"])))
+            #        c.offset = (int(round(pointData[ident]["x"])), 
+            #                   int(round(pointData[ident]["y"])))
             
+            # Shift the glyph
+            gDest.moveBy((-marginChange[0], 0))
+            gDest.width -= marginChange[0] * 2
+            # shift the components back?
+            #for c in gDest.components:
+            #    if gName == "onehalf":
+            #        print("before", c.offset)
+            #    c.moveBy(marginChange)
+            #    if gName == "onehalf":
+            #        print("after", c.offset)
+                
             if doForceSmooth:
                 # If a bPoint was a smooth curve point in the original glyph,
                 # force the related bPoint in the rotated glyph to be smooth
@@ -531,7 +569,7 @@ def buildDesignSpace(
         
  
     """ New DesignSpaceDocument """
-        
+
     designSpace = DesignSpaceDocument()
     designSpaceDocFilename = os.path.splitext(masterFileName)[0] + ".designspace"
     designSpaceDocPath = os.path.join(destPath, designSpaceDocFilename)

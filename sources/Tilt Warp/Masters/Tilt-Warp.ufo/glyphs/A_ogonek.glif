@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aogonek" format="2">
+  <advance width="657"/>
+  <unicode hex="0104"/>
+  <anchor x="657" y="0" name="ogonek"/>
+  <anchor x="328.0" y="0" name="below"/>
+  <anchor x="328.0" y="680.0" name="above"/>
+  <outline>
+    <component base="A"/>
+    <component base="ogonek" xOffset="282" yOffset="-24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.9529,0.7529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

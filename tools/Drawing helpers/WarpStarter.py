@@ -227,17 +227,25 @@ class CurvePen(BasePen):
     def _endPath(self):
         self.pen.endPath()
         self.prevPt = None
+    
+    def addComponent(self, glyphName, transformation):
+        # Skip processing components
+        pass
         
         
 
 class WarpWindow:
     
     def __init__(self):
-        self.w = vanilla.FloatingWindow((140, 205), "Warp Starter")
+        self.w = vanilla.FloatingWindow((175, 235), "Warp Starter")
         step = 10
-        self.w.decomposeButton = vanilla.SquareButton((10, step, -10, 25), "Decomp/Overlaps", sizeStyle="small", callback=self.doDecompose)
+        self.w.decomposeAllButton = vanilla.SquareButton((10, step, -10, 25), "Decomp/Deoverlap All", sizeStyle="small", callback=self.doDecompose)
+        self.w.decomposeAllButton.id = "all"
         step += 30
-        self.w.curveButton = vanilla.SquareButton((10, step, -10, 25), "Curve Segments", sizeStyle="small", callback=self.doCurve)
+        self.w.decomposeSomeButton = vanilla.SquareButton((10, step, -10, 25), "Decomp/Deverlap Mixed", sizeStyle="small", callback=self.doDecompose)
+        self.w.decomposeSomeButton.id = "mixed"
+        step += 30
+        self.w.curveButton = vanilla.SquareButton((10, step, -10, 25), "Flat to Curve Segments", sizeStyle="small", callback=self.doCurve)
         step += 30
         self.w.warpHButton = vanilla.SquareButton((10, step, -10, 25), "AutoWarp H", sizeStyle="small", callback=self.doWarp)
         step += 24
@@ -286,8 +294,17 @@ class WarpWindow:
         for g in glyphs:
             g.prepareUndo("Decompose, Remove Overlaps")
             if not g == None:
-                for c in g.components:
-                    c.decompose()
+                doDecomp = False
+                if sender.id == "mixed":
+                    # Only decompose glyphs with mixed contours and components
+                    if len(g.components) and len(g.contours):
+                        doDecomp = True
+                else: # Or, decompose all
+                    doDecomp = True
+                if doDecomp:
+                    for c in g.components:
+                        c.decompose()
+                # Always remove overlaps:
                 g.removeOverlap()
             g.performUndo()
     

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflexhoi" format="2">
+  <advance width="567"/>
+  <unicode hex="1EC3"/>
+  <outline>
+    <component base="e"/>
+    <component base="circumflexcmb" xOffset="294" yOffset="5"/>
+    <component base="hookabovecmb" xOffset="488" yOffset="168"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
+</glyph>

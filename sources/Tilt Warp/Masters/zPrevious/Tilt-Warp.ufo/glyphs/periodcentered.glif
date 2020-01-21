@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered" format="2">
+  <advance width="291"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="146" y="205" type="curve" name="QZPGWSXH"/>
+      <point x="203" y="205" name="IGSLINGF"/>
+      <point x="251" y="252" name="TOMNVNZE"/>
+      <point x="251" y="309" type="curve" smooth="yes" name="ETDWYTUG"/>
+      <point x="251" y="365" name="KMWFBMFJ"/>
+      <point x="203" y="412" name="KKATHTBD"/>
+      <point x="146" y="412" type="curve" smooth="yes" name="PWWKNFZR"/>
+      <point x="87" y="412" name="LKKGBRFB"/>
+      <point x="40" y="365" name="MSRLSYGZ"/>
+      <point x="40" y="309" type="curve" smooth="yes" name="KUGZVPRU"/>
+      <point x="40" y="252" name="YFFKTDCF"/>
+      <point x="87" y="205" name="PKSSAORT"/>
+      <point x="146" y="205" type="curve" name="GZGCNOTH"/>
+      <point x="146" y="205" name="FGFFLEOO"/>
+      <point x="146" y="205" name="KBGQMAQN"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ETDWYTUG</key>
+        <integer>104</integer>
+        <key>FGFFLEOO</key>
+        <integer>135</integer>
+        <key>GZGCNOTH</key>
+        <integer>135</integer>
+        <key>IGSLINGF</key>
+        <integer>135</integer>
+        <key>KBGQMAQN</key>
+        <integer>135</integer>
+        <key>KKATHTBD</key>
+        <integer>136</integer>
+        <key>KMWFBMFJ</key>
+        <integer>104</integer>
+        <key>KUGZVPRU</key>
+        <integer>104</integer>
+        <key>LKKGBRFB</key>
+        <integer>135</integer>
+        <key>MSRLSYGZ</key>
+        <integer>105</integer>
+        <key>PKSSAORT</key>
+        <integer>135</integer>
+        <key>PWWKNFZR</key>
+        <integer>135</integer>
+        <key>QZPGWSXH</key>
+        <integer>135</integer>
+        <key>TOMNVNZE</key>
+        <integer>104</integer>
+        <key>YFFKTDCF</key>
+        <integer>104</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelowcmb" format="2">
+  <unicode hex="0331"/>
+  <anchor x="0" y="0" name="_below"/>
+  <anchor x="0" y="-193" name="below"/>
+  <outline>
+    <contour>
+      <point x="-166" y="-194" type="curve" name="GLPMLFKW"/>
+      <point x="-56" y="-194" name="YRIJSRQA"/>
+      <point x="57" y="-194" name="RRQVNKYP"/>
+      <point x="167" y="-194" type="curve" name="OEDDIMYF"/>
+      <point x="167" y="-151" name="WJIGJMEA"/>
+      <point x="167" y="-106" name="WFUADCGJ"/>
+      <point x="167" y="-63" type="curve" name="CVANYEDP"/>
+      <point x="57" y="-63" name="OVSHIPNW"/>
+      <point x="-56" y="-63" name="ACGKTCQY"/>
+      <point x="-166" y="-63" type="curve" name="XFYYWCPX"/>
+      <point x="-166" y="-106" name="EWAAYWLO"/>
+      <point x="-166" y="-151" name="MHWGSJDJ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ACGKTCQY</key>
+        <integer>119</integer>
+        <key>CVANYEDP</key>
+        <integer>141</integer>
+        <key>EWAAYWLO</key>
+        <integer>107</integer>
+        <key>GLPMLFKW</key>
+        <integer>141</integer>
+        <key>MHWGSJDJ</key>
+        <integer>107</integer>
+        <key>OEDDIMYF</key>
+        <integer>141</integer>
+        <key>OVSHIPNW</key>
+        <integer>119</integer>
+        <key>RRQVNKYP</key>
+        <integer>119</integer>
+        <key>WFUADCGJ</key>
+        <integer>107</integer>
+        <key>WJIGJMEA</key>
+        <integer>107</integer>
+        <key>XFYYWCPX</key>
+        <integer>141</integer>
+        <key>YRIJSRQA</key>
+        <integer>119</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

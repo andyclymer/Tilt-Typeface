@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcedilla.alt" format="2">
+  <advance width="430"/>
+  <anchor x="198.0" y="657" name="above"/>
+  <anchor x="198.0" y="0" name="below"/>
+  <anchor x="274" y="517" name="right"/>
+  <outline>
+    <component base="t.alt"/>
+    <component base="cedillacmb" xOffset="238" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.9529,0.7529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

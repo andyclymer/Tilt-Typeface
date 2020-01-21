@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentbelowcmb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="0" y="0" name="_below"/>
+  <anchor x="0" y="-218" name="below"/>
+  <outline>
+    <contour>
+      <point x="-94" y="-224" type="curve" name="QHGFJWTR"/>
+      <point x="-51" y="-224" name="EBYKTRBO"/>
+      <point x="-7" y="-224" name="YIBGOKZM"/>
+      <point x="36" y="-224" type="curve" name="SALJGVGL"/>
+      <point x="55" y="-170" name="JPGHBIBN"/>
+      <point x="75" y="-115" name="RZXPOTIP"/>
+      <point x="94" y="-61" type="curve" name="TAZCKWIB"/>
+      <point x="44" y="-61" name="UTIQRUAJ"/>
+      <point x="-8" y="-61" name="XVOJUJVH"/>
+      <point x="-58" y="-61" type="curve" name="XJOZCVST"/>
+      <point x="-70" y="-115" name="JXXMRBVM"/>
+      <point x="-82" y="-170" name="SGVVIPPS"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>EBYKTRBO</key>
+        <integer>132</integer>
+        <key>JPGHBIBN</key>
+        <integer>91</integer>
+        <key>JXXMRBVM</key>
+        <integer>93</integer>
+        <key>QHGFJWTR</key>
+        <integer>141</integer>
+        <key>RZXPOTIP</key>
+        <integer>94</integer>
+        <key>SALJGVGL</key>
+        <integer>133</integer>
+        <key>SGVVIPPS</key>
+        <integer>95</integer>
+        <key>TAZCKWIB</key>
+        <integer>141</integer>
+        <key>UTIQRUAJ</key>
+        <integer>131</integer>
+        <key>XJOZCVST</key>
+        <integer>135</integer>
+        <key>XVOJUJVH</key>
+        <integer>129</integer>
+        <key>YIBGOKZM</key>
+        <integer>129</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncmb" format="2">
+  <unicode hex="031B"/>
+  <anchor x="0" y="517" name="horn"/>
+  <outline>
+    <contour>
+      <point x="0" y="409" type="curve" name="XFDEOWRY"/>
+      <point x="167" y="409" name="OIAXLMQB"/>
+      <point x="254" y="498" name="YXHPETUI"/>
+      <point x="253" y="652" type="curve" name="XBLRFBSO"/>
+      <point x="206" y="652" name="IIRFTVYS"/>
+      <point x="159" y="652" name="YVZNGQEA"/>
+      <point x="112" y="652" type="curve" name="WZVGEFWI"/>
+      <point x="112" y="567" name="BBRVJPGG"/>
+      <point x="89" y="517" name="FACGBABC"/>
+      <point x="0" y="517" type="curve" name="NAFHDTTP"/>
+      <point x="0" y="481" name="WZXZHWAZ"/>
+      <point x="0" y="445" name="BFFQIBED"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BBRVJPGG</key>
+        <integer>70</integer>
+        <key>BFFQIBED</key>
+        <integer>122</integer>
+        <key>FACGBABC</key>
+        <integer>85</integer>
+        <key>IIRFTVYS</key>
+        <integer>141</integer>
+        <key>NAFHDTTP</key>
+        <integer>102</integer>
+        <key>OIAXLMQB</key>
+        <integer>117</integer>
+        <key>WZVGEFWI</key>
+        <integer>138</integer>
+        <key>WZXZHWAZ</key>
+        <integer>106</integer>
+        <key>XBLRFBSO</key>
+        <integer>150</integer>
+        <key>XFDEOWRY</key>
+        <integer>150</integer>
+        <key>YVZNGQEA</key>
+        <integer>137</integer>
+        <key>YXHPETUI</key>
+        <integer>27</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

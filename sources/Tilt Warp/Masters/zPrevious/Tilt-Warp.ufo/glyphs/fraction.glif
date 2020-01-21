@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="568"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="17" y="0" type="curve" name="EHETETDC"/>
+      <point x="63" y="0" name="EHWFLKLQ"/>
+      <point x="109" y="0" name="IBKRCMDZ"/>
+      <point x="155" y="0" type="curve" name="SQFAOMXR"/>
+      <point x="286" y="224" name="MSKGDTKX"/>
+      <point x="420" y="456" name="RRFCHHDH"/>
+      <point x="551" y="680" type="curve" name="QIXEMUVI"/>
+      <point x="505" y="680" name="DAJLJXMU"/>
+      <point x="459" y="680" name="WLGLQKZM"/>
+      <point x="413" y="680" type="curve" name="WAUTEDAO"/>
+      <point x="282" y="456" name="XHGYMSIF"/>
+      <point x="148" y="224" name="EKPUKGCV"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>DAJLJXMU</key>
+        <integer>192</integer>
+        <key>EHETETDC</key>
+        <integer>201</integer>
+        <key>EHWFLKLQ</key>
+        <integer>192</integer>
+        <key>EKPUKGCV</key>
+        <integer>-4</integer>
+        <key>IBKRCMDZ</key>
+        <integer>185</integer>
+        <key>MSKGDTKX</key>
+        <integer>-11</integer>
+        <key>QIXEMUVI</key>
+        <integer>201</integer>
+        <key>RRFCHHDH</key>
+        <integer>-4</integer>
+        <key>SQFAOMXR</key>
+        <integer>181</integer>
+        <key>WAUTEDAO</key>
+        <integer>181</integer>
+        <key>WLGLQKZM</key>
+        <integer>185</integer>
+        <key>XHGYMSIF</key>
+        <integer>-11</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

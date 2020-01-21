@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncmb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="0" y="517" name="_above"/>
+  <anchor x="0" y="694" name="above"/>
+  <outline>
+    <contour>
+      <point x="-166" y="580" type="curve" name="JNYMRBYY"/>
+      <point x="-56" y="580" name="ZGMRTQVR"/>
+      <point x="57" y="580" name="TOILBODQ"/>
+      <point x="167" y="580" type="curve" name="XMPTMHVF"/>
+      <point x="167" y="623" name="PXMQFECS"/>
+      <point x="167" y="668" name="PJBTAIAH"/>
+      <point x="167" y="711" type="curve" name="HNCWJTTM"/>
+      <point x="57" y="711" name="CMLUMDWS"/>
+      <point x="-56" y="711" name="SSMKSYTE"/>
+      <point x="-166" y="711" type="curve" name="EMLNVRFA"/>
+      <point x="-166" y="668" name="TYLZGPIM"/>
+      <point x="-166" y="623" name="MBMMKMML"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CMLUMDWS</key>
+        <integer>119</integer>
+        <key>EMLNVRFA</key>
+        <integer>141</integer>
+        <key>HNCWJTTM</key>
+        <integer>141</integer>
+        <key>JNYMRBYY</key>
+        <integer>141</integer>
+        <key>MBMMKMML</key>
+        <integer>107</integer>
+        <key>PJBTAIAH</key>
+        <integer>107</integer>
+        <key>PXMQFECS</key>
+        <integer>107</integer>
+        <key>SSMKSYTE</key>
+        <integer>119</integer>
+        <key>TOILBODQ</key>
+        <integer>119</integer>
+        <key>TYLZGPIM</key>
+        <integer>107</integer>
+        <key>XMPTMHVF</key>
+        <integer>141</integer>
+        <key>ZGMRTQVR</key>
+        <integer>119</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

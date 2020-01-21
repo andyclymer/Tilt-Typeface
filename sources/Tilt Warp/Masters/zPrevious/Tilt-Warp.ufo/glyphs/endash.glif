@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endash" format="2">
+  <advance width="555"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="65" y="231" type="curve" name="PHUDTHOU"/>
+      <point x="205" y="231" name="OJIVABOT"/>
+      <point x="350" y="231" name="ZAXESJNI"/>
+      <point x="490" y="231" type="curve" name="PUCVKANP"/>
+      <point x="490" y="282" name="LIRNCCBY"/>
+      <point x="490" y="335" name="AMBXISBA"/>
+      <point x="490" y="386" type="curve" name="MGJJQIIT"/>
+      <point x="350" y="386" name="IUFLWXQJ"/>
+      <point x="205" y="386" name="LUEHRKKW"/>
+      <point x="65" y="386" type="curve" name="NMXYSPEH"/>
+      <point x="65" y="335" name="KAHVBOEG"/>
+      <point x="65" y="282" name="YXQENROW"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AMBXISBA</key>
+        <integer>105</integer>
+        <key>IUFLWXQJ</key>
+        <integer>118</integer>
+        <key>KAHVBOEG</key>
+        <integer>105</integer>
+        <key>LIRNCCBY</key>
+        <integer>105</integer>
+        <key>LUEHRKKW</key>
+        <integer>118</integer>
+        <key>MGJJQIIT</key>
+        <integer>146</integer>
+        <key>NMXYSPEH</key>
+        <integer>146</integer>
+        <key>OJIVABOT</key>
+        <integer>118</integer>
+        <key>PHUDTHOU</key>
+        <integer>146</integer>
+        <key>PUCVKANP</key>
+        <integer>146</integer>
+        <key>YXQENROW</key>
+        <integer>105</integer>
+        <key>ZAXESJNI</key>
+        <integer>118</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

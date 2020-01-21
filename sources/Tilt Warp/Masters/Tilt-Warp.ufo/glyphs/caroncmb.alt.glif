@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncmb.alt" format="2">
+  <anchor x="-125" y="517" name="right"/>
+  <outline>
+    <contour>
+      <point x="-99" y="517" type="curve" name="NEPAUSEK"/>
+      <point x="-51" y="517" name="WMECXYJC"/>
+      <point x="-3" y="517" name="ZDOLXFVM"/>
+      <point x="45" y="517" type="curve" name="CMHPFHKX"/>
+      <point x="63" y="587" name="FPBWHGSS"/>
+      <point x="81" y="660" name="LHUCAUBV"/>
+      <point x="99" y="730" type="curve" name="BPBYNGBO"/>
+      <point x="47" y="730" name="FHCCWMYT"/>
+      <point x="-8" y="730" name="VAHFVCNI"/>
+      <point x="-60" y="730" type="curve" name="QULOZSEZ"/>
+      <point x="-73" y="660" name="BTHJYVTF"/>
+      <point x="-86" y="587" name="GIYQTGXV"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BPBYNGBO</key>
+        <integer>147</integer>
+        <key>BTHJYVTF</key>
+        <integer>86</integer>
+        <key>CMHPFHKX</key>
+        <integer>139</integer>
+        <key>FHCCWMYT</key>
+        <integer>136</integer>
+        <key>FPBWHGSS</key>
+        <integer>84</integer>
+        <key>GIYQTGXV</key>
+        <integer>88</integer>
+        <key>LHUCAUBV</key>
+        <integer>87</integer>
+        <key>NEPAUSEK</key>
+        <integer>147</integer>
+        <key>QULOZSEZ</key>
+        <integer>140</integer>
+        <key>VAHFVCNI</key>
+        <integer>134</integer>
+        <key>WMECXYJC</key>
+        <integer>137</integer>
+        <key>ZDOLXFVM</key>
+        <integer>134</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

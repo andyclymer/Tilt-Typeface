@@ -1,54 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="grave" format="2">
-  <advance width="408"/>
+  <advance width="500"/>
   <unicode hex="0060"/>
-  <anchor x="0" y="517" name="top"/>
-  <anchor x="254" y="517" name="center"/>
   <outline>
-    <contour>
-      <point x="338" y="584" type="curve" name="QKLOQYYS"/>
-      <point x="302" y="649" name="EKMJABDY"/>
-      <point x="265" y="715" name="ONUFSLSF"/>
-      <point x="229" y="780" type="curve" name="QPUOPUTP"/>
-      <point x="170" y="780" name="WVCSZZSQ"/>
-      <point x="109" y="780" name="STXECLNL"/>
-      <point x="50" y="780" type="curve" name="ZSEZFOQR"/>
-      <point x="94" y="715" name="WZKTZVJM"/>
-      <point x="140" y="649" name="KDAEIIAP"/>
-      <point x="184" y="584" type="curve" name="EJOKDFUQ"/>
-      <point x="235" y="584" name="YQSBGQFD"/>
-      <point x="287" y="584" name="DBAEONDD"/>
-    </contour>
+    <component base="gravecmb" xOffset="300"/>
   </outline>
   <lib>
     <dict>
       <key>com.andyclymer.zPosition</key>
-      <dict>
-        <key>DBAEONDD</key>
-        <integer>136</integer>
-        <key>EJOKDFUQ</key>
-        <integer>132</integer>
-        <key>EKMJABDY</key>
-        <integer>87</integer>
-        <key>KDAEIIAP</key>
-        <integer>81</integer>
-        <key>ONUFSLSF</key>
-        <integer>83</integer>
-        <key>QKLOQYYS</key>
-        <integer>146</integer>
-        <key>QPUOPUTP</key>
-        <integer>133</integer>
-        <key>STXECLNL</key>
-        <integer>135</integer>
-        <key>WVCSZZSQ</key>
-        <integer>130</integer>
-        <key>WZKTZVJM</key>
-        <integer>86</integer>
-        <key>YQSBGQFD</key>
-        <integer>131</integer>
-        <key>ZSEZFOQR</key>
-        <integer>146</integer>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

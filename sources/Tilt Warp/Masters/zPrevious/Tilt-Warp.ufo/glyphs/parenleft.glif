@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft" format="2">
+  <advance width="462"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="30" y="305" type="curve" name="RSMPYDZB"/>
+      <point x="30" y="-4" name="BTKVQRFF"/>
+      <point x="222" y="-166" name="HTNSLNRR"/>
+      <point x="431" y="-191" type="curve" name="DPHTZKAV"/>
+      <point x="431" y="-142" name="SIUDKENB"/>
+      <point x="431" y="-90" name="SCHHESKV"/>
+      <point x="431" y="-41" type="curve" name="PDXUWWRV"/>
+      <point x="292" y="-7" name="NLXCFGCY"/>
+      <point x="198" y="88" name="PZDRSFCT"/>
+      <point x="198" y="305" type="curve" smooth="yes" name="KEZVIHSS"/>
+      <point x="198" y="522" name="INWVQWRK"/>
+      <point x="292" y="617" name="WLZEAFML"/>
+      <point x="431" y="651" type="curve" name="MWKIPRTY"/>
+      <point x="431" y="700" name="GMANSJJU"/>
+      <point x="431" y="752" name="BOQKWZGT"/>
+      <point x="431" y="801" type="curve" name="MVPRRIMG"/>
+      <point x="222" y="776" name="MRXXNJYT"/>
+      <point x="30" y="614" name="WPCWGXNN"/>
+      <point x="30" y="305" type="curve" name="KZZEFDLR"/>
+      <point x="30" y="305" name="RCIOCJMT"/>
+      <point x="30" y="305" name="FDKPBVNI"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BOQKWZGT</key>
+        <integer>190</integer>
+        <key>BTKVQRFF</key>
+        <integer>31</integer>
+        <key>DPHTZKAV</key>
+        <integer>229</integer>
+        <key>FDKPBVNI</key>
+        <integer>31</integer>
+        <key>GMANSJJU</key>
+        <integer>155</integer>
+        <key>HTNSLNRR</key>
+        <integer>167</integer>
+        <key>INWVQWRK</key>
+        <integer>11</integer>
+        <key>KEZVIHSS</key>
+        <integer>11</integer>
+        <key>KZZEFDLR</key>
+        <integer>31</integer>
+        <key>MRXXNJYT</key>
+        <integer>167</integer>
+        <key>MVPRRIMG</key>
+        <integer>229</integer>
+        <key>MWKIPRTY</key>
+        <integer>128</integer>
+        <key>NLXCFGCY</key>
+        <integer>81</integer>
+        <key>PDXUWWRV</key>
+        <integer>128</integer>
+        <key>PZDRSFCT</key>
+        <integer>11</integer>
+        <key>RCIOCJMT</key>
+        <integer>31</integer>
+        <key>RSMPYDZB</key>
+        <integer>31</integer>
+        <key>SCHHESKV</key>
+        <integer>155</integer>
+        <key>SIUDKENB</key>
+        <integer>190</integer>
+        <key>WLZEAFML</key>
+        <integer>81</integer>
+        <key>WPCWGXNN</key>
+        <integer>31</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
