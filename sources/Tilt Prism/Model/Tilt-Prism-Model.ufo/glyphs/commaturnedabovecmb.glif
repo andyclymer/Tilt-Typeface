@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecmb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="0" y="517" name="_above"/>
+  <anchor x="0" y="725" name="above"/>
+  <outline>
+    <contour>
+      <point x="68.0" y="580.0" type="curve"/>
+      <point x="-89.0" y="580.0" type="line"/>
+      <point x="-96.0" y="663.0"/>
+      <point x="-55.0" y="757.0"/>
+      <point x="103.0" y="771.0" type="curve"/>
+      <point x="53.0" y="699.0"/>
+      <point x="52.0" y="641.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>
