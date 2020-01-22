@@ -1,56 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ring" format="2">
-  <advance width="420"/>
+  <advance width="500"/>
   <unicode hex="02DA"/>
-  <anchor x="0" y="517" name="top"/>
-  <anchor x="210" y="517" name="center"/>
   <outline>
-    <contour>
-      <point x="209" y="579" type="curve" smooth="yes" name="APOMLGMY"/>
-      <point x="148" y="579" name="OAOBLYLY"/>
-      <point x="108" y="620" name="SHDOBWMR"/>
-      <point x="108" y="680" type="curve" smooth="yes" name="TLGFPBRY"/>
-      <point x="108" y="738" name="YDHYXWPX"/>
-      <point x="148" y="780" name="ZWSWMUXO"/>
-      <point x="209" y="780" type="curve" smooth="yes" name="VZRBYYTG"/>
-      <point x="270" y="780" name="LZTOQHJN"/>
-      <point x="312" y="738" name="FWYJUKXX"/>
-      <point x="312" y="680" type="curve" smooth="yes" name="HLVUABIX"/>
-      <point x="312" y="620" name="SKUHCAVT"/>
-      <point x="270" y="579" name="OYWZEMOQ"/>
-    </contour>
+    <component base="ringabovecmb" xOffset="250"/>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.zPosition</key>
-      <dict>
-        <key>APOMLGMY</key>
-        <integer>100</integer>
-        <key>FWYJUKXX</key>
-        <integer>100</integer>
-        <key>HLVUABIX</key>
-        <integer>100</integer>
-        <key>LZTOQHJN</key>
-        <integer>100</integer>
-        <key>OAOBLYLY</key>
-        <real>100.0</real>
-        <key>OYWZEMOQ</key>
-        <integer>100</integer>
-        <key>SHDOBWMR</key>
-        <integer>100</integer>
-        <key>SKUHCAVT</key>
-        <integer>100</integer>
-        <key>TLGFPBRY</key>
-        <integer>100</integer>
-        <key>VZRBYYTG</key>
-        <integer>100</integer>
-        <key>YDHYXWPX</key>
-        <integer>100</integer>
-        <key>ZWSWMUXO</key>
-        <integer>100</integer>
-      </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.5725,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecmb" format="2">
+  <unicode hex="0301"/>
+  <anchor x="0" y="517" name="_above"/>
+  <anchor x="0" y="728" name="above"/>
+  <anchor x="0" y="517" name="_aboveright"/>
+  <outline>
+    <contour>
+      <point x="64.0" y="687.0" type="move"/>
+      <point x="33.0" y="640.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="25.0" y="747.0" type="move"/>
+      <point x="64.0" y="687.0" type="line"/>
+      <point x="181.0" y="747.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="60.0" y="580.0" type="move"/>
+      <point x="33.0" y="640.0" type="line"/>
+      <point x="-73.0" y="580.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

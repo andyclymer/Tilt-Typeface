@@ -62,8 +62,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
       <key>com.andyclymer.zPosition</key>
       <dict>
         <key>ASEWXZON</key>
@@ -147,6 +145,8 @@
         <key>ZXCUAMGB</key>
         <integer>100</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

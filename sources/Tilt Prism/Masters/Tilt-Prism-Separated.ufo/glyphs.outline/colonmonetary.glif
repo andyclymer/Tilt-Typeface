@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonmonetary" format="2">
+  <advance width="566"/>
+  <unicode hex="20A1"/>
+  <outline>
+    <contour>
+      <point x="460" y="750.0" type="line"/>
+      <point x="351" y="750.0" type="line"/>
+      <point x="254" y="-80.0" type="line"/>
+      <point x="363" y="-80.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="750" type="line"/>
+      <point x="191" y="750" type="line"/>
+      <point x="167" y="542" type="line"/>
+      <point x="276" y="542" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="162" type="line"/>
+      <point x="94" y="-80" type="line"/>
+      <point x="203" y="-80" type="line"/>
+      <point x="231" y="162" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="339" type="curve" smooth="yes"/>
+      <point x="179.0" y="456.83084577114425"/>
+      <point x="242.0" y="530.0"/>
+      <point x="333" y="530" type="curve" smooth="yes"/>
+      <point x="393.0" y="530.0"/>
+      <point x="455.60548707314854" y="507.75806926263965"/>
+      <point x="496" y="473" type="curve"/>
+      <point x="496" y="624" type="line"/>
+      <point x="452" y="643"/>
+      <point x="396" y="654"/>
+      <point x="340" y="654" type="curve" smooth="yes"/>
+      <point x="149" y="654"/>
+      <point x="31" y="523"/>
+      <point x="31" y="337" type="curve" smooth="yes"/>
+      <point x="31" y="151"/>
+      <point x="149" y="24"/>
+      <point x="340" y="24" type="curve" smooth="yes"/>
+      <point x="396" y="24"/>
+      <point x="452" y="35"/>
+      <point x="496" y="54" type="curve"/>
+      <point x="496" y="205" type="line"/>
+      <point x="453.87314073773877" y="167.55390287799003"/>
+      <point x="394.0" y="149.0"/>
+      <point x="334" y="149" type="curve" smooth="yes"/>
+      <point x="243.0" y="149.0"/>
+      <point x="179.0" y="221.2"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravedoublecmb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="0" y="517" name="_above"/>
+  <anchor x="0" y="728" name="above"/>
+  <outline>
+    <contour>
+      <point x="36.0" y="687.0" type="move"/>
+      <point x="64.0" y="640.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-76.0" y="747.0" type="move"/>
+      <point x="36.0" y="687.0" type="line"/>
+      <point x="75.0" y="747.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="165.0" y="580.0" type="move"/>
+      <point x="64.0" y="640.0" type="line"/>
+      <point x="36.0" y="580.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-144.0" y="687.0" type="move"/>
+      <point x="-111.0" y="640.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-262.0" y="747.0" type="move"/>
+      <point x="-144.0" y="687.0" type="line"/>
+      <point x="-111.0" y="747.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-4.0" y="580.0" type="move"/>
+      <point x="-111.0" y="640.0" type="line"/>
+      <point x="-133.0" y="580.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncmb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="0" y="517" name="_above"/>
+  <anchor x="0" y="694" name="above"/>
+  <outline>
+    <contour>
+      <point x="-166" y="701" type="move"/>
+      <point x="-106.0" y="640.0" type="line"/>
+      <point x="-166.0" y="580.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-106.0" y="640.0" type="move"/>
+      <point x="107.0" y="640.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="167.0" y="580.0" type="move"/>
+      <point x="107.0" y="640.0" type="line"/>
+      <point x="167.0" y="701.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>
