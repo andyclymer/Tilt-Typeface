@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="amacron.alt" format="2">
+  <advance width="383"/>
+  <outline>
+    <component base="a.alt"/>
+    <component base="macroncmb" xOffset="187" yOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
+</glyph>

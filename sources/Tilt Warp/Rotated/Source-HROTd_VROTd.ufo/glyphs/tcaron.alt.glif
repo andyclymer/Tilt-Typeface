@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron.alt" format="2">
+  <advance width="430"/>
+  <outline>
+    <component base="t.alt"/>
+    <component base="caroncmb.alt" xOffset="395" yOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
+</glyph>

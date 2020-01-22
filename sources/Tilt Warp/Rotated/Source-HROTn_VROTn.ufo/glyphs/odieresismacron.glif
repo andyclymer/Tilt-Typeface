@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresismacron" format="2">
+  <advance width="424"/>
+  <unicode hex="022B"/>
+  <outline>
+    <component base="o"/>
+    <component base="dieresiscmb" xOffset="216" yOffset="4"/>
+    <component base="macroncmb" xOffset="330" yOffset="164"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
+</glyph>
