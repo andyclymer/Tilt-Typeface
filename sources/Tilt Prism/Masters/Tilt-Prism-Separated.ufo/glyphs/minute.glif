@@ -4,17 +4,38 @@
   <unicode hex="2032"/>
   <outline>
     <contour>
-      <point x="38" y="398" type="curve"/>
-      <point x="114" y="680" type="line"/>
-      <point x="283" y="680" type="line"/>
-      <point x="249" y="567"/>
-      <point x="166" y="453"/>
+      <point x="38" y="398" type="move" name="XTDAZHEN"/>
+      <point x="99" y="457" name="OWPBIJID"/>
+      <point x="146" y="536" name="QRPNPSED"/>
+      <point x="178" y="618" type="curve" smooth="yes" name="PNPNHUXE"/>
+    </contour>
+    <contour>
+      <point x="114.0" y="680.0" type="move" name="SFLOLYUF"/>
+      <point x="178.0" y="618.0" type="line" name="WZGBHWZC"/>
+      <point x="283.0" y="680.0" type="line" name="ECUUNSVW"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ECUUNSVW</key>
+        <real>0.0</real>
+        <key>OWPBIJID</key>
+        <integer>60</integer>
+        <key>PNPNHUXE</key>
+        <real>100.0</real>
+        <key>QRPNPSED</key>
+        <integer>100</integer>
+        <key>SFLOLYUF</key>
+        <integer>0</integer>
+        <key>WZGBHWZC</key>
+        <integer>100</integer>
+        <key>XTDAZHEN</key>
+        <integer>0</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9529,0.5804,0.5725,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

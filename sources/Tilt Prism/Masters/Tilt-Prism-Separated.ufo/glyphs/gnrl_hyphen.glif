@@ -3,12 +3,25 @@
   <advance width="340"/>
   <unicode hex="2010"/>
   <outline>
-    <component base="hyphen"/>
+    <contour>
+      <point x="243" y="335" type="move" name="RTCEFKAU"/>
+      <point x="97" y="302" type="line" name="ZSFYJKKA"/>
+    </contour>
+    <contour>
+      <point x="35" y="226" type="move" name="ERXSPNJE"/>
+      <point x="97" y="302" type="line" name="NGYHDOZU"/>
+      <point x="35" y="351" type="line" name="PFLILDAC"/>
+    </contour>
+    <contour>
+      <point x="305" y="411" type="move" name="ARPLPCEY"/>
+      <point x="243" y="335" type="line" name="LVQDJYOE"/>
+      <point x="305" y="286" type="line" name="EJGQMHQS"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.9529,0.5804,0.5725,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>
