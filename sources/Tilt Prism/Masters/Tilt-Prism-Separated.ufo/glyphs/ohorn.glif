@@ -5,13 +5,86 @@
   <anchor x="314" y="582" name="above"/>
   <anchor x="323" y="-1" name="below"/>
   <outline>
-    <component base="o"/>
-    <component base="horncmb" xOffset="363" yOffset="65"/>
+    <contour>
+      <point x="319" y="48" type="curve" smooth="yes" name="DFKCAXCA"/>
+      <point x="191" y="48" name="ELPILGRR"/>
+      <point x="102" y="146" name="UDOOMFQR"/>
+      <point x="102" y="291" type="curve" smooth="yes" name="LFRBSEFU"/>
+      <point x="102" y="436" name="EBGAXWTF"/>
+      <point x="191" y="532" name="XIVSCLDP"/>
+      <point x="319" y="532" type="curve" smooth="yes" name="MBNTYKZP"/>
+      <point x="446" y="532" name="HUGGUWLD"/>
+      <point x="536" y="435" name="ENGAXZNP"/>
+      <point x="536" y="291" type="curve" smooth="yes" name="SZMJQQHS"/>
+      <point x="536" y="146" name="UHKYOQNW"/>
+      <point x="446" y="48" name="QRUYFMRF"/>
+    </contour>
+    <contour>
+      <point x="475" y="717" type="move" name="BREVLGAS"/>
+      <point x="545" y="657" type="line" name="EKPYHYHX"/>
+      <point x="616" y="717" type="line" name="CPNROXOB"/>
+    </contour>
+    <contour>
+      <point x="545" y="657" type="move" name="DFYIQBVT"/>
+      <point x="536" y="564" name="ANIOKYMO"/>
+      <point x="479" y="536" name="VFMVKKDE"/>
+      <point x="319" y="532" type="curve" name="WNXJAMSB"/>
+      <point x="378" y="532" name="DQMONRCC"/>
+      <point x="451" y="527" name="ZYNCUBUO"/>
+      <point x="514" y="521" type="curve" name="BKWQABLA"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ANIOKYMO</key>
+        <integer>100</integer>
+        <key>BKWQABLA</key>
+        <real>0.0</real>
+        <key>BREVLGAS</key>
+        <integer>0</integer>
+        <key>CPNROXOB</key>
+        <real>0.0</real>
+        <key>DFKCAXCA</key>
+        <integer>100</integer>
+        <key>DFYIQBVT</key>
+        <integer>100</integer>
+        <key>DQMONRCC</key>
+        <integer>100</integer>
+        <key>EBGAXWTF</key>
+        <integer>100</integer>
+        <key>EKPYHYHX</key>
+        <integer>100</integer>
+        <key>ELPILGRR</key>
+        <integer>100</integer>
+        <key>ENGAXZNP</key>
+        <integer>100</integer>
+        <key>HUGGUWLD</key>
+        <integer>100</integer>
+        <key>LFRBSEFU</key>
+        <integer>100</integer>
+        <key>MBNTYKZP</key>
+        <integer>100</integer>
+        <key>QRUYFMRF</key>
+        <real>100.0</real>
+        <key>SZMJQQHS</key>
+        <integer>100</integer>
+        <key>UDOOMFQR</key>
+        <integer>100</integer>
+        <key>UHKYOQNW</key>
+        <integer>100</integer>
+        <key>VFMVKKDE</key>
+        <integer>100</integer>
+        <key>WNXJAMSB</key>
+        <integer>100</integer>
+        <key>XIVSCLDP</key>
+        <integer>100</integer>
+        <key>ZYNCUBUO</key>
+        <integer>70</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9529,0.5804,0.5725,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>
