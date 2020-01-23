@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance width="297"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="28.0" y="398.0" type="line"/>
+      <point x="114.0" y="680.0" type="line"/>
+      <point x="283.0" y="680.0" type="line"/>
+      <point x="169.0" y="398.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9529,0.5804,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>
