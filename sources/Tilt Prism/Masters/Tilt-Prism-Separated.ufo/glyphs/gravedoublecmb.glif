@@ -5,38 +5,73 @@
   <anchor x="0" y="728" name="above"/>
   <outline>
     <contour>
-      <point x="36.0" y="687.0" type="move"/>
-      <point x="64.0" y="640.0" type="line"/>
+      <point x="36.0" y="687.0" type="move" name="TURTGPPN"/>
+      <point x="64.0" y="640.0" type="line" name="VTNUWAFQ"/>
     </contour>
     <contour>
-      <point x="-76.0" y="747.0" type="move"/>
-      <point x="36.0" y="687.0" type="line"/>
-      <point x="75.0" y="747.0" type="line"/>
+      <point x="-76.0" y="747.0" type="move" name="HJFNVFTR"/>
+      <point x="36.0" y="687.0" type="line" name="XVTHHFKF"/>
+      <point x="75.0" y="747.0" type="line" name="XSBTTWQP"/>
     </contour>
     <contour>
-      <point x="165.0" y="580.0" type="move"/>
-      <point x="64.0" y="640.0" type="line"/>
-      <point x="36.0" y="580.0" type="line"/>
+      <point x="165.0" y="580.0" type="move" name="GEZEJVVZ"/>
+      <point x="64.0" y="640.0" type="line" name="OPOULVWT"/>
+      <point x="36.0" y="580.0" type="line" name="WQRNULVT"/>
     </contour>
     <contour>
-      <point x="-144.0" y="687.0" type="move"/>
-      <point x="-111.0" y="640.0" type="line"/>
+      <point x="-144.0" y="687.0" type="move" name="SBQJSXMR"/>
+      <point x="-111.0" y="640.0" type="line" name="GYDAHBCU"/>
     </contour>
     <contour>
-      <point x="-262.0" y="747.0" type="move"/>
-      <point x="-144.0" y="687.0" type="line"/>
-      <point x="-111.0" y="747.0" type="line"/>
+      <point x="-262.0" y="747.0" type="move" name="FIPONIGB"/>
+      <point x="-144.0" y="687.0" type="line" name="ZGTDMYJH"/>
+      <point x="-111.0" y="747.0" type="line" name="KTAIJYFX"/>
     </contour>
     <contour>
-      <point x="-4.0" y="580.0" type="move"/>
-      <point x="-111.0" y="640.0" type="line"/>
-      <point x="-133.0" y="580.0" type="line"/>
+      <point x="-4.0" y="580.0" type="move" name="TWUYAZNC"/>
+      <point x="-111.0" y="640.0" type="line" name="CJVODDZT"/>
+      <point x="-133.0" y="580.0" type="line" name="EVETYXNJ"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CJVODDZT</key>
+        <integer>100</integer>
+        <key>EVETYXNJ</key>
+        <real>0.0</real>
+        <key>FIPONIGB</key>
+        <integer>0</integer>
+        <key>GEZEJVVZ</key>
+        <integer>0</integer>
+        <key>GYDAHBCU</key>
+        <real>100.0</real>
+        <key>HJFNVFTR</key>
+        <integer>0</integer>
+        <key>KTAIJYFX</key>
+        <real>0.0</real>
+        <key>OPOULVWT</key>
+        <integer>100</integer>
+        <key>SBQJSXMR</key>
+        <integer>100</integer>
+        <key>TURTGPPN</key>
+        <integer>100</integer>
+        <key>TWUYAZNC</key>
+        <integer>0</integer>
+        <key>VTNUWAFQ</key>
+        <real>100.0</real>
+        <key>WQRNULVT</key>
+        <real>0.0</real>
+        <key>XSBTTWQP</key>
+        <real>0.0</real>
+        <key>XVTHHFKF</key>
+        <integer>100</integer>
+        <key>ZGTDMYJH</key>
+        <integer>100</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

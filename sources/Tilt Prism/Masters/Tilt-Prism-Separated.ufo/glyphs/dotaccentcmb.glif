@@ -5,20 +5,35 @@
   <anchor x="0" y="744" name="above"/>
   <outline>
     <contour>
-      <point x="-81.0" y="748.0" type="move"/>
-      <point x="-1" y="668" type="line"/>
-      <point x="80.0" y="587.0" type="line"/>
+      <point x="-81.0" y="748.0" type="move" name="QCGWULHO"/>
+      <point x="-1" y="668" type="line" name="YFPBKXNV"/>
+      <point x="80.0" y="587.0" type="line" name="INBZYEGN"/>
     </contour>
     <contour>
-      <point x="80.0" y="748.0" type="move"/>
-      <point x="-1" y="668" type="line"/>
-      <point x="-81.0" y="587.0" type="line"/>
+      <point x="80.0" y="748.0" type="move" name="HRMAKWLK"/>
+      <point x="-1" y="668" type="line" name="VOVZRJAG"/>
+      <point x="-81.0" y="587.0" type="line" name="GZCJRFMX"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>GZCJRFMX</key>
+        <real>0.0</real>
+        <key>HRMAKWLK</key>
+        <integer>0</integer>
+        <key>INBZYEGN</key>
+        <real>0.0</real>
+        <key>QCGWULHO</key>
+        <integer>0</integer>
+        <key>VOVZRJAG</key>
+        <integer>100</integer>
+        <key>YFPBKXNV</key>
+        <integer>100</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

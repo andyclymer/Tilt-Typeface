@@ -4,35 +4,81 @@
   <unicode hex="018F"/>
   <outline>
     <contour>
-      <point x="176" y="323" type="line"/>
-      <point x="176" y="183"/>
-      <point x="240" y="116"/>
-      <point x="328" y="116" type="curve" smooth="yes"/>
-      <point x="420" y="116"/>
-      <point x="493" y="186"/>
-      <point x="493" y="344" type="curve" smooth="yes"/>
-      <point x="493" y="586"/>
-      <point x="307" y="620"/>
-      <point x="84" y="500" type="curve"/>
-      <point x="84" y="644" type="line"/>
-      <point x="380" y="771"/>
-      <point x="645" y="648"/>
-      <point x="645" y="341" type="curve" smooth="yes"/>
-      <point x="645" y="138"/>
-      <point x="514" y="-16"/>
-      <point x="329" y="-16" type="curve" smooth="yes"/>
-      <point x="119" y="-16"/>
-      <point x="2" y="178"/>
-      <point x="46" y="410" type="curve"/>
-      <point x="513" y="410" type="line"/>
-      <point x="513" y="289" type="line"/>
-      <point x="149" y="289" type="line"/>
+      <point x="146" y="598" type="move" smooth="yes" name="RZTSEFVK"/>
+      <point x="379" y="682" name="WFTBGCLT"/>
+      <point x="569" y="595" name="IOMCAHWV"/>
+      <point x="569.0" y="350" type="curve" smooth="yes" name="DYZJJDHR"/>
+      <point x="569" y="162" name="THMGVAHW"/>
+      <point x="467" y="50" name="WIPSLLOY"/>
+      <point x="328" y="50" type="curve" smooth="yes" name="KLBNWDVB"/>
+      <point x="184" y="50" name="NBPNUMLW"/>
+      <point x="94" y="173" name="VKJDMGKI"/>
+      <point x="109" y="350" type="curve" name="DKCPPKST"/>
+      <point x="569.0" y="350.0" type="line" name="DKDASZYY"/>
+    </contour>
+    <contour>
+      <point x="84.0" y="500.0" type="move" name="WKQKAAJP"/>
+      <point x="146.0" y="598.0" type="line" name="TZVJVNTG"/>
+      <point x="84.0" y="644.0" type="line" name="OKVFBFVI"/>
+    </contour>
+    <contour>
+      <point x="46.0" y="410.0" type="move" name="DGEMQWAD"/>
+      <point x="109.0" y="350.0" type="line" name="AUITEDDY"/>
+      <point x="177.0" y="289.0" type="line" name="OVXAZZXQ"/>
+    </contour>
+    <contour>
+      <point x="488.0" y="410.0" type="move" name="OVMHVDAY"/>
+      <point x="569.0" y="350.0" type="line" name="FKWCRPKO"/>
+      <point x="490.0" y="289.0" type="line" name="CJZGQXPL"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AUITEDDY</key>
+        <integer>100</integer>
+        <key>CJZGQXPL</key>
+        <real>0.0</real>
+        <key>DGEMQWAD</key>
+        <integer>0</integer>
+        <key>DKCPPKST</key>
+        <integer>100</integer>
+        <key>DKDASZYY</key>
+        <real>100.0</real>
+        <key>DYZJJDHR</key>
+        <integer>100</integer>
+        <key>FKWCRPKO</key>
+        <integer>100</integer>
+        <key>IOMCAHWV</key>
+        <integer>100</integer>
+        <key>KLBNWDVB</key>
+        <integer>100</integer>
+        <key>NBPNUMLW</key>
+        <integer>100</integer>
+        <key>OKVFBFVI</key>
+        <real>0.0</real>
+        <key>OVMHVDAY</key>
+        <integer>0</integer>
+        <key>OVXAZZXQ</key>
+        <real>0.0</real>
+        <key>RZTSEFVK</key>
+        <integer>100</integer>
+        <key>THMGVAHW</key>
+        <integer>100</integer>
+        <key>TZVJVNTG</key>
+        <integer>100</integer>
+        <key>VKJDMGKI</key>
+        <integer>100</integer>
+        <key>WFTBGCLT</key>
+        <integer>100</integer>
+        <key>WIPSLLOY</key>
+        <integer>100</integer>
+        <key>WKQKAAJP</key>
+        <integer>0</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9529,0.5804,0.5725,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

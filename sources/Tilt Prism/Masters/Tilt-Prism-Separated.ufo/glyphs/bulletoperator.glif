@@ -3,12 +3,21 @@
   <advance width="291"/>
   <unicode hex="2219"/>
   <outline>
-    <component base="periodcentered"/>
+    <contour>
+      <point x="65" y="410" type="move" name="JHZPYSGX"/>
+      <point x="145" y="330" type="line" name="SPZNVLRZ"/>
+      <point x="226" y="249" type="line" name="EWEGOKCW"/>
+    </contour>
+    <contour>
+      <point x="65" y="249" type="move" name="PHNGTFYJ"/>
+      <point x="145" y="330" type="line" name="QXRCYFJA"/>
+      <point x="226" y="410" type="line" name="NQZWNOPH"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.9529,0.5804,0.5725,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

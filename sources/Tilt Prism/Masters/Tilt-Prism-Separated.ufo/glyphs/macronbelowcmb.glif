@@ -5,24 +5,43 @@
   <anchor x="0" y="-183" name="below"/>
   <outline>
     <contour>
-      <point x="-166.0" y="-63.0" type="move"/>
-      <point x="-106.0" y="-124.0" type="line"/>
-      <point x="-166.0" y="-184.0" type="line"/>
+      <point x="-166.0" y="-63.0" type="move" name="BCEYOVFG"/>
+      <point x="-106.0" y="-124.0" type="line" name="HFXNAZXU"/>
+      <point x="-166.0" y="-184.0" type="line" name="JJEXYVLF"/>
     </contour>
     <contour>
-      <point x="-106.0" y="-124.0" type="move"/>
-      <point x="107.0" y="-124.0" type="line"/>
+      <point x="-106.0" y="-124.0" type="move" name="QPFYVPJF"/>
+      <point x="107.0" y="-124.0" type="line" name="SERGJNAH"/>
     </contour>
     <contour>
-      <point x="167.0" y="-184.0" type="move"/>
-      <point x="107.0" y="-124.0" type="line"/>
-      <point x="167.0" y="-63.0" type="line"/>
+      <point x="167.0" y="-184.0" type="move" name="PWSAGMAO"/>
+      <point x="107.0" y="-124.0" type="line" name="DSKUFBVB"/>
+      <point x="167.0" y="-63.0" type="line" name="TWLOCJHA"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BCEYOVFG</key>
+        <integer>0</integer>
+        <key>DSKUFBVB</key>
+        <integer>100</integer>
+        <key>HFXNAZXU</key>
+        <integer>100</integer>
+        <key>JJEXYVLF</key>
+        <real>0.0</real>
+        <key>PWSAGMAO</key>
+        <integer>0</integer>
+        <key>QPFYVPJF</key>
+        <integer>100</integer>
+        <key>SERGJNAH</key>
+        <real>100.0</real>
+        <key>TWLOCJHA</key>
+        <real>0.0</real>
+      </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>
