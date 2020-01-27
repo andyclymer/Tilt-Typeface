@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="542"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="119" y="340" type="move"/>
+      <point x="379" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="635" type="move" name="IPTAQ"/>
+      <point x="423" y="635" type="line" name="CAGED"/>
+    </contour>
+    <contour>
+      <point x="249" y="40" type="move" name="JITUK"/>
+      <point x="249" y="625" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="635" type="move" name="IPTAQ"/>
+      <point x="423" y="635" type="line" name="CAGED"/>
+    </contour>
+    <contour>
+      <point x="249" y="40" type="move" name="JITUK"/>
+      <point x="249" y="625" type="line"/>
+    </contour>
+  </outline>
+</glyph>

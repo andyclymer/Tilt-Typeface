@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="709"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="136" y="40" type="move" name="JITUK"/>
+      <point x="136" y="640" type="line" name="IPTAQ"/>
+    </contour>
+    <contour>
+      <point x="574" y="40" type="move" name="BBRIK"/>
+      <point x="574" y="640" type="line" name="BACTA"/>
+    </contour>
+    <contour>
+      <point x="136" y="304" type="move" name="CFBCJ"/>
+      <point x="574" y="304" type="line" name="CAGED"/>
+    </contour>
+    <contour>
+      <point x="664" y="520" type="move"/>
+      <point x="45" y="520" type="line"/>
+    </contour>
+  </outline>
+</glyph>

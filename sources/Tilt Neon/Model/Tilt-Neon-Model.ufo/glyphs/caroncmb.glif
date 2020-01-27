@@ -1,26 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncmb" format="2">
   <unicode hex="030C"/>
-  <anchor x="0" y="517" name="_above"/>
-  <anchor x="0" y="728" name="above"/>
+  <anchor x="0" y="497" name="_above"/>
+  <anchor x="0" y="708" name="above"/>
   <outline>
     <contour>
-      <point x="-60" y="580" type="line"/>
-      <point x="47" y="747" type="line"/>
-      <point x="199" y="747" type="line"/>
-      <point x="88" y="580" type="line"/>
-    </contour>
-    <contour>
-      <point x="60" y="580" type="line"/>
-      <point x="-88" y="580" type="line"/>
-      <point x="-199" y="747" type="line"/>
-      <point x="-47" y="747" type="line"/>
+      <point x="144.45130285450213" y="650.3424893057646" type="curve" smooth="yes"/>
+      <point x="32.45130285450213" y="564.3424893057646" type="line" smooth="yes"/>
+      <point x="14.492251656895316" y="550.552503564745"/>
+      <point x="-10.49225165689533" y="550.552503564745"/>
+      <point x="-28.451302854502142" y="564.3424893057646" type="curve" smooth="yes"/>
+      <point x="-140.45130285450213" y="650.3424893057646" type="line" smooth="yes"/>
+      <point x="-161.86635862938923" y="666.7861928471958"/>
+      <point x="-166.10121423566648" y="699.0362470796151"/>
+      <point x="-149.65751069423533" y="720.4513028545022" type="curve" smooth="yes"/>
+      <point x="-133.21380715280418" y="741.8663586293892"/>
+      <point x="-100.96375292038493" y="746.1012142356666"/>
+      <point x="-79.54869714549785" y="729.6575106942354" type="curve" smooth="yes"/>
+      <point x="32.451302854502146" y="643.6575106942354" type="line"/>
+      <point x="-28.451302854502128" y="643.6575106942354" type="line"/>
+      <point x="83.54869714549787" y="729.6575106942354" type="line" smooth="yes"/>
+      <point x="104.96375292038495" y="746.1012142356666"/>
+      <point x="137.21380715280415" y="741.8663586293892"/>
+      <point x="153.65751069423533" y="720.4513028545022" type="curve" smooth="yes"/>
+      <point x="170.1012142356665" y="699.0362470796151"/>
+      <point x="165.8663586293892" y="666.7861928471958"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.9529,0.5804,0.5725,1</string>
+      <string>0.5725,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>
