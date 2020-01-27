@@ -2,6 +2,8 @@
 <glyph name="Tbar" format="2">
   <advance width="498"/>
   <unicode hex="0166"/>
+  <anchor x="249" y="-10" name="below"/>
+  <anchor x="249" y="685" name="above"/>
   <outline>
     <contour>
       <point x="119.0" y="390.0" type="curve" smooth="yes"/>

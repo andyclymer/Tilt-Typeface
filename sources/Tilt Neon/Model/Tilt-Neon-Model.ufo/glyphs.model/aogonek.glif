@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aogonek" format="2">
+  <advance width="584"/>
+  <unicode hex="0105"/>
+  <outline>
+    <contour>
+      <point x="474" y="458" type="move" name="FREEZ"/>
+      <point x="474" y="34" type="line"/>
+      <point x="388" y="5"/>
+      <point x="361" y="-27"/>
+      <point x="361" y="-70" type="curve" smooth="yes"/>
+      <point x="361" y="-123"/>
+      <point x="406" y="-156"/>
+      <point x="482" y="-122" type="curve"/>
+    </contour>
+    <contour>
+      <point x="280" y="34" type="curve" smooth="yes" name="MAAAX"/>
+      <point x="393" y="34" name="MAMUE"/>
+      <point x="474" y="124" name="PFILA"/>
+      <point x="474" y="249" type="curve" smooth="yes" name="BONEE"/>
+      <point x="474" y="374" name="BLUJA"/>
+      <point x="391" y="463" name="NOOKS"/>
+      <point x="279" y="463" type="curve" smooth="yes" name="RENLY"/>
+      <point x="166" y="463" name="YUTUP"/>
+      <point x="84" y="374" name="SAMNN"/>
+      <point x="84" y="249" type="curve" smooth="yes" name="IXEXE"/>
+      <point x="84" y="124" name="WAGIP"/>
+      <point x="166" y="34" name="GINKE"/>
+    </contour>
+  </outline>
+</glyph>

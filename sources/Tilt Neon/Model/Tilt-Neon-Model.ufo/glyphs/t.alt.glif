@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t.alt" format="2">
   <advance width="403"/>
+  <anchor x="170" y="640" name="above"/>
+  <anchor x="233" y="3" name="below"/>
+  <anchor x="251" y="572" name="right"/>
   <outline>
     <contour>
       <point x="213" y="588" type="curve" smooth="yes"/>
@@ -41,4 +44,10 @@
       <point x="30" y="503"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9529,0.7529,0.5725,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="508"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="315" y="440" type="move"/>
+      <point x="45" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="423" y="45" type="move" name="CAGED"/>
+      <point x="135" y="45" type="line" name="JITUK"/>
+      <point x="135" y="640" type="line" name="IPTAQ"/>
+    </contour>
+  </outline>
+</glyph>

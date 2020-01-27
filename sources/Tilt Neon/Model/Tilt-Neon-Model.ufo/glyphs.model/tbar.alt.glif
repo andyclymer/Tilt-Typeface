@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar.alt" format="2">
+  <advance width="403"/>
+  <outline>
+    <contour>
+      <point x="77" y="293" type="move"/>
+      <point x="269" y="293" type="line"/>
+    </contour>
+    <contour>
+      <point x="163" y="588" type="move" name="FREEZ"/>
+      <point x="163" y="139" type="line" smooth="yes" name="YACKK"/>
+      <point x="163" y="46"/>
+      <point x="242" y="16"/>
+      <point x="322" y="55" type="curve"/>
+    </contour>
+    <contour>
+      <point x="57" y="453" type="move"/>
+      <point x="299" y="453" type="line"/>
+    </contour>
+  </outline>
+</glyph>

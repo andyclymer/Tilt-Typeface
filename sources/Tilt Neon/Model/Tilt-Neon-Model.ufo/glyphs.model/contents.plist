@@ -28,6 +28,8 @@
     <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>Germandbls</key>
+    <string>G_ermandbls.glif</string>
     <key>H</key>
     <string>H_.glif</string>
     <key>Hbar</key>
@@ -42,6 +44,8 @@
     <string>K_.glif</string>
     <key>L</key>
     <string>L_.glif</string>
+    <key>Lslash</key>
+    <string>L_slash.glif</string>
     <key>M</key>
     <string>M_.glif</string>
     <key>N</key>
@@ -62,6 +66,8 @@
     <string>R_.glif</string>
     <key>S</key>
     <string>S_.glif</string>
+    <key>Schwa</key>
+    <string>S_chwa.glif</string>
     <key>T</key>
     <string>T_.glif</string>
     <key>Tbar</key>
@@ -92,8 +98,14 @@
     <string>acutecmb.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
+    <key>ae.alt</key>
+    <string>ae.alt.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
+    <key>aogonek</key>
+    <string>aogonek.glif</string>
+    <key>aogonek.alt</key>
+    <string>aogonek.alt.glif</string>
     <key>approxequal</key>
     <string>approxequal.glif</string>
     <key>asciicircum</key>
@@ -170,6 +182,8 @@
     <string>dagger.glif</string>
     <key>daggerdbl</key>
     <string>daggerdbl.glif</string>
+    <key>dcroat</key>
+    <string>dcroat.glif</string>
     <key>degree</key>
     <string>degree.glif</string>
     <key>dieresis</key>
@@ -192,6 +206,8 @@
     <string>dotbelowcmb.glif</string>
     <key>dotlessi</key>
     <string>dotlessi.glif</string>
+    <key>dotlessj</key>
+    <string>dotlessj.glif</string>
     <key>e</key>
     <string>e.glif</string>
     <key>eight</key>
@@ -202,6 +218,10 @@
     <string>emdash.glif</string>
     <key>endash</key>
     <string>endash.glif</string>
+    <key>eng</key>
+    <string>eng.glif</string>
+    <key>eogonek</key>
+    <string>eogonek.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
     <key>eth</key>
@@ -250,6 +270,8 @@
     <string>guilsinglright.glif</string>
     <key>h</key>
     <string>h.glif</string>
+    <key>hbar</key>
+    <string>hbar.glif</string>
     <key>hookabovecmb</key>
     <string>hookabovecmb.glif</string>
     <key>horncmb</key>
@@ -266,12 +288,16 @@
     <string>indianrupee.glif</string>
     <key>invertedbrevecmb</key>
     <string>invertedbrevecmb.glif</string>
+    <key>iogonek</key>
+    <string>iogonek.glif</string>
     <key>j</key>
     <string>j.glif</string>
     <key>k</key>
     <string>k.glif</string>
     <key>kip</key>
     <string>kip.glif</string>
+    <key>kra</key>
+    <string>kra.glif</string>
     <key>l</key>
     <string>l.glif</string>
     <key>less</key>
@@ -282,6 +308,8 @@
     <string>lira.glif</string>
     <key>logicalnot</key>
     <string>logicalnot.glif</string>
+    <key>lslash</key>
+    <string>lslash.glif</string>
     <key>m</key>
     <string>m.glif</string>
     <key>macron</key>
@@ -390,6 +418,8 @@
     <string>ruble.glif</string>
     <key>s</key>
     <string>s.glif</string>
+    <key>schwa</key>
+    <string>schwa.glif</string>
     <key>second</key>
     <string>second.glif</string>
     <key>section</key>
@@ -410,6 +440,12 @@
     <string>t.glif</string>
     <key>t.alt</key>
     <string>t.alt.glif</string>
+    <key>tbar</key>
+    <string>tbar.glif</string>
+    <key>tbar.alt</key>
+    <string>tbar.alt.glif</string>
+    <key>tcedilla</key>
+    <string>tcedilla.glif</string>
     <key>thorn</key>
     <string>thorn.glif</string>
     <key>three</key>
@@ -434,8 +470,16 @@
     <string>u.glif</string>
     <key>u.alt</key>
     <string>u.alt.glif</string>
+    <key>uhorn</key>
+    <string>uhorn.glif</string>
+    <key>uhorn.alt</key>
+    <string>uhorn.alt.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
+    <key>uogonek</key>
+    <string>uogonek.glif</string>
+    <key>uogonek.alt</key>
+    <string>uogonek.alt.glif</string>
     <key>v</key>
     <string>v.glif</string>
     <key>w</key>
