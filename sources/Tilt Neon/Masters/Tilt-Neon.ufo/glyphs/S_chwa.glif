@@ -4,48 +4,81 @@
   <unicode hex="018F"/>
   <outline>
     <contour>
-      <point x="128.55020903619732" y="610.0" type="move" name="YCQFEWRK"/>
-      <point x="381.5502090361973" y="703.0" name="XMOQHAWO"/>
-      <point x="587.5502090361973" y="608.8899613899614" name="XFHAZHVT"/>
-      <point x="587.5502090361973" y="342.4806949806949" type="curve" smooth="yes" name="MGEKTLNS"/>
-      <point x="587.5502090361973" y="153.77413127413126" name="ASEMXFTK"/>
-      <point x="477.70994645414044" y="35.0" name="UTTCHYPV"/>
-      <point x="328.7186991893702" y="35.0" type="curve" smooth="yes" name="VGCTADQE"/>
-      <point x="176.46486986770716" y="35.0" name="NQKHSUYV"/>
-      <point x="81.84999021781657" y="161.54440154440152" name="NVZMIXJH"/>
-      <point x="90.55020903619732" y="351.36100386100384" type="curve" name="OGBHSKZY"/>
-      <point x="587.5502090361973" y="351.36100386100384" type="line" name="WYYFJQNW"/>
+      <point x="129" y="610" type="move" name="QAMJQAET"/>
+      <point x="193" y="634" name="ZMVHWAEM"/>
+      <point x="254" y="645" name="BWWMYWJB"/>
+      <point x="310" y="645" type="curve" smooth="yes" name="RRBUEWVZ"/>
+      <point x="473" y="644" name="XPCKVHYL"/>
+      <point x="588" y="541" name="AKWHFRWI"/>
+      <point x="588" y="342" type="curve" smooth="yes" name="ZNETKUHG"/>
+      <point x="588" y="154" name="UBXJZDMP"/>
+      <point x="478" y="35" name="UIFXGSBN"/>
+      <point x="329" y="35" type="curve" smooth="yes" name="ZABZRXHQ"/>
+      <point x="196" y="35" name="FELYRLYX"/>
+      <point x="101" y="132" name="RAXLCRBK"/>
+      <point x="93" y="282" type="curve" smooth="yes" name="NHDLMGAF"/>
+      <point x="90" y="337" name="LZMIHFXV"/>
+      <point x="89" y="351" name="TUFUOCDV"/>
+      <point x="147" y="351" type="curve" smooth="yes" name="FGAVMVYN"/>
+      <point x="247" y="351" name="KOHSNWII"/>
+      <point x="308" y="351" name="HRAEFJRQ"/>
+      <point x="409" y="351" type="curve" smooth="yes" name="SUIERABH"/>
+      <point x="449" y="351" name="BKVSDYGB"/>
+      <point x="488" y="351" name="NRDZJEGU"/>
+      <point x="528" y="351" type="curve" name="TRZGHOTI"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.andyclymer.zPosition</key>
       <dict>
-        <key>ASEMXFTK</key>
+        <key>AKWHFRWI</key>
         <integer>120</integer>
-        <key>MGEKTLNS</key>
+        <key>BKVSDYGB</key>
         <integer>120</integer>
-        <key>NQKHSUYV</key>
+        <key>BWWMYWJB</key>
         <integer>120</integer>
-        <key>NVZMIXJH</key>
+        <key>FELYRLYX</key>
         <integer>120</integer>
-        <key>OGBHSKZY</key>
+        <key>FGAVMVYN</key>
+        <integer>60</integer>
+        <key>HRAEFJRQ</key>
         <integer>120</integer>
-        <key>UTTCHYPV</key>
+        <key>KOHSNWII</key>
+        <integer>100</integer>
+        <key>LZMIHFXV</key>
+        <integer>100</integer>
+        <key>NHDLMGAF</key>
+        <integer>110</integer>
+        <key>NRDZJEGU</key>
+        <integer>110</integer>
+        <key>QAMJQAET</key>
+        <integer>80</integer>
+        <key>RAXLCRBK</key>
+        <integer>136</integer>
+        <key>RRBUEWVZ</key>
         <integer>120</integer>
-        <key>VGCTADQE</key>
+        <key>SUIERABH</key>
         <integer>120</integer>
-        <key>WYYFJQNW</key>
+        <key>TRZGHOTI</key>
+        <integer>80</integer>
+        <key>TUFUOCDV</key>
+        <integer>37</integer>
+        <key>UBXJZDMP</key>
         <integer>120</integer>
-        <key>XFHAZHVT</key>
+        <key>UIFXGSBN</key>
         <integer>120</integer>
-        <key>XMOQHAWO</key>
+        <key>XPCKVHYL</key>
         <integer>120</integer>
-        <key>YCQFEWRK</key>
+        <key>ZABZRXHQ</key>
+        <integer>120</integer>
+        <key>ZMVHWAEM</key>
+        <integer>120</integer>
+        <key>ZNETKUHG</key>
         <integer>120</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>
