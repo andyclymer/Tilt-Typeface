@@ -2,6 +2,9 @@
 <glyph name="A" format="2">
   <advance width="651"/>
   <unicode hex="0041"/>
+  <anchor x="616" y="0" name="ogonek"/>
+  <anchor x="325" y="50" name="below"/>
+  <anchor x="325" y="680" name="above"/>
   <outline>
     <contour>
       <point x="84" y="40" type="move" name="WCTMAGCB"/>

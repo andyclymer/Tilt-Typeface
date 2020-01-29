@@ -1,136 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="a.alt" format="2">
-  <advance width="544"/>
+  <advance width="523"/>
+  <anchor x="263" y="499" name="above"/>
+  <anchor x="264" y="0" name="below"/>
   <outline>
-    <contour>
-      <point x="123.0" y="445" type="move"/>
-      <point x="258.0" y="508"/>
-      <point x="431.0" y="491"/>
-      <point x="431.0" y="373" type="curve" smooth="yes"/>
-      <point x="431.0" y="42" type="line"/>
-    </contour>
-    <contour>
-      <point x="431" y="252" type="move" smooth="yes"/>
-      <point x="431" y="136"/>
-      <point x="338" y="37"/>
-      <point x="218" y="37" type="curve" smooth="yes"/>
-      <point x="140.0" y="37"/>
-      <point x="100" y="82"/>
-      <point x="100.0" y="139" type="curve" smooth="yes"/>
-      <point x="100.0" y="236"/>
-      <point x="237" y="288"/>
-      <point x="430.0" y="291" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
-      <key>com.andyclymer.zPosition</key>
-      <dict>
-        <key>AGWFSKBR</key>
-        <integer>0</integer>
-        <key>AJXWNFPS</key>
-        <integer>0</integer>
-        <key>BSGXZLJZ</key>
-        <integer>0</integer>
-        <key>BVKNBWWH</key>
-        <integer>0</integer>
-        <key>CBYEXVMG</key>
-        <integer>0</integer>
-        <key>CUCDPRLF</key>
-        <integer>0</integer>
-        <key>DXCHNLDY</key>
-        <integer>0</integer>
-        <key>DXEWIBNG</key>
-        <integer>0</integer>
-        <key>EBAIDUOR</key>
-        <integer>0</integer>
-        <key>FOGDJDAL</key>
-        <integer>0</integer>
-        <key>FXIKNCXY</key>
-        <integer>0</integer>
-        <key>GINEYRFF</key>
-        <integer>0</integer>
-        <key>HQLCDMSF</key>
-        <integer>0</integer>
-        <key>IONDGNQW</key>
-        <integer>0</integer>
-        <key>IRLGXRCK</key>
-        <integer>0</integer>
-        <key>JPTSZHOI</key>
-        <integer>0</integer>
-        <key>KAVONFFJ</key>
-        <integer>0</integer>
-        <key>KFSPLAKS</key>
-        <integer>0</integer>
-        <key>KUALQSET</key>
-        <integer>0</integer>
-        <key>LIOAXZNL</key>
-        <integer>0</integer>
-        <key>LXXBBVBU</key>
-        <integer>0</integer>
-        <key>MIEQMVLV</key>
-        <integer>0</integer>
-        <key>MRNGZIQH</key>
-        <integer>0</integer>
-        <key>MUHUZGHX</key>
-        <integer>0</integer>
-        <key>MVQOAEXX</key>
-        <integer>0</integer>
-        <key>NBNDQAQT</key>
-        <integer>0</integer>
-        <key>NPUQRSUR</key>
-        <integer>0</integer>
-        <key>PHPCQAHL</key>
-        <integer>0</integer>
-        <key>QHFCCTXW</key>
-        <integer>0</integer>
-        <key>QOIVXODI</key>
-        <integer>0</integer>
-        <key>QPVPBHTA</key>
-        <integer>0</integer>
-        <key>QRYXZNNC</key>
-        <integer>0</integer>
-        <key>RAKSFJGV</key>
-        <integer>0</integer>
-        <key>RBCJTATB</key>
-        <integer>0</integer>
-        <key>RBUYSMDP</key>
-        <integer>0</integer>
-        <key>RKCGAIXJ</key>
-        <integer>0</integer>
-        <key>RRPRYQGV</key>
-        <integer>0</integer>
-        <key>TIWSAXXO</key>
-        <integer>0</integer>
-        <key>UCVYJHMS</key>
-        <integer>0</integer>
-        <key>UNFXQSFH</key>
-        <integer>0</integer>
-        <key>UTECKFDR</key>
-        <integer>0</integer>
-        <key>VFJDUVFH</key>
-        <integer>0</integer>
-        <key>VMYGCIAY</key>
-        <integer>0</integer>
-        <key>WYPZNSWY</key>
-        <integer>0</integer>
-        <key>XWZMDIRG</key>
-        <integer>0</integer>
-        <key>YTIFMSOX</key>
-        <integer>0</integer>
-        <key>YZILJSSS</key>
-        <integer>0</integer>
-        <key>ZFHEJTFB</key>
-        <integer>0</integer>
-        <key>ZTWSWRDM</key>
-        <integer>0</integer>
-        <key>ZXFTMHUQ</key>
-        <integer>0</integer>
-      </dict>
       <key>public.markColor</key>
-      <string>0.9529,0.5804,0.5725,1</string>
+      <string>0.9294,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

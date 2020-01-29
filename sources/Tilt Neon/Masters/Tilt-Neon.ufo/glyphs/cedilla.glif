@@ -1,50 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedilla" format="2">
-  <advance width="416"/>
+  <advance width="500"/>
   <unicode hex="00B8"/>
-  <anchor x="0" y="-20.0" name="bottom"/>
-  <anchor x="208" y="-20.0" name="center"/>
   <outline>
-    <contour>
-      <point x="184" y="38" type="move" name="RLXPNWFQ"/>
-      <point x="184.0" y="-21" name="QHYJANUR"/>
-      <point x="187" y="-57" name="WUTWXNLC"/>
-      <point x="235" y="-71" type="curve" smooth="yes" name="UIWEJYRT"/>
-      <point x="275" y="-82" name="OUTRXCHK"/>
-      <point x="286" y="-104" name="OCREOMOQ"/>
-      <point x="286" y="-132" type="curve" smooth="yes" name="HQQNZSBL"/>
-      <point x="286" y="-193" name="TBAHZPIS"/>
-      <point x="218" y="-217" name="VTPJVZIQ"/>
-      <point x="109" y="-194" type="curve" name="QUSHSQYB"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.zPosition</key>
-      <dict>
-        <key>HQQNZSBL</key>
-        <integer>120</integer>
-        <key>OCREOMOQ</key>
-        <real>120.0</real>
-        <key>OUTRXCHK</key>
-        <integer>120</integer>
-        <key>QHYJANUR</key>
-        <integer>120</integer>
-        <key>QUSHSQYB</key>
-        <real>80.0</real>
-        <key>RLXPNWFQ</key>
-        <integer>120</integer>
-        <key>TBAHZPIS</key>
-        <integer>120</integer>
-        <key>UIWEJYRT</key>
-        <integer>120</integer>
-        <key>VTPJVZIQ</key>
-        <integer>130</integer>
-        <key>WUTWXNLC</key>
-        <integer>120</integer>
-      </dict>
       <key>public.markColor</key>
-      <string>0.6171,0.9529,0.5725,1</string>
+      <string>0.9294,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

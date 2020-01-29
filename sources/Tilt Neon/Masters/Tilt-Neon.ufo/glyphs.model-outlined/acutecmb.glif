@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecmb" format="2">
+  <unicode hex="0301"/>
+  <anchor x="0" y="497" name="_above"/>
+  <anchor x="0" y="698" name="above"/>
+  <anchor x="0" y="497" name="_aboveright"/>
+  <outline>
+    <contour>
+      <point x="125" y="647" type="curve" smooth="yes"/>
+      <point x="24" y="561" type="line" smooth="yes"/>
+      <point x="4" y="543"/>
+      <point x="-29" y="546"/>
+      <point x="-46" y="567" type="curve" smooth="yes"/>
+      <point x="-64" y="587"/>
+      <point x="-61" y="620"/>
+      <point x="-40" y="637" type="curve" smooth="yes"/>
+      <point x="61" y="723" type="line" smooth="yes"/>
+      <point x="81" y="741"/>
+      <point x="114" y="738"/>
+      <point x="131" y="717" type="curve" smooth="yes"/>
+      <point x="149" y="697"/>
+      <point x="146" y="664"/>
+    </contour>
+  </outline>
+</glyph>

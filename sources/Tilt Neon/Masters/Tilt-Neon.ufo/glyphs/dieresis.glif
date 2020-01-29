@@ -1,46 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis" format="2">
-  <advance width="577"/>
+  <advance width="500"/>
   <unicode hex="00A8"/>
-  <anchor x="0" y="497.0" name="top"/>
-  <anchor x="288" y="497.0" name="center"/>
   <outline>
-    <contour>
-      <point x="190.0" y="636.0" type="move" name="ADSPOYPN"/>
-      <point x="156.0" y="641.0" name="BTDIKUNQ"/>
-      <point x="156.0" y="675.0" name="MHPTQZMZ"/>
-      <point x="190.0" y="680.0" type="curve" name="OEVWUCHM"/>
-    </contour>
-    <contour>
-      <point x="410.0" y="636.0" type="move" name="RCWGFLBI"/>
-      <point x="376.0" y="641.0" name="FLURJDQF"/>
-      <point x="376.0" y="675.0" name="NLJJMCTT"/>
-      <point x="410.0" y="680.0" type="curve" name="QYXTBEIS"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.zPosition</key>
-      <dict>
-        <key>ADSPOYPN</key>
-        <integer>120</integer>
-        <key>BTDIKUNQ</key>
-        <integer>120</integer>
-        <key>FLURJDQF</key>
-        <integer>120</integer>
-        <key>MHPTQZMZ</key>
-        <integer>120</integer>
-        <key>NLJJMCTT</key>
-        <integer>120</integer>
-        <key>OEVWUCHM</key>
-        <real>120.0</real>
-        <key>QYXTBEIS</key>
-        <real>120.0</real>
-        <key>RCWGFLBI</key>
-        <integer>120</integer>
-      </dict>
       <key>public.markColor</key>
-      <string>0.6171,0.9529,0.5725,1</string>
+      <string>0.9294,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

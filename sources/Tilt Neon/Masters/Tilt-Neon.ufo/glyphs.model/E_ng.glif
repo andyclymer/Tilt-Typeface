@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="688"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="563" y="640" type="move" name="BACTA"/>
+      <point x="563.0" y="-17.0" type="line"/>
+      <point x="563.0" y="-118.0"/>
+      <point x="490.0" y="-141.0"/>
+      <point x="419.0" y="-114.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="125" y="40" type="move" name="JITUK"/>
+      <point x="125" y="640" type="line" name="IPTAQ"/>
+      <point x="135" y="640" type="line"/>
+      <point x="553" y="40" type="line"/>
+    </contour>
+  </outline>
+</glyph>
