@@ -3,11 +3,25 @@
   <advance width="384"/>
   <unicode hex="27E8"/>
   <outline>
+    <contour>
+      <point x="288.000000022173" y="40.0" type="move" name="YFNUXHZE"/>
+      <point x="60.00000002217305" y="339.0" type="line" name="RNUYIVGX"/>
+      <point x="289.000000022173" y="640.0" type="line" name="VFIOZKAO"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>RNUYIVGX</key>
+        <integer>120</integer>
+        <key>VFIOZKAO</key>
+        <integer>120</integer>
+        <key>YFNUXHZE</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

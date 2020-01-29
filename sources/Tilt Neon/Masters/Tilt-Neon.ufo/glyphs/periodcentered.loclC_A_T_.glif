@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered.loclCAT" format="2">
-  <advance width="207"/>
+  <advance width="260"/>
   <outline>
+    <contour>
+      <point x="111" y="315" type="move" name="PGLIWFTM"/>
+      <point x="77" y="320" name="OTTHUDYG"/>
+      <point x="77" y="354" name="QFOIRNEG"/>
+      <point x="111" y="359" type="curve" name="USDMPQMM"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict/>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.5725,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

@@ -3,11 +3,78 @@
   <advance width="490"/>
   <unicode hex="2248"/>
   <outline>
+    <contour>
+      <point x="396" y="246" type="move" name="XOGNEUYB"/>
+      <point x="401" y="156" name="GDQOEGFX"/>
+      <point x="366" y="130" name="XDQUUMEE"/>
+      <point x="320" y="130" type="curve" smooth="yes" name="PJDMEBTN"/>
+      <point x="260" y="130" name="YKHZTIEI"/>
+      <point x="230" y="246" name="QDNRBFMU"/>
+      <point x="165" y="246" type="curve" smooth="yes" name="GQDYODIN"/>
+      <point x="123.0" y="246.0" name="HXTTKLFL"/>
+      <point x="89.0" y="201.0" name="ADVMJOPW"/>
+      <point x="94" y="130" type="curve" name="DTXSCNWT"/>
+    </contour>
+    <contour>
+      <point x="396" y="489" type="move" name="IECKMKOQ"/>
+      <point x="401" y="399" name="WLSWXCDF"/>
+      <point x="366" y="373" name="SJTGHUHE"/>
+      <point x="320" y="373" type="curve" smooth="yes" name="GGASQQYK"/>
+      <point x="260" y="373" name="FIUXUYXS"/>
+      <point x="230" y="489" name="DUKZLMVV"/>
+      <point x="165" y="489" type="curve" smooth="yes" name="ZHQGBCBD"/>
+      <point x="123.0" y="489.0" name="ZTAKQPDC"/>
+      <point x="89.0" y="444.0" name="VIBKMWBV"/>
+      <point x="94" y="373" type="curve" name="JMFWPPSW"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ADVMJOPW</key>
+        <integer>120</integer>
+        <key>DTXSCNWT</key>
+        <integer>120</integer>
+        <key>DUKZLMVV</key>
+        <integer>120</integer>
+        <key>FIUXUYXS</key>
+        <integer>120</integer>
+        <key>GDQOEGFX</key>
+        <integer>120</integer>
+        <key>GGASQQYK</key>
+        <integer>120</integer>
+        <key>GQDYODIN</key>
+        <integer>120</integer>
+        <key>HXTTKLFL</key>
+        <integer>120</integer>
+        <key>IECKMKOQ</key>
+        <integer>120</integer>
+        <key>JMFWPPSW</key>
+        <integer>120</integer>
+        <key>PJDMEBTN</key>
+        <integer>120</integer>
+        <key>QDNRBFMU</key>
+        <integer>120</integer>
+        <key>SJTGHUHE</key>
+        <integer>120</integer>
+        <key>VIBKMWBV</key>
+        <integer>120</integer>
+        <key>WLSWXCDF</key>
+        <integer>120</integer>
+        <key>XDQUUMEE</key>
+        <integer>120</integer>
+        <key>XOGNEUYB</key>
+        <integer>120</integer>
+        <key>YKHZTIEI</key>
+        <integer>120</integer>
+        <key>ZHQGBCBD</key>
+        <integer>120</integer>
+        <key>ZTAKQPDC</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

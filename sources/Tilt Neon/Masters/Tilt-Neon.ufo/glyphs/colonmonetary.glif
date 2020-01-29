@@ -3,11 +3,61 @@
   <advance width="546"/>
   <unicode hex="20A1"/>
   <outline>
+    <contour>
+      <point x="241" y="710" type="move" name="GIBNJTOV"/>
+      <point x="227" y="583" type="line" name="JRLJCTKO"/>
+    </contour>
+    <contour>
+      <point x="391" y="710" type="move" name="FIZNCLPB"/>
+      <point x="302" y="-40" type="line" name="SEZXLYGO"/>
+    </contour>
+    <contour>
+      <point x="446.0" y="103.0" type="move" name="JZQCHZSF"/>
+      <point x="265.0" y="23" name="EEBQSKFP"/>
+      <point x="102.0" y="123" name="LSJLEOPU"/>
+      <point x="102.0" y="340.0" type="curve" smooth="yes" name="RKVLIZUR"/>
+      <point x="102.0" y="557" name="QJNBNDOY"/>
+      <point x="265.0" y="658" name="WTVOGGWF"/>
+      <point x="446.0" y="577.0" type="curve" name="GQLDHPYO"/>
+    </contour>
+    <contour>
+      <point x="173" y="134" type="move" name="OKDZJJRO"/>
+      <point x="152" y="-40" type="line" name="PGHWGRDN"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>EEBQSKFP</key>
+        <integer>120</integer>
+        <key>FIZNCLPB</key>
+        <integer>120</integer>
+        <key>GIBNJTOV</key>
+        <integer>120</integer>
+        <key>GQLDHPYO</key>
+        <integer>120</integer>
+        <key>JRLJCTKO</key>
+        <integer>120</integer>
+        <key>JZQCHZSF</key>
+        <integer>120</integer>
+        <key>LSJLEOPU</key>
+        <integer>120</integer>
+        <key>OKDZJJRO</key>
+        <integer>120</integer>
+        <key>PGHWGRDN</key>
+        <integer>120</integer>
+        <key>QJNBNDOY</key>
+        <integer>120</integer>
+        <key>RKVLIZUR</key>
+        <integer>120</integer>
+        <key>SEZXLYGO</key>
+        <integer>120</integer>
+        <key>WTVOGGWF</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

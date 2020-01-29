@@ -4,11 +4,69 @@
   <anchor x="263" y="499" name="above"/>
   <anchor x="264" y="0" name="below"/>
   <outline>
+    <contour>
+      <point x="412.0" y="44.0" type="move" name="LYWXUASR"/>
+      <point x="412.0" y="320.0" type="line" smooth="yes" name="EIJGVWIJ"/>
+      <point x="412.0" y="468.0" name="QMKNXQQZ"/>
+      <point x="256" y="491.0" name="BETBUUTY"/>
+      <point x="123.0" y="437.0" type="curve" name="HZTTOGMY"/>
+    </contour>
+    <contour>
+      <point x="247.0" y="34.0" type="curve" smooth="yes" name="NKSGXUGQ"/>
+      <point x="337.0" y="34.0" name="EHPSPAYH"/>
+      <point x="412.0" y="86.0" name="BSHNWEYU"/>
+      <point x="412.0" y="157.0" type="curve" smooth="yes" name="DTWPFQRW"/>
+      <point x="412.0" y="229.0" name="NUFVKJQS"/>
+      <point x="336.0" y="280.0" name="OHHRCMCF"/>
+      <point x="246.0" y="280.0" type="curve" smooth="yes" name="EORXZWDE"/>
+      <point x="156.0" y="280.0" name="INLQNHOR"/>
+      <point x="100.0" y="229.0" name="EHXIVFJJ"/>
+      <point x="100.0" y="157.0" type="curve" smooth="yes" name="LSFLTVEK"/>
+      <point x="100.0" y="86.0" name="LIIYUTSL"/>
+      <point x="156.0" y="34.0" name="JKZJIQMJ"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BETBUUTY</key>
+        <integer>120</integer>
+        <key>BSHNWEYU</key>
+        <integer>120</integer>
+        <key>DTWPFQRW</key>
+        <integer>120</integer>
+        <key>EHPSPAYH</key>
+        <integer>120</integer>
+        <key>EHXIVFJJ</key>
+        <integer>120</integer>
+        <key>EIJGVWIJ</key>
+        <integer>120</integer>
+        <key>EORXZWDE</key>
+        <integer>120</integer>
+        <key>HZTTOGMY</key>
+        <integer>120</integer>
+        <key>INLQNHOR</key>
+        <integer>120</integer>
+        <key>JKZJIQMJ</key>
+        <integer>120</integer>
+        <key>LIIYUTSL</key>
+        <integer>120</integer>
+        <key>LSFLTVEK</key>
+        <integer>120</integer>
+        <key>LYWXUASR</key>
+        <integer>120</integer>
+        <key>NKSGXUGQ</key>
+        <integer>120</integer>
+        <key>NUFVKJQS</key>
+        <integer>120</integer>
+        <key>OHHRCMCF</key>
+        <integer>120</integer>
+        <key>QMKNXQQZ</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

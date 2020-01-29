@@ -3,11 +3,50 @@
   <advance width="544"/>
   <unicode hex="2052"/>
   <outline>
+    <contour>
+      <point x="94" y="40" type="move" name="WSBMZATK"/>
+      <point x="450" y="640" type="line" name="DWVXUIRG"/>
+    </contour>
+    <contour>
+      <point x="145.0" y="510.0" type="move" name="NDEXBCZM"/>
+      <point x="111.0" y="515" name="URQXIFXQ"/>
+      <point x="111.0" y="549" name="CLEETTLI"/>
+      <point x="145.0" y="554.0" type="curve" name="BNFOMDEU"/>
+    </contour>
+    <contour>
+      <point x="407.0" y="129.0" type="move" name="AJWPRNTR"/>
+      <point x="373.0" y="134" name="MKSBCYMY"/>
+      <point x="373.0" y="168" name="FLPTBMGS"/>
+      <point x="407.0" y="173.0" type="curve" name="NJFLZWSP"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AJWPRNTR</key>
+        <integer>120</integer>
+        <key>BNFOMDEU</key>
+        <integer>120</integer>
+        <key>CLEETTLI</key>
+        <integer>120</integer>
+        <key>DWVXUIRG</key>
+        <integer>120</integer>
+        <key>FLPTBMGS</key>
+        <integer>120</integer>
+        <key>MKSBCYMY</key>
+        <integer>120</integer>
+        <key>NDEXBCZM</key>
+        <integer>120</integer>
+        <key>NJFLZWSP</key>
+        <integer>120</integer>
+        <key>URQXIFXQ</key>
+        <integer>120</integer>
+        <key>WSBMZATK</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

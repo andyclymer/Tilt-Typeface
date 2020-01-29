@@ -5,11 +5,28 @@
   <anchor x="0" y="698" name="above"/>
   <anchor x="0" y="497" name="_aboveright"/>
   <outline>
+    <contour>
+      <point x="12.0" y="604.0" type="move" name="FZYYCZBO"/>
+      <point x="-22" y="633" name="SNQXRZKA"/>
+      <point x="-55" y="661" name="QXQOFTXB"/>
+      <point x="-89.0" y="690.0" type="curve" name="OMXMGPVP"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>FZYYCZBO</key>
+        <integer>120</integer>
+        <key>OMXMGPVP</key>
+        <integer>120</integer>
+        <key>QXQOFTXB</key>
+        <integer>140</integer>
+        <key>SNQXRZKA</key>
+        <integer>140</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

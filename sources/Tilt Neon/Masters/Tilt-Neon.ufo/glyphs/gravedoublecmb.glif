@@ -4,11 +4,42 @@
   <anchor x="0" y="497" name="_above"/>
   <anchor x="0" y="708" name="above"/>
   <outline>
+    <contour>
+      <point x="88.0" y="604.0" type="move" name="ZOWCYOXJ"/>
+      <point x="61" y="636" name="GPDNYZAJ"/>
+      <point x="34" y="668" name="UNRQPJPX"/>
+      <point x="7.0" y="700.0" type="curve" name="VMEAAETF"/>
+    </contour>
+    <contour>
+      <point x="-92.0" y="604.0" type="move" name="QIUELQWY"/>
+      <point x="-119" y="636" name="OYAICFZP"/>
+      <point x="-146" y="668" name="SCXKHWNE"/>
+      <point x="-173.0" y="700.0" type="curve" name="KIHLTWBJ"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>GPDNYZAJ</key>
+        <integer>140</integer>
+        <key>KIHLTWBJ</key>
+        <integer>120</integer>
+        <key>OYAICFZP</key>
+        <integer>140</integer>
+        <key>QIUELQWY</key>
+        <integer>120</integer>
+        <key>SCXKHWNE</key>
+        <integer>140</integer>
+        <key>UNRQPJPX</key>
+        <integer>140</integer>
+        <key>VMEAAETF</key>
+        <integer>120</integer>
+        <key>ZOWCYOXJ</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

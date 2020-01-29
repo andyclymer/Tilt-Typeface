@@ -3,11 +3,28 @@
   <unicode hex="031B"/>
   <anchor x="0" y="513" name="horn"/>
   <outline>
+    <contour>
+      <point x="0" y="463" type="move" name="DNPIWIOO"/>
+      <point x="108" y="463" name="CMJVUJRQ"/>
+      <point x="163" y="532" name="OQOVQSXR"/>
+      <point x="162" y="612" type="curve" name="FTVMMRTP"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CMJVUJRQ</key>
+        <integer>120</integer>
+        <key>DNPIWIOO</key>
+        <integer>120</integer>
+        <key>FTVMMRTP</key>
+        <integer>100</integer>
+        <key>OQOVQSXR</key>
+        <integer>140</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

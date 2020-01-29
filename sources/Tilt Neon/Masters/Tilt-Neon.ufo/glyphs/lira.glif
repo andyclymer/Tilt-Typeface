@@ -3,11 +3,62 @@
   <advance width="541"/>
   <unicode hex="20A4"/>
   <outline>
+    <contour>
+      <point x="102" y="45" type="move" name="ODEYTRRW"/>
+      <point x="181" y="45" name="TQSHRXNC"/>
+      <point x="226" y="89" name="ZTVLHQZJ"/>
+      <point x="226" y="161" type="curve" smooth="yes" name="LRTBUTSI"/>
+      <point x="226" y="249" name="QFPOJXKQ"/>
+      <point x="154" y="389" name="JSLPEEVP"/>
+      <point x="154" y="497" type="curve" smooth="yes" name="DWLQVJAV"/>
+      <point x="154" y="632" name="SMPGQFOL"/>
+      <point x="279" y="681" name="HXGSQMVN"/>
+      <point x="440" y="613" type="curve" name="MZYALXFG"/>
+    </contour>
+    <contour>
+      <point x="90" y="324" type="move" name="QUSOMCOY"/>
+      <point x="416" y="324" type="line" name="RNJRBTQQ"/>
+    </contour>
+    <contour>
+      <point x="80" y="45" type="move" name="RDYUFSRE"/>
+      <point x="456" y="45" type="line" name="BZYGGCYY"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BZYGGCYY</key>
+        <integer>120</integer>
+        <key>DWLQVJAV</key>
+        <integer>120</integer>
+        <key>HXGSQMVN</key>
+        <integer>120</integer>
+        <key>JSLPEEVP</key>
+        <integer>120</integer>
+        <key>LRTBUTSI</key>
+        <integer>120</integer>
+        <key>MZYALXFG</key>
+        <integer>120</integer>
+        <key>ODEYTRRW</key>
+        <integer>120</integer>
+        <key>QFPOJXKQ</key>
+        <integer>120</integer>
+        <key>QUSOMCOY</key>
+        <integer>120</integer>
+        <key>RDYUFSRE</key>
+        <integer>120</integer>
+        <key>RNJRBTQQ</key>
+        <integer>120</integer>
+        <key>SMPGQFOL</key>
+        <integer>120</integer>
+        <key>TQSHRXNC</key>
+        <integer>120</integer>
+        <key>ZTVLHQZJ</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

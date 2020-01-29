@@ -3,11 +3,54 @@
   <advance width="620"/>
   <unicode hex="20B1"/>
   <outline>
+    <contour>
+      <point x="150.0" y="40.0" type="move" name="UKGUPULA"/>
+      <point x="150.0" y="635.0" type="line" name="GUXBZPSO"/>
+      <point x="270.0" y="635.0" type="line" smooth="yes" name="ZAQPQNQK"/>
+      <point x="398.0" y="635.0" name="EGBKEUBM"/>
+      <point x="480.0" y="548" name="JRYNYRYJ"/>
+      <point x="480.0" y="426.0" type="curve" smooth="yes" name="KNEKMWRC"/>
+      <point x="480.0" y="300.0" name="UPBAPICJ"/>
+      <point x="398.0" y="218.0" name="EUUTCLGF"/>
+      <point x="282.0" y="218.0" type="curve" smooth="yes" name="EIPITDSX"/>
+      <point x="190.0" y="218.0" type="line" name="JBZCCNJU"/>
+    </contour>
+    <contour>
+      <point x="60.0" y="426.0" type="move" name="QWSNDHWR"/>
+      <point x="570.0" y="426.0" type="line" name="UWYJVFDT"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>EGBKEUBM</key>
+        <integer>120</integer>
+        <key>EIPITDSX</key>
+        <integer>120</integer>
+        <key>EUUTCLGF</key>
+        <integer>120</integer>
+        <key>GUXBZPSO</key>
+        <integer>120</integer>
+        <key>JBZCCNJU</key>
+        <integer>120</integer>
+        <key>JRYNYRYJ</key>
+        <integer>120</integer>
+        <key>KNEKMWRC</key>
+        <integer>120</integer>
+        <key>QWSNDHWR</key>
+        <integer>120</integer>
+        <key>UKGUPULA</key>
+        <integer>120</integer>
+        <key>UPBAPICJ</key>
+        <integer>120</integer>
+        <key>UWYJVFDT</key>
+        <integer>120</integer>
+        <key>ZAQPQNQK</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

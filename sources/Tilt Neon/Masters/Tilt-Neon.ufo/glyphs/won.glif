@@ -3,11 +3,53 @@
   <advance width="683"/>
   <unicode hex="20A9"/>
   <outline>
+    <contour>
+      <point x="95.0" y="640.0" type="move" name="HGPPQWII"/>
+      <point x="218.0" y="40.0" type="line" name="VIKCZIAT"/>
+      <point x="238.0" y="40.0" type="line" name="YKJHKGRF"/>
+      <point x="340.0" y="640.0" type="line" name="BDMOIECI"/>
+      <point x="443.0" y="40.0" type="line" name="ZQBWBINZ"/>
+      <point x="466.0" y="40.0" type="line" name="KSELBGFC"/>
+      <point x="588.0" y="640.0" type="line" name="TZPQDTPA"/>
+    </contour>
+    <contour>
+      <point x="150" y="360" type="move" name="DEADKEKG"/>
+      <point x="45" y="360" type="line" name="NOMKJBSU"/>
+    </contour>
+    <contour>
+      <point x="638" y="360" type="move" name="MXIBKXXU"/>
+      <point x="534" y="360" type="line" name="IQVEJSDS"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BDMOIECI</key>
+        <integer>120</integer>
+        <key>DEADKEKG</key>
+        <integer>120</integer>
+        <key>HGPPQWII</key>
+        <integer>120</integer>
+        <key>IQVEJSDS</key>
+        <integer>120</integer>
+        <key>KSELBGFC</key>
+        <integer>120</integer>
+        <key>MXIBKXXU</key>
+        <integer>120</integer>
+        <key>NOMKJBSU</key>
+        <integer>120</integer>
+        <key>TZPQDTPA</key>
+        <integer>120</integer>
+        <key>VIKCZIAT</key>
+        <integer>120</integer>
+        <key>YKJHKGRF</key>
+        <integer>120</integer>
+        <key>ZQBWBINZ</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

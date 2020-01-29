@@ -3,11 +3,49 @@
   <advance width="678"/>
   <unicode hex="018F"/>
   <outline>
+    <contour>
+      <point x="128.55020903619732" y="610.0" type="move" name="YCQFEWRK"/>
+      <point x="381.5502090361973" y="703.0" name="XMOQHAWO"/>
+      <point x="587.5502090361973" y="608.8899613899614" name="XFHAZHVT"/>
+      <point x="587.5502090361973" y="342.4806949806949" type="curve" smooth="yes" name="MGEKTLNS"/>
+      <point x="587.5502090361973" y="153.77413127413126" name="ASEMXFTK"/>
+      <point x="477.70994645414044" y="35.0" name="UTTCHYPV"/>
+      <point x="328.7186991893702" y="35.0" type="curve" smooth="yes" name="VGCTADQE"/>
+      <point x="176.46486986770716" y="35.0" name="NQKHSUYV"/>
+      <point x="81.84999021781657" y="161.54440154440152" name="NVZMIXJH"/>
+      <point x="90.55020903619732" y="351.36100386100384" type="curve" name="OGBHSKZY"/>
+      <point x="587.5502090361973" y="351.36100386100384" type="line" name="WYYFJQNW"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ASEMXFTK</key>
+        <integer>120</integer>
+        <key>MGEKTLNS</key>
+        <integer>120</integer>
+        <key>NQKHSUYV</key>
+        <integer>120</integer>
+        <key>NVZMIXJH</key>
+        <integer>120</integer>
+        <key>OGBHSKZY</key>
+        <integer>120</integer>
+        <key>UTTCHYPV</key>
+        <integer>120</integer>
+        <key>VGCTADQE</key>
+        <integer>120</integer>
+        <key>WYYFJQNW</key>
+        <integer>120</integer>
+        <key>XFHAZHVT</key>
+        <integer>120</integer>
+        <key>XMOQHAWO</key>
+        <integer>120</integer>
+        <key>YCQFEWRK</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

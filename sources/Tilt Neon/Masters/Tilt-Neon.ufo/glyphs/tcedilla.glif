@@ -6,11 +6,48 @@
   <anchor x="168" y="-14" name="below"/>
   <anchor x="240" y="501" name="right"/>
   <outline>
+    <contour>
+      <point x="81" y="-194" type="move" name="WHFSHXIS"/>
+      <point x="190" y="-217" name="SSYCJSWQ"/>
+      <point x="258" y="-191" name="QHRLHNKU"/>
+      <point x="258" y="-132" type="curve" smooth="yes" name="ILWJUVKB"/>
+      <point x="258" y="-88" name="HQHQUVOK"/>
+      <point x="209" y="-68" name="UDMHERWX"/>
+      <point x="163" y="-62" type="curve" name="YLWBWXLQ"/>
+      <point x="163" y="588" type="line" name="TYRBNMBO"/>
+    </contour>
+    <contour>
+      <point x="57" y="453" type="move" name="TDKKTSFB"/>
+      <point x="279" y="453" type="line" name="AJMVHRIP"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AJMVHRIP</key>
+        <integer>120</integer>
+        <key>HQHQUVOK</key>
+        <integer>120</integer>
+        <key>ILWJUVKB</key>
+        <integer>120</integer>
+        <key>QHRLHNKU</key>
+        <integer>120</integer>
+        <key>SSYCJSWQ</key>
+        <integer>120</integer>
+        <key>TDKKTSFB</key>
+        <integer>120</integer>
+        <key>TYRBNMBO</key>
+        <integer>120</integer>
+        <key>UDMHERWX</key>
+        <integer>120</integer>
+        <key>WHFSHXIS</key>
+        <integer>120</integer>
+        <key>YLWBWXLQ</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

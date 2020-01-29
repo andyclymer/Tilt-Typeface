@@ -6,11 +6,38 @@
   <anchor x="165" y="-10" name="below"/>
   <anchor x="235" y="501" name="right"/>
   <outline>
+    <contour>
+      <point x="163" y="40" type="move" name="EGKOMMCW"/>
+      <point x="163" y="588" type="line" name="TVFYOQKF"/>
+    </contour>
+    <contour>
+      <point x="57" y="453" type="move" name="OMIBBXGL"/>
+      <point x="279" y="453" type="line" name="ZLNMEOFH"/>
+    </contour>
+    <contour>
+      <point x="77" y="293" type="move" name="LKUDSWUC"/>
+      <point x="259" y="293" type="line" name="PVZIVTRP"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>EGKOMMCW</key>
+        <integer>120</integer>
+        <key>LKUDSWUC</key>
+        <integer>120</integer>
+        <key>OMIBBXGL</key>
+        <integer>120</integer>
+        <key>PVZIVTRP</key>
+        <integer>120</integer>
+        <key>TVFYOQKF</key>
+        <integer>120</integer>
+        <key>ZLNMEOFH</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

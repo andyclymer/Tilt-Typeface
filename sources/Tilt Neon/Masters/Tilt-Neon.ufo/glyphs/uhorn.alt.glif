@@ -4,11 +4,52 @@
   <anchor x="280" y="498" name="above"/>
   <anchor x="280" y="-7" name="below"/>
   <outline>
+    <contour>
+      <point x="582" y="607" type="move" name="PNXPQTFD"/>
+      <point x="583" y="527" name="XSDZJPJQ"/>
+      <point x="536" y="458" name="AXCBUXHZ"/>
+      <point x="458" y="458" type="curve" name="NNWHEZEQ"/>
+      <point x="458" y="207" type="line" smooth="yes" name="KDVQHPNI"/>
+      <point x="458" y="96" name="NRNMMNOA"/>
+      <point x="389" y="34" name="INBHXECV"/>
+      <point x="280" y="34" type="curve" smooth="yes" name="DLLJTQQV"/>
+      <point x="170" y="34" name="CMFZULHF"/>
+      <point x="102" y="96" name="FVXWMTMI"/>
+      <point x="102" y="207" type="curve" smooth="yes" name="KHXPHSWW"/>
+      <point x="102" y="458" type="line" name="ITSMYXUD"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AXCBUXHZ</key>
+        <integer>120</integer>
+        <key>CMFZULHF</key>
+        <integer>120</integer>
+        <key>DLLJTQQV</key>
+        <integer>120</integer>
+        <key>FVXWMTMI</key>
+        <integer>120</integer>
+        <key>INBHXECV</key>
+        <integer>120</integer>
+        <key>ITSMYXUD</key>
+        <integer>120</integer>
+        <key>KDVQHPNI</key>
+        <integer>120</integer>
+        <key>KHXPHSWW</key>
+        <integer>120</integer>
+        <key>NNWHEZEQ</key>
+        <integer>120</integer>
+        <key>NRNMMNOA</key>
+        <integer>120</integer>
+        <key>PNXPQTFD</key>
+        <integer>120</integer>
+        <key>XSDZJPJQ</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

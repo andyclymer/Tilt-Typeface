@@ -3,11 +3,22 @@
   <advance width="297"/>
   <unicode hex="2032"/>
   <outline>
+    <contour>
+      <point x="98" y="438" type="move" name="SUQOZRVB"/>
+      <point x="198" y="640" type="line" name="YUWCPSGN"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>SUQOZRVB</key>
+        <integer>120</integer>
+        <key>YUWCPSGN</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

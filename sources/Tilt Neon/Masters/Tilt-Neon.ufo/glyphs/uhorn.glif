@@ -5,11 +5,57 @@
   <anchor x="280" y="498" name="above"/>
   <anchor x="280" y="1" name="below"/>
   <outline>
+    <contour>
+      <point x="458" y="40" type="move" name="OABQKCXT"/>
+      <point x="458.0" y="463.0" type="line" name="FWNOEHER"/>
+      <point x="536.0" y="463.0" name="DHPDGHXV"/>
+      <point x="583" y="532" name="SFGRYLAM"/>
+      <point x="582" y="612" type="curve" name="YUHGEMUS"/>
+    </contour>
+    <contour>
+      <point x="102" y="458" type="move" name="EDYSBOHM"/>
+      <point x="102" y="207" type="line" smooth="yes" name="BBIZZDVV"/>
+      <point x="102" y="96" name="YDKIMSQH"/>
+      <point x="162" y="34" name="AESZCKHO"/>
+      <point x="258" y="34" type="curve" smooth="yes" name="BZFMMMFX"/>
+      <point x="373" y="34" name="YVWPKVGC"/>
+      <point x="458" y="122" name="OICHUIBN"/>
+      <point x="458" y="224" type="curve" name="NTESGOVH"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AESZCKHO</key>
+        <integer>120</integer>
+        <key>BBIZZDVV</key>
+        <integer>120</integer>
+        <key>BZFMMMFX</key>
+        <integer>120</integer>
+        <key>DHPDGHXV</key>
+        <integer>120</integer>
+        <key>EDYSBOHM</key>
+        <integer>120</integer>
+        <key>FWNOEHER</key>
+        <integer>120</integer>
+        <key>NTESGOVH</key>
+        <integer>120</integer>
+        <key>OABQKCXT</key>
+        <integer>120</integer>
+        <key>OICHUIBN</key>
+        <integer>120</integer>
+        <key>SFGRYLAM</key>
+        <integer>120</integer>
+        <key>YDKIMSQH</key>
+        <integer>120</integer>
+        <key>YUHGEMUS</key>
+        <integer>120</integer>
+        <key>YVWPKVGC</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

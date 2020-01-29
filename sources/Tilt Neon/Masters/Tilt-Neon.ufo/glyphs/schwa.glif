@@ -3,11 +3,49 @@
   <advance width="548"/>
   <unicode hex="0259"/>
   <outline>
+    <contour>
+      <point x="443" y="248" type="move" name="HMBLRQDG"/>
+      <point x="88" y="248" type="line" name="EDNICTDQ"/>
+      <point x="84" y="120" name="CRASSJVM"/>
+      <point x="157" y="34" name="FMOMNHAQ"/>
+      <point x="269" y="34" type="curve" smooth="yes" name="VYLHTAXE"/>
+      <point x="383" y="34" name="OZSOZHBH"/>
+      <point x="467" y="120" name="RMMECFRK"/>
+      <point x="467" y="249" type="curve" smooth="yes" name="QARSODPW"/>
+      <point x="467" y="441" name="SIAOLWMB"/>
+      <point x="284" y="521" name="EGKCWQJS"/>
+      <point x="100" y="417" type="curve" name="TOKPIYZB"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CRASSJVM</key>
+        <integer>120</integer>
+        <key>EDNICTDQ</key>
+        <integer>120</integer>
+        <key>EGKCWQJS</key>
+        <integer>120</integer>
+        <key>FMOMNHAQ</key>
+        <integer>120</integer>
+        <key>HMBLRQDG</key>
+        <integer>120</integer>
+        <key>OZSOZHBH</key>
+        <integer>120</integer>
+        <key>QARSODPW</key>
+        <integer>120</integer>
+        <key>RMMECFRK</key>
+        <integer>120</integer>
+        <key>SIAOLWMB</key>
+        <integer>120</integer>
+        <key>TOKPIYZB</key>
+        <integer>120</integer>
+        <key>VYLHTAXE</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

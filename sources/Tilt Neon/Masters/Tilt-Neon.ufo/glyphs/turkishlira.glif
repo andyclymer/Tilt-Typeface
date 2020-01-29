@@ -3,11 +3,50 @@
   <advance width="535"/>
   <unicode hex="20BA"/>
   <outline>
+    <contour>
+      <point x="178.21024788779326" y="640.0" type="move" name="CIQNREGJ"/>
+      <point x="178.21024788779326" y="50.0" type="line" name="JSVFUGAT"/>
+      <point x="311.21024788779323" y="50.0" type="line" smooth="yes" name="UBGEFZGS"/>
+      <point x="402.21024788779323" y="50.0" name="VELTXSJX"/>
+      <point x="460.21024788779323" y="93.0" name="EDNBFZUW"/>
+      <point x="460.21024788779323" y="203.0" type="curve" name="NLEGLBDI"/>
+    </contour>
+    <contour>
+      <point x="381.21024788779323" y="566.0" type="move" name="NFWNLMKI"/>
+      <point x="75.21024788779327" y="466.0" type="line" name="BPBVFDRD"/>
+    </contour>
+    <contour>
+      <point x="381.21024788779323" y="396.0" type="move" name="GYFQYPLT"/>
+      <point x="75.21024788779327" y="296.0" type="line" name="ADICGDZS"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ADICGDZS</key>
+        <integer>120</integer>
+        <key>BPBVFDRD</key>
+        <integer>120</integer>
+        <key>CIQNREGJ</key>
+        <integer>120</integer>
+        <key>EDNBFZUW</key>
+        <integer>120</integer>
+        <key>GYFQYPLT</key>
+        <integer>120</integer>
+        <key>JSVFUGAT</key>
+        <integer>120</integer>
+        <key>NFWNLMKI</key>
+        <integer>120</integer>
+        <key>NLEGLBDI</key>
+        <integer>120</integer>
+        <key>UBGEFZGS</key>
+        <integer>120</integer>
+        <key>VELTXSJX</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

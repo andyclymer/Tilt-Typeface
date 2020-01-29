@@ -5,11 +5,47 @@
   <anchor x="174" y="0" name="below"/>
   <anchor x="247" y="504" name="right"/>
   <outline>
+    <contour>
+      <point x="77" y="293" type="move" name="ZEAQZXTO"/>
+      <point x="269" y="293" type="line" name="YYBETXRO"/>
+    </contour>
+    <contour>
+      <point x="163" y="588" type="move" name="MOCTEJNL"/>
+      <point x="163" y="139" type="line" smooth="yes" name="XSSBJGSY"/>
+      <point x="163" y="46" name="FYIMTKAL"/>
+      <point x="242" y="16" name="FTIERZYW"/>
+      <point x="322" y="55" type="curve" name="DNDYAOGK"/>
+    </contour>
+    <contour>
+      <point x="57" y="453" type="move" name="AMIVUAQK"/>
+      <point x="299" y="453" type="line" name="UTVODXVE"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AMIVUAQK</key>
+        <integer>120</integer>
+        <key>DNDYAOGK</key>
+        <integer>120</integer>
+        <key>FTIERZYW</key>
+        <integer>120</integer>
+        <key>FYIMTKAL</key>
+        <integer>120</integer>
+        <key>MOCTEJNL</key>
+        <integer>120</integer>
+        <key>UTVODXVE</key>
+        <integer>120</integer>
+        <key>XSSBJGSY</key>
+        <integer>120</integer>
+        <key>YYBETXRO</key>
+        <integer>120</integer>
+        <key>ZEAQZXTO</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>

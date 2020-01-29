@@ -5,11 +5,60 @@
   <anchor x="102" y="745" name="above"/>
   <anchor x="102" y="-10" name="below"/>
   <outline>
+    <contour>
+      <point x="129" y="40" type="move" name="YACKK"/>
+      <point x="129.0" y="86" name="BDRZEFMZ"/>
+      <point x="129.0" y="132" name="SLBPCARG"/>
+      <point x="129" y="178" type="curve" smooth="yes" name="GBOTVMJA"/>
+      <point x="129" y="308.0" name="HINUMCPF"/>
+      <point x="129.0" y="437" name="DWTVKTXA"/>
+      <point x="129" y="567" type="curve" smooth="yes" name="XVTTGOVF"/>
+      <point x="129.0" y="607.0" name="AMBCTFOH"/>
+      <point x="129.0" y="652" name="HEUJPUTA"/>
+      <point x="129" y="695" type="curve" name="FREEZ"/>
+    </contour>
+    <contour>
+      <point x="220" y="427.0" type="move" name="NTFJFGJQ"/>
+      <point x="160" y="405" name="PXYJEFHD"/>
+      <point x="100" y="382" name="OGNYRYVW"/>
+      <point x="40" y="360.0" type="curve" name="EKVBAGRF"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AMBCTFOH</key>
+        <integer>120</integer>
+        <key>BDRZEFMZ</key>
+        <integer>120</integer>
+        <key>DWTVKTXA</key>
+        <integer>120</integer>
+        <key>EKVBAGRF</key>
+        <real>50.0</real>
+        <key>FREEZ</key>
+        <integer>100</integer>
+        <key>GBOTVMJA</key>
+        <integer>120</integer>
+        <key>HEUJPUTA</key>
+        <integer>120</integer>
+        <key>HINUMCPF</key>
+        <integer>120</integer>
+        <key>NTFJFGJQ</key>
+        <integer>50</integer>
+        <key>OGNYRYVW</key>
+        <real>20.0</real>
+        <key>PXYJEFHD</key>
+        <integer>20</integer>
+        <key>SLBPCARG</key>
+        <integer>120</integer>
+        <key>XVTTGOVF</key>
+        <integer>120</integer>
+        <key>YACKK</key>
+        <integer>90</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>

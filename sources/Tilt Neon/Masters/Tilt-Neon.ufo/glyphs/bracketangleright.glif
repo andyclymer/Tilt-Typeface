@@ -3,11 +3,25 @@
   <advance width="384"/>
   <unicode hex="27E9"/>
   <outline>
+    <contour>
+      <point x="94.80119774030862" y="640.0" type="move" name="MXUSXLUE"/>
+      <point x="323.8011977403086" y="339.0" type="line" name="ZBJXCMSL"/>
+      <point x="95.80119774030862" y="40.0" type="line" name="XPUGLRAG"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>MXUSXLUE</key>
+        <integer>120</integer>
+        <key>XPUGLRAG</key>
+        <integer>120</integer>
+        <key>ZBJXCMSL</key>
+        <integer>120</integer>
+      </dict>
       <key>public.markColor</key>
-      <string>0.9294,0.5725,0.9529,1</string>
+      <string>0.5725,0.9294,0.9529,1</string>
     </dict>
   </lib>
 </glyph>
