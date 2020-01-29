@@ -4,37 +4,55 @@
   <unicode hex="2021"/>
   <outline>
     <contour>
-      <point x="208" y="690" type="move" name="FTMRUZRD"/>
-      <point x="208" y="225" type="line" name="DAUNLOBI"/>
+      <point x="208" y="690" type="move" name="ZZYZQDBR"/>
+      <point x="208.0" y="545" name="ATYYEPDZ"/>
+      <point x="208.0" y="400" name="RWASUAWH"/>
+      <point x="208" y="255" type="curve" name="XICZKZME"/>
     </contour>
     <contour>
-      <point x="330" y="558" type="move" name="AMCKFJWU"/>
-      <point x="85" y="558" type="line" name="EOIIKTUL"/>
+      <point x="330" y="558" type="move" name="NZMZVXNY"/>
+      <point x="248" y="558.0" name="VXKVNDJQ"/>
+      <point x="167" y="558.0" name="WXTFPULX"/>
+      <point x="85" y="558" type="curve" name="HNLWUTZH"/>
     </contour>
     <contour>
-      <point x="330" y="378" type="move" name="RQUGAJEI"/>
-      <point x="85" y="378" type="line" name="EXGFWNSS"/>
+      <point x="330" y="378" type="move" name="LZZTQUEF"/>
+      <point x="248" y="378.0" name="BWFGXWWS"/>
+      <point x="154" y="378" name="NYRRNHCZ"/>
+      <point x="85" y="378" type="curve" name="DVWQPYXL"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.andyclymer.zPosition</key>
       <dict>
-        <key>AMCKFJWU</key>
-        <integer>120</integer>
-        <key>DAUNLOBI</key>
-        <integer>120</integer>
-        <key>EOIIKTUL</key>
-        <integer>120</integer>
-        <key>EXGFWNSS</key>
-        <integer>120</integer>
-        <key>FTMRUZRD</key>
-        <integer>120</integer>
-        <key>RQUGAJEI</key>
-        <integer>120</integer>
+        <key>ATYYEPDZ</key>
+        <integer>140</integer>
+        <key>BWFGXWWS</key>
+        <integer>30</integer>
+        <key>DVWQPYXL</key>
+        <real>80.0</real>
+        <key>HNLWUTZH</key>
+        <integer>80</integer>
+        <key>LZZTQUEF</key>
+        <integer>80</integer>
+        <key>NYRRNHCZ</key>
+        <real>30.0</real>
+        <key>NZMZVXNY</key>
+        <integer>80</integer>
+        <key>RWASUAWH</key>
+        <integer>140</integer>
+        <key>VXKVNDJQ</key>
+        <integer>30</integer>
+        <key>WXTFPULX</key>
+        <integer>30</integer>
+        <key>XICZKZME</key>
+        <integer>90</integer>
+        <key>ZZYZQDBR</key>
+        <integer>90</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>
