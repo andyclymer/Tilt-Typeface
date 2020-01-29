@@ -4,53 +4,95 @@
   <unicode hex="20BD"/>
   <outline>
     <contour>
-      <point x="150.0" y="40.0" type="move" name="UNFRHGKP"/>
-      <point x="150.0" y="635.0" type="line" name="NTJDUKOG"/>
-      <point x="300.0" y="635.0" type="line" smooth="yes" name="WJNKHRDD"/>
-      <point x="398.0" y="635.0" name="DQEGAQVJ"/>
-      <point x="460.0" y="573" name="HAIYUBMW"/>
-      <point x="460.0" y="486.0" type="curve" smooth="yes" name="IHJYRXUY"/>
-      <point x="460.0" y="396" name="UIZXSOHN"/>
-      <point x="398" y="338" name="MYKIFEIV"/>
-      <point x="312.0" y="338.0" type="curve" smooth="yes" name="BIQDEKIO"/>
-      <point x="60.0" y="338.0" type="line" name="HEKWMDFH"/>
+      <point x="55" y="338" type="move" name="KDWEAVCL"/>
+      <point x="77" y="338" name="EEUZMDDN"/>
+      <point x="273" y="338" name="TCNGHVIQ"/>
+      <point x="307" y="338" type="curve" smooth="yes" name="ZSIGVLYQ"/>
+      <point x="395" y="338" name="ENMYWVGJ"/>
+      <point x="461" y="397" name="UPGSQETF"/>
+      <point x="461" y="486" type="curve" smooth="yes" name="FQRFLMWJ"/>
+      <point x="461" y="575" name="OWXPAUCJ"/>
+      <point x="400" y="635" name="XZGURVYI"/>
+      <point x="320" y="635" type="curve" smooth="yes" name="NQPINRXD"/>
+      <point x="290" y="635" name="SJPEWWJP"/>
+      <point x="261" y="635.0" name="EODHZPXI"/>
+      <point x="231" y="635" type="curve" smooth="yes" name="JUFUVNOF"/>
+      <point x="165" y="635" name="TFXKHUDK"/>
+      <point x="150" y="615" name="TKNZFJUO"/>
+      <point x="150" y="550" type="curve" smooth="yes" name="PACYJEKA"/>
+      <point x="150.0" y="426" name="RHVAFUOV"/>
+      <point x="150" y="290" name="RFYXEVZS"/>
+      <point x="150" y="178" type="curve" smooth="yes" name="GUGTSAOX"/>
+      <point x="150.0" y="132.0" name="KAHHWDKX"/>
+      <point x="150.0" y="86" name="XHPYLRXN"/>
+      <point x="150" y="40" type="curve" name="YEBAPYVI"/>
     </contour>
     <contour>
-      <point x="50.0" y="166.0" type="move" name="DCZQLNEB"/>
-      <point x="352.0" y="166.0" type="line" name="DLBCNJEY"/>
+      <point x="50.0" y="166.0" type="move" name="LXVGIKOI"/>
+      <point x="151" y="166.0" name="FFRGFKWU"/>
+      <point x="251" y="166.0" name="AHUFVJPI"/>
+      <point x="352.0" y="166.0" type="curve" name="VRYPNJVN"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.andyclymer.zPosition</key>
       <dict>
-        <key>BIQDEKIO</key>
+        <key>AHUFVJPI</key>
+        <real>20.0</real>
+        <key>EEUZMDDN</key>
+        <integer>38</integer>
+        <key>ENMYWVGJ</key>
+        <integer>40</integer>
+        <key>EODHZPXI</key>
+        <integer>50</integer>
+        <key>FFRGFKWU</key>
+        <integer>20</integer>
+        <key>FQRFLMWJ</key>
+        <integer>100</integer>
+        <key>GUGTSAOX</key>
         <integer>120</integer>
-        <key>DCZQLNEB</key>
+        <key>JUFUVNOF</key>
+        <integer>50</integer>
+        <key>KAHHWDKX</key>
         <integer>120</integer>
-        <key>DLBCNJEY</key>
+        <key>KDWEAVCL</key>
+        <integer>38</integer>
+        <key>LXVGIKOI</key>
+        <integer>50</integer>
+        <key>NQPINRXD</key>
+        <integer>56</integer>
+        <key>OWXPAUCJ</key>
+        <integer>108</integer>
+        <key>PACYJEKA</key>
         <integer>120</integer>
-        <key>DQEGAQVJ</key>
+        <key>RFYXEVZS</key>
         <integer>120</integer>
-        <key>HAIYUBMW</key>
+        <key>RHVAFUOV</key>
         <integer>120</integer>
-        <key>HEKWMDFH</key>
+        <key>SJPEWWJP</key>
+        <integer>51</integer>
+        <key>TCNGHVIQ</key>
+        <integer>37</integer>
+        <key>TFXKHUDK</key>
+        <integer>50</integer>
+        <key>TKNZFJUO</key>
         <integer>120</integer>
-        <key>IHJYRXUY</key>
+        <key>UPGSQETF</key>
+        <integer>92</integer>
+        <key>VRYPNJVN</key>
+        <real>50.0</real>
+        <key>XHPYLRXN</key>
         <integer>120</integer>
-        <key>MYKIFEIV</key>
-        <integer>120</integer>
-        <key>NTJDUKOG</key>
-        <integer>120</integer>
-        <key>UIZXSOHN</key>
-        <integer>120</integer>
-        <key>UNFRHGKP</key>
-        <integer>120</integer>
-        <key>WJNKHRDD</key>
-        <integer>120</integer>
+        <key>XZGURVYI</key>
+        <integer>73</integer>
+        <key>YEBAPYVI</key>
+        <integer>100</integer>
+        <key>ZSIGVLYQ</key>
+        <integer>38</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>
