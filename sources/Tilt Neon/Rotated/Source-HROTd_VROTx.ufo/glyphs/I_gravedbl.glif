@@ -4,6 +4,12 @@
   <unicode hex="0208"/>
   <outline>
     <component base="I"/>
-    <component base="gravedoublecmb" xOffset="135" yOffset="183"/>
+    <component base="gravedoublecmb" xOffset="135" yOffset="129"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

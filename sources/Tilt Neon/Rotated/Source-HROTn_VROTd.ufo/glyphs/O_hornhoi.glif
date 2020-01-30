@@ -3,7 +3,13 @@
   <advance width="518"/>
   <unicode hex="1EDE"/>
   <outline>
-    <component base="Ohorn" xOffset="-107"/>
-    <component base="hookabovecmb" xOffset="264" yOffset="192"/>
+    <component base="Ohorn"/>
+    <component base="hookabovecmb" xOffset="262" yOffset="192"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

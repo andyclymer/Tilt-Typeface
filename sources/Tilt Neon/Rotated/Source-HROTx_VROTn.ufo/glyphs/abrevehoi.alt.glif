@@ -2,8 +2,14 @@
 <glyph name="abrevehoi.alt" format="2">
   <advance width="369"/>
   <outline>
-    <component base="a.alt" xOffset="-77"/>
-    <component base="brevecmb" xOffset="186" yOffset="2"/>
-    <component base="hookabovecmb" xOffset="186" yOffset="213"/>
+    <component base="a.alt"/>
+    <component base="brevecmb" xOffset="184" yOffset="1"/>
+    <component base="hookabovecmb" xOffset="78" yOffset="150"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

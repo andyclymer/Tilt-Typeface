@@ -3,7 +3,13 @@
   <advance width="461"/>
   <unicode hex="00C5"/>
   <outline>
-    <component base="A" xOffset="-95"/>
-    <component base="ringabovecmb" xOffset="230" yOffset="183"/>
+    <component base="A"/>
+    <component base="ringabovecmb" xOffset="138" yOffset="129"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

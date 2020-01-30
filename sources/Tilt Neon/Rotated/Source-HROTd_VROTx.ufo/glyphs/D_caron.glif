@@ -4,6 +4,12 @@
   <unicode hex="010E"/>
   <outline>
     <component base="D"/>
-    <component base="caroncmb" xOffset="310" yOffset="183"/>
+    <component base="caroncmb" xOffset="310" yOffset="129"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

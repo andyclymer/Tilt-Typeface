@@ -4,7 +4,13 @@
   <unicode hex="1E2E"/>
   <outline>
     <component base="I"/>
-    <component base="dieresiscmb" xOffset="135" yOffset="183"/>
-    <component base="acutecmb" xOffset="135" yOffset="390"/>
+    <component base="dieresiscmb" xOffset="135" yOffset="129"/>
+    <component base="acutecmb" xOffset="135" yOffset="275"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

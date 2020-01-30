@@ -2,8 +2,14 @@
 <glyph name="acircumflexdotbelow.alt" format="2">
   <advance width="369"/>
   <outline>
-    <component base="a.alt" xOffset="-77"/>
-    <component base="circumflexcmb" xOffset="186" yOffset="2"/>
-    <component base="dotbelowcmb" xOffset="187"/>
+    <component base="a.alt"/>
+    <component base="circumflexcmb" xOffset="184" yOffset="1"/>
+    <component base="dotbelowcmb" xOffset="186"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

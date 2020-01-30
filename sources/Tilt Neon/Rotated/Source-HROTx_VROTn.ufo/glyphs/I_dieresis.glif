@@ -3,7 +3,13 @@
   <advance width="190"/>
   <unicode hex="00CF"/>
   <outline>
-    <component base="I" xOffset="-40"/>
-    <component base="dieresiscmb" xOffset="95" yOffset="183"/>
+    <component base="I"/>
+    <component base="dieresiscmb" xOffset="3" yOffset="129"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

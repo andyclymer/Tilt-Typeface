@@ -2,7 +2,13 @@
 <glyph name="agravedbl.alt" format="2">
   <advance width="369"/>
   <outline>
-    <component base="a.alt" xOffset="-77"/>
+    <component base="a.alt"/>
     <component base="gravedoublecmb" xOffset="186" yOffset="2"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

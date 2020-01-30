@@ -2,7 +2,13 @@
 <glyph name="uring.alt" format="2">
   <advance width="396"/>
   <outline>
-    <component base="u.alt" xOffset="-82"/>
-    <component base="ringabovecmb" xOffset="198" yOffset="1"/>
+    <component base="u.alt"/>
+    <component base="ringabovecmb" xOffset="199"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -3,7 +3,13 @@
   <advance width="887"/>
   <unicode hex="01C4"/>
   <outline>
-    <component base="D" xOffset="-184"/>
-    <component base="Zcaron" xOffset="476"/>
+    <component base="D"/>
+    <component base="Zcaron" xOffset="466"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

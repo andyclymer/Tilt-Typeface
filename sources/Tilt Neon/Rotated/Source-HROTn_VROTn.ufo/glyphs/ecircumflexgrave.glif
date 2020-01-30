@@ -3,8 +3,14 @@
   <advance width="388"/>
   <unicode hex="1EC1"/>
   <outline>
-    <component base="e" xOffset="-80"/>
-    <component base="circumflexcmb" xOffset="205" yOffset="5"/>
-    <component base="gravecmb" xOffset="319" yOffset="188"/>
+    <component base="e"/>
+    <component base="circumflexcmb" xOffset="205" yOffset="3"/>
+    <component base="gravecmb" xOffset="378" yOffset="132"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

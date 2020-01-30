@@ -4,6 +4,12 @@
   <unicode hex="1EDB"/>
   <outline>
     <component base="ohorn"/>
-    <component base="acutecmb" xOffset="280" yOffset="4"/>
+    <component base="acutecmb" xOffset="280" yOffset="2"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

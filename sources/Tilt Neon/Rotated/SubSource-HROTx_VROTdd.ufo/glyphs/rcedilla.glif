@@ -3,7 +3,13 @@
   <advance width="275"/>
   <unicode hex="0157"/>
   <outline>
-    <component base="r" xOffset="-57"/>
-    <component base="commaaccentbelowcmb" xOffset="93"/>
+    <component base="r"/>
+    <component base="commaaccentbelowcmb" xOffset="106"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

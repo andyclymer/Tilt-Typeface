@@ -3,6 +3,12 @@
   <advance width="560"/>
   <outline>
     <component base="u.alt"/>
-    <component base="brevecmb" xOffset="280" yOffset="1"/>
+    <component base="brevecmb" xOffset="280"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -3,7 +3,13 @@
   <advance width="412"/>
   <unicode hex="010F"/>
   <outline>
-    <component base="d" xOffset="-86"/>
-    <component base="caroncmb.alt" xOffset="563" yOffset="-4"/>
+    <component base="d"/>
+    <component base="caroncmb.alt" xOffset="613.724578199698" yOffset="160.29004602948845"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>
