@@ -4,35 +4,59 @@
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="357" y="539" type="move" name="AHWGPWUP"/>
-      <point x="80" y="416" type="line" name="VSEUSUKZ"/>
-      <point x="80" y="408" type="line" name="GIBYIQPH"/>
-      <point x="357" y="284" type="line" name="RJOBFUPN"/>
+      <point x="357" y="580" type="move" name="URXIYSUF"/>
+      <point x="296" y="544" name="ODGNDLXP"/>
+      <point x="237" y="508" name="FMNFMQFT"/>
+      <point x="161" y="463" type="curve" smooth="yes" name="OVXVLZII"/>
+      <point x="77" y="413" name="ERPUHRPV"/>
+      <point x="78" y="411" name="NDMBFTEY"/>
+      <point x="159" y="365" type="curve" smooth="yes" name="JFFYGBJP"/>
+      <point x="235" y="322" name="ITLGWEDU"/>
+      <point x="296" y="282" name="GJPSYODC"/>
+      <point x="357" y="246" type="curve" name="DZRTXJXE"/>
     </contour>
     <contour>
-      <point x="357" y="120" type="move" name="CKFUEMFD"/>
-      <point x="80" y="120" type="line" name="AJIDLYNU"/>
+      <point x="356" y="120" type="move" name="AGKSLGLC"/>
+      <point x="252" y="120" name="RWUCNHSR"/>
+      <point x="184" y="120" name="BPCIESGG"/>
+      <point x="80" y="120" type="curve" name="JLTDWEOR"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.andyclymer.zPosition</key>
       <dict>
-        <key>AHWGPWUP</key>
+        <key>AGKSLGLC</key>
         <integer>120</integer>
-        <key>AJIDLYNU</key>
+        <key>BPCIESGG</key>
+        <integer>170</integer>
+        <key>DZRTXJXE</key>
+        <real>100.0</real>
+        <key>ERPUHRPV</key>
+        <integer>65</integer>
+        <key>FMNFMQFT</key>
+        <integer>55</integer>
+        <key>GJPSYODC</key>
         <integer>120</integer>
-        <key>CKFUEMFD</key>
+        <key>ITLGWEDU</key>
+        <integer>134</integer>
+        <key>JFFYGBJP</key>
         <integer>120</integer>
-        <key>GIBYIQPH</key>
+        <key>JLTDWEOR</key>
+        <real>120.0</real>
+        <key>NDMBFTEY</key>
+        <integer>106</integer>
+        <key>ODGNDLXP</key>
         <integer>120</integer>
-        <key>RJOBFUPN</key>
-        <integer>120</integer>
-        <key>VSEUSUKZ</key>
+        <key>OVXVLZII</key>
+        <integer>60</integer>
+        <key>RWUCNHSR</key>
+        <integer>170</integer>
+        <key>URXIYSUF</key>
         <integer>120</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
+      <string>0.6171,0.9529,0.5725,1</string>
     </dict>
   </lib>
 </glyph>
