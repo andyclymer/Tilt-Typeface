@@ -1,20 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis" format="2">
   <advance width="500"/>
-  <anchor x="0" y="497.0" name="top"/>
-  <anchor x="288" y="497.0" name="center"/>
+  <unicode hex="00A8"/>
   <outline>
     <contour>
-      <point x="190" y="441" type="move" name="ADSPOYPN"/>
-      <point x="156" y="444" name="BTDIKUNQ"/>
-      <point x="156" y="468" name="MHPTQZMZ"/>
-      <point x="190" y="472" type="curve" name="OEVWUCHM"/>
+      <point x="160" y="441" type="move" name="AZXZYICT"/>
+      <point x="126" y="444" name="CEMZZUVE"/>
+      <point x="126" y="468" name="MUSESWOK"/>
+      <point x="160" y="472" type="curve" name="PXENDEIJ"/>
     </contour>
     <contour>
-      <point x="410" y="441" type="move" name="RCWGFLBI"/>
-      <point x="376" y="444" name="FLURJDQF"/>
-      <point x="376" y="468" name="NLJJMCTT"/>
-      <point x="410" y="472" type="curve" name="QYXTBEIS"/>
+      <point x="360" y="441" type="move" name="WQJEUKCH"/>
+      <point x="326" y="444" name="HTCOFLWF"/>
+      <point x="326" y="468" name="IHEYEODI"/>
+      <point x="360" y="472" type="curve" name="DBRIJDPU"/>
     </contour>
   </outline>
 </glyph>

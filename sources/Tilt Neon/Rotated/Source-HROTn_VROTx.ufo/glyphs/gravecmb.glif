@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecmb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="-123.0" y="425.0" name="_above"/>
+  <anchor x="-224.0" y="567.0" name="above"/>
+  <anchor x="-123.0" y="425.0" name="_aboveright"/>
+  <outline>
+    <contour>
+      <point x="-229" y="373" type="curve" smooth="yes"/>
+      <point x="-290" y="381"/>
+      <point x="-338" y="407"/>
+      <point x="-374" y="450" type="curve" smooth="yes"/>
+      <point x="-417" y="502"/>
+      <point x="-347" y="560"/>
+      <point x="-304" y="508" type="curve" smooth="yes"/>
+      <point x="-282" y="481"/>
+      <point x="-256" y="467"/>
+      <point x="-219" y="463" type="curve" smooth="yes"/>
+      <point x="-152" y="454"/>
+      <point x="-162" y="365"/>
+    </contour>
+  </outline>
+</glyph>

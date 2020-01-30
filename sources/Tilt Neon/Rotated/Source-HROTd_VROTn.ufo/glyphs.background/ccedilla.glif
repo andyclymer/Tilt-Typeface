@@ -2,8 +2,35 @@
 <glyph name="ccedilla" format="2">
   <advance width="500"/>
   <unicode hex="00E7"/>
+  <anchor x="274" y="436.0" name="above"/>
+  <anchor x="274" y="71.0" name="below"/>
   <outline>
-    <component base="c"/>
-    <component base="cedilla" xOffset="51" yOffset="-15.542037995862238"/>
+    <contour>
+      <point x="394" y="173" type="move" name="GFFKEVKI"/>
+      <point x="363" y="172" name="AFAEAXIH"/>
+      <point x="314" y="185" name="IJJERYGV"/>
+      <point x="277" y="185" type="curve" smooth="yes" name="PTAFDHQJ"/>
+      <point x="171" y="185" name="VJNXTIGD"/>
+      <point x="84" y="242" name="GQYQYGAD"/>
+      <point x="84" y="336" type="curve" smooth="yes" name="UKQSPANH"/>
+      <point x="84" y="429" name="MLJMFJFA"/>
+      <point x="170" y="487" name="DGPJYGIS"/>
+      <point x="275" y="487" type="curve" smooth="yes" name="PBNYCTPX"/>
+      <point x="313" y="487" name="NCOCBVGL"/>
+      <point x="362" y="459" name="WPMAEVGB"/>
+      <point x="394" y="429" type="curve" name="KQWDSPDR"/>
+    </contour>
+    <contour>
+      <point x="241" y="173" type="move" name="NKQMDITA"/>
+      <point x="238" y="114" name="UAKEYTAX"/>
+      <point x="245" y="96" name="VVCQNYJL"/>
+      <point x="273" y="85" type="curve" smooth="yes" name="BCRREFPT"/>
+      <point x="314" y="69" name="DGZEOXQZ"/>
+      <point x="336" y="50" name="PPXMXOLU"/>
+      <point x="336" y="28" type="curve" smooth="yes" name="DIVSMYMX"/>
+      <point x="336" y="-10" name="HANKNNCC"/>
+      <point x="273" y="9" name="GRISSWXQ"/>
+      <point x="172" y="23" type="curve" name="KTUBOOIX"/>
+    </contour>
   </outline>
 </glyph>

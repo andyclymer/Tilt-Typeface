@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecmb" format="2">
+  <unicode hex="0309"/>
+  <anchor x="-123.0" y="425.0" name="_above"/>
+  <anchor x="-261.0" y="620.0" name="above"/>
+  <anchor x="-123.0" y="425.0" name="_aboveright"/>
+  <outline>
+    <contour>
+      <point x="-250" y="445" type="curve" smooth="yes"/>
+      <point x="-248" y="445"/>
+      <point x="-256" y="431"/>
+      <point x="-258" y="434" type="curve" smooth="yes"/>
+      <point x="-275" y="458"/>
+      <point x="-341" y="470"/>
+      <point x="-358" y="505" type="curve" smooth="yes"/>
+      <point x="-388" y="565"/>
+      <point x="-308" y="605"/>
+      <point x="-278" y="545" type="curve" smooth="yes"/>
+      <point x="-272" y="534"/>
+      <point x="-237" y="561"/>
+      <point x="-184" y="486" type="curve" smooth="yes"/>
+      <point x="-133" y="413"/>
+      <point x="-174" y="365"/>
+      <point x="-238" y="355" type="curve" smooth="yes"/>
+      <point x="-304" y="346"/>
+      <point x="-317" y="435"/>
+    </contour>
+  </outline>
+</glyph>

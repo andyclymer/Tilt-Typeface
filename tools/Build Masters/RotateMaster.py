@@ -252,7 +252,10 @@ def outlineGlyph(f, g, offsetAmount, contrast=0, contrastAngle=0, alwaysConnect=
     try:
         pen = OutlineFitterPen(f, offsetAmount, connection=connection, cap=cap, closeOpenPaths=True, alwaysConnect=alwaysConnect, contrast=contrast, contrastAngle=contrastAngle, preserveComponents=True) 
         g.draw(pen)
-        g.clear()
+        # Be careful to maintain the anchors, only clear contours and components
+        g.clearContours()
+        g.clearComponents()
+        # Draw the glyph
         pen.drawSettings(drawOriginal=False, drawInner=True, drawOuter=True)
         pen.drawPoints(g.getPointPen())
     except:
@@ -426,7 +429,9 @@ def buildDesignSpace(
         sourceFont = OpenFont(sourceUfoPath, showInterface=False)
         
         for gName in sourceInfo["glyphNames"]:
-            pointData = copy.deepcopy(glyphPointData[gName])
+            if gName in glyphPointData:
+                pointData = copy.deepcopy(glyphPointData[gName])
+            else: pointData = {}
         
             # Get the glyph started
             g = masterFont[gName]
@@ -454,6 +459,7 @@ def buildDesignSpace(
             #   If the glyph has components, and if it's not marked with the "Glyph Builder Gray",
             #   it will need to be decomposed at this stage (but leave overlaps of course)
             #   Otherwise, glyphs that are gray will have their components reapplied after rotating with Glyph Builder.
+            isComponent = False
             if not g.markColor == COMPOSITEGRAY:
                 if len(gDest.components):
                     for c in gDest.components:
@@ -464,11 +470,13 @@ def buildDesignSpace(
                             gDest.appendContour(mc, offset=c.offset)
                         gDest.removeComponent(c)
                         # ...and copy over point data, taking into account the component offset
-                        basePointData = copy.deepcopy(glyphPointData[baseName])
-                        for ident in basePointData:
-                            pointData[ident] = dict(x = basePointData[ident]["x"] + c.offset[0], 
-                                                    y = basePointData[ident]["y"] + c.offset[1], 
-                                                    z = basePointData[ident]["z"])
+                        if baseName in glyphPointData:
+                            basePointData = copy.deepcopy(glyphPointData[baseName])
+                            for ident in basePointData:
+                                pointData[ident] = dict(x = basePointData[ident]["x"] + c.offset[0], 
+                                                        y = basePointData[ident]["y"] + c.offset[1], 
+                                                        z = basePointData[ident]["z"])
+                        isComponent = True
             
             # Flatten the depth
             if "DPTH" in sourceInfo["loc"].keys():
@@ -511,7 +519,8 @@ def buildDesignSpace(
             gDest.moveBy((-marginChange[0], 0))
             gDest.width -= marginChange[0] * 2
             
-            if doForceSmooth:
+
+            if doForceSmooth and not isComponent:
                 # If a bPoint was a smooth curve point in the original glyph,
                 # force the related bPoint in the rotated glyph to be smooth
                 for cIdx, c in enumerate(gDest.contours):

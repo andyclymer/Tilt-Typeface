@@ -1,20 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedilla" format="2">
   <advance width="500"/>
-  <anchor x="-61.0" y="-20.0" name="bottom"/>
-  <anchor x="147.0" y="-20.0" name="center"/>
+  <unicode hex="00B8"/>
   <outline>
     <contour>
-      <point x="215" y="38" type="move" name="RLXPNWFQ"/>
-      <point x="215" y="-21" name="QHYJANUR"/>
-      <point x="217" y="-57" name="WUTWXNLC"/>
-      <point x="251" y="-71" type="curve" smooth="yes" name="UIWEJYRT"/>
-      <point x="279" y="-82" name="OUTRXCHK"/>
-      <point x="287" y="-104" name="OCREOMOQ"/>
-      <point x="287" y="-132" type="curve" smooth="yes" name="HQQNZSBL"/>
-      <point x="287" y="-193" name="TBAHZPIS"/>
-      <point x="246" y="-217" name="VTPJVZIQ"/>
-      <point x="134" y="-194" type="curve" name="QUSHSQYB"/>
+      <point x="248" y="18" type="move" name="NKQMDITA"/>
+      <point x="246" y="-66" name="UAKEYTAX"/>
+      <point x="239" y="-74" name="VVCQNYJL"/>
+      <point x="250" y="-77" type="curve" smooth="yes" name="BCRREFPT"/>
+      <point x="265" y="-81" name="DGZEOXQZ"/>
+      <point x="280" y="-106" name="PPXMXOLU"/>
+      <point x="280" y="-137" type="curve" smooth="yes" name="DIVSMYMX"/>
+      <point x="280" y="-191" name="HANKNNCC"/>
+      <point x="271" y="-215" name="GRISSWXQ"/>
+      <point x="200" y="-194" type="curve" name="KTUBOOIX"/>
     </contour>
   </outline>
 </glyph>

@@ -1,23 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ring" format="2">
   <advance width="500"/>
-  <anchor x="-62.0" y="497.0" name="top"/>
-  <anchor x="148.0" y="497.0" name="center"/>
+  <unicode hex="02DA"/>
   <outline>
     <contour>
-      <point x="25" y="590" type="move" name="XNSZCUUI"/>
-      <point x="9" y="604" name="GWEMSANW"/>
-      <point x="1" y="629" name="ESSGWLHT"/>
-      <point x="1" y="660" type="curve" smooth="yes" name="LZGQPSKE"/>
-      <point x="1" y="708" name="QLQBRNKJ"/>
-      <point x="25" y="739" name="DMQWQLPA"/>
-      <point x="62" y="739" type="curve" smooth="yes" name="IOJFSQTA"/>
-      <point x="101" y="739" name="EOVQZGOU"/>
-      <point x="128" y="707" name="WAGJGICU"/>
-      <point x="140" y="660" type="curve" smooth="yes" name="FLFPQOXB"/>
-      <point x="148" y="630" name="YQVDCUBR"/>
-      <point x="148" y="604" name="SDPNKOEY"/>
-      <point x="139" y="590" type="curve" name="AUGDRSXZ"/>
+      <point x="82" y="582" type="move" name="ALPKNKVL"/>
+      <point x="59" y="592" name="XIRPNVZL"/>
+      <point x="36" y="615" name="CUSEGXOG"/>
+      <point x="36" y="648" type="curve" smooth="yes" name="LUQWCMHF"/>
+      <point x="36" y="690" name="BKNKWEEO"/>
+      <point x="58" y="723" name="NONKCVSU"/>
+      <point x="91" y="723" type="curve" smooth="yes" name="ONZXQXFZ"/>
+      <point x="125" y="723" name="FCFQBVQA"/>
+      <point x="147" y="690" name="IGBNLOFD"/>
+      <point x="147" y="648" type="curve" smooth="yes" name="FSHMUJQE"/>
+      <point x="147" y="614" name="AOPJPLGG"/>
+      <point x="138" y="591" name="OZPPMRPS"/>
+      <point x="122" y="581" type="curve" name="WNFUAFLY"/>
     </contour>
   </outline>
 </glyph>

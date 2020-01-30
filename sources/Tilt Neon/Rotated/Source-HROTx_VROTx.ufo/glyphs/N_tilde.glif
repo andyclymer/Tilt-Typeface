@@ -3,13 +3,7 @@
   <advance width="486"/>
   <unicode hex="00D1"/>
   <outline>
-    <component base="N"/>
-    <component base="tilde.cap" xOffset="62" yOffset="10"/>
+    <component base="N" xOffset="-101"/>
+    <component base="tildecmb" xOffset="243" yOffset="171"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncmb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="0" y="497" name="_above"/>
+  <anchor x="0" y="674" name="above"/>
+  <outline>
+    <contour>
+      <point x="-4" y="583" type="curve" smooth="yes"/>
+      <point x="-80" y="583"/>
+      <point x="-151" y="583"/>
+      <point x="-167" y="583" type="curve" smooth="yes"/>
+      <point x="-234" y="583"/>
+      <point x="-234" y="673"/>
+      <point x="-167" y="673" type="curve" smooth="yes"/>
+      <point x="-144" y="673"/>
+      <point x="-55" y="673"/>
+      <point x="-4" y="673" type="curve" smooth="yes"/>
+      <point x="64" y="673"/>
+      <point x="63" y="583"/>
+    </contour>
+  </outline>
+</glyph>

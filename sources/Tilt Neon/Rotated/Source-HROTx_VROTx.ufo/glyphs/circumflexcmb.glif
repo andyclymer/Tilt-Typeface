@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcmb" format="2">
+  <unicode hex="0302"/>
+  <anchor x="123.0" y="425.0" name="_above"/>
+  <anchor x="224.0" y="567.0" name="above"/>
+  <anchor x="296.0" y="554.0" name="aboveright"/>
+  <outline>
+    <contour>
+      <point x="150" y="463" type="curve" smooth="yes"/>
+      <point x="154" y="463"/>
+      <point x="232" y="483"/>
+      <point x="232" y="485" type="curve" smooth="yes"/>
+      <point x="256" y="621"/>
+      <point x="348" y="447"/>
+      <point x="352" y="441" type="curve" smooth="yes"/>
+      <point x="386" y="383"/>
+      <point x="309" y="337"/>
+      <point x="274" y="395" type="curve" smooth="yes"/>
+      <point x="128" y="639"/>
+      <point x="322" y="474"/>
+      <point x="322" y="473" type="curve" smooth="yes"/>
+      <point x="315" y="425"/>
+      <point x="247" y="384"/>
+      <point x="160" y="373" type="curve" smooth="yes"/>
+      <point x="93" y="365"/>
+      <point x="83" y="455"/>
+    </contour>
+  </outline>
+</glyph>

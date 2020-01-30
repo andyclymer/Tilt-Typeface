@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncmb" format="2">
+  <unicode hex="030C"/>
+  <anchor x="0" y="497" name="_above"/>
+  <anchor x="0" y="698" name="above"/>
+  <outline>
+    <contour>
+      <point x="142" y="656" type="curve" smooth="yes"/>
+      <point x="75" y="603"/>
+      <point x="60" y="560"/>
+      <point x="2" y="560" type="curve" smooth="yes"/>
+      <point x="-53" y="560"/>
+      <point x="-70" y="602"/>
+      <point x="-138" y="656" type="curve" smooth="yes"/>
+      <point x="-191" y="697"/>
+      <point x="-135" y="768"/>
+      <point x="-82" y="726" type="curve" smooth="yes"/>
+      <point x="-79" y="724"/>
+      <point x="0" y="650"/>
+      <point x="2" y="650" type="curve" smooth="yes"/>
+      <point x="4" y="650"/>
+      <point x="83" y="724"/>
+      <point x="86" y="726" type="curve" smooth="yes"/>
+      <point x="139" y="768"/>
+      <point x="195" y="697"/>
+    </contour>
+  </outline>
+</glyph>

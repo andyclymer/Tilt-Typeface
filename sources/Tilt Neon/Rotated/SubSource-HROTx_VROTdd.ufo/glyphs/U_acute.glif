@@ -3,13 +3,7 @@
   <advance width="472"/>
   <unicode hex="00DA"/>
   <outline>
-    <component base="U"/>
-    <component base="acute.cap" xOffset="152" yOffset="10"/>
+    <component base="U" xOffset="-98"/>
+    <component base="acutecmb" xOffset="236" yOffset="183"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7267,0.7266,0.7266,1</string>
-    </dict>
-  </lib>
 </glyph>

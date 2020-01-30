@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexdotbelow" format="2">
+  <advance width="500"/>
+  <unicode hex="1EAD"/>
+  <outline>
+    <component base="a" xOffset="-86"/>
+    <component base="circumflexcmb" xOffset="216" yOffset="10"/>
+    <component base="dotbelowcmb" xOffset="216" yOffset="-10"/>
+  </outline>
+</glyph>

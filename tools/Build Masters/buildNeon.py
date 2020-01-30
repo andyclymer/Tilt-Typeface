@@ -2,9 +2,9 @@ from RotateMaster import buildDesignSpace
 
 buildDesignSpace(
     masterPath="/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Neon/Masters/Tilt-Neon.ufo",
-    destPath="/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Neon/Rotated", 
+    destPath="/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Neon/Rotated Anchor Test", 
 
-    glyphNames = ["Euro"],
+    glyphNames = ["A"],
 
     compositionType="rotate", 
     outlineAmount=45, 
