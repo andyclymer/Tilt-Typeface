@@ -22,39 +22,39 @@ Additionally, three companion “Shadow” styles are being built for layering, 
 
 ## Design Scope
 
-All three styles have been drawn to the “Google Latin Core” character set, with plans to expand to “Google Latin Core Plus” along with a wider set of supported languages throughout the month of December. The “Prism” style will have small caps in place of its lowercase letters.
+All three styles have been drawn to the “Google Latin Core Plus” character set, leaving out only a handful of fractions and symbols. The “Prism” style has small caps in place of its lowercase letters. The plan for February is to draw an additional collection of arrows and symbols.
 
 ## Current status
 
-*As of January 8th, 2019 —*
+*As of January 31st, 2020 —*
 
-The principle design of all three styles is complete, and in the early months of 2020 the language support is being extended from "Google Latin Core" to "Google Latin Expert" and an extended set of symbols, dingbats and arrows are being drawn.
+The principle design of all three styles is complete, and the work on extending the language support from "Google Latin Core" to "Google Latin Expert" is nearly complete. In the next stage, the kerning will be revisited with the new larger character set, and an extended set of symbols, dingbats and arrows will be drawn.
 
 | Neon | |
 | :--- | :--- |
-| Core character set | The full “Google Latin Core” character set has been drawn |
-| Drawing quality | All glyphs are in their fully final 3D state |
-| Extended language support | Not yet begun |
+| Core character set | The full “Google Latin Expert” character set is nearly complete |
+| Drawing quality | All glyphs are in their fully final 3D state, except a few remaining accented glyphs |
+| Extended language support | Nearly complete |
 | Extended symbols and dingbats | Not yet begun |
-| Kerning | Complete |
+| Kerning | Nearly complete, kerning for extended Latin glyphs will be revisited |
 | Manufacturing | Not yet begun. File sizes still need to be optimized (most glyphs use more masters than needed) |
 
 | Prism | |
 | :--- | :--- |
-| Core character set | The full “Google Latin Core” character set has been drawn, including small capitals in place of the lowercase |
+| Core character set | The full “Google Latin Expert” character set is complete, including small capitals in place of the lowercase |
 | Drawing quality | All glyphs are in their fully final 3D state |
-| Extended language support | Not yet begun |
+| Extended language support | Complete |
 | Extended symbols and dingbats | Not yet begun |
-| Kerning | Complete |
-| Manufacturing | Not yet begun. File sizes still need to be optimized (most glyphs use more masters than needed) |
+| Kerning | Nearly complete, kerning for extended Latin glyphs will be revisited |
+| Manufacturing | Not yet begun. File sizes still need to be optimized |
 
 | Warp | |
 | :--- | :--- |
-| Core character set | The full “Google Latin Core” character set has been drawn |
+| Core character set | The full “Google Latin Expert” character set is complete |
 | Drawing quality | All glyphs are in their fully final 3D state |
-| Extended language support | Latin Expert set is done in the Warp "Model" style |
+| Extended language support |Complete |
 | Extended symbols and dingbats | Not yet begun |
-| Kerning | Complete |
+| Kerning | Nearly complete, kerning for extended Latin glyphs will be revisited |
 | Manufacturing | Not yet begun |
 
 
