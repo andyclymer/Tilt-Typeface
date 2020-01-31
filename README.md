@@ -46,7 +46,7 @@ The principle design of all three styles is complete, and the work on extending 
 | Extended language support | Complete |
 | Extended symbols and dingbats | Not yet begun |
 | Kerning | Nearly complete, kerning for extended Latin glyphs will be revisited |
-| Manufacturing | Not yet begun. File sizes still need to be optimized (most glyphs use more masters than needed) |
+| Manufacturing | Not yet begun. File sizes still need to be optimized |
 
 | Warp | |
 | :--- | :--- |
