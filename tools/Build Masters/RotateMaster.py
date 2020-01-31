@@ -1,6 +1,5 @@
 from fontTools.designspaceLib import DesignSpaceDocument, AxisDescriptor, SourceDescriptor, RuleDescriptor
 from fontParts.world import OpenFont, NewFont
-from ac.data.names import getUniqueName
 from euclid import *
 from outlineFitterPen import OutlineFitterPen, MathPoint
 import math
@@ -30,9 +29,18 @@ def getIdent(pt, pointData={}):
     # Get the point name, and set a name if one doesn't exist
     ident = pt.name
     if ident == None:
-        ident = getUniqueName(kind="waypoint", otherNames=list(pointData.keys()))
+        ident = makeUniqueName()
         pt.name = ident
     return ident
+
+
+def makeUniqueName(length=None):
+    if not length:
+        length = 8
+    name = ""
+    for i in range(length):
+        name += random.choice("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+    return name
 
 
 ZPOSITIONLIBKEY = "com.andyclymer.zPosition"
