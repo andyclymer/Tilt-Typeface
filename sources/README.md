@@ -20,6 +20,8 @@ Once depth has been added to a Master UFO, a build script from the ``/Tools/Buil
 
 After rotating the sources, some styles will need nearly no cleanup (Warp) and other will need quite a lot of work to look right (Neon). The **DesignSpace Preview** tool in the **3D Projection View** extension can be used to navigate through this folder of UFOs for cleanup, and is documented separately.
 
-### Production and Build
+After rotating, components are reapplied with the Glyph Builder extension, and kerning is imported from the Model font with a tool that can be found in this repo.
 
-All **Rotated** UFOs share the same kerning table, a tool is available in this repo to copy kerning from the Model into other UFOs. During the design process, names are being set with ``FontInfo.py`` script, and a quick build has been made with RoboFont's Batch extension.
+### Build
+
+During the design process, names are being set with ``FontInfo.py`` script, and a quick build has been made with RoboFont's Batch extension.
