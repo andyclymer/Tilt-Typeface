@@ -6,18 +6,24 @@
   <anchor x="0" y="497" name="_aboveright"/>
   <outline>
     <contour>
-      <point x="8" y="654" type="curve" smooth="yes"/>
-      <point x="-20" y="633"/>
-      <point x="-41" y="611"/>
-      <point x="-48" y="589" type="curve" smooth="yes"/>
-      <point x="-70" y="526"/>
-      <point x="-156" y="555"/>
-      <point x="-134" y="619" type="curve" smooth="yes"/>
-      <point x="-121" y="655"/>
-      <point x="-94" y="690"/>
-      <point x="-46" y="726" type="curve" smooth="yes"/>
-      <point x="7" y="767"/>
-      <point x="62" y="695"/>
+      <point x="-47.0" y="588.0" type="curve" smooth="yes"/>
+      <point x="-63.0" y="537.0"/>
+      <point x="-154.0" y="557.0"/>
+      <point x="-133.0" y="618.0" type="curve" smooth="yes"/>
+      <point x="-119.0" y="657.0"/>
+      <point x="-90.0" y="692.0"/>
+      <point x="-49.0" y="723.0" type="curve" smooth="yes"/>
+      <point x="11.0" y="769.0"/>
+      <point x="60.0" y="693.0"/>
+      <point x="10.0" y="655.0" type="curve" smooth="yes"/>
+      <point x="-22.0" y="631.0"/>
+      <point x="-36.0" y="623.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
 </glyph>

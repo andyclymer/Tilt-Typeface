@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hookabovecmb" format="2">
   <advance width="500"/>
-  <unicode hex="0309"/>
   <anchor x="0" y="497" name="_above"/>
   <anchor x="0" y="773" name="above"/>
   <anchor x="0" y="497" name="_aboveright"/>
@@ -13,7 +12,7 @@
       <point x="-43" y="664" type="curve" smooth="yes" name="FFETLMNF"/>
       <point x="-43" y="726" name="VOGAFATS"/>
       <point x="-93" y="748" name="BUSDUNDR"/>
-      <point x="-102" y="727" type="curve" name="FNXMCATE"/>
+      <point x="-103" y="727" type="curve" name="FNXMCATE"/>
     </contour>
   </outline>
 </glyph>

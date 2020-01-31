@@ -5,18 +5,24 @@
   <anchor x="0" y="704" name="above"/>
   <outline>
     <contour>
-      <point x="80" y="592" type="curve" smooth="yes"/>
-      <point x="8" y="607"/>
-      <point x="8" y="709"/>
-      <point x="80" y="724" type="curve" smooth="yes"/>
-      <point x="146" y="738"/>
-      <point x="164" y="650"/>
-      <point x="98" y="636" type="curve" smooth="yes"/>
-      <point x="96" y="636"/>
-      <point x="96" y="680"/>
-      <point x="98" y="680" type="curve" smooth="yes"/>
-      <point x="164" y="666"/>
-      <point x="146" y="578"/>
+      <point x="40.0" y="648.0" type="curve" smooth="yes"/>
+      <point x="48.0" y="664.0"/>
+      <point x="48.0" y="653.0"/>
+      <point x="40.0" y="669.0" type="curve" smooth="yes"/>
+      <point x="17.0" y="715.0"/>
+      <point x="92.0" y="765.0"/>
+      <point x="125.0" y="700.0" type="curve" smooth="yes"/>
+      <point x="136.0" y="678.0"/>
+      <point x="136.0" y="643.0"/>
+      <point x="125.0" y="621.0" type="curve" smooth="yes"/>
+      <point x="92.0" y="556.0"/>
+      <point x="17.0" y="602.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
 </glyph>
