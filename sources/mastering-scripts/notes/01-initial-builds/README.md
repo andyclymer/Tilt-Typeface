@@ -225,4 +225,12 @@ WARNING:ufo2ft.featureWriters.markFeatureWriter.MarkFeatureWriter:duplicate anch
 
 ![GIF of working variable font for Tilt Warp](assets/Kapture 2020-01-31 at 18.43.53.gif)
 
-*(Pause at 6:40)*
+
+**Questions for Andy:**
+- Do you happen to have a guess at how RoboFont batch can build VFs if FontMake can't? Is it making OTFs, or somehow auto-fixing segments?
+- Check that you are trying to build from the correct designspace files.
+  -  `sources/Tilt Neon/Rotated/Tilt-Neon.designspace`
+  -  `sources/Tilt Prism/Rotated 03 Combined/Tilt-Prism.designspace`
+  -  `sources/Tilt Warp/Rotated/Tilt-Warp.designspace`
+
+*(Pause at 6:45)*
