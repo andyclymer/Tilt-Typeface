@@ -15,7 +15,7 @@ fi
 # ---------------------------------------------------------
 # FontMake ------------------------------------------------
 
-outputDir="fonts"
+outputDir="fonts" && mkdir -p $outputDir
 dsName=$(basename "$DS")
 fontName=${dsName/".designspace"/""}
 
