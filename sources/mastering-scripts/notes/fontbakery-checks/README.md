@@ -1,5 +1,7 @@
 # FontBakery checks
 
+*(Start at 22:18, feb 2)*
+
 Google Fonts uses FontBakery to check that fonts meet expectations for metadata and overall quality.
 
 Some of these checks are very critical to follow, while others are a little less so. It's helpful to check in the FontBakery issues if you doubt something (and ask about it if there is not yet a filed issue about it).
@@ -20,3 +22,5 @@ Some of these checks are very critical to follow, while others are a little less
   - [ ] fix `gasp` table
   - [ ] fix `prep` table
   - [ ] add `dsig` table
+
+*(Pause at 23:00, feb 2)*
