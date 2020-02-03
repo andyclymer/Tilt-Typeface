@@ -1,35 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlaut" format="2">
-  <advance width="354"/>
+  <advance width="500"/>
   <unicode hex="02DD"/>
   <outline>
-    <contour>
-      <point x="248" y="580" type="curve" name="USAXUAME"/>
-      <point x="280" y="580" name="FYPOTZGG"/>
-      <point x="313" y="580" name="SJMYPKOM"/>
-      <point x="348" y="580" type="curve" name="VWNRWNID"/>
-      <point x="350" y="635" name="IRERFKTY"/>
-      <point x="385" y="692" name="ZNMEXRWN"/>
-      <point x="453" y="747" type="curve" name="ZQBYLKIH"/>
-      <point x="408" y="747" name="YYCZLGDG"/>
-      <point x="364" y="747" name="IKYAWNJE"/>
-      <point x="324" y="747" type="curve" name="YQJZBUAL"/>
-      <point x="267" y="692" name="RBCJNTCH"/>
-      <point x="241" y="635" name="XRQZYHIO"/>
-    </contour>
-    <contour>
-      <point x="137" y="580" type="curve" name="DGDIZDEO"/>
-      <point x="163" y="580" name="QAFTHEAH"/>
-      <point x="191" y="580" name="ALKSMXDQ"/>
-      <point x="222" y="580" type="curve" name="PXWHBPOG"/>
-      <point x="214" y="635" name="PFKTLWXD"/>
-      <point x="241" y="692" name="IUUJVSPC"/>
-      <point x="299" y="747" type="curve" name="FUFBHANR"/>
-      <point x="260" y="747" name="UKAAWSYH"/>
-      <point x="223" y="747" name="XTRVAFMW"/>
-      <point x="190" y="747" type="curve" name="YWNTYFSX"/>
-      <point x="140" y="692" name="STKAQTFA"/>
-      <point x="123" y="635" name="YKBPIMYN"/>
-    </contour>
+    <component base="hungarumlautcmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>
