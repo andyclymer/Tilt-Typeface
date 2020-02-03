@@ -3,18 +3,24 @@
   <anchor x="-125" y="439.0" name="right"/>
   <outline>
     <contour>
-      <point x="68" y="637" type="curve" smooth="yes"/>
-      <point x="57" y="605"/>
-      <point x="44" y="579"/>
-      <point x="33" y="520" type="curve" smooth="yes"/>
-      <point x="20" y="454"/>
-      <point x="-68" y="471"/>
-      <point x="-55" y="538" type="curve" smooth="yes"/>
-      <point x="-42" y="603"/>
-      <point x="-29" y="631"/>
-      <point x="-16" y="667" type="curve" smooth="yes"/>
-      <point x="6" y="731"/>
-      <point x="91" y="701"/>
+      <point x="69.0" y="641.0" type="curve" smooth="yes"/>
+      <point x="55.0" y="601.0"/>
+      <point x="43.0" y="577.0"/>
+      <point x="33.0" y="523.0" type="curve" smooth="yes"/>
+      <point x="19.0" y="452.0"/>
+      <point x="-69.0" y="466.0"/>
+      <point x="-54.0" y="543.0" type="curve" smooth="yes"/>
+      <point x="-43.0" y="598.0"/>
+      <point x="-30.0" y="627.0"/>
+      <point x="-15.0" y="670.0" type="curve" smooth="yes"/>
+      <point x="5.0" y="727.0"/>
+      <point x="89.0" y="697.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
 </glyph>
