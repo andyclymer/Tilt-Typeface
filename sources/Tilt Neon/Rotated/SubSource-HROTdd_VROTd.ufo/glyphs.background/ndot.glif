@@ -1,9 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ndot" format="2">
-  <advance width="500"/>
-  <unicode hex="1E45"/>
+  <advance width="568"/>
+  <anchor x="119" y="745" name="above"/>
+  <anchor x="119" y="-10" name="below"/>
   <outline>
-    <component base="n"/>
-    <component base="dotaccentcmb" xOffset="288" yOffset="12"/>
+    <contour>
+      <point x="115" y="40" type="move" name="YACKK"/>
+      <point x="115" y="86" name="BDRZEFMZ"/>
+      <point x="115" y="132" name="SLBPCARG"/>
+      <point x="115" y="178" type="curve" smooth="yes" name="GBOTVMJA"/>
+      <point x="115" y="308" name="HINUMCPF"/>
+      <point x="115" y="437" name="DWTVKTXA"/>
+      <point x="115" y="567" type="curve" smooth="yes" name="XVTTGOVF"/>
+      <point x="115" y="607" name="AMBCTFOH"/>
+      <point x="115" y="652" name="HEUJPUTA"/>
+      <point x="115" y="695" type="curve" name="FREEZ"/>
+    </contour>
+    <contour>
+      <point x="254" y="346" type="move" name="NHGKISPU"/>
+      <point x="254" y="360" name="LUHLITUI"/>
+      <point x="254" y="385" name="HVHUUJLY"/>
+      <point x="254" y="400" type="curve" name="GNXCJMJY"/>
+    </contour>
   </outline>
 </glyph>

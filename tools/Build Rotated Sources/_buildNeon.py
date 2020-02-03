@@ -4,7 +4,7 @@ buildDesignSpace(
     masterPath="/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Neon/Masters/Tilt-Neon.ufo",
     destPath="/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Neon/Rotated", 
 
-    glyphNames = ["Schwa"],
+    glyphNames = ["a.alt"],
 
     compositionType="rotate", 
     outlineAmount=45, 

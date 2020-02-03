@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcedilla" format="2">
   <advance width="500"/>
-  <unicode hex="0163"/>
   <anchor x="119.0" y="640" name="above"/>
   <anchor x="119.0" y="-14" name="below"/>
   <anchor x="170.0" y="501" name="right"/>
@@ -19,7 +18,7 @@
       <point x="191" y="588" type="curve" name="FREEZ"/>
     </contour>
     <contour>
-      <point x="250" y="453" type="move" name="SDRTNBMO"/>
+      <point x="251" y="453" type="move" name="SDRTNBMO"/>
       <point x="236" y="453" name="YZGICSME"/>
       <point x="218" y="453" name="BWLWBXFB"/>
       <point x="196" y="453" type="curve" smooth="yes" name="NXRRWOBG"/>
@@ -40,7 +39,7 @@
       <point x="232" y="-137" type="curve" smooth="yes" name="DIVSMYMX"/>
       <point x="232" y="-191" name="HANKNNCC"/>
       <point x="223" y="-215" name="GRISSWXQ"/>
-      <point x="152" y="-194" type="curve" name="KTUBOOIX"/>
+      <point x="151" y="-194" type="curve" name="KTUBOOIX"/>
     </contour>
   </outline>
 </glyph>
