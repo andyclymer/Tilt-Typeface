@@ -1,21 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="grave" format="2">
-  <advance width="354"/>
+  <advance width="500"/>
   <unicode hex="0060"/>
   <outline>
-    <contour>
-      <point x="39" y="559" type="curve" smooth="yes"/>
-      <point x="17" y="585"/>
-      <point x="-10" y="599"/>
-      <point x="-47" y="603" type="curve" smooth="yes"/>
-      <point x="-114" y="612"/>
-      <point x="-104" y="701"/>
-      <point x="-37" y="693" type="curve" smooth="yes"/>
-      <point x="24" y="685"/>
-      <point x="71" y="659"/>
-      <point x="107" y="617" type="curve" smooth="yes"/>
-      <point x="151" y="566"/>
-      <point x="83" y="507"/>
-    </contour>
+    <component base="gravecmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

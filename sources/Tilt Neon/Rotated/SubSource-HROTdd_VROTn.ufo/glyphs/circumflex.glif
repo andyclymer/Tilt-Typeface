@@ -3,29 +3,12 @@
   <advance width="500"/>
   <unicode hex="02C6"/>
   <outline>
-    <contour>
-      <point x="110" y="621" type="curve" smooth="yes"/>
-      <point x="178" y="684"/>
-      <point x="228" y="734"/>
-      <point x="283" y="680" type="curve"/>
-      <point x="277" y="685" type="line"/>
-      <point x="301" y="669"/>
-      <point x="345" y="637"/>
-      <point x="371" y="632" type="curve" smooth="yes"/>
-      <point x="438" y="622"/>
-      <point x="423" y="533"/>
-      <point x="357" y="544" type="curve" smooth="yes"/>
-      <point x="310" y="551"/>
-      <point x="267" y="583"/>
-      <point x="227" y="611" type="curve" smooth="yes"/>
-      <point x="224" y="612"/>
-      <point x="223" y="614"/>
-      <point x="221" y="616" type="curve" smooth="yes"/>
-      <point x="218" y="618"/>
-      <point x="173" y="557"/>
-      <point x="170" y="555" type="curve" smooth="yes"/>
-      <point x="121" y="509"/>
-      <point x="60" y="575"/>
-    </contour>
+    <component base="circumflexcmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>
