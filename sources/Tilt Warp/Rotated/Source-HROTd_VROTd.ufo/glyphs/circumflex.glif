@@ -3,28 +3,12 @@
   <advance width="500"/>
   <unicode hex="02C6"/>
   <outline>
-    <contour>
-      <point x="51" y="580" type="curve" name="PRPZOSXW"/>
-      <point x="101" y="580" name="QOTGBAPB"/>
-      <point x="153" y="580" name="BKMUVXJA"/>
-      <point x="203" y="580" type="curve" name="ZNNIESWT"/>
-      <point x="219" y="603" name="TUDJAEXE"/>
-      <point x="234" y="626" name="CNZRGESL"/>
-      <point x="250" y="649" type="curve" name="FVFUILJY"/>
-      <point x="266" y="626" name="YXNLYYDI"/>
-      <point x="281" y="603" name="MNDSNOYD"/>
-      <point x="297" y="580" type="curve" name="LOCXJMPS"/>
-      <point x="347" y="580" name="HCJPGJYW"/>
-      <point x="399" y="580" name="XPXMHRDI"/>
-      <point x="449" y="580" type="curve" name="JUEWJSBN"/>
-      <point x="412" y="632" name="QEKCCART"/>
-      <point x="375" y="685" name="KLVGMHIS"/>
-      <point x="338" y="737" type="curve" name="ZXRJVJVC"/>
-      <point x="280" y="737" name="GCQREUJC"/>
-      <point x="220" y="737" name="MPNNUACW"/>
-      <point x="162" y="737" type="curve" name="ZJEZWXRR"/>
-      <point x="125" y="685" name="AXOYLLUX"/>
-      <point x="88" y="632" name="BOFOFWNP"/>
-    </contour>
+    <component base="circumflexcmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

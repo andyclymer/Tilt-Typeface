@@ -3,25 +3,12 @@
   <advance width="500"/>
   <unicode hex="02DB"/>
   <outline>
-    <contour>
-      <point x="340" y="219" type="curve" name="VUBSIVQW"/>
-      <point x="180" y="151" name="QAAATPZL"/>
-      <point x="138" y="115" name="MYZDUZPA"/>
-      <point x="138" y="76" type="curve" smooth="yes" name="JHZZUEDJ"/>
-      <point x="138" y="28" name="AQZUMTRR"/>
-      <point x="217" y="6" name="WLXQRBEX"/>
-      <point x="363" y="38" type="curve" name="FNENISPG"/>
-      <point x="363" y="46" name="RFZCGERA"/>
-      <point x="363" y="64" name="ZLJXRBKR"/>
-      <point x="363" y="90" type="curve" name="VTRKUTYB"/>
-      <point x="306" y="70" name="POEHQRIN"/>
-      <point x="266" y="71" name="XWKSSTKT"/>
-      <point x="266" y="91" type="curve" smooth="yes" name="ZRNALLNO"/>
-      <point x="266" y="108" name="XDXRODJH"/>
-      <point x="297" y="117" name="MVTBAGQP"/>
-      <point x="363" y="146" type="curve" name="LCFDMYND"/>
-      <point x="355" y="167" name="PKMVYAQH"/>
-      <point x="348" y="192" name="NUZHGICB"/>
-    </contour>
+    <component base="ogonekcmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

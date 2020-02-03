@@ -3,28 +3,12 @@
   <advance width="500"/>
   <unicode hex="02C7"/>
   <outline>
-    <contour>
-      <point x="449" y="684" type="curve" name="YZZPGMOF"/>
-      <point x="399" y="677" name="PJLNTVET"/>
-      <point x="347" y="672" name="NZVXNSZZ"/>
-      <point x="297" y="671" type="curve" name="RRNUTGLQ"/>
-      <point x="281" y="640" name="ZGBLPJSB"/>
-      <point x="266" y="614" name="RRSEYGBW"/>
-      <point x="250" y="595" type="curve" name="CSPKYUVX"/>
-      <point x="234" y="614" name="QDJEKOAF"/>
-      <point x="219" y="640" name="WVLSONST"/>
-      <point x="203" y="671" type="curve" name="NFOYHNNR"/>
-      <point x="153" y="672" name="UKDKPDAF"/>
-      <point x="101" y="677" name="UQSKIKWY"/>
-      <point x="51" y="684" type="curve" name="KPCLIDNA"/>
-      <point x="88" y="609" name="DOZFOPHT"/>
-      <point x="125" y="565" name="QMUWVQLA"/>
-      <point x="162" y="555" type="curve" name="QAMFTGJD"/>
-      <point x="220" y="551" name="ZCGIMOMP"/>
-      <point x="280" y="551" name="CKDOMSII"/>
-      <point x="338" y="555" type="curve" name="FXWQVUFZ"/>
-      <point x="375" y="565" name="RYKSIHJM"/>
-      <point x="412" y="609" name="GBVFURIJ"/>
-    </contour>
+    <component base="caroncmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

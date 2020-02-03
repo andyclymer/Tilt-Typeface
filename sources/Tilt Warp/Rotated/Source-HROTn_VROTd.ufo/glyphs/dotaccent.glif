@@ -1,24 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccent" format="2">
-  <advance width="354"/>
+  <advance width="500"/>
   <unicode hex="02D9"/>
   <outline>
-    <contour>
-      <point x="103" y="576" type="curve" name="PGORUNED"/>
-      <point x="142" y="576" name="LKMSKASJ"/>
-      <point x="198" y="622" name="QQWNEEHI"/>
-      <point x="198" y="678" type="curve" smooth="yes" name="IUNEXPFQ"/>
-      <point x="198" y="733" name="TSYQSXCN"/>
-      <point x="142" y="779" name="CPDQVMWY"/>
-      <point x="103" y="779" type="curve" smooth="yes" name="BVBHSGXK"/>
-      <point x="62" y="779" name="BQZLVKQC"/>
-      <point x="50" y="733" name="ZRBVZGBY"/>
-      <point x="51" y="678" type="curve" smooth="yes" name="ELIFUFFU"/>
-      <point x="51" y="622" name="JNTCCXSW"/>
-      <point x="62" y="576" name="ICCVPYMU"/>
-      <point x="103" y="576" type="curve" name="VYZSFCCT"/>
-      <point x="103" y="576" name="LRPRLAVU"/>
-      <point x="103" y="576" name="WYCQHASP"/>
-    </contour>
+    <component base="dotaccentcmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

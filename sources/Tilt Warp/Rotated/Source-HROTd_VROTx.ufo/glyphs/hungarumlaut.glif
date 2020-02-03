@@ -3,33 +3,12 @@
   <advance width="500"/>
   <unicode hex="02DD"/>
   <outline>
-    <contour>
-      <point x="254" y="415" type="curve" name="USAXUAME"/>
-      <point x="300" y="416" name="FYPOTZGG"/>
-      <point x="346" y="415" name="SJMYPKOM"/>
-      <point x="392" y="413" type="curve" name="VWNRWNID"/>
-      <point x="435" y="481" name="IRERFKTY"/>
-      <point x="479" y="517" name="ZNMEXRWN"/>
-      <point x="522" y="518" type="curve" name="ZQBYLKIH"/>
-      <point x="469" y="526" name="YYCZLGDG"/>
-      <point x="414" y="531" name="IKYAWNJE"/>
-      <point x="361" y="533" type="curve" name="YQJZBUAL"/>
-      <point x="326" y="526" name="RBCJNTCH"/>
-      <point x="289" y="486" name="XRQZYHIO"/>
-    </contour>
-    <contour>
-      <point x="75" y="400" type="curve" name="DGDIZDEO"/>
-      <point x="121" y="406" name="QAFTHEAH"/>
-      <point x="168" y="411" name="ALKSMXDQ"/>
-      <point x="214" y="413" type="curve" name="PXWHBPOG"/>
-      <point x="251" y="485" name="PFKTLWXD"/>
-      <point x="289" y="526" name="IUUJVSPC"/>
-      <point x="326" y="534" type="curve" name="FUFBHANR"/>
-      <point x="273" y="534" name="UKAAWSYH"/>
-      <point x="218" y="533" name="XTRVAFMW"/>
-      <point x="165" y="528" type="curve" name="YWNTYFSX"/>
-      <point x="135" y="518" name="STKAQTFA"/>
-      <point x="105" y="474" name="YKBPIMYN"/>
-    </contour>
+    <component base="hungarumlautcmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

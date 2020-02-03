@@ -3,39 +3,12 @@
   <advance width="500"/>
   <unicode hex="02DA"/>
   <outline>
-    <contour>
-      <point x="249" y="558" type="curve" name="SZSKQWXI"/>
-      <point x="326" y="558" name="USCOYDZB"/>
-      <point x="380" y="608" name="QHRCJCBM"/>
-      <point x="380" y="678" type="curve" smooth="yes" name="ZUILXAVR"/>
-      <point x="380" y="746" name="IIUWGNSL"/>
-      <point x="326" y="796" name="OQYMTEUV"/>
-      <point x="249" y="796" type="curve" smooth="yes" name="JLJPYECE"/>
-      <point x="174" y="796" name="XWMEZWMY"/>
-      <point x="120" y="746" name="CUJDNXIW"/>
-      <point x="120" y="678" type="curve" smooth="yes" name="PJMYJTRP"/>
-      <point x="120" y="608" name="VARQZZGB"/>
-      <point x="174" y="558" name="NZEGCDTN"/>
-      <point x="249" y="558" type="curve" name="MDRDBEMV"/>
-      <point x="249" y="558" name="AIIBHXXA"/>
-      <point x="249" y="558" name="ZGYRIQOD"/>
-    </contour>
-    <contour>
-      <point x="249" y="632" type="curve" name="RTXRIJRT"/>
-      <point x="220" y="632" name="OAQLRIJS"/>
-      <point x="202" y="650" name="CWEFICWB"/>
-      <point x="202" y="678" type="curve" smooth="yes" name="EPRAEJTE"/>
-      <point x="202" y="705" name="OAWUBUNH"/>
-      <point x="220" y="723" name="ADOIJQQT"/>
-      <point x="249" y="723" type="curve" smooth="yes" name="BYFCNCOO"/>
-      <point x="279" y="723" name="AVSFKTXT"/>
-      <point x="299" y="705" name="BYTROYAQ"/>
-      <point x="299" y="678" type="curve" smooth="yes" name="JWAFSFJU"/>
-      <point x="299" y="650" name="DBAJMGXV"/>
-      <point x="279" y="632" name="RTACOFNB"/>
-      <point x="249" y="632" type="curve" name="BDKOBSZR"/>
-      <point x="249" y="632" name="XJPURYLK"/>
-      <point x="249" y="632" name="XIVTZCQR"/>
-    </contour>
+    <component base="ringabovecmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,41 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis" format="2">
-  <advance width="354"/>
+  <advance width="500"/>
   <unicode hex="00A8"/>
   <outline>
-    <contour>
-      <point x="-121" y="406" type="curve" name="ZLPSIYXM"/>
-      <point x="-79" y="411" name="KTYJTJCA"/>
-      <point x="-48" y="472" name="MVUXHFJG"/>
-      <point x="-76" y="512" type="curve" smooth="yes" name="XPFMLZTV"/>
-      <point x="-103" y="551" name="YPIHEETF"/>
-      <point x="-180" y="554" name="IUATQXYC"/>
-      <point x="-223" y="550" type="curve" smooth="yes" name="BFFZNQZZ"/>
-      <point x="-267" y="546" name="BJNDVBCO"/>
-      <point x="-261" y="534" name="ISEVIKYM"/>
-      <point x="-233" y="496" type="curve" smooth="yes" name="ZPCBLKGG"/>
-      <point x="-205" y="456" name="VPOMGWUR"/>
-      <point x="-165" y="402" name="IUXIRULW"/>
-      <point x="-121" y="406" type="curve" name="UIHWDIAY"/>
-      <point x="-121" y="406" name="YMOPGRRL"/>
-      <point x="-121" y="406" name="JRMSDSKP"/>
-    </contour>
-    <contour>
-      <point x="46" y="406" type="curve" name="OBDOOXOF"/>
-      <point x="82" y="402" name="YDHZXIUM"/>
-      <point x="108" y="456" name="CGGZUFAG"/>
-      <point x="80" y="496" type="curve" smooth="yes" name="ODLLHAZC"/>
-      <point x="52" y="535" name="FMMQBQPA"/>
-      <point x="-19" y="546" name="SYHXLTZV"/>
-      <point x="-56" y="550" type="curve" smooth="yes" name="WDOWECNS"/>
-      <point x="-94" y="554" name="RRIDYQVQ"/>
-      <point x="-83" y="550" name="PCGBEUXZ"/>
-      <point x="-55" y="512" type="curve" smooth="yes" name="QILHIYRF"/>
-      <point x="-27" y="472" name="SREZFFJU"/>
-      <point x="8" y="411" name="MEOLIHCH"/>
-      <point x="46" y="406" type="curve" name="ETQCSCDJ"/>
-      <point x="46" y="406" name="SQDXWGZI"/>
-      <point x="46" y="406" name="IZAMKSIY"/>
-    </contour>
+    <component base="dieresiscmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>
