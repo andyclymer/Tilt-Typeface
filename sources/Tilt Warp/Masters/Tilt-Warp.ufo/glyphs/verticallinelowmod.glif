@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinelowmod" format="2">
+  <advance width="300"/>
+  <unicode hex="02CC"/>
+  <outline>
+    <contour>
+      <point x="84.0" y="-160.0" type="curve" name="NZQWNRDB"/>
+      <point x="128" y="-160" name="FCVOMCTZ"/>
+      <point x="173" y="-160" name="HQKOTZFN"/>
+      <point x="217.0" y="-160.0" type="curve" name="REQHSPSX"/>
+      <point x="217" y="-67" name="EPDFVNFN"/>
+      <point x="217" y="29" name="CDCKZHYU"/>
+      <point x="217.0" y="122.0" type="curve" name="LHLNCNQG"/>
+      <point x="173" y="122" name="ZZVXHZBI"/>
+      <point x="128" y="122" name="QDMLSXJA"/>
+      <point x="84.0" y="122.0" type="curve" name="SCWIMDKB"/>
+      <point x="84" y="29" name="LVGWHWUW"/>
+      <point x="84" y="-67" name="XVIKRHSR"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CDCKZHYU</key>
+        <integer>77</integer>
+        <key>EPDFVNFN</key>
+        <integer>77</integer>
+        <key>FCVOMCTZ</key>
+        <integer>143</integer>
+        <key>HQKOTZFN</key>
+        <integer>143</integer>
+        <key>LHLNCNQG</key>
+        <integer>151</integer>
+        <key>LVGWHWUW</key>
+        <integer>77</integer>
+        <key>NZQWNRDB</key>
+        <integer>151</integer>
+        <key>QDMLSXJA</key>
+        <integer>143</integer>
+        <key>REQHSPSX</key>
+        <integer>151</integer>
+        <key>SCWIMDKB</key>
+        <integer>151</integer>
+        <key>XVIKRHSR</key>
+        <integer>77</integer>
+        <key>ZZVXHZBI</key>
+        <integer>143</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

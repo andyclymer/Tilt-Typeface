@@ -3,11 +3,14 @@
   <advance width="210"/>
   <unicode hex="00A0"/>
   <outline>
+    <component base=""/>
   </outline>
   <lib>
     <dict>
       <key>com.andyclymer.zPosition</key>
       <dict/>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
     </dict>
   </lib>
 </glyph>
