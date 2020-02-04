@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sliceOfPizza" format="2">
+  <advance width="919"/>
+  <outline>
+    <contour identifier="XuefpS17VB">
+      <point x="229.0327805191734" y="165.0" type="move"/>
+      <point x="232.0327805191734" y="225.0"/>
+      <point x="280.0327805191734" y="243.0"/>
+      <point x="317.0327805191734" y="293.0" type="curve" smooth="yes"/>
+      <point x="356.0327805191734" y="345.0"/>
+      <point x="353.0327805191734" y="392.0"/>
+      <point x="393.0327805191734" y="449.0" type="curve" smooth="yes"/>
+      <point x="436.0327805191734" y="510.0"/>
+      <point x="518.0327805191733" y="496.0"/>
+      <point x="571.0327805191733" y="530.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="416.0327805191734" y="241.0" type="move"/>
+      <point x="448.0327805191734" y="254.0"/>
+      <point x="479.0327805191734" y="248.0"/>
+      <point x="505.0327805191734" y="225.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="680.0327805191733" y="378.0" type="move"/>
+      <point x="637.0327805191733" y="378.0"/>
+      <point x="602.0327805191733" y="344.0"/>
+      <point x="602.0327805191733" y="301.0" type="curve" smooth="yes"/>
+      <point x="602.0327805191733" y="258.0"/>
+      <point x="637.0327805191733" y="223.0"/>
+      <point x="680.0327805191733" y="223.0" type="curve" smooth="yes"/>
+      <point x="709.0327805191733" y="223.0"/>
+      <point x="735.0327805191733" y="240.0"/>
+      <point x="748.0327805191733" y="265.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="680" y="10" type="move"/>
+      <point x="669" y="-28"/>
+      <point x="640" y="-69"/>
+      <point x="615" y="-70" type="curve" smooth="yes"/>
+      <point x="571" y="-71"/>
+      <point x="567" y="76"/>
+      <point x="527" y="90" type="curve" smooth="yes"/>
+      <point x="398" y="136"/>
+      <point x="303" y="156"/>
+      <point x="95" y="173" type="curve"/>
+      <point x="165" y="422"/>
+      <point x="327" y="627"/>
+      <point x="539" y="716" type="curve"/>
+      <point x="639" y="583"/>
+      <point x="756" y="283"/>
+      <point x="834" y="83" type="curve" smooth="yes"/>
+      <point x="858" y="23"/>
+      <point x="846" y="-13"/>
+      <point x="777" y="13" type="curve" smooth="yes"/>
+      <point x="757" y="21"/>
+      <point x="698" y="41"/>
+      <point x="675" y="47" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.trailingOffCurves</key>
+      <dict>
+        <key>XuefpS17VB</key>
+        <array>
+          <real>624.0327805191733</real>
+          <real>564.0</real>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

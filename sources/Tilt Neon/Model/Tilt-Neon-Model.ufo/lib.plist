@@ -6,7 +6,7 @@
     <array>
       <dict>
         <key>allowPseudoUnicode</key>
-        <integer>0</integer>
+        <integer>1</integer>
         <key>ascending</key>
         <string>GF Latin Tilt</string>
         <key>type</key>
@@ -1351,9 +1351,35 @@
       <string>Dzcaron</string>
       <string>dzcaron</string>
       <string>arrowleft</string>
+      <string>arrowNW</string>
       <string>arrowup</string>
+      <string>arrowNE</string>
       <string>arrowright</string>
+      <string>arrowSE</string>
       <string>arrowdown</string>
+      <string>arrowSW</string>
+      <string>arrowleft.circle</string>
+      <string>arrowNW.circle</string>
+      <string>arrowdown.circle</string>
+      <string>arrowNE.circle</string>
+      <string>arrowright.circle</string>
+      <string>arrowSE.circle</string>
+      <string>arrowup.circle</string>
+      <string>arrowSW.circle</string>
+      <string>smilingfacewhite</string>
+      <string>frowningfacewhite</string>
+      <string>heartwhite</string>
+      <string>starwhite</string>
+      <string>billiards</string>
+      <string>bowling</string>
+      <string>key</string>
+      <string>scissorsblack</string>
+      <string>mansShoe</string>
+      <string>uni1f9fa</string>
+      <string>camera</string>
+      <string>sliceOfPizza</string>
+      <string>wineGlass</string>
+      <string>musicalNote</string>
       <string>squareblack</string>
       <string>squarewhite</string>
       <string>triangleupblack</string>
