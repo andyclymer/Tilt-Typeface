@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="adieresis" format="2">
-  <advance width="584"/>
-  <unicode hex="00E4"/>
+<glyph name="macronmod" format="2">
+  <advance width="300"/>
+  <unicode hex="02C9"/>
   <outline>
-    <component base="a"/>
-    <component base="dieresiscmb" xOffset="302" yOffset="10"/>
+    <component base="macroncmb" xOffset="150"/>
   </outline>
   <lib>
     <dict>

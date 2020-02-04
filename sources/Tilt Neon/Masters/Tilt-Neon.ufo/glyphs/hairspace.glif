@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="adieresis" format="2">
-  <advance width="584"/>
-  <unicode hex="00E4"/>
+<glyph name="hairspace" format="2">
+  <advance width="25"/>
+  <unicode hex="200A"/>
   <outline>
-    <component base="a"/>
-    <component base="dieresiscmb" xOffset="302" yOffset="10"/>
+    <component base=""/>
   </outline>
   <lib>
     <dict>
