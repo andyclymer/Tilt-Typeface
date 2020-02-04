@@ -265,6 +265,8 @@
       <integer>-70</integer>
       <key>public.kern2._quotes</key>
       <integer>10</integer>
+      <key>public.kern2.a_alt</key>
+      <integer>-10</integer>
       <key>public.kern2.j</key>
       <integer>-20</integer>
       <key>public.kern2.o</key>
@@ -975,6 +977,8 @@
     <dict>
       <key>public.kern2._ptslow</key>
       <integer>-70</integer>
+      <key>public.kern2.a_alt</key>
+      <integer>-5</integer>
       <key>public.kern2.j</key>
       <integer>-20</integer>
       <key>public.kern2.o</key>
@@ -985,6 +989,8 @@
       <key>public.kern2._enclosures_1</key>
       <integer>-20</integer>
       <key>public.kern2._ptslow</key>
+      <integer>-5</integer>
+      <key>public.kern2.a_alt</key>
       <integer>-5</integer>
       <key>public.kern2.s</key>
       <integer>-5</integer>
@@ -997,6 +1003,8 @@
       <integer>-10</integer>
       <key>public.kern2._ptslow</key>
       <integer>-50</integer>
+      <key>public.kern2.a_alt</key>
+      <integer>-5</integer>
       <key>public.kern2.j</key>
       <integer>-10</integer>
       <key>public.kern2.o</key>
@@ -1008,6 +1016,11 @@
       <integer>-10</integer>
       <key>question</key>
       <integer>-10</integer>
+    </dict>
+    <key>public.kern1.u_alt</key>
+    <dict>
+      <key>public.kern2.j</key>
+      <integer>-5</integer>
     </dict>
     <key>public.kern1.v</key>
     <dict>
@@ -1021,6 +1034,8 @@
       <integer>-60</integer>
       <key>public.kern2._quotes</key>
       <integer>20</integer>
+      <key>public.kern2.a_alt</key>
+      <integer>-15</integer>
       <key>public.kern2.j</key>
       <integer>-15</integer>
       <key>public.kern2.o</key>
@@ -1034,6 +1049,8 @@
       <integer>-30</integer>
       <key>public.kern2._enclosures_1</key>
       <integer>-20</integer>
+      <key>public.kern2.a_alt</key>
+      <integer>-5</integer>
       <key>public.kern2.o</key>
       <integer>-20</integer>
       <key>public.kern2.s</key>

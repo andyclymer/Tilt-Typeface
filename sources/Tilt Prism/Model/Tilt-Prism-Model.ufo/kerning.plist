@@ -306,7 +306,7 @@
       <key>public.kern2.h</key>
       <integer>0</integer>
       <key>public.kern2.w</key>
-      <integer>-15</integer>
+      <integer>-10</integer>
       <key>public.kern2.y</key>
       <integer>-35</integer>
       <key>public.kern2.z</key>
@@ -352,105 +352,6 @@
       <integer>10</integer>
       <key>public.kern2._zero</key>
       <integer>20</integer>
-    </dict>
-    <key>dotlessi</key>
-    <dict>
-      <key>b</key>
-      <integer>5</integer>
-      <key>d</key>
-      <integer>5</integer>
-      <key>dcaron</key>
-      <integer>-5</integer>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>ddotbelow</key>
-      <integer>-5</integer>
-      <key>dlinebelow</key>
-      <integer>-5</integer>
-      <key>dotlessi</key>
-      <integer>5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>e</key>
-      <integer>5</integer>
-      <key>eacute</key>
-      <integer>5</integer>
-      <key>ebreve</key>
-      <integer>-5</integer>
-      <key>ecaron</key>
-      <integer>-5</integer>
-      <key>ecedilla</key>
-      <integer>-5</integer>
-      <key>ecedillabreve</key>
-      <integer>-5</integer>
-      <key>ecircumflex</key>
-      <integer>5</integer>
-      <key>ecircumflexacute</key>
-      <integer>-5</integer>
-      <key>ecircumflexdotbelow</key>
-      <integer>-5</integer>
-      <key>ecircumflexgrave</key>
-      <integer>-5</integer>
-      <key>ecircumflexhoi</key>
-      <integer>-5</integer>
-      <key>ecircumflextilde</key>
-      <integer>-5</integer>
-      <key>edieresis</key>
-      <integer>5</integer>
-      <key>edotaccent</key>
-      <integer>-5</integer>
-      <key>edotbelow</key>
-      <integer>-5</integer>
-      <key>egrave</key>
-      <integer>5</integer>
-      <key>egravedbl</key>
-      <integer>-5</integer>
-      <key>ehoi</key>
-      <integer>-5</integer>
-      <key>einvertedbreve</key>
-      <integer>-5</integer>
-      <key>emacron</key>
-      <integer>-5</integer>
-      <key>emacronacute</key>
-      <integer>-5</integer>
-      <key>emacrongrave</key>
-      <integer>-5</integer>
-      <key>eogonek</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-      <key>etilde</key>
-      <integer>-5</integer>
-      <key>f</key>
-      <integer>5</integer>
-      <key>h</key>
-      <integer>5</integer>
-      <key>i</key>
-      <integer>5</integer>
-      <key>iacute</key>
-      <integer>5</integer>
-      <key>icircumflex</key>
-      <integer>5</integer>
-      <key>idieresis</key>
-      <integer>5</integer>
-      <key>igrave</key>
-      <integer>5</integer>
-      <key>k</key>
-      <integer>5</integer>
-      <key>l</key>
-      <integer>5</integer>
-      <key>m</key>
-      <integer>5</integer>
-      <key>n</key>
-      <integer>5</integer>
-      <key>ntilde</key>
-      <integer>5</integer>
-      <key>p</key>
-      <integer>5</integer>
-      <key>r</key>
-      <integer>5</integer>
-      <key>thorn</key>
-      <integer>5</integer>
     </dict>
     <key>eight</key>
     <dict>
@@ -575,1074 +476,12 @@
       <key>seven</key>
       <integer>-10</integer>
     </dict>
-    <key>h</key>
-    <dict>
-      <key>b</key>
-      <integer>5</integer>
-      <key>d</key>
-      <integer>5</integer>
-      <key>dcaron</key>
-      <integer>-5</integer>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>ddotbelow</key>
-      <integer>-5</integer>
-      <key>dlinebelow</key>
-      <integer>-5</integer>
-      <key>dotlessi</key>
-      <integer>5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>e</key>
-      <integer>5</integer>
-      <key>eacute</key>
-      <integer>5</integer>
-      <key>ebreve</key>
-      <integer>-5</integer>
-      <key>ecaron</key>
-      <integer>-5</integer>
-      <key>ecedilla</key>
-      <integer>-5</integer>
-      <key>ecedillabreve</key>
-      <integer>-5</integer>
-      <key>ecircumflex</key>
-      <integer>5</integer>
-      <key>ecircumflexacute</key>
-      <integer>-5</integer>
-      <key>ecircumflexdotbelow</key>
-      <integer>-5</integer>
-      <key>ecircumflexgrave</key>
-      <integer>-5</integer>
-      <key>ecircumflexhoi</key>
-      <integer>-5</integer>
-      <key>ecircumflextilde</key>
-      <integer>-5</integer>
-      <key>edieresis</key>
-      <integer>5</integer>
-      <key>edotaccent</key>
-      <integer>-5</integer>
-      <key>edotbelow</key>
-      <integer>-5</integer>
-      <key>egrave</key>
-      <integer>5</integer>
-      <key>egravedbl</key>
-      <integer>-5</integer>
-      <key>ehoi</key>
-      <integer>-5</integer>
-      <key>einvertedbreve</key>
-      <integer>-5</integer>
-      <key>emacron</key>
-      <integer>-5</integer>
-      <key>emacronacute</key>
-      <integer>-5</integer>
-      <key>emacrongrave</key>
-      <integer>-5</integer>
-      <key>eogonek</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-      <key>etilde</key>
-      <integer>-5</integer>
-      <key>f</key>
-      <integer>5</integer>
-      <key>h</key>
-      <integer>5</integer>
-      <key>i</key>
-      <integer>5</integer>
-      <key>iacute</key>
-      <integer>5</integer>
-      <key>icircumflex</key>
-      <integer>5</integer>
-      <key>idieresis</key>
-      <integer>5</integer>
-      <key>igrave</key>
-      <integer>5</integer>
-      <key>k</key>
-      <integer>5</integer>
-      <key>l</key>
-      <integer>5</integer>
-      <key>m</key>
-      <integer>5</integer>
-      <key>n</key>
-      <integer>5</integer>
-      <key>ntilde</key>
-      <integer>5</integer>
-      <key>p</key>
-      <integer>5</integer>
-      <key>r</key>
-      <integer>5</integer>
-      <key>thorn</key>
-      <integer>5</integer>
-    </dict>
-    <key>hbrevebelow</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>hcircumflex</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>hdotbelow</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>i</key>
-    <dict>
-      <key>b</key>
-      <integer>5</integer>
-      <key>d</key>
-      <integer>5</integer>
-      <key>dcaron</key>
-      <integer>-5</integer>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>ddotbelow</key>
-      <integer>-5</integer>
-      <key>dlinebelow</key>
-      <integer>-5</integer>
-      <key>dotlessi</key>
-      <integer>5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>e</key>
-      <integer>5</integer>
-      <key>eacute</key>
-      <integer>5</integer>
-      <key>ebreve</key>
-      <integer>-5</integer>
-      <key>ecaron</key>
-      <integer>-5</integer>
-      <key>ecedilla</key>
-      <integer>-5</integer>
-      <key>ecedillabreve</key>
-      <integer>-5</integer>
-      <key>ecircumflex</key>
-      <integer>5</integer>
-      <key>ecircumflexacute</key>
-      <integer>-5</integer>
-      <key>ecircumflexdotbelow</key>
-      <integer>-5</integer>
-      <key>ecircumflexgrave</key>
-      <integer>-5</integer>
-      <key>ecircumflexhoi</key>
-      <integer>-5</integer>
-      <key>ecircumflextilde</key>
-      <integer>-5</integer>
-      <key>edieresis</key>
-      <integer>5</integer>
-      <key>edotaccent</key>
-      <integer>-5</integer>
-      <key>edotbelow</key>
-      <integer>-5</integer>
-      <key>egrave</key>
-      <integer>5</integer>
-      <key>egravedbl</key>
-      <integer>-5</integer>
-      <key>ehoi</key>
-      <integer>-5</integer>
-      <key>einvertedbreve</key>
-      <integer>-5</integer>
-      <key>emacron</key>
-      <integer>-5</integer>
-      <key>emacronacute</key>
-      <integer>-5</integer>
-      <key>emacrongrave</key>
-      <integer>-5</integer>
-      <key>eogonek</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-      <key>etilde</key>
-      <integer>-5</integer>
-      <key>f</key>
-      <integer>5</integer>
-      <key>h</key>
-      <integer>5</integer>
-      <key>i</key>
-      <integer>5</integer>
-      <key>iacute</key>
-      <integer>5</integer>
-      <key>icircumflex</key>
-      <integer>5</integer>
-      <key>idieresis</key>
-      <integer>5</integer>
-      <key>igrave</key>
-      <integer>5</integer>
-      <key>k</key>
-      <integer>5</integer>
-      <key>l</key>
-      <integer>5</integer>
-      <key>m</key>
-      <integer>5</integer>
-      <key>n</key>
-      <integer>5</integer>
-      <key>ntilde</key>
-      <integer>5</integer>
-      <key>p</key>
-      <integer>5</integer>
-      <key>r</key>
-      <integer>5</integer>
-      <key>thorn</key>
-      <integer>5</integer>
-    </dict>
-    <key>iacute</key>
-    <dict>
-      <key>b</key>
-      <integer>5</integer>
-      <key>d</key>
-      <integer>5</integer>
-      <key>dcaron</key>
-      <integer>-5</integer>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>ddotbelow</key>
-      <integer>-5</integer>
-      <key>dlinebelow</key>
-      <integer>-5</integer>
-      <key>dotlessi</key>
-      <integer>5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>e</key>
-      <integer>5</integer>
-      <key>eacute</key>
-      <integer>5</integer>
-      <key>ebreve</key>
-      <integer>-5</integer>
-      <key>ecaron</key>
-      <integer>-5</integer>
-      <key>ecedilla</key>
-      <integer>-5</integer>
-      <key>ecedillabreve</key>
-      <integer>-5</integer>
-      <key>ecircumflex</key>
-      <integer>5</integer>
-      <key>ecircumflexacute</key>
-      <integer>-5</integer>
-      <key>ecircumflexdotbelow</key>
-      <integer>-5</integer>
-      <key>ecircumflexgrave</key>
-      <integer>-5</integer>
-      <key>ecircumflexhoi</key>
-      <integer>-5</integer>
-      <key>ecircumflextilde</key>
-      <integer>-5</integer>
-      <key>edieresis</key>
-      <integer>5</integer>
-      <key>edotaccent</key>
-      <integer>-5</integer>
-      <key>edotbelow</key>
-      <integer>-5</integer>
-      <key>egrave</key>
-      <integer>5</integer>
-      <key>egravedbl</key>
-      <integer>-5</integer>
-      <key>ehoi</key>
-      <integer>-5</integer>
-      <key>einvertedbreve</key>
-      <integer>-5</integer>
-      <key>emacron</key>
-      <integer>-5</integer>
-      <key>emacronacute</key>
-      <integer>-5</integer>
-      <key>emacrongrave</key>
-      <integer>-5</integer>
-      <key>eogonek</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-      <key>etilde</key>
-      <integer>-5</integer>
-      <key>f</key>
-      <integer>5</integer>
-      <key>h</key>
-      <integer>5</integer>
-      <key>i</key>
-      <integer>5</integer>
-      <key>iacute</key>
-      <integer>5</integer>
-      <key>icircumflex</key>
-      <integer>5</integer>
-      <key>idieresis</key>
-      <integer>5</integer>
-      <key>igrave</key>
-      <integer>5</integer>
-      <key>k</key>
-      <integer>5</integer>
-      <key>l</key>
-      <integer>5</integer>
-      <key>m</key>
-      <integer>5</integer>
-      <key>n</key>
-      <integer>5</integer>
-      <key>ntilde</key>
-      <integer>5</integer>
-      <key>p</key>
-      <integer>5</integer>
-      <key>r</key>
-      <integer>5</integer>
-      <key>thorn</key>
-      <integer>5</integer>
-    </dict>
-    <key>ibreve</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>icircumflex</key>
-    <dict>
-      <key>b</key>
-      <integer>5</integer>
-      <key>d</key>
-      <integer>5</integer>
-      <key>dcaron</key>
-      <integer>-5</integer>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>ddotbelow</key>
-      <integer>-5</integer>
-      <key>dlinebelow</key>
-      <integer>-5</integer>
-      <key>dotlessi</key>
-      <integer>5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>e</key>
-      <integer>5</integer>
-      <key>eacute</key>
-      <integer>5</integer>
-      <key>ebreve</key>
-      <integer>-5</integer>
-      <key>ecaron</key>
-      <integer>-5</integer>
-      <key>ecedilla</key>
-      <integer>-5</integer>
-      <key>ecedillabreve</key>
-      <integer>-5</integer>
-      <key>ecircumflex</key>
-      <integer>5</integer>
-      <key>ecircumflexacute</key>
-      <integer>-5</integer>
-      <key>ecircumflexdotbelow</key>
-      <integer>-5</integer>
-      <key>ecircumflexgrave</key>
-      <integer>-5</integer>
-      <key>ecircumflexhoi</key>
-      <integer>-5</integer>
-      <key>ecircumflextilde</key>
-      <integer>-5</integer>
-      <key>edieresis</key>
-      <integer>5</integer>
-      <key>edotaccent</key>
-      <integer>-5</integer>
-      <key>edotbelow</key>
-      <integer>-5</integer>
-      <key>egrave</key>
-      <integer>5</integer>
-      <key>egravedbl</key>
-      <integer>-5</integer>
-      <key>ehoi</key>
-      <integer>-5</integer>
-      <key>einvertedbreve</key>
-      <integer>-5</integer>
-      <key>emacron</key>
-      <integer>-5</integer>
-      <key>emacronacute</key>
-      <integer>-5</integer>
-      <key>emacrongrave</key>
-      <integer>-5</integer>
-      <key>eogonek</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-      <key>etilde</key>
-      <integer>-5</integer>
-      <key>f</key>
-      <integer>5</integer>
-      <key>h</key>
-      <integer>5</integer>
-      <key>i</key>
-      <integer>5</integer>
-      <key>iacute</key>
-      <integer>5</integer>
-      <key>icircumflex</key>
-      <integer>5</integer>
-      <key>idieresis</key>
-      <integer>5</integer>
-      <key>igrave</key>
-      <integer>5</integer>
-      <key>k</key>
-      <integer>5</integer>
-      <key>l</key>
-      <integer>5</integer>
-      <key>m</key>
-      <integer>5</integer>
-      <key>n</key>
-      <integer>5</integer>
-      <key>ntilde</key>
-      <integer>5</integer>
-      <key>p</key>
-      <integer>5</integer>
-      <key>r</key>
-      <integer>5</integer>
-      <key>thorn</key>
-      <integer>5</integer>
-    </dict>
-    <key>idieresis</key>
-    <dict>
-      <key>b</key>
-      <integer>5</integer>
-      <key>d</key>
-      <integer>5</integer>
-      <key>dcaron</key>
-      <integer>-5</integer>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>ddotbelow</key>
-      <integer>-5</integer>
-      <key>dlinebelow</key>
-      <integer>-5</integer>
-      <key>dotlessi</key>
-      <integer>5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>e</key>
-      <integer>5</integer>
-      <key>eacute</key>
-      <integer>5</integer>
-      <key>ebreve</key>
-      <integer>-5</integer>
-      <key>ecaron</key>
-      <integer>-5</integer>
-      <key>ecedilla</key>
-      <integer>-5</integer>
-      <key>ecedillabreve</key>
-      <integer>-5</integer>
-      <key>ecircumflex</key>
-      <integer>5</integer>
-      <key>ecircumflexacute</key>
-      <integer>-5</integer>
-      <key>ecircumflexdotbelow</key>
-      <integer>-5</integer>
-      <key>ecircumflexgrave</key>
-      <integer>-5</integer>
-      <key>ecircumflexhoi</key>
-      <integer>-5</integer>
-      <key>ecircumflextilde</key>
-      <integer>-5</integer>
-      <key>edieresis</key>
-      <integer>5</integer>
-      <key>edotaccent</key>
-      <integer>-5</integer>
-      <key>edotbelow</key>
-      <integer>-5</integer>
-      <key>egrave</key>
-      <integer>5</integer>
-      <key>egravedbl</key>
-      <integer>-5</integer>
-      <key>ehoi</key>
-      <integer>-5</integer>
-      <key>einvertedbreve</key>
-      <integer>-5</integer>
-      <key>emacron</key>
-      <integer>-5</integer>
-      <key>emacronacute</key>
-      <integer>-5</integer>
-      <key>emacrongrave</key>
-      <integer>-5</integer>
-      <key>eogonek</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-      <key>etilde</key>
-      <integer>-5</integer>
-      <key>f</key>
-      <integer>5</integer>
-      <key>h</key>
-      <integer>5</integer>
-      <key>i</key>
-      <integer>5</integer>
-      <key>iacute</key>
-      <integer>5</integer>
-      <key>icircumflex</key>
-      <integer>5</integer>
-      <key>idieresis</key>
-      <integer>5</integer>
-      <key>igrave</key>
-      <integer>5</integer>
-      <key>k</key>
-      <integer>5</integer>
-      <key>l</key>
-      <integer>5</integer>
-      <key>m</key>
-      <integer>5</integer>
-      <key>n</key>
-      <integer>5</integer>
-      <key>ntilde</key>
-      <integer>5</integer>
-      <key>p</key>
-      <integer>5</integer>
-      <key>r</key>
-      <integer>5</integer>
-      <key>thorn</key>
-      <integer>5</integer>
-    </dict>
-    <key>idieresisacute</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>idotbelow</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>igrave</key>
-    <dict>
-      <key>b</key>
-      <integer>5</integer>
-      <key>d</key>
-      <integer>5</integer>
-      <key>dcaron</key>
-      <integer>-5</integer>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>ddotbelow</key>
-      <integer>-5</integer>
-      <key>dlinebelow</key>
-      <integer>-5</integer>
-      <key>dotlessi</key>
-      <integer>5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>e</key>
-      <integer>5</integer>
-      <key>eacute</key>
-      <integer>5</integer>
-      <key>ebreve</key>
-      <integer>-5</integer>
-      <key>ecaron</key>
-      <integer>-5</integer>
-      <key>ecedilla</key>
-      <integer>-5</integer>
-      <key>ecedillabreve</key>
-      <integer>-5</integer>
-      <key>ecircumflex</key>
-      <integer>5</integer>
-      <key>ecircumflexacute</key>
-      <integer>-5</integer>
-      <key>ecircumflexdotbelow</key>
-      <integer>-5</integer>
-      <key>ecircumflexgrave</key>
-      <integer>-5</integer>
-      <key>ecircumflexhoi</key>
-      <integer>-5</integer>
-      <key>ecircumflextilde</key>
-      <integer>-5</integer>
-      <key>edieresis</key>
-      <integer>5</integer>
-      <key>edotaccent</key>
-      <integer>-5</integer>
-      <key>edotbelow</key>
-      <integer>-5</integer>
-      <key>egrave</key>
-      <integer>5</integer>
-      <key>egravedbl</key>
-      <integer>-5</integer>
-      <key>ehoi</key>
-      <integer>-5</integer>
-      <key>einvertedbreve</key>
-      <integer>-5</integer>
-      <key>emacron</key>
-      <integer>-5</integer>
-      <key>emacronacute</key>
-      <integer>-5</integer>
-      <key>emacrongrave</key>
-      <integer>-5</integer>
-      <key>eogonek</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-      <key>etilde</key>
-      <integer>-5</integer>
-      <key>f</key>
-      <integer>5</integer>
-      <key>h</key>
-      <integer>5</integer>
-      <key>i</key>
-      <integer>5</integer>
-      <key>iacute</key>
-      <integer>5</integer>
-      <key>icircumflex</key>
-      <integer>5</integer>
-      <key>idieresis</key>
-      <integer>5</integer>
-      <key>igrave</key>
-      <integer>5</integer>
-      <key>k</key>
-      <integer>5</integer>
-      <key>l</key>
-      <integer>5</integer>
-      <key>m</key>
-      <integer>5</integer>
-      <key>n</key>
-      <integer>5</integer>
-      <key>ntilde</key>
-      <integer>5</integer>
-      <key>p</key>
-      <integer>5</integer>
-      <key>r</key>
-      <integer>5</integer>
-      <key>thorn</key>
-      <integer>5</integer>
-    </dict>
-    <key>igravedbl</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>ihoi</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>iinvertedbreve</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>imacron</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>iogonek</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>itilde</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>m</key>
-    <dict>
-      <key>b</key>
-      <integer>5</integer>
-      <key>d</key>
-      <integer>5</integer>
-      <key>dcaron</key>
-      <integer>-5</integer>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>ddotbelow</key>
-      <integer>-5</integer>
-      <key>dlinebelow</key>
-      <integer>-5</integer>
-      <key>dotlessi</key>
-      <integer>5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>e</key>
-      <integer>5</integer>
-      <key>eacute</key>
-      <integer>5</integer>
-      <key>ebreve</key>
-      <integer>-5</integer>
-      <key>ecaron</key>
-      <integer>-5</integer>
-      <key>ecedilla</key>
-      <integer>-5</integer>
-      <key>ecedillabreve</key>
-      <integer>-5</integer>
-      <key>ecircumflex</key>
-      <integer>5</integer>
-      <key>ecircumflexacute</key>
-      <integer>-5</integer>
-      <key>ecircumflexdotbelow</key>
-      <integer>-5</integer>
-      <key>ecircumflexgrave</key>
-      <integer>-5</integer>
-      <key>ecircumflexhoi</key>
-      <integer>-5</integer>
-      <key>ecircumflextilde</key>
-      <integer>-5</integer>
-      <key>edieresis</key>
-      <integer>5</integer>
-      <key>edotaccent</key>
-      <integer>-5</integer>
-      <key>edotbelow</key>
-      <integer>-5</integer>
-      <key>egrave</key>
-      <integer>5</integer>
-      <key>egravedbl</key>
-      <integer>-5</integer>
-      <key>ehoi</key>
-      <integer>-5</integer>
-      <key>einvertedbreve</key>
-      <integer>-5</integer>
-      <key>emacron</key>
-      <integer>-5</integer>
-      <key>emacronacute</key>
-      <integer>-5</integer>
-      <key>emacrongrave</key>
-      <integer>-5</integer>
-      <key>eogonek</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-      <key>etilde</key>
-      <integer>-5</integer>
-      <key>f</key>
-      <integer>5</integer>
-      <key>h</key>
-      <integer>5</integer>
-      <key>i</key>
-      <integer>5</integer>
-      <key>iacute</key>
-      <integer>5</integer>
-      <key>icircumflex</key>
-      <integer>5</integer>
-      <key>idieresis</key>
-      <integer>5</integer>
-      <key>igrave</key>
-      <integer>5</integer>
-      <key>k</key>
-      <integer>5</integer>
-      <key>l</key>
-      <integer>5</integer>
-      <key>m</key>
-      <integer>5</integer>
-      <key>n</key>
-      <integer>5</integer>
-      <key>ntilde</key>
-      <integer>5</integer>
-      <key>p</key>
-      <integer>5</integer>
-      <key>r</key>
-      <integer>5</integer>
-      <key>thorn</key>
-      <integer>5</integer>
-    </dict>
-    <key>mdotbelow</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
     <key>mu.math</key>
     <dict>
       <key>public.kern2._enclosures_1</key>
       <integer>-10</integer>
       <key>question</key>
       <integer>-10</integer>
-    </dict>
-    <key>n</key>
-    <dict>
-      <key>b</key>
-      <integer>5</integer>
-      <key>d</key>
-      <integer>5</integer>
-      <key>dcaron</key>
-      <integer>-5</integer>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>ddotbelow</key>
-      <integer>-5</integer>
-      <key>dlinebelow</key>
-      <integer>-5</integer>
-      <key>dotlessi</key>
-      <integer>5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>e</key>
-      <integer>5</integer>
-      <key>eacute</key>
-      <integer>5</integer>
-      <key>ebreve</key>
-      <integer>-5</integer>
-      <key>ecaron</key>
-      <integer>-5</integer>
-      <key>ecedilla</key>
-      <integer>-5</integer>
-      <key>ecedillabreve</key>
-      <integer>-5</integer>
-      <key>ecircumflex</key>
-      <integer>5</integer>
-      <key>ecircumflexacute</key>
-      <integer>-5</integer>
-      <key>ecircumflexdotbelow</key>
-      <integer>-5</integer>
-      <key>ecircumflexgrave</key>
-      <integer>-5</integer>
-      <key>ecircumflexhoi</key>
-      <integer>-5</integer>
-      <key>ecircumflextilde</key>
-      <integer>-5</integer>
-      <key>edieresis</key>
-      <integer>5</integer>
-      <key>edotaccent</key>
-      <integer>-5</integer>
-      <key>edotbelow</key>
-      <integer>-5</integer>
-      <key>egrave</key>
-      <integer>5</integer>
-      <key>egravedbl</key>
-      <integer>-5</integer>
-      <key>ehoi</key>
-      <integer>-5</integer>
-      <key>einvertedbreve</key>
-      <integer>-5</integer>
-      <key>emacron</key>
-      <integer>-5</integer>
-      <key>emacronacute</key>
-      <integer>-5</integer>
-      <key>emacrongrave</key>
-      <integer>-5</integer>
-      <key>eogonek</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-      <key>etilde</key>
-      <integer>-5</integer>
-      <key>f</key>
-      <integer>5</integer>
-      <key>h</key>
-      <integer>5</integer>
-      <key>i</key>
-      <integer>5</integer>
-      <key>iacute</key>
-      <integer>5</integer>
-      <key>icircumflex</key>
-      <integer>5</integer>
-      <key>idieresis</key>
-      <integer>5</integer>
-      <key>igrave</key>
-      <integer>5</integer>
-      <key>k</key>
-      <integer>5</integer>
-      <key>l</key>
-      <integer>5</integer>
-      <key>m</key>
-      <integer>5</integer>
-      <key>n</key>
-      <integer>5</integer>
-      <key>ntilde</key>
-      <integer>5</integer>
-      <key>p</key>
-      <integer>5</integer>
-      <key>r</key>
-      <integer>5</integer>
-      <key>thorn</key>
-      <integer>5</integer>
-    </dict>
-    <key>nacute</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>ncaron</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>ncedilla</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>ndot</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>ndotbelow</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>nlinebelow</key>
-    <dict>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-    </dict>
-    <key>ntilde</key>
-    <dict>
-      <key>b</key>
-      <integer>5</integer>
-      <key>d</key>
-      <integer>5</integer>
-      <key>dcaron</key>
-      <integer>-5</integer>
-      <key>dcroat</key>
-      <integer>-5</integer>
-      <key>ddotbelow</key>
-      <integer>-5</integer>
-      <key>dlinebelow</key>
-      <integer>-5</integer>
-      <key>dotlessi</key>
-      <integer>5</integer>
-      <key>dzcaron</key>
-      <integer>-5</integer>
-      <key>e</key>
-      <integer>5</integer>
-      <key>eacute</key>
-      <integer>5</integer>
-      <key>ebreve</key>
-      <integer>-5</integer>
-      <key>ecaron</key>
-      <integer>-5</integer>
-      <key>ecedilla</key>
-      <integer>-5</integer>
-      <key>ecedillabreve</key>
-      <integer>-5</integer>
-      <key>ecircumflex</key>
-      <integer>5</integer>
-      <key>ecircumflexacute</key>
-      <integer>-5</integer>
-      <key>ecircumflexdotbelow</key>
-      <integer>-5</integer>
-      <key>ecircumflexgrave</key>
-      <integer>-5</integer>
-      <key>ecircumflexhoi</key>
-      <integer>-5</integer>
-      <key>ecircumflextilde</key>
-      <integer>-5</integer>
-      <key>edieresis</key>
-      <integer>5</integer>
-      <key>edotaccent</key>
-      <integer>-5</integer>
-      <key>edotbelow</key>
-      <integer>-5</integer>
-      <key>egrave</key>
-      <integer>5</integer>
-      <key>egravedbl</key>
-      <integer>-5</integer>
-      <key>ehoi</key>
-      <integer>-5</integer>
-      <key>einvertedbreve</key>
-      <integer>-5</integer>
-      <key>emacron</key>
-      <integer>-5</integer>
-      <key>emacronacute</key>
-      <integer>-5</integer>
-      <key>emacrongrave</key>
-      <integer>-5</integer>
-      <key>eogonek</key>
-      <integer>-5</integer>
-      <key>eth</key>
-      <integer>-5</integer>
-      <key>etilde</key>
-      <integer>-5</integer>
-      <key>f</key>
-      <integer>5</integer>
-      <key>h</key>
-      <integer>5</integer>
-      <key>i</key>
-      <integer>5</integer>
-      <key>iacute</key>
-      <integer>5</integer>
-      <key>icircumflex</key>
-      <integer>5</integer>
-      <key>idieresis</key>
-      <integer>5</integer>
-      <key>igrave</key>
-      <integer>5</integer>
-      <key>k</key>
-      <integer>5</integer>
-      <key>l</key>
-      <integer>5</integer>
-      <key>m</key>
-      <integer>5</integer>
-      <key>n</key>
-      <integer>5</integer>
-      <key>ntilde</key>
-      <integer>5</integer>
-      <key>p</key>
-      <integer>5</integer>
-      <key>r</key>
-      <integer>5</integer>
-      <key>thorn</key>
-      <integer>5</integer>
     </dict>
     <key>one</key>
     <dict>
@@ -1685,8 +524,6 @@
       <integer>-50</integer>
       <key>public.kern2.ae</key>
       <integer>-80</integer>
-      <key>public.kern2.h</key>
-      <integer>5</integer>
       <key>public.kern2.j</key>
       <integer>-45</integer>
       <key>public.kern2.o</key>
@@ -1820,6 +657,10 @@
       <integer>-5</integer>
       <key>public.kern2.o</key>
       <integer>-5</integer>
+      <key>public.kern2.y</key>
+      <integer>-10</integer>
+      <key>v</key>
+      <integer>-10</integer>
     </dict>
     <key>public.kern1.L</key>
     <dict>
@@ -2648,7 +1489,7 @@
       <key>public.kern2.ae</key>
       <integer>-25</integer>
       <key>public.kern2.h</key>
-      <integer>-25</integer>
+      <integer>-5</integer>
       <key>public.kern2.j</key>
       <integer>10</integer>
       <key>public.kern2.o</key>
@@ -2680,16 +1521,18 @@
       <integer>-10</integer>
       <key>public.kern2.ae</key>
       <integer>-20</integer>
-      <key>public.kern2.h</key>
-      <integer>-20</integer>
       <key>public.kern2.j</key>
       <integer>-10</integer>
       <key>public.kern2.o</key>
-      <integer>-20</integer>
+      <integer>-10</integer>
       <key>public.kern2.s</key>
+      <integer>-5</integer>
+      <key>public.kern2.y</key>
       <integer>-10</integer>
       <key>public.kern2.z</key>
       <integer>-5</integer>
+      <key>v</key>
+      <integer>-10</integer>
     </dict>
     <key>public.kern1.e</key>
     <dict>
@@ -2715,7 +1558,7 @@
       <key>public.kern2.w</key>
       <integer>-10</integer>
       <key>public.kern2.y</key>
-      <integer>-10</integer>
+      <integer>-15</integer>
       <key>v</key>
       <integer>-10</integer>
     </dict>
@@ -2730,6 +1573,8 @@
       <key>public.kern2.h</key>
       <integer>0</integer>
       <key>public.kern2.o</key>
+      <integer>-5</integer>
+      <key>v</key>
       <integer>-5</integer>
     </dict>
     <key>public.kern1.l</key>
@@ -2761,7 +1606,7 @@
       <key>public.kern2.ae</key>
       <integer>-10</integer>
       <key>public.kern2.h</key>
-      <integer>-10</integer>
+      <integer>-5</integer>
       <key>public.kern2.j</key>
       <integer>10</integer>
       <key>public.kern2.o</key>
@@ -2769,7 +1614,7 @@
       <key>public.kern2.s</key>
       <integer>-5</integer>
       <key>public.kern2.t</key>
-      <integer>-70</integer>
+      <integer>-60</integer>
       <key>public.kern2.u</key>
       <integer>-15</integer>
       <key>public.kern2.w</key>
@@ -2834,7 +1679,7 @@
       <key>v</key>
       <integer>-30</integer>
       <key>x</key>
-      <integer>-45</integer>
+      <integer>-40</integer>
     </dict>
     <key>public.kern1.r</key>
     <dict>
@@ -2855,11 +1700,9 @@
       <key>public.kern2._sups</key>
       <integer>-40</integer>
       <key>public.kern2.a</key>
-      <integer>-15</integer>
+      <integer>-5</integer>
       <key>public.kern2.ae</key>
       <integer>-40</integer>
-      <key>public.kern2.h</key>
-      <integer>-15</integer>
       <key>public.kern2.o</key>
       <integer>-15</integer>
       <key>public.kern2.t</key>
@@ -2943,6 +1786,11 @@
       <key>public.kern2.s</key>
       <integer>-10</integer>
     </dict>
+    <key>public.kern1.u</key>
+    <dict>
+      <key>public.kern2.j</key>
+      <integer>-10</integer>
+    </dict>
     <key>public.kern1.w</key>
     <dict>
       <key>public.kern2.A</key>
@@ -2989,11 +1837,11 @@
       <key>public.kern2._sups</key>
       <integer>-40</integer>
       <key>public.kern2.a</key>
-      <integer>-45</integer>
+      <integer>-30</integer>
       <key>public.kern2.ae</key>
       <integer>-30</integer>
       <key>public.kern2.o</key>
-      <integer>-45</integer>
+      <integer>-40</integer>
       <key>public.kern2.s</key>
       <integer>0</integer>
       <key>public.kern2.u</key>
@@ -3029,14 +1877,12 @@
       <integer>-70</integer>
       <key>public.kern2.ae</key>
       <integer>-80</integer>
-      <key>public.kern2.h</key>
-      <integer>-35</integer>
       <key>public.kern2.j</key>
       <integer>-50</integer>
       <key>public.kern2.o</key>
       <integer>-35</integer>
       <key>public.kern2.s</key>
-      <integer>-20</integer>
+      <integer>-30</integer>
       <key>question</key>
       <integer>10</integer>
     </dict>
@@ -3050,10 +1896,10 @@
       <integer>-20</integer>
       <key>public.kern2.ae</key>
       <integer>-20</integer>
-      <key>public.kern2.h</key>
-      <integer>-20</integer>
       <key>public.kern2.o</key>
       <integer>-20</integer>
+      <key>public.kern2.s</key>
+      <integer>-10</integer>
       <key>public.kern2.z</key>
       <integer>-5</integer>
     </dict>
@@ -3348,13 +2194,15 @@
       <key>public.kern2.ae</key>
       <integer>-80</integer>
       <key>public.kern2.h</key>
-      <integer>-30</integer>
+      <integer>-5</integer>
       <key>public.kern2.j</key>
-      <integer>-50</integer>
+      <integer>-60</integer>
       <key>public.kern2.o</key>
       <integer>-30</integer>
       <key>public.kern2.s</key>
-      <integer>-15</integer>
+      <integer>-20</integer>
+      <key>public.kern2.u</key>
+      <integer>-5</integer>
     </dict>
   </dict>
 </plist>

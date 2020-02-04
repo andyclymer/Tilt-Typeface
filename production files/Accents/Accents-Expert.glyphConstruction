@@ -516,6 +516,28 @@ DZcaron = D &\ Zcaron
 Dzcaron = D &\ zcaron
 dzcaron = d &\ zcaron
 
+
+hyphensoft = hyphen ^ hyphen
+gnrl:hyphen = hyphen ^ hyphen
+primemod = minute ^ minute
+primedblmod = second ^ second
+apostrophemod = quoteleft ^ quoteleft
+commaturnedmod = quoteright ^ quoteright
+macronmod = macroncmb @ `origin+150`, `origin+0` ^ 300
+acutemod = acutecmb @ `origin+150`, `origin+0` ^ 300
+gravemod = gravecmb @ `origin+150`, `origin+0` ^ 300
+
+nbspace = ^ space
+figurespace = ^ 500
+punctuationspace = ^ 250
+thinspace = ^ 125
+hairspace = ^ 25
+zerowidthspace = ^ 0
+figuredash = endash ^ endash
+horizontalbar = emdash ^ emdash
+
+
+
 dieresis = dieresiscmb @ `origin+250`, `origin+0` ^ 500
 grave = gravecmb @ `origin+250`, `origin+0` ^ 500
 macron = macroncmb @ `origin+250`, `origin+0` ^ 500
