@@ -2,8 +2,8 @@
 <glyph name="uogonek.alt" format="2">
   <advance width="560"/>
   <outline>
-    <component base="u"/>
     <component base="ogonekcmb" xOffset="280" yOffset="-11"/>
+    <component base="u.alt"/>
   </outline>
   <lib>
     <dict>

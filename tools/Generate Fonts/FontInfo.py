@@ -80,7 +80,7 @@ def setFontInfo(f, familyName, styleName, version=(0, 0), versionString=""):
     
 
 
-sourceFolderPath = "/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Warp/Rotated"
+sourceFolderPath = "/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Neon/Rotated"
 for fileName in os.listdir(sourceFolderPath):
     if fileName.endswith(".ufo"):
         ufoPath = os.path.join(sourceFolderPath, fileName)
@@ -90,8 +90,8 @@ for fileName in os.listdir(sourceFolderPath):
         
         familyName = "Tilt Beta Warp"
         styleName = "Regular"
-        version = (0, 6)
-        versionString = "BETA 2020_02_22"
+        version = (0, 7)
+        versionString = "BETA 2020_02_05"
         
         setFontInfo(f, familyName, styleName, version=version, versionString=versionString)
         
