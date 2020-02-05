@@ -4,7 +4,7 @@ buildDesignSpace(
     masterPath="/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Neon/Masters/Tilt-Neon.ufo",
     destPath="/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Neon/Rotated", 
 
-    glyphNames = ['arrowleft', 'arrowNW', 'arrowup', 'arrowNE', 'arrowright', 'arrowSE', 'arrowdown', 'arrowSW'],
+    glyphNames = ['ringhalfrightmod', 'ringhalfleftmod', 'verticallinemod', 'verticallinelowmod'],
 
     compositionType="rotate", 
     outlineAmount=45, 
