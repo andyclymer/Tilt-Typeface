@@ -561,6 +561,9 @@ def buildDesignSpace(
         sourceFont.groups.update(copy.deepcopy(masterFont.groups))
         sourceFont.kerning.update(copy.deepcopy(masterFont.kerning))
         
+        # Copy the features
+        sourceFont.features.text = masterFont.features.text
+        
         # Done, save
         sourceFont.changed()
         sourceFont.save()
@@ -597,7 +600,7 @@ def buildDesignSpace(
         #s.font = defcon.Font(s.name)
         s.copyLib = True
         s.copyInfo = True
-        s.copyFeatures = True
+        s.copyInfoures = True
         s.familyName = masterFont.info.familyName
         s.styleName = s.name
         # Convert the loc from tags to names

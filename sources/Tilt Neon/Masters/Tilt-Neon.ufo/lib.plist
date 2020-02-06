@@ -6,7 +6,7 @@
     <array>
       <dict>
         <key>allowPseudoUnicode</key>
-        <integer>1</integer>
+        <integer>0</integer>
         <key>ascending</key>
         <string>GF Latin Tilt</string>
         <key>type</key>
@@ -833,6 +833,7 @@
       <string>Tcaron</string>
       <string>Tcedilla</string>
       <string>Tcommaaccent</string>
+      <string>Tdieresis</string>
       <string>Tdotbelow</string>
       <string>Tlinebelow</string>
       <string>Tbar</string>

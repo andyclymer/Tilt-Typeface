@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowNW" format="2">
+  <advance width="636"/>
+  <unicode hex="2196"/>
+  <outline>
+    <contour>
+      <point x="593" y="531" type="move" name="RXYACUZC"/>
+      <point x="440" y="492" name="OGMVGVFK"/>
+      <point x="300" y="478" name="AELMXEYU"/>
+      <point x="161" y="486" type="curve" name="UTLRKEQC"/>
+      <point x="168" y="346" name="EXVRHSVR"/>
+      <point x="162" y="214" name="MGOLNTHB"/>
+      <point x="123" y="61" type="curve" name="QVGUXTQJ"/>
+    </contour>
+    <contour>
+      <point x="67" y="579" type="move" name="MCHVBBDS"/>
+      <point x="161" y="486" type="line" name="VEFCEOIH"/>
+      <point x="490" y="157" type="line" name="QPHYUFCK"/>
+    </contour>
+    <contour>
+      <point x="595" y="175" type="move" name="VAZHSFHT"/>
+      <point x="490" y="157" type="line" name="VDMDVTLL"/>
+      <point x="471" y="51" type="line" name="LSEOJCJB"/>
+    </contour>
+    <contour>
+      <point x="310" y="420" type="move" name="JEJRUKMR"/>
+      <point x="161" y="486" type="line" name="DVHGCLJS"/>
+      <point x="231" y="331" type="line" name="KLONTXGP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AELMXEYU</key>
+        <integer>70</integer>
+        <key>DVHGCLJS</key>
+        <integer>100</integer>
+        <key>EXVRHSVR</key>
+        <integer>70</integer>
+        <key>JEJRUKMR</key>
+        <real>0.0</real>
+        <key>KLONTXGP</key>
+        <integer>0</integer>
+        <key>LSEOJCJB</key>
+        <integer>0</integer>
+        <key>MCHVBBDS</key>
+        <real>0.0</real>
+        <key>MGOLNTHB</key>
+        <integer>40</integer>
+        <key>OGMVGVFK</key>
+        <integer>40</integer>
+        <key>QPHYUFCK</key>
+        <integer>100</integer>
+        <key>QVGUXTQJ</key>
+        <integer>0</integer>
+        <key>RXYACUZC</key>
+        <real>0.0</real>
+        <key>UTLRKEQC</key>
+        <integer>100</integer>
+        <key>VAZHSFHT</key>
+        <real>0.0</real>
+        <key>VDMDVTLL</key>
+        <integer>100</integer>
+        <key>VEFCEOIH</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>
