@@ -4,7 +4,7 @@
   <unicode hex="006C"/>
   <anchor x="115" y="735" name="above"/>
   <anchor x="115" y="0" name="below"/>
-  <anchor x="165" y="575" name="right"/>
+  <anchor x="165" y="497" name="right"/>
   <outline>
     <contour>
       <point x="115" y="40" type="move" name="YACKK"/>
@@ -21,8 +21,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
       <key>com.andyclymer.zPosition</key>
       <dict>
         <key>AMBCTFOH</key>

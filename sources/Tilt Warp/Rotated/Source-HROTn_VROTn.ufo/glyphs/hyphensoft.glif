@@ -3,19 +3,12 @@
   <advance width="240"/>
   <unicode hex="00AD"/>
   <outline>
-    <contour>
-      <point x="-45" y="318" type="curve" name="DNWZFSJU"/>
-      <point x="27" y="306" name="JNWPSZVW"/>
-      <point x="92" y="306" name="UJCVLSSQ"/>
-      <point x="146" y="318" type="curve" name="UDMYAPQH"/>
-      <point x="192" y="325" name="MGXXFVDI"/>
-      <point x="218" y="363" name="PNHRPEKX"/>
-      <point x="223" y="428" type="curve" name="MDKSEUSL"/>
-      <point x="169" y="415" name="BPXNJVJV"/>
-      <point x="104" y="415" name="ACTYBGGN"/>
-      <point x="32" y="428" type="curve" name="NBGZXPPB"/>
-      <point x="27" y="363" name="BWPBUPLM"/>
-      <point x="1" y="325" name="QUDZNYGD"/>
-    </contour>
+    <component base="hyphen"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

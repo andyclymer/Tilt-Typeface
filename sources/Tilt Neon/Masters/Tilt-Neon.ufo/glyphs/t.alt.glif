@@ -3,7 +3,7 @@
   <advance width="336"/>
   <anchor x="170" y="630" name="above"/>
   <anchor x="233" y="3" name="below"/>
-  <anchor x="213" y="562" name="right"/>
+  <anchor x="213" y="533" name="right"/>
   <outline>
     <contour>
       <point x="279" y="453" type="move" name="SDRTNBMO"/>
@@ -32,8 +32,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.andyclymer.projectionViewOrientation</key>
-      <string>front</string>
       <key>com.andyclymer.zPosition</key>
       <dict>
         <key>ANNFZJGU</key>

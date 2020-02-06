@@ -5,8 +5,8 @@ import os
 Copy kerning from one UFO into a folder of source UFOs
 """
 
-ufoKpath =     "/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Neon/Model/Tilt-Neon-Model.ufo"
-sourceFolder = "/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Neon/Rotated"
+ufoKpath =     "/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Prism/Model/Tilt-Prism-Model.ufo"
+sourceFolder = "/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Prism/Rotated"
 
 
 
