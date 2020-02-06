@@ -70,8 +70,6 @@
     <string>P_.glif</string>
     <key>Q</key>
     <string>Q_.glif</string>
-    <key>Q.alt</key>
-    <string>Q_.alt.glif</string>
     <key>R</key>
     <string>R_.glif</string>
     <key>S</key>
@@ -116,6 +114,22 @@
     <string>aogonek.glif</string>
     <key>approxequal</key>
     <string>approxequal.glif</string>
+    <key>arrowNE</key>
+    <string>arrowN_E_.glif</string>
+    <key>arrowNW</key>
+    <string>arrowN_W_.glif</string>
+    <key>arrowSE</key>
+    <string>arrowS_E_.glif</string>
+    <key>arrowSW</key>
+    <string>arrowS_W_.glif</string>
+    <key>arrowdown</key>
+    <string>arrowdown.glif</string>
+    <key>arrowleft</key>
+    <string>arrowleft.glif</string>
+    <key>arrowright</key>
+    <string>arrowright.glif</string>
+    <key>arrowup</key>
+    <string>arrowup.glif</string>
     <key>asciicircum</key>
     <string>asciicircum.glif</string>
     <key>asciitilde</key>
@@ -358,8 +372,6 @@
     <string>ohorn.glif</string>
     <key>one</key>
     <string>one.glif</string>
-    <key>one.alt</key>
-    <string>one.alt.glif</string>
     <key>onehalf</key>
     <string>onehalf.glif</string>
     <key>onequarter</key>
@@ -402,8 +414,6 @@
     <string>plusminus.glif</string>
     <key>q</key>
     <string>q.glif</string>
-    <key>q.alt</key>
-    <string>q.alt.glif</string>
     <key>question</key>
     <string>question.glif</string>
     <key>questiondown</key>
@@ -430,6 +440,10 @@
     <string>registered.glif</string>
     <key>ringabovecmb</key>
     <string>ringabovecmb.glif</string>
+    <key>ringhalfleftmod</key>
+    <string>ringhalfleftmod.glif</string>
+    <key>ringhalfrightmod</key>
+    <string>ringhalfrightmod.glif</string>
     <key>ruble</key>
     <string>ruble.glif</string>
     <key>s</key>
@@ -488,6 +502,10 @@
     <string>uogonek.glif</string>
     <key>v</key>
     <string>v.glif</string>
+    <key>verticallinelowmod</key>
+    <string>verticallinelowmod.glif</string>
+    <key>verticallinemod</key>
+    <string>verticallinemod.glif</string>
     <key>w</key>
     <string>w.glif</string>
     <key>won</key>

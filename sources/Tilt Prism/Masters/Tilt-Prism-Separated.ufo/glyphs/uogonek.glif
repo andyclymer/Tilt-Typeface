@@ -4,45 +4,48 @@
   <unicode hex="0173"/>
   <outline>
     <contour>
-      <point x="484" y="518" type="move" name="UXUMBWAC"/>
-      <point x="484" y="214" type="line" smooth="yes" name="FLWRLTFV"/>
-      <point x="484" y="136" name="VBRGVSPD"/>
-      <point x="443" y="80" name="KRYREKNE"/>
-      <point x="377" y="58" type="curve" smooth="yes" name="WTVKPRBF"/>
-      <point x="357" y="52" name="FPMXIENG"/>
-      <point x="334" y="48" name="PGHLQHZX"/>
-      <point x="310" y="48" type="curve" smooth="yes" name="JNHIYEKA"/>
-      <point x="206" y="48" name="IRPPFYFD"/>
+      <point x="136" y="518" type="move" name="QIBKBWZR"/>
+      <point x="136" y="214" type="line" smooth="yes" name="WQZNRNOZ"/>
       <point x="136" y="112" name="VTANEAMA"/>
-      <point x="136" y="214" type="curve" smooth="yes" name="WQZNRNOZ"/>
-      <point x="136" y="518" type="line" name="QIBKBWZR"/>
+      <point x="206" y="48" name="IRPPFYFD"/>
+      <point x="310" y="48" type="curve" smooth="yes" name="JNHIYEKA"/>
+      <point x="334" y="48" name="PGHLQHZX"/>
+      <point x="357.0" y="52.0" name="FPMXIENG"/>
+      <point x="377.0" y="58.0" type="curve" smooth="yes" name="WTVKPRBF"/>
+      <point x="443.0" y="80.0" name="KRYREKNE"/>
+      <point x="484" y="136" name="VBRGVSPD"/>
+      <point x="484" y="214" type="curve" smooth="yes" name="FLWRLTFV"/>
+      <point x="484" y="518" type="line" name="UXUMBWAC"/>
     </contour>
     <contour>
-      <point x="40.0" y="580.0" type="move" name="XILHXCDH"/>
+      <point x="231.0" y="580.0" type="move" name="SQLLXOYY"/>
       <point x="136.0" y="518.0" type="line" name="RIZIZSMX"/>
-      <point x="231.0" y="580.0" type="line" name="SQLLXOYY"/>
+      <point x="40.0" y="580.0" type="line" name="XILHXCDH"/>
     </contour>
     <contour>
-      <point x="389.0" y="580.0" type="move" name="WUBTDLXF"/>
+      <point x="580.0" y="580.0" type="move" name="TUMDPWAE"/>
       <point x="484.0" y="518.0" type="line" name="EZNWXIRW"/>
-      <point x="580.0" y="580.0" type="line" name="TUMDPWAE"/>
+      <point x="389.0" y="580.0" type="line" name="WUBTDLXF"/>
     </contour>
     <contour>
-      <point x="408.0" y="-176.0" type="move" name="KCYBJNZY"/>
+      <point x="418.0" y="-63.0" type="move" name="ICWUZGVP"/>
       <point x="355.0" y="-137.0" type="line" name="PHAFXCXF"/>
-      <point x="418.0" y="-63.0" type="line" name="ICWUZGVP"/>
+      <point x="408.0" y="-176.0" type="line" name="KCYBJNZY"/>
     </contour>
     <contour>
-      <point x="224" y="-5" type="move" name="GHPEWKGX"/>
-      <point x="269" y="19" name="FROFPYWT"/>
-      <point x="324" y="41" name="QHDZHPXO"/>
-      <point x="377" y="58" type="curve" name="HPHEPJUP"/>
-      <point x="298" y="27" name="GQLYLXEC"/>
-      <point x="257" y="-27" name="IINTJLSU"/>
-      <point x="257" y="-71" type="curve" smooth="yes" name="GFQWMEHQ"/>
-      <point x="257" y="-120" name="PGIGLLIM"/>
+      <point x="355" y="-137" type="move" smooth="yes" name="LYMAMILK"/>
       <point x="293" y="-146" name="FOWOEFNW"/>
-      <point x="355" y="-137" type="curve" smooth="yes" name="LYMAMILK"/>
+      <point x="257" y="-120" name="PGIGLLIM"/>
+      <point x="257" y="-71" type="curve" smooth="yes" name="GFQWMEHQ"/>
+      <point x="257" y="-27" name="IINTJLSU"/>
+      <point x="298" y="27" name="GQLYLXEC"/>
+      <point x="377" y="58" type="curve" name="HPHEPJUP"/>
+    </contour>
+    <contour>
+      <point x="377" y="58" type="move" name="QFAPJWBS"/>
+      <point x="324" y="41" name="QHDZHPXO"/>
+      <point x="269" y="19" name="FROFPYWT"/>
+      <point x="224" y="-5" type="curve" name="GHPEWKGX"/>
     </contour>
   </outline>
   <lib>
@@ -87,6 +90,8 @@
         <integer>100</integer>
         <key>PHAFXCXF</key>
         <integer>100</integer>
+        <key>QFAPJWBS</key>
+        <real>50.0</real>
         <key>QHDZHPXO</key>
         <integer>100</integer>
         <key>QIBKBWZR</key>

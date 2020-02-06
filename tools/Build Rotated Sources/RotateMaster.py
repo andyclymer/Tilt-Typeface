@@ -5,6 +5,7 @@ from outlineFitterPen import OutlineFitterPen, MathPoint
 import math
 import os
 import copy
+import random
 
 import outlineFitterPen
 print(outlineFitterPen.__file__)

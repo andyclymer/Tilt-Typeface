@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecmb" format="2">
+  <advance width="500"/>
+  <unicode hex="0309"/>
+  <anchor x="-103.0" y="481.0" name="_above"/>
+  <anchor x="-241.0" y="676.0" name="above"/>
+  <anchor x="-103.0" y="481.0" name="_aboveright"/>
+  <outline>
+    <contour>
+      <point x="-111" y="616" type="move" smooth="yes" name="CCNKLPDL"/>
+      <point x="-84" y="624" name="NWVRFDZJ"/>
+      <point x="-75" y="641" name="GYHHMZHY"/>
+      <point x="-97" y="673" type="curve" smooth="yes" name="AFHYTAFH"/>
+      <point x="-123" y="709" name="JFPDTUZR"/>
+      <point x="-166" y="727" name="KAZCGRJX"/>
+      <point x="-207" y="724" type="curve" smooth="yes" name="XMKUXPCM"/>
+    </contour>
+    <contour>
+      <point x="-310" y="680" type="move" name="TARBNJHZ"/>
+      <point x="-207" y="724" type="line" name="YXOUZBND"/>
+      <point x="-265" y="616" type="line" name="WITDDYWY"/>
+    </contour>
+    <contour>
+      <point x="-212" y="567" type="move" name="RJQWGJCK"/>
+      <point x="-111" y="616" type="line" name="FWJMCZOZ"/>
+      <point x="-171" y="510" type="line" name="ANLMCVDS"/>
+    </contour>
+  </outline>
+</glyph>

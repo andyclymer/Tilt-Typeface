@@ -44,8 +44,9 @@
     <contour>
       <point x="446" y="-115" type="move" smooth="yes" name="JCMFEEWZ"/>
       <point x="507" y="-117" name="PGOTYOQL"/>
-      <point x="548" y="-82" name="KFRAIVRS"/>
+      <point x="548.0" y="-86" name="KFRAIVRS"/>
       <point x="548" y="3" type="curve" smooth="yes" name="BSIGAEOF"/>
+      <point x="548.0" y="57.0" type="line" name="CQGWRFHV"/>
       <point x="548" y="618" type="line" name="DEVZUMUY"/>
     </contour>
     <contour>
@@ -68,6 +69,8 @@
         <integer>100</integer>
         <key>BSIGAEOF</key>
         <integer>100</integer>
+        <key>CQGWRFHV</key>
+        <real>100.0</real>
         <key>CXJCUYLV</key>
         <integer>100</integer>
         <key>DEHQVWVA</key>
@@ -95,7 +98,7 @@
         <key>JRWZSQRT</key>
         <integer>100</integer>
         <key>KFRAIVRS</key>
-        <integer>100</integer>
+        <real>100.0</real>
         <key>LTAUJVMK</key>
         <integer>0</integer>
         <key>NXWOLIQD</key>

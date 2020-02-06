@@ -1268,9 +1268,35 @@
       <string>Dzcaron</string>
       <string>dzcaron</string>
       <string>arrowleft</string>
+      <string>arrowNW</string>
       <string>arrowup</string>
+      <string>arrowNE</string>
       <string>arrowright</string>
+      <string>arrowSE</string>
       <string>arrowdown</string>
+      <string>arrowSW</string>
+      <string>arrowleft.circle</string>
+      <string>arrowNW.circle</string>
+      <string>arrowdown.circle</string>
+      <string>arrowNE.circle</string>
+      <string>arrowright.circle</string>
+      <string>arrowSE.circle</string>
+      <string>arrowup.circle</string>
+      <string>arrowSW.circle</string>
+      <string>smilingfacewhite</string>
+      <string>frowningfacewhite</string>
+      <string>heartwhite</string>
+      <string>starwhite</string>
+      <string>billiards</string>
+      <string>bowling</string>
+      <string>key</string>
+      <string>scissorsblack</string>
+      <string>mansShoe</string>
+      <string>uni1f9fa</string>
+      <string>camera</string>
+      <string>sliceOfPizza</string>
+      <string>wineGlass</string>
+      <string>musicalNote</string>
       <string>squareblack</string>
       <string>squarewhite</string>
       <string>triangleupblack</string>
@@ -1285,75 +1311,10 @@
       <string>gmtr:diamondwhite</string>
       <string>NULL</string>
       <string>CR</string>
-      <string>a.alt</string>
-      <string>aacute.alt</string>
-      <string>abreve.alt</string>
-      <string>abreveacute.alt</string>
-      <string>abrevedotbelow.alt</string>
-      <string>abrevegrave.alt</string>
-      <string>abrevehoi.alt</string>
-      <string>abrevetilde.alt</string>
-      <string>acircumflex.alt</string>
-      <string>acircumflexacute.alt</string>
-      <string>acircumflexdotbelow.alt</string>
-      <string>acircumflexgrave.alt</string>
-      <string>acircumflexhoi.alt</string>
-      <string>acircumflextilde.alt</string>
-      <string>adieresis.alt</string>
-      <string>adotbelow.alt</string>
-      <string>agravedbl.alt</string>
-      <string>agrave.alt</string>
-      <string>ahoi.alt</string>
-      <string>ainvertedbreve.alt</string>
-      <string>amacron.alt</string>
-      <string>aogonek.alt</string>
-      <string>aring.alt</string>
-      <string>aringacute.alt</string>
-      <string>atilde.alt</string>
-      <string>ae.alt</string>
-      <string>aeacute.alt</string>
-      <string>t.alt</string>
-      <string>tcaron.alt</string>
-      <string>tcedilla.alt</string>
-      <string>tcommaaccent.alt</string>
-      <string>tdieresis.alt</string>
-      <string>tdotbelow.alt</string>
-      <string>tlinebelow.alt</string>
-      <string>tbar.alt</string>
-      <string>u.alt</string>
-      <string>uacute.alt</string>
-      <string>ubreve.alt</string>
-      <string>ucircumflex.alt</string>
-      <string>udieresis.alt</string>
-      <string>udotbelow.alt</string>
-      <string>uhungarumlaut.alt</string>
-      <string>ugravedbl.alt</string>
-      <string>ugrave.alt</string>
-      <string>uhoi.alt</string>
-      <string>uhorn.alt</string>
-      <string>uhornacute.alt</string>
-      <string>uhorndotbelow.alt</string>
-      <string>uhorngrave.alt</string>
-      <string>uhornhoi.alt</string>
-      <string>uhorntilde.alt</string>
-      <string>uinvertedbreve.alt</string>
-      <string>umacron.alt</string>
-      <string>umacrondieresis.alt</string>
-      <string>uogonek.alt</string>
-      <string>uring.alt</string>
-      <string>utilde.alt</string>
-      <string>utildeacute.alt</string>
-      <string>dieresis.cap</string>
-      <string>grave.cap</string>
-      <string>macron.cap</string>
-      <string>acute.cap</string>
-      <string>cedilla.cap</string>
-      <string>circumflex.cap</string>
-      <string>ring.cap</string>
-      <string>tilde.cap</string>
-      <string>Q.alt</string>
-      <string>one.alt</string>
-      <string>q.alt</string>
     </array>
+    <key>public.postscriptNames</key>
+    <dict/>
+    <key>public.skipExportGlyphs</key>
+    <array/>
   </dict>
 </plist>

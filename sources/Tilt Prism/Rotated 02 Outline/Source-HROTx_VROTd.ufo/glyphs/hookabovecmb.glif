@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecmb" format="2">
+  <unicode hex="0309"/>
+  <anchor x="42.0" y="517" name="_above"/>
+  <anchor x="42.0" y="793" name="above"/>
+  <anchor x="42.0" y="517" name="_aboveright"/>
+  <outline>
+    <contour>
+      <point x="-13" y="639" type="line"/>
+      <point x="-13" y="643"/>
+      <point x="-10" y="646"/>
+      <point x="-6" y="647" type="curve" smooth="yes"/>
+      <point x="23" y="652"/>
+      <point x="39" y="661"/>
+      <point x="39" y="682" type="curve" smooth="yes"/>
+      <point x="39" y="712"/>
+      <point x="9" y="713"/>
+      <point x="-21" y="701" type="curve" smooth="yes"/>
+      <point x="-26" y="698"/>
+      <point x="-32" y="702"/>
+      <point x="-32" y="708" type="curve" smooth="yes"/>
+      <point x="-32" y="798" type="line" smooth="yes"/>
+      <point x="-32" y="801"/>
+      <point x="-30" y="804"/>
+      <point x="-27" y="806" type="curve" smooth="yes"/>
+      <point x="59" y="837"/>
+      <point x="129" y="792"/>
+      <point x="129" y="693" type="curve" smooth="yes"/>
+      <point x="129" y="593"/>
+      <point x="68" y="560"/>
+      <point x="-4" y="550" type="curve" smooth="yes"/>
+      <point x="-9" y="549"/>
+      <point x="-13" y="553"/>
+      <point x="-13" y="558" type="curve"/>
+    </contour>
+    <contour>
+      <point x="3" y="639" type="line"/>
+      <point x="3" y="558" type="line"/>
+      <point x="-6" y="566" type="line"/>
+      <point x="60" y="574"/>
+      <point x="113" y="603"/>
+      <point x="113" y="693" type="curve" smooth="yes"/>
+      <point x="113" y="780"/>
+      <point x="55" y="819"/>
+      <point x="-21" y="790" type="curve"/>
+      <point x="-16" y="798" type="line"/>
+      <point x="-16" y="708" type="line"/>
+      <point x="-27" y="715" type="line"/>
+      <point x="15" y="733"/>
+      <point x="55" y="724"/>
+      <point x="55" y="682" type="curve" smooth="yes"/>
+      <point x="55" y="653"/>
+      <point x="36" y="638"/>
+      <point x="-4" y="631" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
