@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c" format="2">
+  <advance width="541"/>
+  <unicode hex="0063"/>
+  <anchor x="307" y="-3" name="below"/>
+  <anchor x="307" y="583.0" name="above"/>
+  <outline>
+    <contour>
+      <point x="424" y="509" type="move" smooth="yes" name="XKDNNISJ"/>
+      <point x="393" y="522" name="JHGSHXTZ"/>
+      <point x="358" y="531" name="NZYGLYIX"/>
+      <point x="322" y="531" type="curve" smooth="yes" name="VBIECTLC"/>
+      <point x="190" y="531" name="DUXSHEAK"/>
+      <point x="102" y="434" name="YTCQMMWX"/>
+      <point x="102" y="289" type="curve" smooth="yes" name="ICEUGGVM"/>
+      <point x="102" y="144" name="FUXWZGHH"/>
+      <point x="190" y="50" name="WOPMVIWM"/>
+      <point x="322" y="50" type="curve" smooth="yes" name="EHZPPCDI"/>
+      <point x="359" y="50" name="BFTXJBEV"/>
+      <point x="393" y="58" name="GLRXLUZD"/>
+      <point x="424" y="70" type="curve" smooth="yes" name="FCGFOXGR"/>
+    </contour>
+    <contour>
+      <point x="486.0" y="558.0" type="move" name="ZVSPBBMH"/>
+      <point x="424.0" y="509.0" type="line" name="PJYICBXU"/>
+      <point x="486.0" y="396.0" type="line" name="JTRIQKLW"/>
+    </contour>
+    <contour>
+      <point x="486.0" y="184.0" type="move" name="IQVNJISR"/>
+      <point x="424.0" y="70.0" type="line" name="MBLKTCQA"/>
+      <point x="486.0" y="22.0" type="line" name="LMCNVRTT"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BFTXJBEV</key>
+        <integer>100</integer>
+        <key>DUXSHEAK</key>
+        <integer>100</integer>
+        <key>EHZPPCDI</key>
+        <integer>100</integer>
+        <key>FCGFOXGR</key>
+        <real>100.0</real>
+        <key>FUXWZGHH</key>
+        <integer>100</integer>
+        <key>GLRXLUZD</key>
+        <integer>100</integer>
+        <key>ICEUGGVM</key>
+        <integer>100</integer>
+        <key>IQVNJISR</key>
+        <integer>0</integer>
+        <key>JHGSHXTZ</key>
+        <integer>100</integer>
+        <key>JTRIQKLW</key>
+        <real>0.0</real>
+        <key>LMCNVRTT</key>
+        <real>0.0</real>
+        <key>MBLKTCQA</key>
+        <integer>100</integer>
+        <key>NZYGLYIX</key>
+        <integer>100</integer>
+        <key>PJYICBXU</key>
+        <integer>100</integer>
+        <key>VBIECTLC</key>
+        <integer>100</integer>
+        <key>WOPMVIWM</key>
+        <integer>100</integer>
+        <key>XKDNNISJ</key>
+        <integer>100</integer>
+        <key>YTCQMMWX</key>
+        <integer>100</integer>
+        <key>ZVSPBBMH</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

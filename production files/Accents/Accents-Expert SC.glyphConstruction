@@ -20,7 +20,7 @@ Ainvertedbreve = A + invertedbrevecmb @ above
 Amacron = A + macroncmb @ above
 # Aogonek = A + ogonekcmb @ ogonek
 Aring = A + ringabovecmb @ above
-Aringacute = A + ringabovecmb @ above + acutecmb @ above
+Aringacute = A + ringabovecmb @ above + acutecmb @ above, `above + 60`
 Atilde = A + tildecmb @ above
 
 # AE (n/a)
@@ -172,6 +172,7 @@ Sdotbelowdotabove = S + dotaccentcmb @ above + dotbelowcmb @ S:below
 Tcaron = T + caroncmb @ above
 # Tcedilla = T + cedillacmb @ below
 Tcommaaccent = T + commaaccentbelowcmb @ below
+Tdieresis = T + dieresiscmb @ above
 Tdotbelow = T + dotbelowcmb @ below
 Tlinebelow = T + macronbelowcmb @ below
 # Tbar (n/a)
@@ -242,7 +243,7 @@ ainvertedbreve = a + invertedbrevecmb @ above
 amacron = a + macroncmb @ above
 # aogonek = a + ogonekcmb @ ogonek
 aring = a + ringabovecmb @ above
-aringacute = a + ringabovecmb @ above + acutecmb @ above
+aringacute = a + ringabovecmb @ above + acutecmb @ above, `above + 60`
 atilde = a + tildecmb @ above
 
 # ae (n/a)
@@ -311,7 +312,9 @@ iinvertedbreve = i + invertedbrevecmb @ above
 imacron = i + macroncmb @ above
 # iogonek = i + ogonekcmb @ below
 itilde = i + tildecmb @ above
+dotlessi = i ^ i
 
+dotlessj = j ^ j
 jcircumflex = j + circumflexcmb @ above
 
 kcedilla = k + commaaccentbelowcmb @ below
@@ -394,6 +397,7 @@ sdotbelowdotabove = s + dotaccentcmb @ above + dotbelowcmb @ s:below
 tcaron = t + caroncmb @ above
 # tcedilla = t + cedillacmb @ below
 tcommaaccent = t + commaaccentbelowcmb @ below
+tdieresis = t + dieresiscmb @ above
 tdotbelow = t + dotbelowcmb @ below
 tlinebelow = t + macronbelowcmb @ below
 # tbar (n/a)

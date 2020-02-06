@@ -2,8 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
+    <string>Accents-Expert SC</string>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4646863376</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -650,14 +654,7 @@
       <string>DZcaron</string>
       <string>Dzcaron</string>
       <string>dzcaron</string>
-      <string>arrowleft</string>
-      <string>arrowNW</string>
-      <string>arrowup</string>
-      <string>arrowNE</string>
-      <string>arrowright</string>
-      <string>arrowSE</string>
-      <string>arrowdown</string>
-      <string>arrowSW</string>
+      <string>Tdieresis</string>
     </array>
   </dict>
 </plist>

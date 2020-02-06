@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
+  <advance width="513"/>
+  <unicode hex="0074"/>
+  <anchor x="256" y="0" name="below"/>
+  <anchor x="256" y="580.0" name="above"/>
+  <outline>
+    <contour>
+      <point x="431" y="514" type="move" smooth="yes" name="NKHVAWFK"/>
+      <point x="391" y="518" name="PLELAUPC"/>
+      <point x="336" y="520" name="NSWTNSCK"/>
+      <point x="256" y="520" type="curve" name="OTOUSEXD"/>
+      <point x="177" y="520" name="KBQXGEUE"/>
+      <point x="122" y="518" name="QWTEAYNH"/>
+      <point x="82" y="514" type="curve" smooth="yes" name="OOJKFXCG"/>
+    </contour>
+    <contour>
+      <point x="256.0" y="520.0" type="move" name="XDGNPDEP"/>
+      <point x="256.0" y="62.0" type="line" name="XPVSQQSM"/>
+    </contour>
+    <contour>
+      <point x="352.0" y="0.0" type="move" name="CEZKNGQM"/>
+      <point x="256.0" y="62.0" type="line" name="PWIUNWLZ"/>
+      <point x="161.0" y="0.0" type="line" name="PNQEINOA"/>
+    </contour>
+    <contour>
+      <point x="493.0" y="580.0" type="move" name="OROOLRBM"/>
+      <point x="431.0" y="514.0" type="line" name="WNRRHRKG"/>
+      <point x="493.0" y="430.0" type="line" name="EPFSEUTY"/>
+    </contour>
+    <contour>
+      <point x="20.0" y="430.0" type="move" name="VJVFZWUB"/>
+      <point x="82.0" y="514.0" type="line" name="ACLETCGV"/>
+      <point x="20.0" y="580.0" type="line" name="EAHZROVQ"/>
+    </contour>
+    <contour>
+      <point x="185.0" y="459.0" type="move" name="GQRRFPDD"/>
+      <point x="256.0" y="520.0" type="line" name="SIHADPNE"/>
+      <point x="328.0" y="459.0" type="line" name="GXNTQBMM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ACLETCGV</key>
+        <integer>100</integer>
+        <key>CEZKNGQM</key>
+        <integer>0</integer>
+        <key>EAHZROVQ</key>
+        <real>0.0</real>
+        <key>EPFSEUTY</key>
+        <real>0.0</real>
+        <key>GQRRFPDD</key>
+        <integer>0</integer>
+        <key>GXNTQBMM</key>
+        <real>0.0</real>
+        <key>KBQXGEUE</key>
+        <integer>100</integer>
+        <key>NKHVAWFK</key>
+        <integer>100</integer>
+        <key>NSWTNSCK</key>
+        <integer>100</integer>
+        <key>OOJKFXCG</key>
+        <real>100.0</real>
+        <key>OROOLRBM</key>
+        <integer>0</integer>
+        <key>OTOUSEXD</key>
+        <integer>100</integer>
+        <key>PLELAUPC</key>
+        <integer>100</integer>
+        <key>PNQEINOA</key>
+        <real>0.0</real>
+        <key>PWIUNWLZ</key>
+        <integer>100</integer>
+        <key>QWTEAYNH</key>
+        <integer>100</integer>
+        <key>SIHADPNE</key>
+        <integer>100</integer>
+        <key>VJVFZWUB</key>
+        <integer>0</integer>
+        <key>WNRRHRKG</key>
+        <integer>100</integer>
+        <key>XDGNPDEP</key>
+        <integer>100</integer>
+        <key>XPVSQQSM</key>
+        <real>100.0</real>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

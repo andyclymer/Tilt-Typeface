@@ -3,6 +3,12 @@
   <advance width="346"/>
   <unicode hex="02BA"/>
   <outline>
-    <component base="second" xOffset="-71"/>
+    <component base="second"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

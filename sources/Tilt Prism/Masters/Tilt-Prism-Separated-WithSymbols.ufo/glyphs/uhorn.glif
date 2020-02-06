@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorn" format="2">
+  <advance width="620"/>
+  <unicode hex="01B0"/>
+  <anchor x="314" y="-6" name="below"/>
+  <anchor x="314" y="580" name="above"/>
+  <outline>
+    <contour>
+      <point x="40" y="580" type="move" name="XILHXCDH"/>
+      <point x="136" y="518" type="line" name="RIZIZSMX"/>
+      <point x="231" y="580" type="line" name="SQLLXOYY"/>
+    </contour>
+    <contour>
+      <point x="389" y="580" type="move" name="WUBTDLXF"/>
+      <point x="484.0" y="534.0" type="line" name="EZNWXIRW"/>
+      <point x="563" y="524" type="line" name="TUMDPWAE"/>
+    </contour>
+    <contour>
+      <point x="501" y="715" type="move" name="BREVLGAS"/>
+      <point x="571" y="655" type="line" name="EKPYHYHX"/>
+      <point x="642" y="715" type="line" name="CPNROXOB"/>
+    </contour>
+    <contour>
+      <point x="571" y="655" type="move" smooth="yes" name="JZHJEFAC"/>
+      <point x="563" y="598" name="TAMZRFEW"/>
+      <point x="537" y="557" name="NZQCNHOK"/>
+      <point x="484" y="534" type="curve" name="JANFPUMF"/>
+      <point x="484" y="214" type="line" smooth="yes" name="FLWRLTFV"/>
+      <point x="484" y="112" name="KLNHEYQM"/>
+      <point x="414" y="48" name="VHEBRJZS"/>
+      <point x="310" y="48" type="curve" smooth="yes" name="JNHIYEKA"/>
+      <point x="206" y="48" name="IRPPFYFD"/>
+      <point x="136" y="112" name="VTANEAMA"/>
+      <point x="136" y="214" type="curve" smooth="yes" name="WQZNRNOZ"/>
+      <point x="136" y="518" type="line" name="QIBKBWZR"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BREVLGAS</key>
+        <integer>0</integer>
+        <key>CPNROXOB</key>
+        <real>0.0</real>
+        <key>EKPYHYHX</key>
+        <integer>100</integer>
+        <key>EZNWXIRW</key>
+        <integer>100</integer>
+        <key>FLWRLTFV</key>
+        <integer>100</integer>
+        <key>IRPPFYFD</key>
+        <integer>100</integer>
+        <key>JANFPUMF</key>
+        <integer>100</integer>
+        <key>JNHIYEKA</key>
+        <integer>100</integer>
+        <key>JZHJEFAC</key>
+        <integer>100</integer>
+        <key>KLNHEYQM</key>
+        <integer>100</integer>
+        <key>NZQCNHOK</key>
+        <integer>100</integer>
+        <key>QIBKBWZR</key>
+        <real>100.0</real>
+        <key>RIZIZSMX</key>
+        <integer>100</integer>
+        <key>SQLLXOYY</key>
+        <real>0.0</real>
+        <key>TAMZRFEW</key>
+        <integer>100</integer>
+        <key>TUMDPWAE</key>
+        <real>0.0</real>
+        <key>VHEBRJZS</key>
+        <integer>100</integer>
+        <key>VTANEAMA</key>
+        <integer>100</integer>
+        <key>WQZNRNOZ</key>
+        <integer>100</integer>
+        <key>WUBTDLXF</key>
+        <integer>0</integer>
+        <key>XILHXCDH</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

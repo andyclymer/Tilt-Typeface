@@ -3,34 +3,12 @@
   <advance width="340"/>
   <unicode hex="00AD"/>
   <outline>
-    <contour>
-      <point x="36" y="183" type="line" smooth="yes"/>
-      <point x="31" y="182"/>
-      <point x="27" y="186"/>
-      <point x="27" y="191" type="curve" smooth="yes"/>
-      <point x="27" y="279" type="line" smooth="yes"/>
-      <point x="27" y="283"/>
-      <point x="30" y="286"/>
-      <point x="34" y="287" type="curve" smooth="yes"/>
-      <point x="304" y="329" type="line" smooth="yes"/>
-      <point x="309" y="330"/>
-      <point x="313" y="326"/>
-      <point x="313" y="321" type="curve" smooth="yes"/>
-      <point x="313" y="233" type="line" smooth="yes"/>
-      <point x="313" y="229"/>
-      <point x="310" y="226"/>
-      <point x="306" y="225" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="34" y="199" type="line"/>
-      <point x="304" y="241" type="line"/>
-      <point x="297" y="233" type="line"/>
-      <point x="297" y="321" type="line"/>
-      <point x="306" y="313" type="line"/>
-      <point x="36" y="271" type="line"/>
-      <point x="43" y="279" type="line"/>
-      <point x="43" y="191" type="line"/>
-    </contour>
     <component base="hyphen"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

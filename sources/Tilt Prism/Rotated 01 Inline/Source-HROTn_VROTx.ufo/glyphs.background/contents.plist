@@ -374,6 +374,8 @@
     <string>T_cedilla.glif</string>
     <key>Tcommaaccent</key>
     <string>T_commaaccent.glif</string>
+    <key>Tdieresis</key>
+    <string>T_dieresis.glif</string>
     <key>Tdotbelow</key>
     <string>T_dotbelow.glif</string>
     <key>Thorn</key>
@@ -534,22 +536,6 @@
     <string>aring.glif</string>
     <key>aringacute</key>
     <string>aringacute.glif</string>
-    <key>arrowNE</key>
-    <string>arrowN_E_.glif</string>
-    <key>arrowNW</key>
-    <string>arrowN_W_.glif</string>
-    <key>arrowSE</key>
-    <string>arrowS_E_.glif</string>
-    <key>arrowSW</key>
-    <string>arrowS_W_.glif</string>
-    <key>arrowdown</key>
-    <string>arrowdown.glif</string>
-    <key>arrowleft</key>
-    <string>arrowleft.glif</string>
-    <key>arrowright</key>
-    <string>arrowright.glif</string>
-    <key>arrowup</key>
-    <string>arrowup.glif</string>
     <key>asciicircum</key>
     <string>asciicircum.glif</string>
     <key>asciitilde</key>
@@ -1050,6 +1036,8 @@
     <string>period.glif</string>
     <key>periodcentered</key>
     <string>periodcentered.glif</string>
+    <key>periodcentered.loclCAT</key>
+    <string>periodcentered.loclC_A_T_.glif</string>
     <key>perthousand</key>
     <string>perthousand.glif</string>
     <key>peseta</key>

@@ -91,7 +91,7 @@ for fileName in os.listdir(sourceFolderPath):
         familyName = "Tilt Beta Prism"
         styleName = "Regular"
         version = (0, 7)
-        versionString = "BETA 2020_02_05"
+        versionString = "BETA 2020_02_06"
         
         setFontInfo(f, familyName, styleName, version=version, versionString=versionString)
         

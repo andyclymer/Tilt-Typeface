@@ -2,22 +2,7 @@
 <glyph name="dotlessi" format="2">
   <advance width="500"/>
   <unicode hex="0131"/>
-  <anchor x="12.0" y="31.0" name="below"/>
-  <anchor x="302.0" y="441.0" name="above"/>
   <outline>
-    <contour>
-      <point x="321" y="326" type="move" name="NGQIBTUD"/>
-      <point x="93" y="4" type="line" name="ANENNTSD"/>
-    </contour>
-    <contour>
-      <point x="79" y="31" type="move" name="UWWNYKML"/>
-      <point x="93" y="4" type="line" name="AVJJLKWB"/>
-      <point x="-56" y="31" type="line" name="IJIQLRDX"/>
-    </contour>
-    <contour>
-      <point x="234" y="441" type="move" name="VBAJLJFP"/>
-      <point x="321" y="326" type="line" name="LAGTBZLV"/>
-      <point x="369" y="441" type="line" name="WBBMDHZA"/>
-    </contour>
+    <component base="i" xOffset="-44"/>
   </outline>
 </glyph>

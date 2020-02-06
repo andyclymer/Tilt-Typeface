@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde" format="2">
+  <advance width="639"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="109" y="233" type="move" smooth="yes" name="TLTSJOTM"/>
+      <point x="117" y="320" name="OJTSAVXT"/>
+      <point x="159" y="364" name="KTANMABY"/>
+      <point x="219" y="364" type="curve" smooth="yes" name="NEIAVBSY"/>
+      <point x="265" y="364" name="VNJXXOJL"/>
+      <point x="293" y="331" name="UTIDJNYS"/>
+      <point x="321" y="299" type="curve" smooth="yes" name="ZVIXQJQI"/>
+      <point x="348" y="268" name="TCJDQAFV"/>
+      <point x="375" y="238" name="KWHPLUBX"/>
+      <point x="420" y="238" type="curve" smooth="yes" name="PCMDZVFY"/>
+      <point x="479" y="238" name="EMHIOWXS"/>
+      <point x="521" y="283" name="FOZEKGDU"/>
+      <point x="530" y="370" type="curve" smooth="yes" name="BCKDKKGS"/>
+    </contour>
+    <contour>
+      <point x="160.0" y="171.0" type="move" name="KNDZZCSU"/>
+      <point x="109.0" y="233.0" type="line" name="SXMFXSCR"/>
+      <point x="55.0" y="171.0" type="line" name="KRQLUEJB"/>
+    </contour>
+    <contour>
+      <point x="479.0" y="432.0" type="move" name="UFHZFGWW"/>
+      <point x="530.0" y="370.0" type="line" name="ZIPKRGSW"/>
+      <point x="584.0" y="432.0" type="line" name="KITPWMNF"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BCKDKKGS</key>
+        <integer>100</integer>
+        <key>EMHIOWXS</key>
+        <integer>100</integer>
+        <key>FOZEKGDU</key>
+        <integer>100</integer>
+        <key>KITPWMNF</key>
+        <integer>0</integer>
+        <key>KNDZZCSU</key>
+        <integer>0</integer>
+        <key>KRQLUEJB</key>
+        <integer>0</integer>
+        <key>KTANMABY</key>
+        <integer>100</integer>
+        <key>KWHPLUBX</key>
+        <integer>100</integer>
+        <key>NEIAVBSY</key>
+        <integer>100</integer>
+        <key>OJTSAVXT</key>
+        <integer>100</integer>
+        <key>PCMDZVFY</key>
+        <integer>100</integer>
+        <key>SXMFXSCR</key>
+        <integer>100</integer>
+        <key>TCJDQAFV</key>
+        <integer>100</integer>
+        <key>TLTSJOTM</key>
+        <integer>100</integer>
+        <key>UFHZFGWW</key>
+        <integer>0</integer>
+        <key>UTIDJNYS</key>
+        <integer>100</integer>
+        <key>VNJXXOJL</key>
+        <integer>100</integer>
+        <key>ZIPKRGSW</key>
+        <integer>100</integer>
+        <key>ZVIXQJQI</key>
+        <integer>100</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

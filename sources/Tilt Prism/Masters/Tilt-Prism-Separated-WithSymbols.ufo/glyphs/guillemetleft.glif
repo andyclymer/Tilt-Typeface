@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetleft" format="2">
+  <advance width="752"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="392" y="580" type="move" name="RNPUBRYE"/>
+      <point x="314" y="468" name="WWPBCIID"/>
+      <point x="229" y="380" name="OPGHCQQZ"/>
+      <point x="130" y="303" type="curve" name="XFVDEHYM"/>
+      <point x="229" y="226" name="PIDYREUH"/>
+      <point x="314" y="138" name="MXJMYGOB"/>
+      <point x="392" y="26" type="curve" name="USFRIIDQ"/>
+    </contour>
+    <contour>
+      <point x="5.0" y="303.0" type="move" name="EEAYBLZO"/>
+      <point x="130.0" y="303.0" type="line" name="ZHQKIGWZ"/>
+      <point x="255.0" y="303.0" type="line" name="BEYUIEYU"/>
+    </contour>
+    <contour>
+      <point x="712.0" y="580.0" type="move" name="JEOFKJKQ"/>
+      <point x="634.0" y="468.0" name="TZHVNBBU"/>
+      <point x="549.0" y="380.0" name="TCYUDNQO"/>
+      <point x="450.0" y="303.0" type="curve" name="FYUVCZHA"/>
+      <point x="549.0" y="226.0" name="NBJXTDTL"/>
+      <point x="634.0" y="138.0" name="UMFDQUJM"/>
+      <point x="712.0" y="26.0" type="curve" name="JJHWDRJY"/>
+    </contour>
+    <contour>
+      <point x="325.0" y="303.0" type="move" name="OTQWZOHN"/>
+      <point x="450.0" y="303.0" type="line" name="OYFPIRYA"/>
+      <point x="575.0" y="303.0" type="line" name="HOZCWOLS"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BEYUIEYU</key>
+        <integer>0</integer>
+        <key>EEAYBLZO</key>
+        <integer>0</integer>
+        <key>FYUVCZHA</key>
+        <integer>100</integer>
+        <key>HOZCWOLS</key>
+        <integer>0</integer>
+        <key>JEOFKJKQ</key>
+        <integer>0</integer>
+        <key>JJHWDRJY</key>
+        <integer>0</integer>
+        <key>MXJMYGOB</key>
+        <integer>40</integer>
+        <key>NBJXTDTL</key>
+        <integer>73</integer>
+        <key>OPGHCQQZ</key>
+        <integer>72</integer>
+        <key>OTQWZOHN</key>
+        <integer>0</integer>
+        <key>OYFPIRYA</key>
+        <integer>100</integer>
+        <key>PIDYREUH</key>
+        <integer>73</integer>
+        <key>RNPUBRYE</key>
+        <integer>0</integer>
+        <key>TCYUDNQO</key>
+        <integer>72</integer>
+        <key>TZHVNBBU</key>
+        <integer>40</integer>
+        <key>UMFDQUJM</key>
+        <integer>40</integer>
+        <key>USFRIIDQ</key>
+        <integer>0</integer>
+        <key>WWPBCIID</key>
+        <integer>40</integer>
+        <key>XFVDEHYM</key>
+        <integer>100</integer>
+        <key>ZHQKIGWZ</key>
+        <integer>100</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

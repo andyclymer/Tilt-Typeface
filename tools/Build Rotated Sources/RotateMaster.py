@@ -495,7 +495,8 @@ def buildDesignSpace(
             # Shift the "z" value by an offset
             if not zOffset == None:
                 for ident in pointData:
-                    pointData[ident]["z"] += zOffset
+                    if not "anchor" in ident: # ...but don't shift the anchors, the components are already shifted
+                        pointData[ident]["z"] += zOffset
         
             # Extend the shadow
             if "SANG" in sourceInfo["loc"].keys():

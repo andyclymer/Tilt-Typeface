@@ -2,15 +2,13 @@
 <glyph name="dotlessj" format="2">
   <advance width="432"/>
   <unicode hex="0237"/>
-  <anchor x="302" y="-10" name="below"/>
-  <anchor x="302" y="580" name="above"/>
   <outline>
     <component base="j"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.9529,0.7529,0.5725,1</string>
+      <string>0.502,0.502,0.502,1</string>
     </dict>
   </lib>
 </glyph>
