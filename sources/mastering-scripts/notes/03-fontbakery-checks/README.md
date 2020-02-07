@@ -1,6 +1,6 @@
 # FontBakery checks
 
-*(Start at 22:18, feb 2)*
+*(Start at 22:20, feb 2)*
 
 Google Fonts uses FontBakery to check that fonts meet expectations for metadata and overall quality.
 
