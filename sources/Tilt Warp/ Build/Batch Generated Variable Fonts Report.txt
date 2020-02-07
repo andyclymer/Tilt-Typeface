@@ -5,15 +5,6 @@ source: /Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/s
 path: /Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Warp/ Build/Tilt-Warp.ttf
     Making master glyphs compatible
     '''''''''''''''''''''''''''''''
-        Adding missing glyph 'periodcentered.loclCAT' in master 'Tilt Beta Warp Regular (foreground)'
-        Adding missing glyph 'periodcentered.loclCAT' in master 'Tilt Beta Warp Regular (foreground)'
-        Adding missing glyph 'periodcentered.loclCAT' in master 'Tilt Beta Warp Regular (foreground)'
-        Adding missing glyph 'periodcentered.loclCAT' in master 'Tilt Beta Warp Regular (foreground)'
-        Adding missing glyph 'periodcentered.loclCAT' in master 'Tilt Beta Warp Regular (foreground)'
-        Adding missing glyph 'periodcentered.loclCAT' in master 'Tilt Beta Warp Regular (foreground)'
-        Adding missing glyph 'periodcentered.loclCAT' in master 'Tilt Beta Warp Regular (foreground)'
-        Adding missing glyph 'periodcentered.loclCAT' in master 'Tilt Beta Warp Regular (foreground)'
-        Adding missing glyph 'periodcentered.loclCAT' in master 'Tilt Beta Warp Regular (foreground)'
         Adding missing glyph 'zerowidthspace' in master 'Tilt Beta Warp Regular (foreground)'
         Adding missing glyph 'zerowidthspace' in master 'Tilt Beta Warp Regular (foreground)'
         Adding missing glyph 'zerowidthspace' in master 'Tilt Beta Warp Regular (foreground)'
@@ -46,7 +37,7 @@ path: /Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sou
             makeotfexe [WARNING] <TiltBetaWarp-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn Eth
             makeotfexe [WARNING] <TiltBetaWarp-Regular> feature 'dlig', referenced in aalt feature, either is not defined or had no rules which could be included in the aalt feature.
             makeotfexe [WARNING] <TiltBetaWarp-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
-            Built release mode font 'temp_00_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.007
+            Built release mode font 'temp_00_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.008
             
             --------------------
 
@@ -62,7 +53,7 @@ path: /Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sou
             makeotfexe [WARNING] <TiltBetaWarp-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn Eth
             makeotfexe [WARNING] <TiltBetaWarp-Regular> feature 'dlig', referenced in aalt feature, either is not defined or had no rules which could be included in the aalt feature.
             makeotfexe [WARNING] <TiltBetaWarp-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
-            Built release mode font 'temp_01_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.007
+            Built release mode font 'temp_01_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.008
             
             --------------------
 
@@ -78,7 +69,7 @@ path: /Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sou
             makeotfexe [WARNING] <TiltBetaWarp-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn Eth
             makeotfexe [WARNING] <TiltBetaWarp-Regular> feature 'dlig', referenced in aalt feature, either is not defined or had no rules which could be included in the aalt feature.
             makeotfexe [WARNING] <TiltBetaWarp-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
-            Built release mode font 'temp_02_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.007
+            Built release mode font 'temp_02_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.008
             
             --------------------
 
@@ -94,7 +85,21 @@ path: /Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sou
             makeotfexe [WARNING] <TiltBetaWarp-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn Eth
             makeotfexe [WARNING] <TiltBetaWarp-Regular> feature 'dlig', referenced in aalt feature, either is not defined or had no rules which could be included in the aalt feature.
             makeotfexe [WARNING] <TiltBetaWarp-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
-            Built release mode font 'temp_03_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.007
+            Built release mode font 'temp_03_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.008
+            
+            --------------------
+
+        Generate Tilt Beta Warp Regular (foreground)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            makeotfexe [WARNING] <TiltBetaWarp-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: P Eth
+            makeotfexe [WARNING] <TiltBetaWarp-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn Eth
+            Built release mode font 'temp_04_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.008
             
             --------------------
 
@@ -110,7 +115,7 @@ path: /Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sou
             makeotfexe [WARNING] <TiltBetaWarp-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn Eth
             makeotfexe [WARNING] <TiltBetaWarp-Regular> feature 'dlig', referenced in aalt feature, either is not defined or had no rules which could be included in the aalt feature.
             makeotfexe [WARNING] <TiltBetaWarp-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
-            Built release mode font 'temp_04_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.007
+            Built release mode font 'temp_05_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.008
             
             --------------------
 
@@ -126,7 +131,7 @@ path: /Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sou
             makeotfexe [WARNING] <TiltBetaWarp-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn Eth
             makeotfexe [WARNING] <TiltBetaWarp-Regular> feature 'dlig', referenced in aalt feature, either is not defined or had no rules which could be included in the aalt feature.
             makeotfexe [WARNING] <TiltBetaWarp-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
-            Built release mode font 'temp_05_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.007
+            Built release mode font 'temp_06_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.008
             
             --------------------
 
@@ -142,7 +147,7 @@ path: /Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sou
             makeotfexe [WARNING] <TiltBetaWarp-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn Eth
             makeotfexe [WARNING] <TiltBetaWarp-Regular> feature 'dlig', referenced in aalt feature, either is not defined or had no rules which could be included in the aalt feature.
             makeotfexe [WARNING] <TiltBetaWarp-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
-            Built release mode font 'temp_06_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.007
+            Built release mode font 'temp_07_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.008
             
             --------------------
 
@@ -156,24 +161,6 @@ path: /Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sou
             makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
             makeotfexe [WARNING] <TiltBetaWarp-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: P Eth
             makeotfexe [WARNING] <TiltBetaWarp-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn Eth
-            makeotfexe [WARNING] <TiltBetaWarp-Regular> feature 'dlig', referenced in aalt feature, either is not defined or had no rules which could be included in the aalt feature.
-            makeotfexe [WARNING] <TiltBetaWarp-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
-            Built release mode font 'temp_07_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.007
-            
-            --------------------
-
-        Generate Tilt Beta Warp Regular (foreground)
-            --------------------
-            
-            makeotf Report
-            
-            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
-            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
-            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-            makeotfexe [WARNING] <TiltBetaWarp-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: P Eth
-            makeotfexe [WARNING] <TiltBetaWarp-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn Eth
-            makeotfexe [WARNING] <TiltBetaWarp-Regular> feature 'dlig', referenced in aalt feature, either is not defined or had no rules which could be included in the aalt feature.
-            makeotfexe [WARNING] <TiltBetaWarp-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
-            Built release mode font 'temp_08_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.007
+            Built release mode font 'temp_08_Tilt Beta Warp-Regular-foreground.ttf' Revision 0.008
             
             --------------------
