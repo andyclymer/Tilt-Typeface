@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecmb" format="2">
+  <unicode hex="0301"/>
+  <anchor x="133.0" y="439.0" name="_above"/>
+  <anchor x="239.0" y="588.0" name="above"/>
+  <anchor x="133.0" y="439.0" name="_aboveright"/>
+  <outline>
+    <contour>
+      <point x="349" y="439" type="line"/>
+      <point x="303" y="406" type="line"/>
+      <point x="293" y="420" type="line"/>
+      <point x="339" y="453" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="562" type="line"/>
+      <point x="351" y="449" type="line" smooth="yes"/>
+      <point x="354" y="443"/>
+      <point x="334" y="444"/>
+      <point x="337" y="450" type="curve" smooth="yes"/>
+      <point x="399" y="563" type="line"/>
+      <point x="413" y="555" type="line"/>
+      <point x="351" y="442" type="line" smooth="yes"/>
+      <point x="348" y="436"/>
+      <point x="339" y="437"/>
+      <point x="337" y="443" type="curve" smooth="yes"/>
+      <point x="289" y="556" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="448" type="line"/>
+      <point x="301" y="420" type="line" smooth="yes"/>
+      <point x="310" y="416"/>
+      <point x="306" y="403"/>
+      <point x="297" y="405" type="curve" smooth="yes"/>
+      <point x="142" y="433" type="line"/>
+      <point x="144" y="449" type="line"/>
+      <point x="299" y="421" type="line" smooth="yes"/>
+      <point x="309" y="419"/>
+      <point x="303" y="402"/>
+      <point x="295" y="406" type="curve" smooth="yes"/>
+      <point x="234" y="434" type="line"/>
+    </contour>
+  </outline>
+</glyph>

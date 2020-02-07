@@ -2,22 +2,7 @@
 <glyph name="macron" format="2">
   <advance width="500"/>
   <unicode hex="00AF"/>
-  <anchor x="-72.0" y="517" name="top"/>
-  <anchor x="173.0" y="517" name="center"/>
   <outline>
-    <contour>
-      <point x="549" y="432" type="move" name="LOIGIQNO"/>
-      <point x="375" y="432" type="line" name="SGSNEWGP"/>
-    </contour>
-    <contour>
-      <point x="250" y="459" type="move" name="ISFROYVW"/>
-      <point x="375" y="432" type="line" name="TTJRLDDN"/>
-      <point x="312" y="547" type="line" name="WTSDMXAI"/>
-    </contour>
-    <contour>
-      <point x="574" y="547" type="move" name="LULLFCSI"/>
-      <point x="549" y="432" type="line" name="YDOCFSLH"/>
-      <point x="511" y="459" type="line" name="KOWDZLFV"/>
-    </contour>
+    <component base="macroncmb" xOffset="177"/>
   </outline>
 </glyph>

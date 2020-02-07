@@ -3,19 +3,6 @@
   <advance width="500"/>
   <unicode hex="00AD"/>
   <outline>
-    <contour>
-      <point x="184" y="353" type="move" name="RTCEFKAU"/>
-      <point x="64" y="329" type="line" name="ZSFYJKKA"/>
-    </contour>
-    <contour>
-      <point x="-17" y="275" type="move" name="ERXSPNJE"/>
-      <point x="64" y="329" type="line" name="NGYHDOZU"/>
-      <point x="45" y="364" type="line" name="PFLILDAC"/>
-    </contour>
-    <contour>
-      <point x="266" y="406" type="move" name="ARPLPCEY"/>
-      <point x="184" y="353" type="line" name="LVQDJYOE"/>
-      <point x="203" y="318" type="line" name="EJGQMHQS"/>
-    </contour>
+    <component base="hyphen" xOffset="-50"/>
   </outline>
 </glyph>

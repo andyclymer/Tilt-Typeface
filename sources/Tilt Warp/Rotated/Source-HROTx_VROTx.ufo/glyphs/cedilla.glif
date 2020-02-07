@@ -1,33 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedilla" format="2">
-  <advance width="354"/>
+  <advance width="500"/>
   <unicode hex="00B8"/>
   <outline>
-    <contour>
-      <point x="-91" y="-161" type="curve" name="DXMMIZEJ"/>
-      <point x="-8" y="-191" name="ALNZKJDD"/>
-      <point x="70" y="-147" name="OGOBSJRP"/>
-      <point x="110" y="-71" type="curve" smooth="yes" name="SXZCOHZF"/>
-      <point x="134" y="-24" name="VGGROCCZ"/>
-      <point x="125" y="-10" name="OXXEOQHL"/>
-      <point x="94" y="-2" type="curve" name="XJRXYWPX"/>
-      <point x="107" y="5" name="IALAFPRK"/>
-      <point x="122" y="10" name="UPGVYPFU"/>
-      <point x="139" y="12" type="curve" name="OEPVULJE"/>
-      <point x="115" y="13" name="FGEXGLFX"/>
-      <point x="93" y="12" name="STZTMFFX"/>
-      <point x="72" y="10" type="curve" name="ZSXNMKTX"/>
-      <point x="35" y="4" name="JPBBFSFC"/>
-      <point x="3" y="-14" name="SMSTIWOS"/>
-      <point x="-18" y="-42" type="curve" name="NSTSFDPG"/>
-      <point x="26" y="-34" name="RISSLFQB"/>
-      <point x="40" y="-41" name="GBWRBBBV"/>
-      <point x="30" y="-55" type="curve" smooth="yes" name="KAXCXNUY"/>
-      <point x="19" y="-75" name="OWPLBDCC"/>
-      <point x="-23" y="-78" name="ROPGAPSF"/>
-      <point x="-65" y="-68" type="curve" name="VSJWNAHT"/>
-      <point x="-78" y="-92" name="FCAXHTIF"/>
-      <point x="-87" y="-125" name="KOIBYREQ"/>
-    </contour>
+    <component base="cedillacmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

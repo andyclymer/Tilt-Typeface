@@ -1,12 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Uhorn" format="2">
   <advance width="500"/>
-  <unicode hex="01AF"/>
   <anchor x="236.0" y="-4" name="below"/>
   <anchor x="236.0" y="680" name="above"/>
   <outline>
     <contour>
-      <point x="18" y="640" type="move" name="IPTAQ"/>
+      <point x="17" y="640" type="move" name="IPTAQ"/>
       <point x="-4" y="605" name="YSMFLQJB"/>
       <point x="-4" y="539" name="KGRPXWGB"/>
       <point x="-4" y="504" type="curve" smooth="yes" name="BUMSARCN"/>

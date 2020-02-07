@@ -1,35 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlaut" format="2">
-  <advance width="354"/>
+  <advance width="500"/>
   <unicode hex="02DD"/>
   <outline>
-    <contour>
-      <point x="483" y="461" type="curve" smooth="yes"/>
-      <point x="452" y="414"/>
-      <point x="406" y="384"/>
-      <point x="348" y="374" type="curve" smooth="yes"/>
-      <point x="281" y="362"/>
-      <point x="266" y="451"/>
-      <point x="332" y="462" type="curve" smooth="yes"/>
-      <point x="366" y="468"/>
-      <point x="390" y="484"/>
-      <point x="409" y="511" type="curve" smooth="yes"/>
-      <point x="447" y="567"/>
-      <point x="521" y="517"/>
-    </contour>
-    <contour>
-      <point x="610" y="461" type="curve" smooth="yes"/>
-      <point x="579" y="414"/>
-      <point x="533" y="384"/>
-      <point x="476" y="374" type="curve" smooth="yes"/>
-      <point x="409" y="362"/>
-      <point x="394" y="450"/>
-      <point x="460" y="462" type="curve" smooth="yes"/>
-      <point x="493" y="468"/>
-      <point x="517" y="484"/>
-      <point x="536" y="511" type="curve" smooth="yes"/>
-      <point x="574" y="567"/>
-      <point x="648" y="517"/>
-    </contour>
+    <component base="hungarumlautcmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

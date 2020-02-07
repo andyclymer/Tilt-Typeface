@@ -1,21 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acute" format="2">
-  <advance width="354"/>
+  <advance width="500"/>
   <unicode hex="00B4"/>
   <outline>
-    <contour>
-      <point x="164" y="580" type="curve" name="ZLTKBDTS"/>
-      <point x="192" y="580" name="BTRNQQBG"/>
-      <point x="226" y="580" name="BYXMOEDH"/>
-      <point x="262" y="580" type="curve" name="ENKYETLF"/>
-      <point x="260" y="635" name="TNUFOAJO"/>
-      <point x="292" y="692" name="GUUDQPXK"/>
-      <point x="357" y="747" type="curve" name="CIJUMCQE"/>
-      <point x="308" y="747" name="HECLNAON"/>
-      <point x="263" y="747" name="TAMJWCXN"/>
-      <point x="224" y="747" type="curve" name="ACCRONSF"/>
-      <point x="171" y="692" name="WHTUEBFW"/>
-      <point x="151" y="635" name="FUMYJTWN"/>
-    </contour>
+    <component base="acutecmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

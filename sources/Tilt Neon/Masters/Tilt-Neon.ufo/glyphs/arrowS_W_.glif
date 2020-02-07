@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowSW" format="2">
+  <advance width="673"/>
+  <unicode hex="2199"/>
+  <outline>
+    <contour>
+      <point x="558" y="523" type="move" name="GWNWMZTW"/>
+      <point x="478" y="444" name="XWUABGQA"/>
+      <point x="390" y="354" name="SPJAYYRF"/>
+      <point x="328" y="292" type="curve" smooth="yes" name="LMDTSDRZ"/>
+      <point x="293" y="256" name="PQMJOIZN"/>
+      <point x="263" y="227" name="FKNBOEBV"/>
+      <point x="225" y="189" type="curve" name="ALIHOGAR"/>
+    </contour>
+    <contour>
+      <point x="496" y="114" type="move" name="WAVOLUUH"/>
+      <point x="421" y="114" name="IEKYBZAA"/>
+      <point x="345" y="113" name="ITIXLRPH"/>
+      <point x="270" y="114" type="curve" smooth="yes" name="EUGTVRUR"/>
+      <point x="157" y="115" name="GGQGLMGB"/>
+      <point x="150" y="119" name="BBIIXICN"/>
+      <point x="150" y="234" type="curve" smooth="yes" name="WIFNGZNE"/>
+      <point x="150" y="310" name="FBBLTAAW"/>
+      <point x="150" y="385" name="BZAGXVXK"/>
+      <point x="149" y="461" type="curve" name="XAPJANAL"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ALIHOGAR</key>
+        <real>60.0</real>
+        <key>BBIIXICN</key>
+        <integer>120</integer>
+        <key>BZAGXVXK</key>
+        <integer>120</integer>
+        <key>EUGTVRUR</key>
+        <integer>100</integer>
+        <key>FBBLTAAW</key>
+        <integer>120</integer>
+        <key>FKNBOEBV</key>
+        <integer>100</integer>
+        <key>GGQGLMGB</key>
+        <integer>85</integer>
+        <key>GWNWMZTW</key>
+        <integer>120</integer>
+        <key>IEKYBZAA</key>
+        <integer>120</integer>
+        <key>ITIXLRPH</key>
+        <integer>110</integer>
+        <key>LMDTSDRZ</key>
+        <integer>120</integer>
+        <key>PQMJOIZN</key>
+        <integer>120</integer>
+        <key>SPJAYYRF</key>
+        <integer>120</integer>
+        <key>WAVOLUUH</key>
+        <integer>120</integer>
+        <key>WIFNGZNE</key>
+        <integer>120</integer>
+        <key>XAPJANAL</key>
+        <real>120.0</real>
+        <key>XWUABGQA</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

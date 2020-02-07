@@ -2,22 +2,7 @@
 <glyph name="ring" format="2">
   <advance width="500"/>
   <unicode hex="02DA"/>
-  <anchor x="-62.0" y="517" name="top"/>
-  <anchor x="148.0" y="517" name="center"/>
   <outline>
-    <contour>
-      <point x="63" y="596" type="curve" smooth="yes" name="APOMLGMY"/>
-      <point x="20" y="596" name="OAOBLYLY"/>
-      <point x="-29" y="625" name="SHDOBWMR"/>
-      <point x="-59" y="667" type="curve" smooth="yes" name="TLGFPBRY"/>
-      <point x="-88" y="708" name="YDHYXWPX"/>
-      <point x="-81" y="738" name="ZWSWMUXO"/>
-      <point x="-38" y="738" type="curve" smooth="yes" name="VZRBYYTG"/>
-      <point x="5" y="738" name="LZTOQHJN"/>
-      <point x="56" y="708" name="FWYJUKXX"/>
-      <point x="85" y="667" type="curve" smooth="yes" name="HLVUABIX"/>
-      <point x="115" y="625" name="SKUHCAVT"/>
-      <point x="106" y="596" name="OYWZEMOQ"/>
-    </contour>
+    <component base="ringabovecmb" xOffset="177"/>
   </outline>
 </glyph>

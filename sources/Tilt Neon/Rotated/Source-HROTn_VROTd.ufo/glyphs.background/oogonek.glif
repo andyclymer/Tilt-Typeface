@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oogonek" format="2">
   <advance width="500"/>
-  <unicode hex="01EB"/>
   <anchor x="204.0" y="507" name="above"/>
   <anchor x="204.0" y="21" name="below"/>
   <outline>
@@ -10,7 +9,7 @@
       <point x="60" y="69" name="DBERQCDV"/>
       <point x="31" y="90" name="HRARBFHM"/>
       <point x="12" y="120" type="curve" smooth="yes" name="LBWTEHRM"/>
-      <point x="-10" y="155" name="FNOJTFNM"/>
+      <point x="-11" y="155" name="FNOJTFNM"/>
       <point x="-25" y="199" name="DQJYKDBQ"/>
       <point x="-25" y="249" type="curve" smooth="yes" name="QLIDDSEW"/>
       <point x="-25" y="373" name="ZSFJVNMS"/>
@@ -27,7 +26,7 @@
       <point x="80" y="-50" type="curve" smooth="yes" name="YNAAKEOZ"/>
       <point x="80" y="-103" name="CZUTMWHH"/>
       <point x="104" y="-136" name="KNZWWPXP"/>
-      <point x="187" y="-102" type="curve" name="RFJEOVUZ"/>
+      <point x="186" y="-102" type="curve" name="RFJEOVUZ"/>
     </contour>
   </outline>
 </glyph>

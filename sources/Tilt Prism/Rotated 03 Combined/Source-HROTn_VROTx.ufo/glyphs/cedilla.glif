@@ -1,91 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedilla" format="2">
-  <advance width="294"/>
+  <advance width="500"/>
   <unicode hex="00B8"/>
   <outline>
-    <contour>
-      <point x="259" y="-136" type="line"/>
-      <point x="233" y="-178" type="line" smooth="yes"/>
-      <point x="229" y="-184"/>
-      <point x="220" y="-183"/>
-      <point x="218" y="-176" type="curve" smooth="yes"/>
-      <point x="181" y="-45" type="line"/>
-      <point x="197" y="-41" type="line"/>
-      <point x="234" y="-172" type="line" smooth="yes"/>
-      <point x="236" y="-179"/>
-      <point x="216" y="-176"/>
-      <point x="219" y="-170" type="curve" smooth="yes"/>
-      <point x="245" y="-128" type="line"/>
-    </contour>
-    <contour>
-      <point x="159" y="-7" type="line"/>
-      <point x="210" y="-83"/>
-      <point x="279" y="-67"/>
-      <point x="321" y="-125" type="curve" smooth="yes"/>
-      <point x="321" y="-125"/>
-      <point x="321" y="-125"/>
-      <point x="321" y="-125" type="curve" smooth="yes"/>
-      <point x="358" y="-178"/>
-      <point x="319" y="-203"/>
-      <point x="224" y="-182" type="curve"/>
-      <point x="228" y="-166" type="line"/>
-      <point x="300" y="-183"/>
-      <point x="336" y="-175"/>
-      <point x="307" y="-135" type="curve" smooth="yes"/>
-      <point x="307" y="-135"/>
-      <point x="308" y="-135"/>
-      <point x="307" y="-135" type="curve" smooth="yes"/>
-      <point x="269" y="-81"/>
-      <point x="200" y="-97"/>
-      <point x="145" y="-15" type="curve"/>
-    </contour>
-    <contour>
-      <point x="243" y="68" type="line" smooth="yes"/>
-      <point x="246" y="68"/>
-      <point x="248" y="67"/>
-      <point x="250" y="64" type="curve" smooth="yes"/>
-      <point x="285" y="5"/>
-      <point x="360" y="26"/>
-      <point x="416" y="-52" type="curve" smooth="yes"/>
-      <point x="477" y="-138"/>
-      <point x="411" y="-178"/>
-      <point x="250" y="-140" type="curve" smooth="yes"/>
-      <point x="248" y="-139"/>
-      <point x="247" y="-138"/>
-      <point x="245" y="-137" type="curve" smooth="yes"/>
-      <point x="182" y="-48" type="line" smooth="yes"/>
-      <point x="178" y="-41"/>
-      <point x="185" y="-32"/>
-      <point x="192" y="-36" type="curve" smooth="yes"/>
-      <point x="253" y="-65"/>
-      <point x="327" y="-87"/>
-      <point x="312" y="-67" type="curve" smooth="yes"/>
-      <point x="287" y="-31"/>
-      <point x="226" y="-46"/>
-      <point x="154" y="55" type="curve" smooth="yes"/>
-      <point x="151" y="61"/>
-      <point x="155" y="68"/>
-      <point x="161" y="68" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="243" y="52" type="line"/>
-      <point x="161" y="52" type="line"/>
-      <point x="168" y="65" type="line"/>
-      <point x="234" y="-30"/>
-      <point x="299" y="-19"/>
-      <point x="326" y="-57" type="curve" smooth="yes"/>
-      <point x="353" y="-97"/>
-      <point x="302" y="-105"/>
-      <point x="186" y="-50" type="curve"/>
-      <point x="196" y="-38" type="line"/>
-      <point x="259" y="-127" type="line"/>
-      <point x="254" y="-124" type="line"/>
-      <point x="393" y="-157"/>
-      <point x="455" y="-136"/>
-      <point x="402" y="-62" type="curve" smooth="yes"/>
-      <point x="352" y="10"/>
-      <point x="275" y="-9"/>
-      <point x="236" y="56" type="curve"/>
-    </contour>
+    <component base="cedillacmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

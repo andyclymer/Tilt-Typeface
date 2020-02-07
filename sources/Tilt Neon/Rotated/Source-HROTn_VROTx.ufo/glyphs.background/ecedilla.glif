@@ -1,41 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ecedilla" format="2">
   <advance width="500"/>
-  <unicode hex="0229"/>
-  <anchor x="76.0" y="434.0" name="above"/>
+  <anchor x="200.0" y="507" name="above"/>
   <outline>
     <contour>
-      <point x="93" y="216" type="move" name="YDDQLPMX"/>
-      <point x="116" y="181" name="JZPEDHTF"/>
-      <point x="186" y="216" name="VPFJBBET"/>
-      <point x="240" y="216" type="curve" smooth="yes" name="IHCDJWJI"/>
-      <point x="295" y="216" name="HHPFYBYJ"/>
-      <point x="268" y="177" name="DXPRJJCY"/>
-      <point x="231" y="219" type="curve" smooth="yes" name="GMOLSIVN"/>
-      <point x="176" y="280" name="EPNTMRVL"/>
-      <point x="100" y="318" name="BJGUTBFE"/>
-      <point x="37" y="318" type="curve" smooth="yes" name="DDWMMQEL"/>
-      <point x="-43" y="318" name="WBIZJIOC"/>
-      <point x="-60" y="257" name="EFWQDRMX"/>
-      <point x="5" y="166" type="curve" smooth="yes" name="WEBXHGTB"/>
-      <point x="72" y="71" name="WKZYSFMJ"/>
-      <point x="176" y="15" name="UYTHFXJJ"/>
-      <point x="258" y="15" type="curve" smooth="yes" name="CCMWSJER"/>
-      <point x="294" y="15" name="COBVBUGN"/>
-      <point x="325" y="26" name="KKIIJGRO"/>
-      <point x="363" y="69" type="curve" name="HCOLIDQV"/>
+      <point x="78" y="249" type="move" name="YDDQLPMX"/>
+      <point x="91" y="249" name="JZPEDHTF"/>
+      <point x="171" y="249" name="VPFJBBET"/>
+      <point x="224" y="249" type="curve" smooth="yes" name="IHCDJWJI"/>
+      <point x="280" y="249" name="HHPFYBYJ"/>
+      <point x="246" y="263" name="DXPRJJCY"/>
+      <point x="238" y="322" type="curve" smooth="yes" name="GMOLSIVN"/>
+      <point x="226" y="409" name="EPNTMRVL"/>
+      <point x="178" y="463" name="BJGUTBFE"/>
+      <point x="115" y="463" type="curve" smooth="yes" name="DDWMMQEL"/>
+      <point x="34" y="463" name="WBIZJIOC"/>
+      <point x="-25" y="377" name="EFWQDRMX"/>
+      <point x="-25" y="248" type="curve" smooth="yes" name="WEBXHGTB"/>
+      <point x="-25" y="113" name="WKZYSFMJ"/>
+      <point x="38" y="34" name="UYTHFXJJ"/>
+      <point x="121" y="34" type="curve" smooth="yes" name="CCMWSJER"/>
+      <point x="157" y="34" name="COBVBUGN"/>
+      <point x="195" y="49" name="KKIIJGRO"/>
+      <point x="256" y="80" type="curve" name="HCOLIDQV"/>
     </contour>
     <contour>
-      <point x="258" y="4" type="move" name="NKQMDITA"/>
-      <point x="298" y="-56" name="UAKEYTAX"/>
-      <point x="316" y="-50" name="VVCQNYJL"/>
-      <point x="344" y="-42" type="curve" smooth="yes" name="BCRREFPT"/>
-      <point x="384" y="-32" name="DGZEOXQZ"/>
-      <point x="413" y="-49" name="PPXMXOLU"/>
-      <point x="428" y="-71" type="curve" smooth="yes" name="DIVSMYMX"/>
-      <point x="455" y="-109" name="HANKNNCC"/>
-      <point x="398" y="-161" name="GRISSWXQ"/>
-      <point x="316" y="-146" type="curve" name="KTUBOOIX"/>
+      <point x="113" y="18" type="move" name="NKQMDITA"/>
+      <point x="111" y="-66" name="UAKEYTAX"/>
+      <point x="128" y="-74" name="VVCQNYJL"/>
+      <point x="157" y="-77" type="curve" smooth="yes" name="BCRREFPT"/>
+      <point x="200" y="-81" name="DGZEOXQZ"/>
+      <point x="216" y="-106" name="PPXMXOLU"/>
+      <point x="216" y="-137" type="curve" smooth="yes" name="DIVSMYMX"/>
+      <point x="216" y="-191" name="HANKNNCC"/>
+      <point x="136" y="-215" name="GRISSWXQ"/>
+      <point x="65" y="-194" type="curve" name="KTUBOOIX"/>
     </contour>
   </outline>
 </glyph>

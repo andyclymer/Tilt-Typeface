@@ -2,7 +2,9 @@
 <glyph name="E" format="2">
   <advance width="500"/>
   <unicode hex="0045"/>
-  <anchor x="195.0" y="750" name="center"/>
+  <anchor x="350.0" y="0" name="ogonek"/>
+  <anchor x="196.0" y="0" name="below"/>
+  <anchor x="196.0" y="680.0" name="above"/>
   <outline>
     <contour>
       <point x="180" y="611" type="move" smooth="yes" name="PSTPYLRZ"/>

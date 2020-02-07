@@ -3,7 +3,13 @@
   <advance width="213"/>
   <unicode hex="00EE"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="circumflex" xOffset="-129" yOffset="63"/>
+    <component base="i"/>
+    <component base="circumflexcmb" xOffset="75" yOffset="44"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

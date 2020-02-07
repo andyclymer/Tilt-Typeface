@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinemod" format="2">
+  <advance width="300"/>
+  <unicode hex="02C8"/>
+  <outline>
+    <contour>
+      <point x="84.0" y="398.0" type="curve" name="NQPNXEZR"/>
+      <point x="128" y="398" name="CYTAIZTV"/>
+      <point x="173" y="398" name="PPXJDHQK"/>
+      <point x="217.0" y="398.0" type="curve" name="KTTVTMSA"/>
+      <point x="217" y="491" name="DXJQOAKV"/>
+      <point x="217" y="587" name="GWMFOVSD"/>
+      <point x="217.0" y="680.0" type="curve" name="MOHKAHGU"/>
+      <point x="173" y="680" name="SLKMFSGD"/>
+      <point x="128" y="680" name="FKZSABPP"/>
+      <point x="84.0" y="680.0" type="curve" name="HDZTFQIC"/>
+      <point x="84" y="587" name="WAAUSDUW"/>
+      <point x="84" y="491" name="HICEDKJX"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CYTAIZTV</key>
+        <integer>143</integer>
+        <key>DXJQOAKV</key>
+        <integer>77</integer>
+        <key>FKZSABPP</key>
+        <integer>143</integer>
+        <key>GWMFOVSD</key>
+        <integer>77</integer>
+        <key>HDZTFQIC</key>
+        <integer>151</integer>
+        <key>HICEDKJX</key>
+        <integer>77</integer>
+        <key>KTTVTMSA</key>
+        <integer>151</integer>
+        <key>MOHKAHGU</key>
+        <integer>151</integer>
+        <key>NQPNXEZR</key>
+        <integer>151</integer>
+        <key>PPXJDHQK</key>
+        <integer>143</integer>
+        <key>SLKMFSGD</key>
+        <integer>143</integer>
+        <key>WAAUSDUW</key>
+        <integer>77</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,28 +2,7 @@
 <glyph name="dieresis" format="2">
   <advance width="500"/>
   <unicode hex="00A8"/>
-  <anchor x="0" y="517" name="top"/>
-  <anchor x="288" y="517" name="center"/>
   <outline>
-    <contour>
-      <point x="88" y="652" type="move" name="SCACCEQM"/>
-      <point x="168" y="666" type="line" name="TDTKBCUN"/>
-      <point x="249" y="538" type="line" name="UVYUFIQK"/>
-    </contour>
-    <contour>
-      <point x="88" y="538" type="move" name="TCUOTQUC"/>
-      <point x="168" y="666" type="line" name="ZUFETZQH"/>
-      <point x="249" y="652" type="line" name="RTKVXTOI"/>
-    </contour>
-    <contour>
-      <point x="328" y="652" type="move" name="JYBPDXXE"/>
-      <point x="408" y="666" type="line" name="VTWHYFXM"/>
-      <point x="489" y="538" type="line" name="GBLBBSLE"/>
-    </contour>
-    <contour>
-      <point x="328" y="538" type="move" name="QFFCBBPK"/>
-      <point x="408" y="666" type="line" name="JLGEMYJZ"/>
-      <point x="489" y="652" type="line" name="WYCDUJYS"/>
-    </contour>
+    <component base="dieresiscmb" xOffset="250"/>
   </outline>
 </glyph>

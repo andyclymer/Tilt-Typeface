@@ -95,7 +95,7 @@ Jcircumflex = J + circumflexcmb @ above
 Kcedilla = K + commaaccentbelowcmb @ below
 
 Lacute = L + acutecmb @ above
-Lcaron = L + caroncmb.alt @ right, xHeight
+Lcaron = L + caroncmb.alt @ right, right
 Lcedilla = L + commaaccentbelowcmb @ below
 Ldotbelow = L + dotbelowcmb @ below
 Llinebelow = L + macronbelowcmb @ below
@@ -172,6 +172,7 @@ Sdotbelowdotabove = S + dotaccentcmb @ above + dotbelowcmb @ S:below
 Tcaron = T + caroncmb @ above
 # Tcedilla = T + cedillacmb @ below
 Tcommaaccent = T + commaaccentbelowcmb @ below
+Tdieresis = T + dieresiscmb @ above
 Tdotbelow = T + dotbelowcmb @ below
 Tlinebelow = T + macronbelowcmb @ below
 # Tbar (n/a)
@@ -255,7 +256,7 @@ ccedillaacute = ccedilla + acutecmb @ c:above
 ccircumflex = c + circumflexcmb @ above
 cdotaccent = c + dotaccentcmb @ above
 
-dcaron = d + caroncmb.alt @ right, xHeight
+dcaron = d + caroncmb.alt @ right, right
 ddotbelow = d + dotbelowcmb @ below
 dlinebelow = d + macronbelowcmb @ below
 # dcroat (n/a)
@@ -320,7 +321,7 @@ kcedilla = k + commaaccentbelowcmb @ below
 # kra (n/a)
 
 lacute = l + acutecmb @ above
-lcaron = l + caroncmb.alt @ right, xHeight
+lcaron = l + caroncmb.alt @ right, right
 lcedilla = l + commaaccentbelowcmb @ below
 ldotbelow = l + dotbelowcmb @ below
 llinebelow = l + macronbelowcmb @ below
@@ -515,4 +516,41 @@ lj = l &\ j
 DZcaron = D &\ Zcaron
 Dzcaron = D &\ zcaron
 dzcaron = d &\ zcaron
+
+
+hyphensoft = hyphen ^ hyphen
+gnrl:hyphen = hyphen ^ hyphen
+primemod = minute ^ minute
+primedblmod = second ^ second
+apostrophemod = quoteleft ^ quoteleft
+commaturnedmod = quoteright ^ quoteright
+macronmod = macroncmb @ `origin+150`, `origin+0` ^ 300
+acutemod = acutecmb @ `origin+150`, `origin+0` ^ 300
+gravemod = gravecmb @ `origin+150`, `origin+0` ^ 300
+
+*nbspace = ^ space
+*figurespace = ^ 500
+*punctuationspace = ^ 250
+*thinspace = ^ 125
+*hairspace = ^ 25
+*zerowidthspace = ^ 0
+figuredash = endash ^ endash
+horizontalbar = emdash ^ emdash
+
+
+
+dieresis = dieresiscmb @ `origin+250`, `origin+0` ^ 500
+grave = gravecmb @ `origin+250`, `origin+0` ^ 500
+macron = macroncmb @ `origin+250`, `origin+0` ^ 500
+acute = acutecmb @ `origin+250`, `origin+0` ^ 500
+cedilla = cedillacmb @ `origin+250`, `origin+0` ^ 500
+circumflex = circumflexcmb @ `origin+250`, `origin+0` ^ 500
+ring = ringabovecmb @ `origin+250`, `origin+0` ^ 500
+tilde = tildecmb @ `origin+250`, `origin+0` ^ 500
+caron = caroncmb @ `origin+250`, `origin+0` ^ 500
+breve = brevecmb @ `origin+250`, `origin+0` ^ 500
+dotaccent = dotaccentcmb @ `origin+250`, `origin+0` ^ 500
+ogonek = ogonekcmb @ `origin+250`, `origin+0` ^ 500
+hungarumlaut = hungarumlautcmb @ `origin+250`, `origin+0` ^ 500
+
 

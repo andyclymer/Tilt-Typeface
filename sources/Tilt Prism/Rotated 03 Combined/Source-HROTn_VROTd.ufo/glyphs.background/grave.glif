@@ -2,22 +2,7 @@
 <glyph name="grave" format="2">
   <advance width="500"/>
   <unicode hex="0060"/>
-  <anchor x="-60.0" y="517" name="top"/>
-  <anchor x="194.0" y="517" name="center"/>
   <outline>
-    <contour>
-      <point x="50" y="636" type="move" name="JMGOEJYY"/>
-      <point x="8" y="728" type="line" name="BZWZQKAG"/>
-    </contour>
-    <contour>
-      <point x="0" y="780" type="move" name="CSSRQEYN"/>
-      <point x="8" y="728" type="line" name="OVHLHUYL"/>
-      <point x="112" y="780" type="line" name="CNWFLDXU"/>
-    </contour>
-    <contour>
-      <point x="189" y="584" type="move" name="JEGYSVFE"/>
-      <point x="50" y="636" type="line" name="YMITEXIS"/>
-      <point x="95" y="584" type="line" name="FTPSNQRM"/>
-    </contour>
+    <component base="gravecmb" xOffset="177"/>
   </outline>
 </glyph>

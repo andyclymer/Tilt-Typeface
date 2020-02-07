@@ -1,103 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflex" format="2">
-  <advance width="562"/>
+  <advance width="500"/>
   <unicode hex="02C6"/>
   <outline>
-    <contour>
-      <point x="198" y="646" type="line"/>
-      <point x="277" y="698" type="line" smooth="yes"/>
-      <point x="279" y="699"/>
-      <point x="283" y="699"/>
-      <point x="285" y="698" type="curve" smooth="yes"/>
-      <point x="364" y="646" type="line"/>
-      <point x="356" y="632" type="line"/>
-      <point x="277" y="684" type="line" smooth="yes"/>
-      <point x="274" y="686"/>
-      <point x="288" y="686"/>
-      <point x="285" y="684" type="curve" smooth="yes"/>
-      <point x="206" y="632" type="line"/>
-    </contour>
-    <contour>
-      <point x="211" y="528" type="line"/>
-      <point x="194" y="638" type="line" smooth="yes"/>
-      <point x="193" y="644"/>
-      <point x="212" y="637"/>
-      <point x="207" y="633" type="curve" smooth="yes"/>
-      <point x="75" y="523" type="line"/>
-      <point x="65" y="535" type="line"/>
-      <point x="197" y="645" type="line" smooth="yes"/>
-      <point x="202" y="649"/>
-      <point x="209" y="646"/>
-      <point x="210" y="640" type="curve" smooth="yes"/>
-      <point x="227" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="487" y="523" type="line"/>
-      <point x="355" y="633" type="line" smooth="yes"/>
-      <point x="350" y="637"/>
-      <point x="369" y="644"/>
-      <point x="368" y="638" type="curve" smooth="yes"/>
-      <point x="351" y="528" type="line"/>
-      <point x="335" y="530" type="line"/>
-      <point x="352" y="640" type="line" smooth="yes"/>
-      <point x="353" y="646"/>
-      <point x="360" y="649"/>
-      <point x="365" y="645" type="curve" smooth="yes"/>
-      <point x="497" y="535" type="line"/>
-    </contour>
-    <contour>
-      <point x="274" y="671" type="line"/>
-      <point x="273" y="691" type="line" smooth="yes"/>
-      <point x="272" y="701"/>
-      <point x="289" y="701"/>
-      <point x="289" y="691" type="curve" smooth="yes"/>
-      <point x="289" y="567" type="line"/>
-      <point x="273" y="567" type="line"/>
-      <point x="273" y="691" type="line" smooth="yes"/>
-      <point x="273" y="701"/>
-      <point x="288" y="702"/>
-      <point x="289" y="691" type="curve" smooth="yes"/>
-      <point x="290" y="671" type="line"/>
-    </contour>
-    <contour>
-      <point x="343" y="521" type="line" smooth="yes"/>
-      <point x="342" y="521"/>
-      <point x="340" y="521"/>
-      <point x="339" y="522" type="curve" smooth="yes"/>
-      <point x="277" y="560" type="line"/>
-      <point x="285" y="560" type="line"/>
-      <point x="223" y="522" type="line" smooth="yes"/>
-      <point x="222" y="521"/>
-      <point x="220" y="521"/>
-      <point x="219" y="521" type="curve" smooth="yes"/>
-      <point x="70" y="521" type="line" smooth="yes"/>
-      <point x="62" y="521"/>
-      <point x="59" y="531"/>
-      <point x="66" y="536" type="curve" smooth="yes"/>
-      <point x="278" y="678" type="line" smooth="yes"/>
-      <point x="280" y="679"/>
-      <point x="284" y="679"/>
-      <point x="286" y="678" type="curve" smooth="yes"/>
-      <point x="496" y="536" type="line" smooth="yes"/>
-      <point x="503" y="531"/>
-      <point x="500" y="521"/>
-      <point x="492" y="521" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="343" y="537" type="line"/>
-      <point x="492" y="537" type="line"/>
-      <point x="488" y="522" type="line"/>
-      <point x="278" y="664" type="line"/>
-      <point x="286" y="664" type="line"/>
-      <point x="74" y="522" type="line"/>
-      <point x="70" y="537" type="line"/>
-      <point x="219" y="537" type="line"/>
-      <point x="215" y="536" type="line"/>
-      <point x="277" y="574" type="line" smooth="yes"/>
-      <point x="279" y="575"/>
-      <point x="283" y="575"/>
-      <point x="285" y="574" type="curve" smooth="yes"/>
-      <point x="347" y="536" type="line"/>
-    </contour>
+    <component base="circumflexcmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

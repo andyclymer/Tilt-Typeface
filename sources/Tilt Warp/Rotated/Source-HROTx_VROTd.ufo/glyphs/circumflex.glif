@@ -1,30 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflex" format="2">
-  <advance width="354"/>
+  <advance width="500"/>
   <unicode hex="02C6"/>
   <outline>
-    <contour>
-      <point x="118" y="580" type="curve" name="PRPZOSXW"/>
-      <point x="147" y="580" name="QOTGBAPB"/>
-      <point x="179" y="580" name="BKMUVXJA"/>
-      <point x="212" y="580" type="curve" name="ZNNIESWT"/>
-      <point x="210" y="603" name="TUDJAEXE"/>
-      <point x="213" y="626" name="CNZRGESL"/>
-      <point x="223" y="649" type="curve" name="FVFUILJY"/>
-      <point x="236" y="626" name="YXNLYYDI"/>
-      <point x="254" y="603" name="MNDSNOYD"/>
-      <point x="279" y="580" type="curve" name="LOCXJMPS"/>
-      <point x="316" y="580" name="HCJPGJYW"/>
-      <point x="357" y="580" name="XPXMHRDI"/>
-      <point x="400" y="580" type="curve" name="JUEWJSBN"/>
-      <point x="339" y="632" name="QEKCCART"/>
-      <point x="309" y="685" name="KLVGMHIS"/>
-      <point x="310" y="737" type="curve" name="ZXRJVJVC"/>
-      <point x="265" y="737" name="GCQREUJC"/>
-      <point x="223" y="737" name="MPNNUACW"/>
-      <point x="185" y="737" type="curve" name="ZJEZWXRR"/>
-      <point x="132" y="685" name="AXOYLLUX"/>
-      <point x="110" y="632" name="BOFOFWNP"/>
-    </contour>
+    <component base="circumflexcmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

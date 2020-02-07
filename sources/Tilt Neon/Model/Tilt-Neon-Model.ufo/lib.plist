@@ -6,13 +6,15 @@
     <array>
       <dict>
         <key>allowPseudoUnicode</key>
-        <integer>0</integer>
+        <integer>1</integer>
         <key>ascending</key>
         <string>GF Latin Tilt</string>
         <key>type</key>
         <string>characterSet</string>
       </dict>
     </array>
+    <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
+    <string>Accents-Expert</string>
     <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
     <false/>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
@@ -112,10 +114,31 @@
         <real>0.0</real>
         <real>0.25</real>
       </array>
+      <key>public.kern1.G</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
       <key>public.kern1.H</key>
       <array>
         <real>1.0</real>
         <real>0.0</real>
+        <real>0.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.J</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.5</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.L</key>
+      <array>
+        <real>1.0</real>
+        <real>0.5</real>
         <real>0.0</real>
         <real>0.25</real>
       </array>
@@ -126,11 +149,39 @@
         <real>0.0</real>
         <real>0.25</real>
       </array>
+      <key>public.kern1.R</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.S</key>
+      <array>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.T</key>
+      <array>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
       <key>public.kern1.U</key>
       <array>
         <real>1.0</real>
         <real>0.0</real>
         <real>0.5</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.W</key>
+      <array>
+        <real>0.0</real>
+        <real>0.5</real>
+        <real>1.0</real>
         <real>0.25</real>
       </array>
       <key>public.kern1.X</key>
@@ -145,6 +196,13 @@
         <real>0.0</real>
         <real>1.0</real>
         <real>0.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.Z</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
         <real>0.25</real>
       </array>
       <key>public.kern1._colon</key>
@@ -224,6 +282,13 @@
         <real>1.0</real>
         <real>0.25</real>
       </array>
+      <key>public.kern1.a_alt</key>
+      <array>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.25</real>
+      </array>
       <key>public.kern1.c</key>
       <array>
         <real>0.0</real>
@@ -241,6 +306,13 @@
       <key>public.kern1.e</key>
       <array>
         <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.g</key>
+      <array>
+        <real>0.5</real>
         <real>0.0</real>
         <real>1.0</real>
         <real>0.25</real>
@@ -266,10 +338,45 @@
         <real>0.0</real>
         <real>0.25</real>
       </array>
+      <key>public.kern1.r</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.5</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.s</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.t</key>
+      <array>
+        <real>1.0</real>
+        <real>0.5</real>
+        <real>0.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.t_alt</key>
+      <array>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
       <key>public.kern1.u</key>
       <array>
         <real>0.0</real>
         <real>1.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern1.u_alt</key>
+      <array>
+        <real>0.0</real>
+        <real>0.5</real>
         <real>1.0</real>
         <real>0.25</real>
       </array>
@@ -287,10 +394,31 @@
         <real>1.0</real>
         <real>0.25</real>
       </array>
+      <key>public.kern1.z</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.25</real>
+      </array>
       <key>public.kern2.A</key>
       <array>
         <real>0.5</real>
         <real>0.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern2.AE</key>
+      <array>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern2.C</key>
+      <array>
+        <real>0.0</real>
+        <real>1.0</real>
         <real>1.0</real>
         <real>0.25</real>
       </array>
@@ -301,11 +429,32 @@
         <real>0.0</real>
         <real>0.25</real>
       </array>
+      <key>public.kern2.J</key>
+      <array>
+        <real>0.0</real>
+        <real>0.5</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
       <key>public.kern2.O</key>
       <array>
         <real>1.0</real>
         <real>0.5</real>
         <real>0.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern2.S</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern2.T</key>
+      <array>
+        <real>0.5</real>
+        <real>0.0</real>
+        <real>1.0</real>
         <real>0.25</real>
       </array>
       <key>public.kern2.U</key>
@@ -315,7 +464,21 @@
         <real>1.0</real>
         <real>0.25</real>
       </array>
+      <key>public.kern2.W</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
       <key>public.kern2.Y</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.5</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern2.Z</key>
       <array>
         <real>1.0</real>
         <real>0.0</real>
@@ -399,6 +562,13 @@
         <real>0.0</real>
         <real>0.25</real>
       </array>
+      <key>public.kern2.a_alt</key>
+      <array>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
       <key>public.kern2.b</key>
       <array>
         <real>0.0</real>
@@ -413,6 +583,20 @@
         <real>0.0</real>
         <real>0.25</real>
       </array>
+      <key>public.kern2.j</key>
+      <array>
+        <real>1.0</real>
+        <real>0.5</real>
+        <real>0.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern2.l</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.25</real>
+      </array>
       <key>public.kern2.n</key>
       <array>
         <real>1.0</real>
@@ -423,6 +607,13 @@
       <key>public.kern2.o</key>
       <array>
         <real>0.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern2.s</key>
+      <array>
+        <real>1.0</real>
         <real>1.0</real>
         <real>0.0</real>
         <real>0.25</real>
@@ -441,11 +632,25 @@
         <real>0.0</real>
         <real>0.25</real>
       </array>
+      <key>public.kern2.u_alt</key>
+      <array>
+        <real>0.0</real>
+        <real>0.5</real>
+        <real>1.0</real>
+        <real>0.25</real>
+      </array>
       <key>public.kern2.v</key>
       <array>
         <real>0.0</real>
         <real>0.0</real>
         <real>1.0</real>
+        <real>0.25</real>
+      </array>
+      <key>public.kern2.z</key>
+      <array>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
         <real>0.25</real>
       </array>
     </dict>
@@ -881,6 +1086,7 @@
       <string>Tcaron</string>
       <string>Tcedilla</string>
       <string>Tcommaaccent</string>
+      <string>Tdieresis</string>
       <string>Tdotbelow</string>
       <string>Tlinebelow</string>
       <string>Tbar</string>
@@ -1148,9 +1354,35 @@
       <string>Dzcaron</string>
       <string>dzcaron</string>
       <string>arrowleft</string>
+      <string>arrowNW</string>
       <string>arrowup</string>
+      <string>arrowNE</string>
       <string>arrowright</string>
+      <string>arrowSE</string>
       <string>arrowdown</string>
+      <string>arrowSW</string>
+      <string>arrowleft.circle</string>
+      <string>arrowNW.circle</string>
+      <string>arrowdown.circle</string>
+      <string>arrowNE.circle</string>
+      <string>arrowright.circle</string>
+      <string>arrowSE.circle</string>
+      <string>arrowup.circle</string>
+      <string>arrowSW.circle</string>
+      <string>smilingfacewhite</string>
+      <string>frowningfacewhite</string>
+      <string>heartwhite</string>
+      <string>starwhite</string>
+      <string>billiards</string>
+      <string>bowling</string>
+      <string>key</string>
+      <string>scissorsblack</string>
+      <string>mansShoe</string>
+      <string>uni1f9fa</string>
+      <string>camera</string>
+      <string>sliceOfPizza</string>
+      <string>wineGlass</string>
+      <string>musicalNote</string>
       <string>squareblack</string>
       <string>squarewhite</string>
       <string>triangleupblack</string>
@@ -1223,6 +1455,7 @@
       <string>uring.alt</string>
       <string>utilde.alt</string>
       <string>utildeacute.alt</string>
+      <string>.notdef</string>
     </array>
   </dict>
 </plist>

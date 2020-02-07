@@ -110,6 +110,22 @@
     <string>aogonek.alt.glif</string>
     <key>approxequal</key>
     <string>approxequal.glif</string>
+    <key>arrowNE</key>
+    <string>arrowN_E_.glif</string>
+    <key>arrowNW</key>
+    <string>arrowN_W_.glif</string>
+    <key>arrowSE</key>
+    <string>arrowS_E_.glif</string>
+    <key>arrowSW</key>
+    <string>arrowS_W_.glif</string>
+    <key>arrowdown</key>
+    <string>arrowdown.glif</string>
+    <key>arrowleft</key>
+    <string>arrowleft.glif</string>
+    <key>arrowright</key>
+    <string>arrowright.glif</string>
+    <key>arrowup</key>
+    <string>arrowup.glif</string>
     <key>asciicircum</key>
     <string>asciicircum.glif</string>
     <key>asciitilde</key>
@@ -126,6 +142,10 @@
     <string>bar.glif</string>
     <key>belowbrevecmb</key>
     <string>belowbrevecmb.glif</string>
+    <key>billiards</key>
+    <string>billiards.glif</string>
+    <key>bowling</key>
+    <string>bowling.glif</string>
     <key>braceleft</key>
     <string>braceleft.glif</string>
     <key>braceright</key>
@@ -146,6 +166,8 @@
     <string>bullet.glif</string>
     <key>c</key>
     <string>c.glif</string>
+    <key>camera</key>
+    <string>camera.glif</string>
     <key>caroncmb</key>
     <string>caroncmb.glif</string>
     <key>caroncmb.alt</key>
@@ -246,6 +268,8 @@
     <string>fraction.glif</string>
     <key>franc</key>
     <string>franc.glif</string>
+    <key>frowningfacewhite</key>
+    <string>frowningfacewhite.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>germandbls</key>
@@ -274,6 +298,8 @@
     <string>h.glif</string>
     <key>hbar</key>
     <string>hbar.glif</string>
+    <key>heartwhite</key>
+    <string>heartwhite.glif</string>
     <key>hookabovecmb</key>
     <string>hookabovecmb.glif</string>
     <key>horncmb</key>
@@ -296,6 +322,8 @@
     <string>j.glif</string>
     <key>k</key>
     <string>k.glif</string>
+    <key>key</key>
+    <string>key.glif</string>
     <key>kip</key>
     <string>kip.glif</string>
     <key>kra</key>
@@ -322,6 +350,8 @@
     <string>macroncmb.glif</string>
     <key>manat</key>
     <string>manat.glif</string>
+    <key>mansShoe</key>
+    <string>mansS_hoe.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
     <key>minute</key>
@@ -330,6 +360,8 @@
     <string>mu.math.glif</string>
     <key>multiply</key>
     <string>multiply.glif</string>
+    <key>musicalNote</key>
+    <string>musicalN_ote.glif</string>
     <key>n</key>
     <string>n.glif</string>
     <key>naira</key>
@@ -416,12 +448,18 @@
     <string>ring.glif</string>
     <key>ringabovecmb</key>
     <string>ringabovecmb.glif</string>
+    <key>ringhalfleftmod</key>
+    <string>ringhalfleftmod.glif</string>
+    <key>ringhalfrightmod</key>
+    <string>ringhalfrightmod.glif</string>
     <key>ruble</key>
     <string>ruble.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>schwa</key>
     <string>schwa.glif</string>
+    <key>scissorsblack</key>
+    <string>scissorsblack.glif</string>
     <key>second</key>
     <string>second.glif</string>
     <key>section</key>
@@ -434,8 +472,14 @@
     <string>six.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
+    <key>sliceOfPizza</key>
+    <string>sliceO_fP_izza.glif</string>
+    <key>smilingfacewhite</key>
+    <string>smilingfacewhite.glif</string>
     <key>space</key>
     <string>space.glif</string>
+    <key>starwhite</key>
+    <string>starwhite.glif</string>
     <key>sterling</key>
     <string>sterling.glif</string>
     <key>t</key>
@@ -478,14 +522,22 @@
     <string>uhorn.alt.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
+    <key>uni1f9fa</key>
+    <string>uni1f9fa.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
     <key>uogonek.alt</key>
     <string>uogonek.alt.glif</string>
     <key>v</key>
     <string>v.glif</string>
+    <key>verticallinelowmod</key>
+    <string>verticallinelowmod.glif</string>
+    <key>verticallinemod</key>
+    <string>verticallinemod.glif</string>
     <key>w</key>
     <string>w.glif</string>
+    <key>wineGlass</key>
+    <string>wineG_lass.glif</string>
     <key>won</key>
     <string>won.glif</string>
     <key>x</key>

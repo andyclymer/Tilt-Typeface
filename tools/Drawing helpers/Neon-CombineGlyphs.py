@@ -6,8 +6,8 @@ Copy foreground and depth lib data from one glyph to another
 """
 
 
-sourceNames = ["C", "cedillacmb"]
-destName = "Ccedilla"
+sourceNames = ["arrowNW"]
+destName = "arrowSW"
 
 LIBKEY = "com.andyclymer.zPosition"
 
@@ -27,6 +27,8 @@ for sourceName in sourceNames:
     
     # Copy lib data
     if LIBKEY in gSource.lib.keys():
+        if not LIBKEY in gDest.lib.keys():
+            gDest.lib[LIBKEY] = dict()
         for ptName in gSource.lib[LIBKEY]:
             gDest.lib[LIBKEY][ptName] = gSource.lib[LIBKEY][ptName]
 

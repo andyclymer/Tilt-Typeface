@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcmb" format="2">
+  <unicode hex="0302"/>
+  <anchor x="0" y="439.0" name="_above"/>
+  <anchor x="0" y="581.0" name="above"/>
+  <anchor x="154" y="547.0" name="aboveright"/>
+  <outline>
+    <contour>
+      <point x="53" y="518" type="line" smooth="yes"/>
+      <point x="51" y="518"/>
+      <point x="50" y="518"/>
+      <point x="49" y="519" type="curve" smooth="yes"/>
+      <point x="-3" y="553" type="line"/>
+      <point x="5" y="553" type="line"/>
+      <point x="-47" y="519" type="line" smooth="yes"/>
+      <point x="-48" y="518"/>
+      <point x="-49" y="518"/>
+      <point x="-51" y="518" type="curve" smooth="yes"/>
+      <point x="-200" y="518" type="line" smooth="yes"/>
+      <point x="-208" y="518"/>
+      <point x="-211" y="528"/>
+      <point x="-204" y="533" type="curve" smooth="yes"/>
+      <point x="-2" y="661" type="line" smooth="yes"/>
+      <point x="0" y="662"/>
+      <point x="4" y="662"/>
+      <point x="6" y="661" type="curve" smooth="yes"/>
+      <point x="206" y="533" type="line" smooth="yes"/>
+      <point x="213" y="528"/>
+      <point x="210" y="518"/>
+      <point x="202" y="518" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="53" y="534" type="line"/>
+      <point x="202" y="534" type="line"/>
+      <point x="198" y="519" type="line"/>
+      <point x="-2" y="647" type="line"/>
+      <point x="6" y="647" type="line"/>
+      <point x="-196" y="519" type="line"/>
+      <point x="-200" y="534" type="line"/>
+      <point x="-51" y="534" type="line"/>
+      <point x="-55" y="533" type="line"/>
+      <point x="-3" y="567" type="line" smooth="yes"/>
+      <point x="-1" y="568"/>
+      <point x="3" y="568"/>
+      <point x="5" y="567" type="curve" smooth="yes"/>
+      <point x="57" y="533" type="line"/>
+    </contour>
+  </outline>
+</glyph>

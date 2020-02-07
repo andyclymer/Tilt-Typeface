@@ -376,6 +376,8 @@
     <string>T_cedilla.glif</string>
     <key>Tcommaaccent</key>
     <string>T_commaaccent.glif</string>
+    <key>Tdieresis</key>
+    <string>T_dieresis.glif</string>
     <key>Tdotbelow</key>
     <string>T_dotbelow.glif</string>
     <key>Thorn</key>
@@ -504,6 +506,8 @@
     <string>acute.glif</string>
     <key>acutecmb</key>
     <string>acutecmb.glif</string>
+    <key>acutemod</key>
+    <string>acutemod.glif</string>
     <key>adieresis</key>
     <string>adieresis.glif</string>
     <key>adotbelow</key>
@@ -526,12 +530,30 @@
     <string>ampersand.glif</string>
     <key>aogonek</key>
     <string>aogonek.glif</string>
+    <key>apostrophemod</key>
+    <string>apostrophemod.glif</string>
     <key>approxequal</key>
     <string>approxequal.glif</string>
     <key>aring</key>
     <string>aring.glif</string>
     <key>aringacute</key>
     <string>aringacute.glif</string>
+    <key>arrowNE</key>
+    <string>arrowN_E_.glif</string>
+    <key>arrowNW</key>
+    <string>arrowN_W_.glif</string>
+    <key>arrowSE</key>
+    <string>arrowS_E_.glif</string>
+    <key>arrowSW</key>
+    <string>arrowS_W_.glif</string>
+    <key>arrowdown</key>
+    <string>arrowdown.glif</string>
+    <key>arrowleft</key>
+    <string>arrowleft.glif</string>
+    <key>arrowright</key>
+    <string>arrowright.glif</string>
+    <key>arrowup</key>
+    <string>arrowup.glif</string>
     <key>asciicircum</key>
     <string>asciicircum.glif</string>
     <key>asciitilde</key>
@@ -614,6 +636,8 @@
     <string>commaaccentbelowcmb.glif</string>
     <key>commaturnedabovecmb</key>
     <string>commaturnedabovecmb.glif</string>
+    <key>commaturnedmod</key>
+    <string>commaturnedmod.glif</string>
     <key>commercialminussign</key>
     <string>commercialminussign.glif</string>
     <key>copyright</key>
@@ -732,6 +756,10 @@
     <string>f.glif</string>
     <key>fhook</key>
     <string>fhook.glif</string>
+    <key>figuredash</key>
+    <string>figuredash.glif</string>
+    <key>figurespace</key>
+    <string>figurespace.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>four</key>
@@ -766,6 +794,8 @@
     <string>gravecmb.glif</string>
     <key>gravedoublecmb</key>
     <string>gravedoublecmb.glif</string>
+    <key>gravemod</key>
+    <string>gravemod.glif</string>
     <key>greater</key>
     <string>greater.glif</string>
     <key>greaterequal</key>
@@ -782,6 +812,8 @@
     <string>guilsinglright.glif</string>
     <key>h</key>
     <string>h.glif</string>
+    <key>hairspace</key>
+    <string>hairspace.glif</string>
     <key>hbar</key>
     <string>hbar.glif</string>
     <key>hbrevebelow</key>
@@ -792,6 +824,8 @@
     <string>hdotbelow.glif</string>
     <key>hookabovecmb</key>
     <string>hookabovecmb.glif</string>
+    <key>horizontalbar</key>
+    <string>horizontalbar.glif</string>
     <key>horncmb</key>
     <string>horncmb.glif</string>
     <key>hungarumlaut</key>
@@ -882,6 +916,8 @@
     <string>macronbelowcmb.glif</string>
     <key>macroncmb</key>
     <string>macroncmb.glif</string>
+    <key>macronmod</key>
+    <string>macronmod.glif</string>
     <key>manat</key>
     <string>manat.glif</string>
     <key>mdotbelow</key>
@@ -1038,6 +1074,12 @@
     <string>plus.glif</string>
     <key>plusminus</key>
     <string>plusminus.glif</string>
+    <key>primedblmod</key>
+    <string>primedblmod.glif</string>
+    <key>primemod</key>
+    <string>primemod.glif</string>
+    <key>punctuationspace</key>
+    <string>punctuationspace.glif</string>
     <key>q</key>
     <string>q.glif</string>
     <key>question</key>
@@ -1078,6 +1120,10 @@
     <string>ring.glif</string>
     <key>ringabovecmb</key>
     <string>ringabovecmb.glif</string>
+    <key>ringhalfleftmod</key>
+    <string>ringhalfleftmod.glif</string>
+    <key>ringhalfrightmod</key>
+    <string>ringhalfrightmod.glif</string>
     <key>rinvertedbreve</key>
     <string>rinvertedbreve.glif</string>
     <key>rlinebelow</key>
@@ -1138,6 +1184,8 @@
     <string>tdieresis.glif</string>
     <key>tdotbelow</key>
     <string>tdotbelow.glif</string>
+    <key>thinspace</key>
+    <string>thinspace.glif</string>
     <key>thorn</key>
     <string>thorn.glif</string>
     <key>three</key>
@@ -1210,6 +1258,10 @@
     <string>utildeacute.glif</string>
     <key>v</key>
     <string>v.glif</string>
+    <key>verticallinelowmod</key>
+    <string>verticallinelowmod.glif</string>
+    <key>verticallinemod</key>
+    <string>verticallinemod.glif</string>
     <key>w</key>
     <string>w.glif</string>
     <key>wacute</key>
@@ -1258,5 +1310,7 @@
     <string>zdotbelow.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
+    <key>zerowidthspace</key>
+    <string>zerowidthspace.glif</string>
   </dict>
 </plist>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinelowmod" format="2">
+  <advance width="300"/>
+  <unicode hex="02CC"/>
+  <outline>
+    <contour>
+      <point x="150" y="77" type="move" name="BHAAYTTH"/>
+      <point x="150.0" y="15" name="KNKIZHMH"/>
+      <point x="150.0" y="-48" name="VHSEZTVY"/>
+      <point x="150" y="-110" type="curve" name="QQSKPBXQ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BHAAYTTH</key>
+        <integer>120</integer>
+        <key>KNKIZHMH</key>
+        <integer>120</integer>
+        <key>QQSKPBXQ</key>
+        <real>120.0</real>
+        <key>VHSEZTVY</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

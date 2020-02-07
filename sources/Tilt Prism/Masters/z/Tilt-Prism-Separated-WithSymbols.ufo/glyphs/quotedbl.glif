@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedbl" format="2">
+  <advance width="518"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="148.0" y="444.0" type="move" name="IZGTWQSO"/>
+      <point x="148.0" y="618.0" type="line" name="XQVKJWQA"/>
+    </contour>
+    <contour>
+      <point x="199.0" y="398.0" type="move" name="DVBPVJXE"/>
+      <point x="148.0" y="444.0" type="line" name="QXANVYFH"/>
+      <point x="98.0" y="398.0" type="line" name="ITMXAXLM"/>
+    </contour>
+    <contour>
+      <point x="64.0" y="680.0" type="move" name="QSGAVIMM"/>
+      <point x="148.0" y="618.0" type="line" name="SHGCJXUM"/>
+      <point x="233.0" y="680.0" type="line" name="QZAZHGDX"/>
+    </contour>
+    <contour>
+      <point x="369.0" y="444.0" type="move" name="EKEJDAUC"/>
+      <point x="369.0" y="618.0" type="line" name="FIBXZVCA"/>
+    </contour>
+    <contour>
+      <point x="420.0" y="398.0" type="move" name="TJGZVQJV"/>
+      <point x="369.0" y="444.0" type="line" name="APOOYFUC"/>
+      <point x="319.0" y="398.0" type="line" name="LTVSUZYU"/>
+    </contour>
+    <contour>
+      <point x="285.0" y="680.0" type="move" name="EKHMTXWB"/>
+      <point x="369.0" y="618.0" type="line" name="RLFCOKXL"/>
+      <point x="454.0" y="680.0" type="line" name="TGNRZLAR"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>APOOYFUC</key>
+        <integer>100</integer>
+        <key>DVBPVJXE</key>
+        <integer>0</integer>
+        <key>EKEJDAUC</key>
+        <integer>100</integer>
+        <key>EKHMTXWB</key>
+        <integer>0</integer>
+        <key>FIBXZVCA</key>
+        <integer>100</integer>
+        <key>ITMXAXLM</key>
+        <integer>0</integer>
+        <key>IZGTWQSO</key>
+        <integer>100</integer>
+        <key>LTVSUZYU</key>
+        <integer>0</integer>
+        <key>QSGAVIMM</key>
+        <integer>0</integer>
+        <key>QXANVYFH</key>
+        <integer>100</integer>
+        <key>QZAZHGDX</key>
+        <integer>0</integer>
+        <key>RLFCOKXL</key>
+        <integer>100</integer>
+        <key>SHGCJXUM</key>
+        <integer>100</integer>
+        <key>TGNRZLAR</key>
+        <integer>0</integer>
+        <key>TJGZVQJV</key>
+        <integer>0</integer>
+        <key>XQVKJWQA</key>
+        <integer>100</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

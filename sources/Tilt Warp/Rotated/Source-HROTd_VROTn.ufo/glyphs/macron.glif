@@ -3,19 +3,12 @@
   <advance width="500"/>
   <unicode hex="00AF"/>
   <outline>
-    <contour>
-      <point x="84" y="562" type="curve" name="JNYMRBYY"/>
-      <point x="194" y="546" name="ZGMRTQVR"/>
-      <point x="307" y="546" name="TOILBODQ"/>
-      <point x="417" y="562" type="curve" name="XMPTMHVF"/>
-      <point x="417" y="568" name="PXMQFECS"/>
-      <point x="417" y="600" name="PJBTAIAH"/>
-      <point x="417" y="654" type="curve" name="HNCWJTTM"/>
-      <point x="307" y="639" name="CMLUMDWS"/>
-      <point x="194" y="639" name="SSMKSYTE"/>
-      <point x="84" y="654" type="curve" name="EMLNVRFA"/>
-      <point x="84" y="600" name="TYLZGPIM"/>
-      <point x="84" y="568" name="MBMMKMML"/>
-    </contour>
+    <component base="macroncmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

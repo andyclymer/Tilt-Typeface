@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecmb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="0" y="439.0" name="_above"/>
+  <anchor x="0" y="586.0" name="above"/>
+  <outline>
+    <contour>
+      <point x="-17" y="644" type="line"/>
+      <point x="-9" y="653"/>
+      <point x="18" y="663"/>
+      <point x="102" y="669" type="curve"/>
+      <point x="104" y="653" type="line"/>
+      <point x="40" y="649"/>
+      <point x="1" y="641"/>
+      <point x="-5" y="634" type="curve"/>
+    </contour>
+    <contour>
+      <point x="61" y="521" type="line"/>
+      <point x="-18" y="634" type="line" smooth="yes"/>
+      <point x="-21" y="639"/>
+      <point x="-1" y="639"/>
+      <point x="-4" y="634" type="curve" smooth="yes"/>
+      <point x="-82" y="521" type="line"/>
+      <point x="-96" y="531" type="line"/>
+      <point x="-18" y="644" type="line" smooth="yes"/>
+      <point x="-14" y="648"/>
+      <point x="-8" y="648"/>
+      <point x="-4" y="644" type="curve" smooth="yes"/>
+      <point x="75" y="531" type="line"/>
+    </contour>
+  </outline>
+</glyph>

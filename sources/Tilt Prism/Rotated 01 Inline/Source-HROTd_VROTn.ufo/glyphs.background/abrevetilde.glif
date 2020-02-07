@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevetilde" format="2">
+  <advance width="500"/>
+  <unicode hex="1EB5"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevecmb" xOffset="307" yOffset="63"/>
+    <component base="tildecmb" xOffset="307" yOffset="264"/>
+  </outline>
+</glyph>

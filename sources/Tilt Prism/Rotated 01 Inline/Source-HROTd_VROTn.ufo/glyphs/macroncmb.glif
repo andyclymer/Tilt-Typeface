@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncmb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="0" y="439.0" name="_above"/>
+  <anchor x="0" y="564.0" name="above"/>
+  <outline>
+    <contour>
+      <point x="-169" y="618" type="line"/>
+      <point x="-109" y="646" type="line" smooth="yes"/>
+      <point x="-102" y="649"/>
+      <point x="-95" y="642"/>
+      <point x="-99" y="635" type="curve" smooth="yes"/>
+      <point x="-159" y="522" type="line"/>
+      <point x="-173" y="530" type="line"/>
+      <point x="-113" y="643" type="line" smooth="yes"/>
+      <point x="-109" y="650"/>
+      <point x="-96" y="635"/>
+      <point x="-103" y="632" type="curve" smooth="yes"/>
+      <point x="-163" y="604" type="line"/>
+    </contour>
+    <contour>
+      <point x="-106" y="647" type="line"/>
+      <point x="107" y="647" type="line"/>
+      <point x="107" y="631" type="line"/>
+      <point x="-106" y="631" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="522" type="line"/>
+      <point x="100" y="635" type="line" smooth="yes"/>
+      <point x="96" y="642"/>
+      <point x="103" y="649"/>
+      <point x="110" y="646" type="curve" smooth="yes"/>
+      <point x="170" y="618" type="line"/>
+      <point x="164" y="604" type="line"/>
+      <point x="104" y="632" type="line" smooth="yes"/>
+      <point x="97" y="635"/>
+      <point x="110" y="650"/>
+      <point x="114" y="643" type="curve" smooth="yes"/>
+      <point x="174" y="530" type="line"/>
+    </contour>
+  </outline>
+</glyph>

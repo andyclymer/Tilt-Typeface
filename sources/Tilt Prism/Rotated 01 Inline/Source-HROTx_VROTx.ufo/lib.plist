@@ -215,6 +215,17 @@
       <string>macronbelowcmb</string>
       <string>caroncmb.alt</string>
       <string>periodcentered.loclCAT</string>
+      <string>primemod</string>
+      <string>primedblmod</string>
+      <string>apostrophemod</string>
+      <string>commaturnedmod</string>
+      <string>ringhalfrightmod</string>
+      <string>ringhalfleftmod</string>
+      <string>verticallinemod</string>
+      <string>macronmod</string>
+      <string>acutemod</string>
+      <string>gravemod</string>
+      <string>verticallinelowmod</string>
       <string>Aacute</string>
       <string>Abreve</string>
       <string>Abreveacute</string>
@@ -623,6 +634,13 @@
       <string>zdotbelow</string>
       <string>space</string>
       <string>nbspace</string>
+      <string>figurespace</string>
+      <string>punctuationspace</string>
+      <string>thinspace</string>
+      <string>hairspace</string>
+      <string>zerowidthspace</string>
+      <string>figuredash</string>
+      <string>horizontalbar</string>
       <string>NJ</string>
       <string>Nj</string>
       <string>nj</string>
@@ -632,9 +650,15 @@
       <string>DZcaron</string>
       <string>Dzcaron</string>
       <string>dzcaron</string>
-      <string>Q.alt</string>
-      <string>one.alt</string>
-      <string>q.alt</string>
+      <string>arrowleft</string>
+      <string>arrowNW</string>
+      <string>arrowup</string>
+      <string>arrowNE</string>
+      <string>arrowright</string>
+      <string>arrowSE</string>
+      <string>arrowdown</string>
+      <string>arrowSW</string>
+      <string>Tdieresis</string>
     </array>
   </dict>
 </plist>

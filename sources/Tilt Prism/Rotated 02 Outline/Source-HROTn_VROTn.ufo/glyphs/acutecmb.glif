@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecmb" format="2">
+  <unicode hex="0301"/>
+  <anchor x="133.0" y="439.0" name="_above"/>
+  <anchor x="239.0" y="588.0" name="above"/>
+  <anchor x="133.0" y="439.0" name="_aboveright"/>
+  <outline>
+    <contour>
+      <point x="88" y="520" type="line"/>
+      <point x="83" y="534" type="line"/>
+      <point x="177" y="534" type="line"/>
+      <point x="172" y="533" type="line"/>
+      <point x="341" y="651" type="line"/>
+      <point x="346" y="636" type="line"/>
+      <point x="237" y="636" type="line"/>
+      <point x="242" y="638" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="532" type="curve" smooth="yes"/>
+      <point x="232" y="650" type="line" smooth="yes"/>
+      <point x="234" y="651"/>
+      <point x="235" y="652"/>
+      <point x="237" y="652" type="curve" smooth="yes"/>
+      <point x="346" y="652" type="line" smooth="yes"/>
+      <point x="354" y="652"/>
+      <point x="357" y="642"/>
+      <point x="351" y="637" type="curve" smooth="yes"/>
+      <point x="182" y="519" type="line" smooth="yes"/>
+      <point x="180" y="519"/>
+      <point x="179" y="518"/>
+      <point x="177" y="518" type="curve" smooth="yes"/>
+      <point x="83" y="518" type="line" smooth="yes"/>
+      <point x="75" y="518"/>
+      <point x="72" y="528"/>
+    </contour>
+  </outline>
+</glyph>

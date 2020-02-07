@@ -1,21 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macron" format="2">
-  <advance width="354"/>
+  <advance width="500"/>
   <unicode hex="00AF"/>
   <outline>
-    <contour>
-      <point x="138" y="580" type="curve" name="JNYMRBYY"/>
-      <point x="200" y="580" name="ZGMRTQVR"/>
-      <point x="280" y="580" name="TOILBODQ"/>
-      <point x="374" y="580" type="curve" name="XMPTMHVF"/>
-      <point x="350" y="623" name="PXMQFECS"/>
-      <point x="350" y="668" name="PJBTAIAH"/>
-      <point x="374" y="711" type="curve" name="HNCWJTTM"/>
-      <point x="280" y="711" name="CMLUMDWS"/>
-      <point x="200" y="711" name="SSMKSYTE"/>
-      <point x="138" y="711" type="curve" name="EMLNVRFA"/>
-      <point x="114" y="668" name="TYLZGPIM"/>
-      <point x="114" y="623" name="MBMMKMML"/>
-    </contour>
+    <component base="macroncmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

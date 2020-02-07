@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance width="500"/>
+  <unicode hex="01AF"/>
+  <anchor x="369.0" y="70.0" name="below"/>
+  <anchor x="26.0" y="554.0" name="above"/>
+  <outline>
+    <contour>
+      <point x="-1" y="623" type="move" name="BATZYDHE"/>
+      <point x="191" y="352" type="line" smooth="yes" name="EDIIWDMT"/>
+      <point x="248" y="271" name="DDAPFHMI"/>
+      <point x="340" y="220" name="PJMECILE"/>
+      <point x="423" y="220" type="curve" smooth="yes" name="GVYUIFRE"/>
+      <point x="506" y="220" name="TVEWCLQX"/>
+      <point x="526" y="271" name="ZEMPTWXK"/>
+      <point x="469" y="352" type="curve" smooth="yes" name="ZKYWIXKS"/>
+      <point x="261" y="646" type="line" name="RMOJKSDU"/>
+      <point x="288" y="659" name="MVXOMYAI"/>
+      <point x="289" y="683" name="ZSTKNMHJ"/>
+      <point x="267" y="720" type="curve" smooth="yes" name="RUOCHKPW"/>
+    </contour>
+    <contour>
+      <point x="-152" y="596" type="move" name="QJKSYZHJ"/>
+      <point x="-1" y="623" type="line" name="TBRIXQSZ"/>
+      <point x="-12" y="596" type="line" name="PKLWUEJD"/>
+    </contour>
+    <contour>
+      <point x="126" y="596" type="move" name="BPXTOADR"/>
+      <point x="261" y="646" type="line" name="PQYNGGXE"/>
+      <point x="276" y="566" type="line" name="DDCSZWRI"/>
+    </contour>
+    <contour>
+      <point x="138" y="692" type="move" name="WICIEYFW"/>
+      <point x="267" y="720" type="line" name="WIISWTTI"/>
+      <point x="238" y="692" type="line" name="DZYQYVGY"/>
+    </contour>
+  </outline>
+</glyph>

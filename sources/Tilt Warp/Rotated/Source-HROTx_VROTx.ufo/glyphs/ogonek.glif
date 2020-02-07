@@ -1,27 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ogonek" format="2">
-  <advance width="354"/>
+  <advance width="500"/>
   <unicode hex="02DB"/>
   <outline>
-    <contour>
-      <point x="219" y="52" type="curve" name="VUBSIVQW"/>
-      <point x="58" y="65" name="QAAATPZL"/>
-      <point x="2" y="27" name="MYZDUZPA"/>
-      <point x="-25" y="-24" type="curve" smooth="yes" name="JHZZUEDJ"/>
-      <point x="-59" y="-88" name="AQZUMTRR"/>
-      <point x="-19" y="-155" name="WLXQRBEX"/>
-      <point x="107" y="-115" type="curve" name="FNENISPG"/>
-      <point x="113" y="-71" name="RFZCGERA"/>
-      <point x="125" y="-34" name="ZLJXRBKR"/>
-      <point x="144" y="-7" type="curve" name="VTRKUTYB"/>
-      <point x="89" y="-12" name="POEHQRIN"/>
-      <point x="62" y="-10" name="XWKSSTKT"/>
-      <point x="76" y="9" type="curve" smooth="yes" name="ZRNALLNO"/>
-      <point x="88" y="23" name="XDXRODJH"/>
-      <point x="116" y="31" name="MVTBAGQP"/>
-      <point x="183" y="30" type="curve" name="LCFDMYND"/>
-      <point x="192" y="41" name="PKMVYAQH"/>
-      <point x="205" y="48" name="NUZHGICB"/>
-    </contour>
+    <component base="ogonekcmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -5,6 +5,7 @@ from outlineFitterPen import OutlineFitterPen, MathPoint
 import math
 import os
 import copy
+import random
 
 import outlineFitterPen
 print(outlineFitterPen.__file__)
@@ -494,7 +495,8 @@ def buildDesignSpace(
             # Shift the "z" value by an offset
             if not zOffset == None:
                 for ident in pointData:
-                    pointData[ident]["z"] += zOffset
+                    if not "anchor" in ident: # ...but don't shift the anchors, the components are already shifted
+                        pointData[ident]["z"] += zOffset
         
             # Extend the shadow
             if "SANG" in sourceInfo["loc"].keys():
@@ -559,6 +561,9 @@ def buildDesignSpace(
         sourceFont.groups.update(copy.deepcopy(masterFont.groups))
         sourceFont.kerning.update(copy.deepcopy(masterFont.kerning))
         
+        # Copy the features
+        sourceFont.features.text = masterFont.features.text
+        
         # Done, save
         sourceFont.changed()
         sourceFont.save()
@@ -595,7 +600,7 @@ def buildDesignSpace(
         #s.font = defcon.Font(s.name)
         s.copyLib = True
         s.copyInfo = True
-        s.copyFeatures = True
+        s.copyInfoures = True
         s.familyName = masterFont.info.familyName
         s.styleName = s.name
         # Convert the loc from tags to names

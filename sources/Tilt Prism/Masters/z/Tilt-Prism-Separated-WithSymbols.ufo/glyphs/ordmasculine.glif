@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="492"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="246" y="332" type="curve" smooth="yes" name="LEFIRBRP"/>
+      <point x="164" y="332" name="TYIYTREH"/>
+      <point x="106" y="398" name="IGYOUACN"/>
+      <point x="106" y="488" type="curve" smooth="yes" name="CSHHJBXN"/>
+      <point x="106" y="579" name="JSPJHATX"/>
+      <point x="164" y="644" name="HTLPNASZ"/>
+      <point x="246" y="644" type="curve" smooth="yes" name="AOHJZJJB"/>
+      <point x="328" y="644" name="MYGAXYUW"/>
+      <point x="386" y="579" name="HCAGVFGB"/>
+      <point x="386" y="488" type="curve" smooth="yes" name="CTQNKMKG"/>
+      <point x="386" y="398" name="XRDQSCDY"/>
+      <point x="328" y="332" name="WNKXIRHY"/>
+    </contour>
+    <contour>
+      <point x="374.0" y="168.0" type="move" name="AHBASXNG"/>
+      <point x="118.0" y="168.0" type="line" name="FWGGRKND"/>
+    </contour>
+    <contour>
+      <point x="66.0" y="113.0" type="move" name="SIAMBFMI"/>
+      <point x="118.0" y="168.0" type="line" name="AWJEQRGB"/>
+      <point x="66.0" y="222.0" type="line" name="OIRWJVVO"/>
+    </contour>
+    <contour>
+      <point x="426.0" y="222.0" type="move" name="EODMASAK"/>
+      <point x="374.0" y="168.0" type="line" name="JABROEUQ"/>
+      <point x="426.0" y="113.0" type="line" name="XPRWKGXC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AHBASXNG</key>
+        <integer>100</integer>
+        <key>AOHJZJJB</key>
+        <integer>100</integer>
+        <key>AWJEQRGB</key>
+        <integer>100</integer>
+        <key>CSHHJBXN</key>
+        <integer>100</integer>
+        <key>CTQNKMKG</key>
+        <integer>100</integer>
+        <key>EODMASAK</key>
+        <integer>0</integer>
+        <key>FWGGRKND</key>
+        <integer>100</integer>
+        <key>HCAGVFGB</key>
+        <integer>100</integer>
+        <key>HTLPNASZ</key>
+        <integer>100</integer>
+        <key>IGYOUACN</key>
+        <integer>100</integer>
+        <key>JABROEUQ</key>
+        <integer>100</integer>
+        <key>JSPJHATX</key>
+        <integer>100</integer>
+        <key>LEFIRBRP</key>
+        <integer>100</integer>
+        <key>MYGAXYUW</key>
+        <integer>100</integer>
+        <key>OIRWJVVO</key>
+        <integer>0</integer>
+        <key>SIAMBFMI</key>
+        <integer>0</integer>
+        <key>TYIYTREH</key>
+        <integer>100</integer>
+        <key>WNKXIRHY</key>
+        <integer>100</integer>
+        <key>XPRWKGXC</key>
+        <integer>0</integer>
+        <key>XRDQSCDY</key>
+        <integer>100</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

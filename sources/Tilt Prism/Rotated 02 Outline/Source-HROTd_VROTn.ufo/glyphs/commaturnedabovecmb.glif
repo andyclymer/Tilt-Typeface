@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecmb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="0" y="439.0" name="_above"/>
+  <anchor x="0" y="586.0" name="above"/>
+  <outline>
+    <contour>
+      <point x="68" y="534" type="line"/>
+      <point x="61" y="523" type="line"/>
+      <point x="44" y="568"/>
+      <point x="45" y="613"/>
+      <point x="97" y="667" type="curve"/>
+      <point x="104" y="653" type="line"/>
+      <point x="-47" y="643"/>
+      <point x="-88" y="582"/>
+      <point x="-81" y="527" type="curve"/>
+      <point x="-89" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="68" y="518" type="curve" smooth="yes"/>
+      <point x="-89" y="518" type="line" smooth="yes"/>
+      <point x="-93" y="518"/>
+      <point x="-96" y="521"/>
+      <point x="-97" y="525" type="curve" smooth="yes"/>
+      <point x="-104" y="586"/>
+      <point x="-63" y="659"/>
+      <point x="102" y="669" type="curve" smooth="yes"/>
+      <point x="110" y="669"/>
+      <point x="114" y="661"/>
+      <point x="109" y="655" type="curve" smooth="yes"/>
+      <point x="61" y="607"/>
+      <point x="60" y="570"/>
+      <point x="75" y="529" type="curve" smooth="yes"/>
+      <point x="77" y="524"/>
+      <point x="74" y="518"/>
+    </contour>
+  </outline>
+</glyph>

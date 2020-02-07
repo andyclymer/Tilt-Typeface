@@ -2,58 +2,50 @@
 <glyph name="Uhorn" format="2">
   <advance width="475"/>
   <unicode hex="01AF"/>
-  <anchor x="334.0" y="680" name="horn"/>
-  <anchor x="258.0" y="0" name="below"/>
-  <anchor x="244.0" y="680.0" name="above"/>
+  <anchor x="313.0" y="680" name="horn"/>
+  <anchor x="237.0" y="0" name="below"/>
+  <anchor x="223.0" y="680.0" name="above"/>
   <outline>
     <contour>
-      <point x="408" y="258" type="curve" name="YSSNXRBH"/>
-      <point x="425" y="397" name="XJJUZKXJ"/>
-      <point x="393" y="541" name="JEWBEAVR"/>
-      <point x="314" y="680" type="curve" name="OJZMSMLA"/>
-      <point x="281" y="680" name="ENXPESEP"/>
-      <point x="245" y="680" name="IPIEXHNJ"/>
-      <point x="207" y="680" type="curve" name="QUYNMDJF"/>
-      <point x="285" y="543" name="GFPMEVNJ"/>
-      <point x="317" y="403" name="HTRROQXA"/>
-      <point x="302" y="266" type="curve" smooth="yes" name="JUUSBHKI"/>
-      <point x="294" y="194" name="LWVZWIDQ"/>
-      <point x="249" y="146" name="BIPTRELN"/>
-      <point x="205" y="146" type="curve" smooth="yes" name="STORTFDK"/>
-      <point x="161" y="146" name="PHCXVDXM"/>
-      <point x="144" y="194" name="MPSYHKWX"/>
-      <point x="152" y="266" type="curve" smooth="yes" name="GAGTRUSN"/>
-      <point x="166" y="403" name="GTWHYHNU"/>
-      <point x="134" y="543" name="HWXOZFBI"/>
-      <point x="57" y="680" type="curve" name="JTPCYFUI"/>
-      <point x="12" y="680" name="IRRJNZCH"/>
-      <point x="-35" y="680" name="FJALAJCJ"/>
-      <point x="-85" y="680" type="curve" name="YXLQTPLK"/>
-      <point x="-5" y="540" name="JBERAIJR"/>
-      <point x="26" y="396" name="QSOYMOYF"/>
-      <point x="9" y="256" type="curve" smooth="yes" name="XCTFIHWM"/>
-      <point x="-11" y="89" name="VZSPIBUR"/>
-      <point x="19" y="-16" name="NKKKCEWQ"/>
-      <point x="134" y="-16" type="curve" smooth="yes" name="SUFIPABS"/>
-      <point x="247" y="-16" name="FJSSPVPZ"/>
-      <point x="388" y="91" name="IOLQZGDK"/>
-      <point x="408" y="258" type="curve" name="BOXNRIVR"/>
-      <point x="408" y="258" name="CHVQJZOB"/>
-      <point x="408" y="258" name="ATMWTHOQ"/>
-    </contour>
-    <contour>
-      <point x="228" y="572" type="curve" name="XFDEOWRY"/>
-      <point x="369" y="572" name="OIAXLMQB"/>
-      <point x="495" y="661" name="YXHPETUI"/>
-      <point x="407" y="815" type="curve" name="XBLRFBSO"/>
-      <point x="380" y="815" name="IIRFTVYS"/>
-      <point x="350" y="815" name="YVZNGQEA"/>
-      <point x="316" y="815" type="curve" name="WZVGEFWI"/>
-      <point x="364" y="730" name="BBRVJPGG"/>
-      <point x="337" y="680" name="FACGBABC"/>
-      <point x="262" y="680" type="curve" name="NAFHDTTP"/>
-      <point x="259" y="644" name="WZXZHWAZ"/>
-      <point x="248" y="608" name="BFFQIBED"/>
+      <point x="200" y="146" type="curve" name="DFGXKZRD"/>
+      <point x="154" y="146" name="FWOZSJHI"/>
+      <point x="139" y="194" name="CQVFNZKA"/>
+      <point x="152" y="266" type="curve" smooth="yes" name="PZEJNBZI"/>
+      <point x="176" y="403" name="FACWCXWT"/>
+      <point x="163" y="543" name="ANDOOZKH"/>
+      <point x="111" y="680" type="curve" name="PRJYUVRN"/>
+      <point x="65" y="680" name="LLZNXNPF"/>
+      <point x="18" y="680" name="AOWQFNNJ"/>
+      <point x="-32" y="680" type="curve" name="UXPHYPLQ"/>
+      <point x="22" y="540" name="SRSXSUNI"/>
+      <point x="36" y="396" name="IDHAZRIE"/>
+      <point x="8" y="256" type="curve" smooth="yes" name="FZHZLIYS"/>
+      <point x="-24" y="89" name="IXIDCHYE"/>
+      <point x="7" y="-16" name="LISYEWKR"/>
+      <point x="125" y="-16" type="curve" smooth="yes" name="DDKSABDH"/>
+      <point x="241" y="-16" name="UOKAOGMG"/>
+      <point x="384" y="91" name="TVRPIVRZ"/>
+      <point x="417" y="258" type="curve" smooth="yes" name="XJTWKWGG"/>
+      <point x="440" y="378" name="RGCGEIOO"/>
+      <point x="432" y="503" name="WJSRTYAZ"/>
+      <point x="396" y="623" type="curve" name="WCSMQNDL"/>
+      <point x="415" y="664" name="SZDFYZJB"/>
+      <point x="407" y="730" name="ABYLTJQH"/>
+      <point x="358" y="815" type="curve" name="PVWZNQSN"/>
+      <point x="331" y="815" name="UNRATDGU"/>
+      <point x="304" y="815" name="EWUOOWFL"/>
+      <point x="274" y="815" type="curve" name="CKUAACIN"/>
+      <point x="322" y="730" name="ZNOWMKBM"/>
+      <point x="325" y="680" name="AISQLBOA"/>
+      <point x="265" y="680" type="curve" name="GGVMZHOR"/>
+      <point x="316" y="543" name="QMJVDNPI"/>
+      <point x="330" y="403" name="JMJYHSGQ"/>
+      <point x="306" y="266" type="curve" smooth="yes" name="UXSCWCTL"/>
+      <point x="293" y="194" name="SWJBCWIT"/>
+      <point x="245" y="146" name="EKWNGBEG"/>
+      <point x="200" y="146" type="curve" name="ASTXEDHA"/>
+      <point x="200" y="146" name="LJNQWEGF"/>
+      <point x="200" y="146" name="CWQICTWT"/>
     </contour>
   </outline>
 </glyph>

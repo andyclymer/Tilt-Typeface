@@ -1,119 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis" format="2">
-  <advance width="409"/>
+  <advance width="500"/>
   <unicode hex="00A8"/>
   <outline>
-    <contour>
-      <point x="109" y="765" type="line"/>
-      <point x="236" y="685" type="line" smooth="yes"/>
-      <point x="239" y="683"/>
-      <point x="240" y="680"/>
-      <point x="240" y="677" type="curve" smooth="yes"/>
-      <point x="227" y="596" type="line"/>
-      <point x="211" y="598" type="line"/>
-      <point x="224" y="679" type="line" smooth="yes"/>
-      <point x="225" y="682"/>
-      <point x="230" y="670"/>
-      <point x="228" y="671" type="curve" smooth="yes"/>
-      <point x="101" y="751" type="line"/>
-    </contour>
-    <contour>
-      <point x="101" y="604" type="line"/>
-      <point x="228" y="685" type="line" smooth="yes"/>
-      <point x="230" y="686"/>
-      <point x="225" y="674"/>
-      <point x="224" y="677" type="curve" smooth="yes"/>
-      <point x="211" y="757" type="line"/>
-      <point x="227" y="759" type="line"/>
-      <point x="240" y="679" type="line" smooth="yes"/>
-      <point x="240" y="676"/>
-      <point x="239" y="673"/>
-      <point x="236" y="671" type="curve" smooth="yes"/>
-      <point x="109" y="590" type="line"/>
-    </contour>
-    <contour>
-      <point x="279" y="765" type="line"/>
-      <point x="406" y="685" type="line" smooth="yes"/>
-      <point x="409" y="683"/>
-      <point x="410" y="680"/>
-      <point x="410" y="677" type="curve" smooth="yes"/>
-      <point x="397" y="596" type="line"/>
-      <point x="381" y="598" type="line"/>
-      <point x="394" y="679" type="line" smooth="yes"/>
-      <point x="395" y="682"/>
-      <point x="400" y="670"/>
-      <point x="398" y="671" type="curve" smooth="yes"/>
-      <point x="271" y="751" type="line"/>
-    </contour>
-    <contour>
-      <point x="271" y="604" type="line"/>
-      <point x="398" y="685" type="line" smooth="yes"/>
-      <point x="400" y="686"/>
-      <point x="395" y="674"/>
-      <point x="394" y="677" type="curve" smooth="yes"/>
-      <point x="381" y="757" type="line"/>
-      <point x="397" y="759" type="line"/>
-      <point x="410" y="679" type="line" smooth="yes"/>
-      <point x="410" y="676"/>
-      <point x="409" y="673"/>
-      <point x="406" y="671" type="curve" smooth="yes"/>
-      <point x="279" y="590" type="line"/>
-    </contour>
-    <contour>
-      <point x="105" y="589" type="line" smooth="yes"/>
-      <point x="101" y="589"/>
-      <point x="97" y="593"/>
-      <point x="97" y="597" type="curve" smooth="yes"/>
-      <point x="97" y="758" type="line" smooth="yes"/>
-      <point x="97" y="762"/>
-      <point x="101" y="766"/>
-      <point x="105" y="766" type="curve" smooth="yes"/>
-      <point x="219" y="766" type="line" smooth="yes"/>
-      <point x="223" y="766"/>
-      <point x="227" y="762"/>
-      <point x="227" y="758" type="curve" smooth="yes"/>
-      <point x="227" y="597" type="line" smooth="yes"/>
-      <point x="227" y="593"/>
-      <point x="223" y="589"/>
-      <point x="219" y="589" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="275" y="589" type="line" smooth="yes"/>
-      <point x="271" y="589"/>
-      <point x="267" y="593"/>
-      <point x="267" y="597" type="curve" smooth="yes"/>
-      <point x="267" y="758" type="line" smooth="yes"/>
-      <point x="267" y="762"/>
-      <point x="271" y="766"/>
-      <point x="275" y="766" type="curve" smooth="yes"/>
-      <point x="389" y="766" type="line" smooth="yes"/>
-      <point x="393" y="766"/>
-      <point x="397" y="762"/>
-      <point x="397" y="758" type="curve" smooth="yes"/>
-      <point x="397" y="597" type="line" smooth="yes"/>
-      <point x="397" y="593"/>
-      <point x="393" y="589"/>
-      <point x="389" y="589" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="105" y="605" type="line"/>
-      <point x="219" y="605" type="line"/>
-      <point x="211" y="597" type="line"/>
-      <point x="211" y="758" type="line"/>
-      <point x="219" y="750" type="line"/>
-      <point x="105" y="750" type="line"/>
-      <point x="113" y="758" type="line"/>
-      <point x="113" y="597" type="line"/>
-    </contour>
-    <contour>
-      <point x="275" y="605" type="line"/>
-      <point x="389" y="605" type="line"/>
-      <point x="381" y="597" type="line"/>
-      <point x="381" y="758" type="line"/>
-      <point x="389" y="750" type="line"/>
-      <point x="275" y="750" type="line"/>
-      <point x="283" y="758" type="line"/>
-      <point x="283" y="597" type="line"/>
-    </contour>
+    <component base="dieresiscmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

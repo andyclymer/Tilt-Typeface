@@ -1,30 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caron" format="2">
-  <advance width="354"/>
+  <advance width="500"/>
   <unicode hex="02C7"/>
   <outline>
-    <contour>
-      <point x="235" y="747" type="curve" name="YZZPGMOF"/>
-      <point x="207" y="747" name="PJLNTVET"/>
-      <point x="175" y="747" name="NZVXNSZZ"/>
-      <point x="141" y="747" type="curve" name="RRNUTGLQ"/>
-      <point x="144" y="723" name="ZGBLPJSB"/>
-      <point x="141" y="698" name="RRSEYGBW"/>
-      <point x="132" y="674" type="curve" name="CSPKYUVX"/>
-      <point x="118" y="698" name="QDJEKOAF"/>
-      <point x="100" y="723" name="WVLSONST"/>
-      <point x="74" y="747" type="curve" name="NFOYHNNR"/>
-      <point x="38" y="747" name="UKDKPDAF"/>
-      <point x="-4" y="747" name="UQSKIKWY"/>
-      <point x="-46" y="747" type="curve" name="KPCLIDNA"/>
-      <point x="16" y="692" name="DOZFOPHT"/>
-      <point x="46" y="635" name="QMUWVQLA"/>
-      <point x="43" y="580" type="curve" name="QAMFTGJD"/>
-      <point x="88" y="580" name="ZCGIMOMP"/>
-      <point x="130" y="580" name="CKDOMSII"/>
-      <point x="168" y="580" type="curve" name="FXWQVUFZ"/>
-      <point x="223" y="635" name="RYKSIHJM"/>
-      <point x="246" y="692" name="GBVFURIJ"/>
-    </contour>
+    <component base="caroncmb" xOffset="250"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>

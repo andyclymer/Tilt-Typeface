@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcmb" format="2">
+  <unicode hex="0307"/>
+  <anchor x="133.0" y="439.0" name="_above"/>
+  <anchor x="247.0" y="599.0" name="above"/>
+  <outline>
+    <contour>
+      <point x="159" y="638" type="line"/>
+      <point x="125" y="652" type="line" smooth="yes"/>
+      <point x="118" y="654"/>
+      <point x="132" y="669"/>
+      <point x="135" y="663" type="curve" smooth="yes"/>
+      <point x="202" y="535" type="line"/>
+      <point x="188" y="527" type="line"/>
+      <point x="121" y="655" type="line" smooth="yes"/>
+      <point x="117" y="662"/>
+      <point x="124" y="669"/>
+      <point x="131" y="666" type="curve" smooth="yes"/>
+      <point x="165" y="652" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="637" type="line"/>
+      <point x="127" y="651" type="line" smooth="yes"/>
+      <point x="124" y="651"/>
+      <point x="137" y="660"/>
+      <point x="136" y="656" type="curve" smooth="yes"/>
+      <point x="89" y="528" type="line"/>
+      <point x="73" y="534" type="line"/>
+      <point x="120" y="662" type="line" smooth="yes"/>
+      <point x="122" y="665"/>
+      <point x="125" y="667"/>
+      <point x="129" y="667" type="curve" smooth="yes"/>
+      <point x="277" y="653" type="line"/>
+    </contour>
+  </outline>
+</glyph>
