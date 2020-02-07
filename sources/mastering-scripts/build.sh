@@ -35,7 +35,7 @@ timestamp() {
 
 date=$(timestamp)
 
-# fontmake -m "$DS" -o variable --output-path $outputDir/$fontName\[HROT,VROT\].ttf
+fontmake -m "$DS" -o variable --output-path $outputDir/$fontName\[HROT,VROT\].ttf
 
 
 # ---------------------------------------------------------
@@ -43,11 +43,11 @@ date=$(timestamp)
 # optional; not necessary to include. Use arg --check or -c to run these
 # will work better if done after font is moved into google/fonts ofl sub-dir
 
-pip install -U fontbakery # update
 
 check=$2
 
 if [[ $check = "-c" || $check = "--check" ]] ; then
+  pip install -U fontbakery # update
   echo 'Running FontBakery on outputs'
   fontbakery check-googlefonts $outputDir/$fontName*HROT*VROT*.ttf --ghmarkdown sources/mastering-scripts/notes/fontbakery-checks/$fontName--$date.checks.md
 fi
