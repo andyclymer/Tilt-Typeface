@@ -278,7 +278,7 @@ def outlineGlyph(f, g, offsetAmount, contrast=0, contrastAngle=0, alwaysConnect=
 
 
 def buildDesignSpace(
-        masterPath=None, 
+        master=None, 
         destPath=None, 
         glyphNames=[],
         compositionType="rotate", 
@@ -293,22 +293,31 @@ def buildDesignSpace(
         connection="Round",
         layerName=None,
         styleName=None):
+
+    # Open the master UFO
+    if type(master) == str:
+        master = OpenFont(masterPath, showInterface=False)
     
-    # Set up folders
-    basePath, masterFileName = os.path.split(masterPath)
+    # Try to make a dest path, if there isn't one
     if destPath == None:
-        destPath = os.path.join(basePath, "Rotated")
+        if master.path:
+            basePath = os.path.split(master.path)[0]
+            destPath = os.path.join(basePath, "Rotated")
+    
     # Make new folders for the destPath
     if not os.path.exists(destPath):
         os.makedirs(destPath)
-
-    # Open the master UFO
-    masterFont = OpenFont(masterPath, showInterface=False)
     
     # Use all glyphs, if no names are called for
     if glyphNames == []:
         glyphNames = list(masterFont.keys())
         glyphNames.sort()
+    
+    # Default names
+    if not familyName:
+        familyName = master.info.familyName
+    if not styleName:
+        styleName = "Regular"
     
     """ Collect glyph data """
     # Organize the point data out of the glyph lib
