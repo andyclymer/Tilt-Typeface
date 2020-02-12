@@ -2,12 +2,22 @@
 <glyph name="periodcentered.loclCAT" format="2">
   <advance width="205"/>
   <outline>
-    <component base="periodcentered"/>
+    <contour>
+      <point x="24" y="295" type="curve" name="YUJQFQNW"/>
+      <point x="64" y="295" name="NQSMAKKB"/>
+      <point x="137" y="306" name="ZWGNPLRJ"/>
+      <point x="165" y="347" type="curve" smooth="yes" name="ROQDIBJA"/>
+      <point x="193" y="386" name="SMYEDZNC"/>
+      <point x="167" y="442" name="IGXFUYUJ"/>
+      <point x="127" y="441" type="curve" smooth="yes" name="EVQVHJTL"/>
+      <point x="85" y="441" name="OCVTOOZP"/>
+      <point x="44" y="387" name="GDJSHUPM"/>
+      <point x="16" y="347" type="curve" smooth="yes" name="KXNLDKUN"/>
+      <point x="-12" y="306" name="NZRGSCDS"/>
+      <point x="-18" y="295" name="LYVKRVET"/>
+      <point x="24" y="295" type="curve" name="VFTRZOYZ"/>
+      <point x="24" y="295" name="UZIFRSQQ"/>
+      <point x="24" y="295" name="FYJKEKKF"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5725,0.9294,0.9529,1</string>
-    </dict>
-  </lib>
 </glyph>

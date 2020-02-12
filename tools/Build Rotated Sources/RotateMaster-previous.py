@@ -8,6 +8,7 @@ import copy
 import random
 
 import outlineFitterPen
+print(outlineFitterPen.__file__)
 
 
 AXISINFO = {
@@ -277,7 +278,7 @@ def outlineGlyph(f, g, offsetAmount, contrast=0, contrastAngle=0, alwaysConnect=
 
 
 def buildDesignSpace(
-        masterFont=None, 
+        master=None, 
         destPath=None, 
         glyphNames=[],
         compositionType="rotate", 
@@ -294,18 +295,13 @@ def buildDesignSpace(
         styleName=None):
 
     # Open the master UFO
-    if type(masterFont) == str:
-        masterFont = OpenFont(masterFont, showInterface=False)
-    
-    # Get the master file name, if it's saved
-    basePath = None
-    masterFileName = "Font"
-    if masterFont.path:
-        basePath, masterFileName = os.path.split(masterFont.path)
+    if type(master) == str:
+        master = OpenFont(masterPath, showInterface=False)
     
     # Try to make a dest path, if there isn't one
     if destPath == None:
-        if basePath:
+        if master.path:
+            basePath = os.path.split(master.path)[0]
             destPath = os.path.join(basePath, "Rotated")
     
     # Make new folders for the destPath
@@ -319,7 +315,7 @@ def buildDesignSpace(
     
     # Default names
     if not familyName:
-        familyName = masterFont.info.familyName
+        familyName = master.info.familyName
     if not styleName:
         styleName = "Regular"
     
@@ -379,8 +375,8 @@ def buildDesignSpace(
                 sourceCombinations.append(sourceInfo)
     
     # Process the sourceCombinations and make SubSources if necessary
-    #print("needSubHROT", needSubHROT)
-    #print("needSubVROT", needSubVROT)
+    print("needSubHROT", needSubHROT)
+    print("needSubVROT", needSubVROT)
     # @@@ Temporarily force all glyphs to be in all submasters
     needSubHROT = glyphNames
     needSubVROT = glyphNames
