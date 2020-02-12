@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="invertedbrevecmb" format="2">
+  <unicode hex="0311"/>
+  <anchor x="0" y="425.0" name="_above"/>
+  <anchor x="0" y="579.0" name="above"/>
+  <outline>
+    <contour>
+      <point x="-159.0" y="409.0" type="curve" smooth="yes"/>
+      <point x="-159.0" y="466.0"/>
+      <point x="-112.0" y="531.0"/>
+      <point x="0.0" y="531.0" type="curve" smooth="yes"/>
+      <point x="112.0" y="531.0"/>
+      <point x="159.0" y="472.0"/>
+      <point x="159.0" y="411.0" type="curve" smooth="yes"/>
+      <point x="159.0" y="357.0"/>
+      <point x="74.0" y="350.0"/>
+      <point x="70.0" y="405.0" type="curve" smooth="yes"/>
+      <point x="68.0" y="431.0"/>
+      <point x="40.0" y="441.0"/>
+      <point x="0.0" y="441.0" type="curve" smooth="yes"/>
+      <point x="-41.0" y="441.0"/>
+      <point x="-69.0" y="432.0"/>
+      <point x="-69.0" y="406.0" type="curve" smooth="yes"/>
+      <point x="-69.0" y="351.0"/>
+      <point x="-159.0" y="359.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>
