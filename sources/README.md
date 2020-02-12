@@ -25,3 +25,5 @@ After rotating, components are reapplied with the Glyph Builder extension, and k
 ### Build
 
 During the design process, names are being set with ``FontInfo.py`` script, and a quick build has been made with RoboFont's Batch extension.
+
+- [ ] 

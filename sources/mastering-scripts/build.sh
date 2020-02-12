@@ -3,6 +3,9 @@
 #
 # USAGE: 
 # 
+# create venv
+# pip install -r req......
+# 
 # after giving permission with:
 # chmod +x sources/mastering-scripts/build.sh
 # 
