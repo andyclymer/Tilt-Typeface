@@ -14,6 +14,18 @@
     <string>Tilt Beta Prism</string>
     <key>guidelines</key>
     <array/>
+    <key>openTypeGaspRangeRecords</key>
+    <array>
+      <dict>
+        <key>rangeGaspBehavior</key>
+        <array>
+          <integer>1</integer>
+          <integer>2</integer>
+        </array>
+        <key>rangeMaxPPEM</key>
+        <integer>65535</integer>
+      </dict>
+    </array>
     <key>openTypeHheaAscender</key>
     <integer>990</integer>
     <key>openTypeHheaDescender</key>
@@ -27,7 +39,9 @@
     <key>openTypeNameDesignerURL</key>
     <string>http://www.andyclymer.com/</string>
     <key>openTypeNameLicense</key>
-    <string>EARLY BETA VERSION, please don't redistribute! Thanks --Andy</string>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameManufacturer</key>
     <string>Andy Clymer</string>
     <key>openTypeNameManufacturerURL</key>
@@ -37,7 +51,7 @@
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
     <key>openTypeNameVersion</key>
-    <string>0.7 BETA 2020_02_06</string>
+    <string>0.9 BETA 2020_02_12</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>2</integer>
@@ -51,12 +65,18 @@
       <integer>0</integer>
       <integer>0</integer>
     </array>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>318</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>16</integer>
     <key>openTypeOS2TypoAscender</key>
     <integer>990</integer>
     <key>openTypeOS2TypoDescender</key>
     <integer>-272</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>ANDY</string>
     <key>openTypeOS2WeightClass</key>
     <integer>400</integer>
     <key>openTypeOS2WidthClass</key>
@@ -81,6 +101,10 @@
     <array/>
     <key>postscriptStemSnapV</key>
     <array/>
+    <key>postscriptUnderlinePosition</key>
+    <integer>60</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>16</integer>
     <key>postscriptWeightName</key>
     <string>Regular</string>
     <key>styleMapFamilyName</key>
@@ -96,7 +120,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>7</integer>
+    <integer>9</integer>
     <key>xHeight</key>
     <integer>517</integer>
     <key>year</key>

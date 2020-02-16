@@ -26,36 +26,36 @@ All three styles have been drawn to the “Google Latin Core Plus” character s
 
 ## Current status
 
-*As of January 31st, 2020 —*
+*As of February 10th, 2020 —*
 
 The principle design of all three styles is complete, and the work on extending the language support from "Google Latin Core" to "Google Latin Expert" is nearly complete. In the next stage, the kerning will be revisited with the new larger character set, and an extended set of symbols, dingbats and arrows will be drawn.
 
 | Neon | |
 | :--- | :--- |
-| Core character set | The full “Google Latin Expert” character set is nearly complete |
-| Drawing quality | All glyphs are in their fully final 3D state, except a few remaining accented glyphs |
-| Extended language support | Nearly complete |
-| Extended symbols and dingbats | Not yet begun |
+| Core character set | The full “Google Latin Expert” character set is complete |
+| Drawing quality | All glyphs are in their fully final 3D state |
+| Extended language support | Complete |
+| Extended symbols and dingbats | Complete |
 | Kerning | Nearly complete, kerning for extended Latin glyphs will be revisited |
-| Manufacturing | Not yet begun. File sizes still need to be optimized (most glyphs use more masters than needed) |
+| Manufacturing | Started. File sizes still need to be optimized (most glyphs use more masters than needed) |
 
 | Prism | |
 | :--- | :--- |
 | Core character set | The full “Google Latin Expert” character set is complete, including small capitals in place of the lowercase |
 | Drawing quality | All glyphs are in their fully final 3D state |
 | Extended language support | Complete |
-| Extended symbols and dingbats | Not yet begun |
+| Extended symbols and dingbats | Complete |
 | Kerning | Nearly complete, kerning for extended Latin glyphs will be revisited |
-| Manufacturing | Not yet begun. File sizes still need to be optimized |
+| Manufacturing | Started. File sizes still need to be optimized |
 
 | Warp | |
 | :--- | :--- |
 | Core character set | The full “Google Latin Expert” character set is complete |
 | Drawing quality | All glyphs are in their fully final 3D state |
-| Extended language support |Complete |
-| Extended symbols and dingbats | Not yet begun |
+| Extended language support | Complete |
+| Extended symbols and dingbats | Complete |
 | Kerning | Nearly complete, kerning for extended Latin glyphs will be revisited |
-| Manufacturing | Not yet begun |
+| Manufacturing | Started |
 
 
 ## Variable Axes

@@ -8,7 +8,6 @@ import copy
 import random
 
 import outlineFitterPen
-print(outlineFitterPen.__file__)
 
 
 AXISINFO = {
@@ -278,7 +277,7 @@ def outlineGlyph(f, g, offsetAmount, contrast=0, contrastAngle=0, alwaysConnect=
 
 
 def buildDesignSpace(
-        masterPath=None, 
+        masterFont=None, 
         destPath=None, 
         glyphNames=[],
         compositionType="rotate", 
@@ -293,22 +292,36 @@ def buildDesignSpace(
         connection="Round",
         layerName=None,
         styleName=None):
+
+    # Open the master UFO
+    if type(masterFont) == str:
+        masterFont = OpenFont(masterFont, showInterface=False)
     
-    # Set up folders
-    basePath, masterFileName = os.path.split(masterPath)
+    # Get the master file name, if it's saved
+    basePath = None
+    masterFileName = "Font"
+    if masterFont.path:
+        basePath, masterFileName = os.path.split(masterFont.path)
+    
+    # Try to make a dest path, if there isn't one
     if destPath == None:
-        destPath = os.path.join(basePath, "Rotated")
+        if basePath:
+            destPath = os.path.join(basePath, "Rotated")
+    
     # Make new folders for the destPath
     if not os.path.exists(destPath):
         os.makedirs(destPath)
-
-    # Open the master UFO
-    masterFont = OpenFont(masterPath, showInterface=False)
     
     # Use all glyphs, if no names are called for
     if glyphNames == []:
         glyphNames = list(masterFont.keys())
         glyphNames.sort()
+    
+    # Default names
+    if not familyName:
+        familyName = masterFont.info.familyName
+    if not styleName:
+        styleName = "Regular"
     
     """ Collect glyph data """
     # Organize the point data out of the glyph lib
@@ -366,8 +379,8 @@ def buildDesignSpace(
                 sourceCombinations.append(sourceInfo)
     
     # Process the sourceCombinations and make SubSources if necessary
-    print("needSubHROT", needSubHROT)
-    print("needSubVROT", needSubVROT)
+    #print("needSubHROT", needSubHROT)
+    #print("needSubVROT", needSubVROT)
     # @@@ Temporarily force all glyphs to be in all submasters
     needSubHROT = glyphNames
     needSubVROT = glyphNames

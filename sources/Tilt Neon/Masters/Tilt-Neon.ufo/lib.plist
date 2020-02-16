@@ -6,7 +6,7 @@
     <array>
       <dict>
         <key>allowPseudoUnicode</key>
-        <integer>0</integer>
+        <integer>1</integer>
         <key>ascending</key>
         <string>GF Latin Tilt</string>
         <key>type</key>
@@ -1110,11 +1110,11 @@
       <string>arrowSW</string>
       <string>arrowleft.circle</string>
       <string>arrowNW.circle</string>
-      <string>arrowdown.circle</string>
+      <string>arrowup.circle</string>
       <string>arrowNE.circle</string>
       <string>arrowright.circle</string>
       <string>arrowSE.circle</string>
-      <string>arrowup.circle</string>
+      <string>arrowdown.circle</string>
       <string>arrowSW.circle</string>
       <string>smilingfacewhite</string>
       <string>frowningfacewhite</string>
@@ -1202,6 +1202,7 @@
       <string>uring.alt</string>
       <string>utilde.alt</string>
       <string>utildeacute.alt</string>
+      <string>.notdef</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>

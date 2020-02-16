@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>.notdef</key>
+    <string>_notdef.glif</string>
     <key>A</key>
     <string>A_.glif</string>
     <key>AE</key>
@@ -374,6 +376,8 @@
     <string>T_cedilla.glif</string>
     <key>Tcommaaccent</key>
     <string>T_commaaccent.glif</string>
+    <key>Tdieresis</key>
+    <string>T_dieresis.glif</string>
     <key>Tdotbelow</key>
     <string>T_dotbelow.glif</string>
     <key>Thorn</key>

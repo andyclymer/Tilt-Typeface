@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aogonek" format="2">
+  <advance width="584"/>
+  <unicode hex="0105"/>
+  <anchor x="306" y="509" name="above"/>
+  <outline>
+    <component base="a"/>
+    <component base="ogonekcmb" xOffset="273" yOffset="-32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3234,0.3234,0.3234,1</string>
+    </dict>
+  </lib>
+</glyph>

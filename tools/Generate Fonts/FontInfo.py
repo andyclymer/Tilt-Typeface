@@ -42,17 +42,17 @@ def setFontInfo(f, familyName, styleName, version=(0, 0), versionString=""):
         openTypeNameDesignerURL = "http://www.andyclymer.com/",
         openTypeNameManufacturer = "Andy Clymer",
         openTypeNameManufacturerURL = "http://www.andyclymer.com/",
-        openTypeNameLicense = "EARLY BETA VERSION, please don't redistribute! Thanks --Andy",
-        #openTypeNameLicenseURL = "",
+        openTypeNameLicense = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        openTypeNameLicenseURL = "http://scripts.sil.org/OFL",
         #openTypeNameUniqueID = None,
         #openTypeNameDescription = None,
 
         openTypeOS2WidthClass = 5,
         openTypeOS2WeightClass = 400,
-        #openTypeOS2VendorID = None,
+        openTypeOS2VendorID = "ANDY",
         openTypeOS2Panose = [2, 0, 0, 0, 0, 0, 0, 0, 0, 0],
 
-        #openTypeGaspRangeRecords = ,
+        openTypeGaspRangeRecords = [{'rangeMaxPPEM': 65535, 'rangeGaspBehavior': [1, 2]}],
 
         #openTypeOS2SubscriptXSize = ,
         #openTypeOS2SubscriptYSize = ,
@@ -62,18 +62,30 @@ def setFontInfo(f, familyName, styleName, version=(0, 0), versionString=""):
         #openTypeOS2SuperscriptYSize = ,
         #openTypeOS2SuperscriptXOffset = ,
         #openTypeOS2SuperscriptYOffset = ,
-        #openTypeOS2StrikeoutSize = ,
-        #openTypeOS2StrikeoutPosition = ,
+        
+        openTypeOS2StrikeoutSize = 100,
+        openTypeOS2StrikeoutPosition = 308,
+        postscriptUnderlineThickness = 100,
+        postscriptUnderlinePosition = 78,
 
         postscriptFontName = "%s-%s" % (familyName.replace(" ", ""), styleName.replace(" ", "")),
         postscriptFullName = "%s %s" % (familyName, styleName),
         #postscriptSlantAngle = ,
         #postscriptUniqueID = ,
-        #postscriptUnderlineThickness = ,
-        #postscriptUnderlinePosition = ,
         #postscriptIsFixedPitch = ,
         postscriptWeightName = "Regular",
     )
+    
+    if "Prism" in familyName:
+        infoDict["openTypeOS2StrikeoutSize"] = 16
+        infoDict["openTypeOS2StrikeoutPosition"] = 318
+        infoDict["postscriptUnderlineThickness"] = 16
+        infoDict["postscriptUnderlinePosition"] = 60
+    elif "Warp" in familyName:
+        infoDict["openTypeOS2StrikeoutSize"] = 155
+        infoDict["openTypeOS2StrikeoutPosition"] = 310
+        infoDict["postscriptUnderlineThickness"] = 155
+        infoDict["postscriptUnderlinePosition"] = 70
     
     for k, v in infoDict.items():
         setattr(f.info, k, v)
@@ -90,8 +102,8 @@ for fileName in os.listdir(sourceFolderPath):
         
         familyName = "Tilt Beta Prism"
         styleName = "Regular"
-        version = (0, 7)
-        versionString = "BETA 2020_02_06"
+        version = (0, 9)
+        versionString = "BETA 2020_02_12"
         
         setFontInfo(f, familyName, styleName, version=version, versionString=versionString)
         
