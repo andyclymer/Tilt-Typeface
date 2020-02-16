@@ -32,13 +32,19 @@ outputDir="fonts" && mkdir -p $outputDir
 dsName=$(basename "$DS")
 fontName=${dsName/".designspace"/""}
 
-timestamp() {
-  date +"%Y_%m_%d-%H_%M"
-}
+fontmake -m "$DS" -o variable --output-path $outputDir/$fontName.ttf
 
-date=$(timestamp)
+# ---------------------------------------------------------
+# Make woff2 files ----------------------------------------
 
-fontmake -m "$DS" -o variable --output-path $outputDir/$fontName\[HROT,VROT\].ttf
+mkdir -p fonts/woff2
+
+woff2_compress $outputDir/$fontName.ttf
+
+mv $outputDir/$fontName.woff2 fonts/woff2/$fontName.woff2
+
+# ---------------------------------------------------------
+# TODO: Subset for Latin Basic ----------------------------
 
 
 # ---------------------------------------------------------
@@ -52,7 +58,7 @@ check=$2
 if [[ $check = "-c" || $check = "--check" ]] ; then
   pip install -U fontbakery # update
   echo 'Running FontBakery on outputs'
-  fontbakery check-googlefonts $outputDir/$fontName*HROT*VROT*.ttf --ghmarkdown sources/mastering-scripts/notes/fontbakery-checks/$fontName--$date.checks.md
+  fontbakery check-googlefonts $outputDir/$fontName.ttf --ghmarkdown sources/mastering-scripts/notes/fontbakery-checks/$fontName--$date.checks.md
 fi
 
 # TODO (see https://github.com/thundernixon/inter/blob/qa/misc/googlefonts-qa/fix-move-check.sh):

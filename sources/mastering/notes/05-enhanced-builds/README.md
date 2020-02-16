@@ -7,16 +7,17 @@
 - [x] send todo items for descriptions
 - [x] send Andy example of subset script
 - [x] make recomendation on where to keep descriptions, etc
-- [ ] write build instructions
+- [x] write build instructions
 - [ ] adjust build script
-  - [ ] check back on fontbakery to-dos at sources/mastering-scripts/notes/03-fontbakery-checks/README.md
-  - [ ] make files with easy file names
-  - [ ] make woff2
+  - [x] make files with easy file names
+  - [x] make woff2
   - [ ] add in subsetting step
     - [ ] make it tweakable
+  - [ ] check back on fontbakery to-dos at sources/mastering-scripts/notes/03-fontbakery-checks/README.md
   - [ ] test whether features are importing correctly
     - [ ] if not, add this step to build
 - [ ] Make secondary pull-request script
+  - [ ] add `\[HROT,VROT\].ttf` to filenames
   - [ ] create METADATA.pb
   - [ ] copy from main TTF folder, update filenames to GF standard
   - [ ] add any fixes here that you don't want in main build (some TBD)
