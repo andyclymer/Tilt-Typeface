@@ -104,8 +104,12 @@ __HTML="\
 			* {
 				font-family: $fontName, sans-serif;
 				font-weight: 400;
-				font-size: 5vw;
+			}
+			p {
+				font-size: 24px;
 				word-break: break-all;
+				line-height: 1.75;
+				letter-spacing: 0.3em;
 			}
 		</style>
 	</head>
