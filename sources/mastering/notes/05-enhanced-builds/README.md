@@ -12,10 +12,10 @@
   - [x] make files with easy file names
   - [x] make woff2
   - [x] merge in update from fix-neon-sparse branch
-  - [ ] add in subsetting step
-    - [ ] make it tweakable
-    - [ ] also include CSS
-    - [ ] also include HTML with example?
+  - [x] add in subsetting step
+    - [x] make it tweakable
+    - [x] also include CSS
+    - [x] also include HTML with example?
     - [ ] include basic instructions for use
   - [ ] check back on fontbakery to-dos at sources/mastering-scripts/notes/03-fontbakery-checks/README.md
   - [ ] test whether features are importing correctly

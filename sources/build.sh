@@ -33,7 +33,7 @@ dsName=$(basename "$DS")
 fontName=${dsName/".designspace"/""}
 fontPath=$outputDir/$fontName.ttf
 
-# fontmake -m "$DS" -o variable --output-path $fontPath
+fontmake -m "$DS" -o variable --output-path $fontPath
 
 # ---------------------------------------------------------
 # Make woff2 files ----------------------------------------
@@ -131,7 +131,7 @@ if [[ $check = "-c" || $check = "--check" ]] ; then
   fontbakery check-googlefonts $outputDir/$fontName.ttf --ghmarkdown sources/mastering-scripts/notes/fontbakery-checks/$fontName--$date.checks.md
 fi
 
-# TODO (see https://github.com/thundernixon/inter/blob/qa/misc/googlefonts-qa/fix-move-check.sh):
+# TODO: make "deploy to GF" script (see https://github.com/thundernixon/inter/blob/qa/misc/googlefonts-qa/fix-move-check.sh):
   # rename file in correct format: Tilt-Neon[HROT,VROT].ttf (etc)
   # add fixes/cleanup needed for fontbakery
   # make METADATA.pb
