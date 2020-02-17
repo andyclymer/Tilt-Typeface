@@ -11,10 +11,11 @@
 - [ ] adjust build script
   - [x] make files with easy file names
   - [x] make woff2
-  - [ ] merge in update from fix-neon-sparse branch
+  - [x] merge in update from fix-neon-sparse branch
   - [ ] add in subsetting step
     - [ ] make it tweakable
     - [ ] also include CSS
+    - [ ] also include HTML with example?
     - [ ] include basic instructions for use
   - [ ] check back on fontbakery to-dos at sources/mastering-scripts/notes/03-fontbakery-checks/README.md
   - [ ] test whether features are importing correctly
@@ -64,7 +65,7 @@ fonts/
     - README.md      # explain purpose & how-to-use – write at sources/mastering/data/subset-usage.md and copy
     - Tilt-Neon
       - index.html   # very simple example to show glyphs (maybe in a character map?). Include layout CSS here.
-      - style.css    # provide @font-face CSS
+      - fonts.css    # provide @font-face CSS
       - fonts
         - Tilt-Neon--latin_basic.woff2
         - Tilt-Neon--latin_ext.woff2
