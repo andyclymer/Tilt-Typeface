@@ -16,6 +16,7 @@
     - [x] make it tweakable
     - [x] also include CSS
     - [x] also include HTML with example?
+    - [ ] try with `.nam` files instead of unicode ranges?
     - [ ] include basic instructions for use
   - [ ] check back on fontbakery to-dos at sources/mastering-scripts/notes/03-fontbakery-checks/README.md
   - [ ] test whether features are importing correctly

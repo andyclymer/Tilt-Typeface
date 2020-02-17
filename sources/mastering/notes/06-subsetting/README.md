@@ -8,7 +8,7 @@ Adopting basic strategy of Google Fonts subsetting ([example of Roboto subsets](
 
 - [ ] do you want to split out currencies further? E.g. make a currency-specific subset? With the current approach, these will be bundled in with the Latin Extended subset
 
-- [ ] determine what glyphs are missing from the "Latin Ext" subset but present in fonts. Update the following line in `build.sh`:
+- [ ] determine what glyphs are missing from the "Latin Ext" subset but are present in Tilt (alternatively, Stephen could probably write a script to do this). Update the following line in `build.sh`:
 
 ```
 latinExtUni="U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF"
@@ -41,3 +41,5 @@ latinExtUni="U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+211
         --layout-features+=aalt --layout-features-=vrt2
             * Keep default set of features plus 'aalt', but drop 'vrt2'.
 ```
+
+- [ ] Should we add a character map to the `index.html` subset examples? If so, we'll have to come up with a good way to get a string of characters included.
