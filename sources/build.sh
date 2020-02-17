@@ -130,6 +130,7 @@ __HTML="\
 
 echo "$__CSS" > $subsetDir/fonts.css
 echo "$__HTML" > $subsetDir/index.html
+cp -f sources/mastering/data/subset-usage.md fonts/subsets/README.md
 
 # ---------------------------------------------------------
 # FontBakery ----------------------------------------------

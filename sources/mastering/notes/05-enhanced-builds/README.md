@@ -8,7 +8,7 @@
 - [x] send Andy example of subset script
 - [x] make recomendation on where to keep descriptions, etc
 - [x] write build instructions
-- [ ] adjust build script
+- [x] adjust build script
   - [x] make files with easy file names
   - [x] make woff2
   - [x] merge in update from fix-neon-sparse branch
@@ -16,12 +16,11 @@
     - [x] make it tweakable
     - [x] also include CSS
     - [x] also include HTML with example?
-    - [ ] try with `.nam` files instead of unicode ranges?
-    - [ ] include basic instructions for use
-  - [ ] check back on fontbakery to-dos at sources/mastering-scripts/notes/03-fontbakery-checks/README.md
-  - [ ] test whether features are importing correctly
-    - [ ] if not, add this step to build
+    - [x] try with `.nam` files instead of unicode ranges? – doesn't work much better; some glyphs are still left out when latin-ext is made from `latin-ext_unique-glyphs.nam`
+    - [x] include basic instructions for use of subsets
+  - [x] test whether features are importing correctly – they seem to be!
 - [ ] Make secondary pull-request script
+  - [ ] check back on fontbakery to-dos at sources/mastering-scripts/notes/03-fontbakery-checks/README.md, fix what needs fixing here
   - [ ] add `\[HROT,VROT\].ttf` to filenames
   - [ ] create METADATA.pb
   - [ ] copy from main TTF folder, update filenames to GF standard
