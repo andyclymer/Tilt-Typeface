@@ -11,7 +11,7 @@
   font-family: 'Tilt-Neon--sparse';
   font-display: swap;
   src: url('fonts/Tilt-Neon--sparse--latin_ext.woff2') format('woff2');
-  unicode-range: U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+  unicode-range: U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF,U+2116,U+2122,U+2190,U+2192,U+2196,U+2197,U+2198,U+2199,U+2219,U+2248,U+2260,U+2264,U+2265,U+27e8,U+27e9;
 }
 
 /* Vietnamese glyphs not included in Latin Basic */
