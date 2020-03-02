@@ -31,7 +31,7 @@ I've approached this in a way that I belive has pretty solid charset coverage wi
 
 If you add new characters to the fonts, it would probably be worth running  `sources/mastering/print-chars-from-font.py` again, or otherwise updating the HTML examples and latin-ext subset code.
 
-- [ ] **Should we include or exclude accent glyphs?**
+- [x] **Should we include or exclude accent glyphs?**
 
 Does it make sense to add the following characters to the latin-ext subset? Most don't seem to be included in the latin-ext subset of Roboto, but I'm unsure. I do think that probably, the fonts have most of the diacritics you want them to have, and there are few instances in which people will require composing accents on the web.
 
@@ -41,7 +41,12 @@ Does it make sense to add the following characters to the latin-ext subset? Most
 
 If we really should leave these out, we should remove them from the example HTML.
 
-- [ ] **Are there any layout features you are willing to drop, to save space?** 
+*Answer:* We'll follow Roboto's lead and include them.
+
+- [x] **Are there any layout features you are willing to drop, to save space?**
+
+*Answer:* We'll keep everything for now.
+
 
 Relevant excerpt from the `pyftsubset` docs:
 
@@ -75,3 +80,29 @@ One candidate for subsetting: discretionary ligatures, for special symbols. Curr
 
 ![](assets/2020-02-17-18-06-44.png)
 
+
+## To-dos for subsetting
+
+- [x] add unicodes for icons in neon family (these unicodes can probably just be added to generic list, and won't matter for the faces they are not in)
+  - [ ] Remaining icon needing unicode: "laundry hanger," U+1f9fa. This simply needs unicodes added to sources, and it will work without further adjustment to build script.
+
+NOTE: The good news is, the icons get their unicodes in the subset Latin-Basic font, with the variable `arrowsAndIcons` holding these unicodes. If for some reason in the future we wish to move the icons to a separate subset, this will help it be simpler to do so. (I think we'd also have to subset out `dlig` in Latin-Basic)
+
+For future reference, I used the following script to get pyftsubset-formatted unicodes for selected glyphs in a UFO in RoboFont:
+
+```Python
+f = CurrentFont()
+
+unicodes = []
+
+for g in f.selection:
+    try:
+        unicode = f[g].unicodes[0]
+        print(g, "\t", unicode)
+        unicodes.append(unicode)
+    except IndexError:
+        print("\n", g, "\n")
+    
+for unicode in unicodes:
+    print(hex(ord(chr(int(unicode)))).replace("0x","U+"), end=", ")
+```

@@ -54,7 +54,8 @@ mkdir -p $subsetDir/fonts
 ## Google Fonts Latin Basic subset
 latinBasicFile="$fontName--latin_basic.woff2"
 latinBasicUni="U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD"
-pyftsubset $fontPath --flavor="woff2" --output-file=$subsetDir/fonts/$latinBasicFile --layout-features='*' --unicodes=$latinBasicUni
+arrowsAndIcons="U+2190, U+2196, U+2191, U+2197, U+2192, U+2198, U+2193, U+2199, U+263a, U+2639, U+2661, U+2606, U+1f3b1, U+1f3b3, U+1f511, U+2702, U+1f45e, U+1f4f7, U+1f355, U+1f377, U+1f3b5, U+1f9fa"
+pyftsubset $fontPath --flavor="woff2" --output-file=$subsetDir/fonts/$latinBasicFile --layout-features='*' --unicodes="$latinBasicUni,$arrowsAndIcons"
 
 ## Google Fonts Latin Ext subset
 latinExtFile="$fontName--latin_ext.woff2"
