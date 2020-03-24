@@ -8,7 +8,7 @@
         <key>allowPseudoUnicode</key>
         <integer>1</integer>
         <key>ascending</key>
-        <string>GF Latin Tilt</string>
+        <string>Tilt</string>
         <key>type</key>
         <string>characterSet</string>
       </dict>
@@ -820,65 +820,13 @@
       <string>ampersand</string>
       <string>section</string>
       <string>paragraph</string>
-      <string>zero.dnom</string>
-      <string>one.dnom</string>
-      <string>two.dnom</string>
-      <string>three.dnom</string>
-      <string>four.dnom</string>
-      <string>five.dnom</string>
-      <string>six.dnom</string>
-      <string>seven.dnom</string>
-      <string>eight.dnom</string>
-      <string>nine.dnom</string>
-      <string>zero.numr</string>
-      <string>one.numr</string>
-      <string>two.numr</string>
-      <string>three.numr</string>
-      <string>four.numr</string>
-      <string>five.numr</string>
-      <string>six.numr</string>
-      <string>seven.numr</string>
-      <string>eight.numr</string>
-      <string>nine.numr</string>
-      <string>zero.subs</string>
-      <string>one.subs</string>
-      <string>two.subs</string>
-      <string>three.subs</string>
-      <string>four.subs</string>
-      <string>five.subs</string>
-      <string>six.subs</string>
-      <string>seven.subs</string>
-      <string>eight.subs</string>
-      <string>nine.subs</string>
-      <string>zero.superior</string>
       <string>onesuperior</string>
       <string>twosuperior</string>
       <string>threesuperior</string>
       <string>four.superior</string>
-      <string>five.superior</string>
-      <string>six.superior</string>
-      <string>seven.superior</string>
-      <string>eight.superior</string>
-      <string>nine.superior</string>
-      <string>zero.inferior</string>
-      <string>one.inferior</string>
-      <string>two.inferior</string>
-      <string>three.inferior</string>
-      <string>four.inferior</string>
-      <string>five.inferior</string>
-      <string>six.inferior</string>
-      <string>seven.inferior</string>
-      <string>eight.inferior</string>
-      <string>nine.inferior</string>
       <string>onehalf</string>
-      <string>onethird</string>
       <string>onequarter</string>
-      <string>oneeighth</string>
-      <string>twothirds</string>
       <string>threequarters</string>
-      <string>threeeighths</string>
-      <string>fiveeighths</string>
-      <string>seveneighths</string>
       <string>dieresis</string>
       <string>grave</string>
       <string>macron</string>
@@ -1361,14 +1309,6 @@
       <string>arrowSE</string>
       <string>arrowdown</string>
       <string>arrowSW</string>
-      <string>arrowleft.circle</string>
-      <string>arrowNW.circle</string>
-      <string>arrowdown.circle</string>
-      <string>arrowNE.circle</string>
-      <string>arrowright.circle</string>
-      <string>arrowSE.circle</string>
-      <string>arrowup.circle</string>
-      <string>arrowSW.circle</string>
       <string>smilingfacewhite</string>
       <string>frowningfacewhite</string>
       <string>heartwhite</string>
@@ -1383,20 +1323,27 @@
       <string>sliceOfPizza</string>
       <string>wineGlass</string>
       <string>musicalNote</string>
-      <string>squareblack</string>
-      <string>squarewhite</string>
-      <string>triangleupblack</string>
-      <string>triangleupwhite</string>
-      <string>trianglerightblack</string>
-      <string>trianglerightwhite</string>
-      <string>triangledownblack</string>
-      <string>triangledownwhite</string>
-      <string>triangleleftblack</string>
-      <string>triangleleftwhite</string>
-      <string>gmtr:diamondblack</string>
-      <string>gmtr:diamondwhite</string>
-      <string>NULL</string>
-      <string>CR</string>
+      <string>blossom</string>
+      <string>fish</string>
+      <string>admissionTickets</string>
+      <string>crystalBall</string>
+      <string>hotbeverage</string>
+      <string>beerMug</string>
+      <string>watch</string>
+      <string>steamingBowl</string>
+      <string>wrappedPresent</string>
+      <string>hamburger</string>
+      <string>automobile</string>
+      <string>bicycle</string>
+      <string>brokenHeart</string>
+      <string>telephonewhite</string>
+      <string>envelope</string>
+      <string>balloon</string>
+      <string>pencil</string>
+      <string>dogFace</string>
+      <string>shamrock</string>
+      <string>fire</string>
+      <string>forkKnifePlate</string>
       <string>a.alt</string>
       <string>aacute.alt</string>
       <string>abreve.alt</string>
@@ -1456,6 +1403,80 @@
       <string>utilde.alt</string>
       <string>utildeacute.alt</string>
       <string>.notdef</string>
+      <string>zero.dnom</string>
+      <string>one.dnom</string>
+      <string>two.dnom</string>
+      <string>three.dnom</string>
+      <string>four.dnom</string>
+      <string>five.dnom</string>
+      <string>six.dnom</string>
+      <string>seven.dnom</string>
+      <string>eight.dnom</string>
+      <string>nine.dnom</string>
+      <string>zero.numr</string>
+      <string>one.numr</string>
+      <string>two.numr</string>
+      <string>three.numr</string>
+      <string>four.numr</string>
+      <string>five.numr</string>
+      <string>six.numr</string>
+      <string>seven.numr</string>
+      <string>eight.numr</string>
+      <string>nine.numr</string>
+      <string>zero.subs</string>
+      <string>one.subs</string>
+      <string>two.subs</string>
+      <string>three.subs</string>
+      <string>four.subs</string>
+      <string>five.subs</string>
+      <string>six.subs</string>
+      <string>seven.subs</string>
+      <string>eight.subs</string>
+      <string>nine.subs</string>
+      <string>zero.superior</string>
+      <string>five.superior</string>
+      <string>six.superior</string>
+      <string>seven.superior</string>
+      <string>eight.superior</string>
+      <string>nine.superior</string>
+      <string>zero.inferior</string>
+      <string>one.inferior</string>
+      <string>two.inferior</string>
+      <string>three.inferior</string>
+      <string>four.inferior</string>
+      <string>five.inferior</string>
+      <string>six.inferior</string>
+      <string>seven.inferior</string>
+      <string>eight.inferior</string>
+      <string>nine.inferior</string>
+      <string>onethird</string>
+      <string>oneeighth</string>
+      <string>twothirds</string>
+      <string>threeeighths</string>
+      <string>fiveeighths</string>
+      <string>seveneighths</string>
+      <string>arrowleft.circle</string>
+      <string>arrowNW.circle</string>
+      <string>arrowdown.circle</string>
+      <string>arrowNE.circle</string>
+      <string>arrowright.circle</string>
+      <string>arrowSE.circle</string>
+      <string>arrowup.circle</string>
+      <string>arrowSW.circle</string>
+      <string>squareblack</string>
+      <string>squarewhite</string>
+      <string>triangleupblack</string>
+      <string>triangleupwhite</string>
+      <string>trianglerightblack</string>
+      <string>trianglerightwhite</string>
+      <string>triangledownblack</string>
+      <string>triangledownwhite</string>
+      <string>triangleleftblack</string>
+      <string>triangleleftwhite</string>
+      <string>gmtr:diamondblack</string>
+      <string>gmtr:diamondwhite</string>
+      <string>NULL</string>
+      <string>CR</string>
     </array>
   </dict>
 </plist>
