@@ -1,6 +1,6 @@
 # Tilt-Typeface
 
-Tilt is a family of type inspired by the dimensional lettering found in storefront signage, designed by Andy Clymer. It’s comprised of three separate subfamilies of type, drawn in styles that you might find in a storefront — 
+Tilt is a family of type inspired by the dimensional lettering found in storefront signage, designed by Andy Clymer. It’s comprised of three related subfamilies of type — 
 
 - **Tilt Neon**, inspired by the twists and turns of neon signs,
 - **Tilt Prism**, taking from prismatic lettering cast or cut in a material), and,
@@ -14,21 +14,19 @@ The three styles are designed and built as variable fonts, however instead of us
 
 ![Tilt family overview rotated](/images/Tilt-Family-Rotated.png?raw=true "Tilt family overview, rotated")
 
-Additionally, three companion “Shadow” styles are being built for layering, to give another opportunity for designers to make use of the dimensionality of the letterforms without having to make use of animation.
-
 ![Tilt Neon](/images/Neon-Aa-Big.gif?raw=true "Tilt Neon")
 ![Tilt Prism](/images/Prism-Aa-Big.gif?raw=true "Tilt Prism")
 ![Tilt Warp](/images/Warp-Aa-Big.gif?raw=true "Tilt Warp")
 
 ## Design Scope
 
-All three styles have been drawn to the “Google Latin Core Plus” character set, leaving out only a handful of fractions and symbols. The “Prism” style has small caps in place of its lowercase letters. The plan for February is to draw an additional collection of arrows and symbols.
+All three styles have been drawn to the “Google Latin Core Plus” character set, leaving out only a handful of fractions and symbols. The “Prism” style has small caps in place of its lowercase letters. A collection of arrows and symbols have also been drawn.
 
 ## Current status
 
-*As of February 10th, 2020 —*
+*As of March 27th, 2020 —*
 
-The principle design of all three styles is complete, and the work on extending the language support from "Google Latin Core" to "Google Latin Expert" is nearly complete. In the next stage, the kerning will be revisited with the new larger character set, and an extended set of symbols, dingbats and arrows will be drawn.
+The design is complete, and the manufacturing process is nearly final.
 
 | Neon | |
 | :--- | :--- |
@@ -36,8 +34,8 @@ The principle design of all three styles is complete, and the work on extending 
 | Drawing quality | All glyphs are in their fully final 3D state |
 | Extended language support | Complete |
 | Extended symbols and dingbats | Complete |
-| Kerning | Nearly complete, kerning for extended Latin glyphs will be revisited |
-| Manufacturing | Started. File sizes still need to be optimized (most glyphs use more masters than needed) |
+| Kerning | Complete |
+| Manufacturing | Started |
 
 | Prism | |
 | :--- | :--- |
@@ -45,8 +43,8 @@ The principle design of all three styles is complete, and the work on extending 
 | Drawing quality | All glyphs are in their fully final 3D state |
 | Extended language support | Complete |
 | Extended symbols and dingbats | Complete |
-| Kerning | Nearly complete, kerning for extended Latin glyphs will be revisited |
-| Manufacturing | Started. File sizes still need to be optimized |
+| Kerning | Complete |
+| Manufacturing | Started |
 
 | Warp | |
 | :--- | :--- |
@@ -54,7 +52,7 @@ The principle design of all three styles is complete, and the work on extending 
 | Drawing quality | All glyphs are in their fully final 3D state |
 | Extended language support | Complete |
 | Extended symbols and dingbats | Complete |
-| Kerning | Nearly complete, kerning for extended Latin glyphs will be revisited |
+| Kerning | Complete |
 | Manufacturing | Started |
 
 
