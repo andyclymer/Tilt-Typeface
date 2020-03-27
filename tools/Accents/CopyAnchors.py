@@ -3,6 +3,9 @@ import vanilla
 
 """
 2020_01_27 Andy Clymer
+
+Copy anchors between UFOs
+
 """
 
 def getRelativeBoundsLoc(g, absloc):

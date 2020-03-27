@@ -1,5 +1,11 @@
 f = CurrentFont()
 
+"""
+Andy Clymer
+
+Scale selected anchor locations
+"""
+
 
 for gn in f.selection:
     scaleLoc = None

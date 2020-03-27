@@ -1,10 +1,11 @@
 f = CurrentFont()
 
 
+"""
+Andy Clymer
 
-# Move anchors to SC from UC
-# (Start by selecting SC glyphs)
-
+Move anchors to selected SC glyphs from their related UC glyphs
+"""
 
 
 def getRelativeBoundsLoc(g, absloc):

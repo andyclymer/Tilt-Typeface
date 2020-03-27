@@ -18,8 +18,8 @@ def setFontInfo(f, familyName, styleName, version=(0, 0), versionString=""):
         versionMinor = version[1],
         openTypeNameVersion = "%s.%s %s" % (version[0], version[1], versionString),
         year = 2019,
-        copyright = "EARLY BETA VERSION, please don't redistribute! Thanks --Andy",
-        trademark = "EARLY BETA VERSION, please don't redistribute! Thanks --Andy",
+        copyright = "Copyright 2020 Andy Clymer",
+        trademark = "",
         
         unitsPerEm = 1000,
         descender = -160,
@@ -92,7 +92,7 @@ def setFontInfo(f, familyName, styleName, version=(0, 0), versionString=""):
     
 
 
-sourceFolderPath = "/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Prism/Rotated 03 Combined"
+sourceFolderPath = "/Users/clymer/Documents/Code/Git repos/GitHub/andyclymer/Tilt-Typeface/sources/Tilt Warp/Rotated"
 for fileName in os.listdir(sourceFolderPath):
     if fileName.endswith(".ufo"):
         ufoPath = os.path.join(sourceFolderPath, fileName)
@@ -100,10 +100,10 @@ for fileName in os.listdir(sourceFolderPath):
         print(fileName)
         f = OpenFont(ufoPath, showInterface=False)
         
-        familyName = "Tilt Beta Prism"
+        familyName = "Tilt Warp"
         styleName = "Regular"
-        version = (0, 9)
-        versionString = "BETA 2020_02_12"
+        version = (1, 0)
+        versionString = "Version 1.0 2020_03_27"
         
         setFontInfo(f, familyName, styleName, version=version, versionString=versionString)
         

@@ -10,6 +10,14 @@ import random
 import outlineFitterPen
 
 
+"""
+Andy Clymer
+
+Rotate a UFO master with 3D point data into a folder of 2D UFO source files
+"""
+
+
+
 AXISINFO = {
     "HROT": dict(name="Horizontal Rotation", minimum=-45, maximum=45, default=0),
     "VROT": dict(name="Vertical Rotation", minimum=-45, maximum=45, default=0),
