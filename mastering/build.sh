@@ -10,7 +10,7 @@
 # chmod +x sources/mastering-scripts/build.sh
 # 
 # run with:
-# sources/mastering-scripts/build.sh <designspace path> <--check>
+# mastering/build.sh <designspace path> <--check>
 #
 
 set -e
@@ -21,24 +21,25 @@ DS=$1
 
 if [[ -z "$DS" || $DS = "--help" ]] ; then
     echo 'Add relative path to a designspace file, such as:'
-    echo 'sources/mastering-scripts/build.sh "sources/Tilt Neon/Rotated/Tilt-Neon.designspace"'
+    echo 'mastering/build.sh "sources/Tilt Neon/Rotated/Tilt-Neon.designspace"'
     exit 2
 fi
 
 # ---------------------------------------------------------
 # FontMake ------------------------------------------------
 
-outputDir="fonts" && mkdir -p $outputDir
+outputDir="fonts"
+mkdir -p "fonts/TTF"
 dsName=$(basename "$DS")
 fontName=${dsName/".designspace"/""}
-fontPath=$outputDir/$fontName.ttf
+fontPath="$outputDir/TTF/$fontName.ttf"
 
 fontmake -m "$DS" -o variable --output-path $fontPath
 
 # ---------------------------------------------------------
 # Make woff2 files ----------------------------------------
 
-mkdir -p fonts/woff2
+mkdir -p fonts/WOFF2
 
 woff2_compress $fontPath
 
@@ -47,7 +48,7 @@ mv ${fontPath/'.ttf'/'.woff2'} fonts/woff2/$fontName.woff2
 # ---------------------------------------------------------
 # TODO: Subset for Latin Basic ----------------------------
 
-subsetDir="$outputDir/subsets/$fontName"
+subsetDir="$outputDir/Subsets/$fontName"
 
 mkdir -p $subsetDir/fonts
 
@@ -131,7 +132,7 @@ __HTML="\
 
 echo "$__CSS" > $subsetDir/fonts.css
 echo "$__HTML" > $subsetDir/index.html
-cp -f sources/mastering/data/subset-usage.md fonts/subsets/README.md
+cp -f mastering/data/subset-usage.md fonts/subsets/README.md
 
 # ---------------------------------------------------------
 # FontBakery ----------------------------------------------
@@ -144,7 +145,7 @@ check=$2
 if [[ $check = "-c" || $check = "--check" ]] ; then
   pip install -U fontbakery # update
   echo 'Running FontBakery on outputs'
-  fontbakery check-googlefonts $outputDir/$fontName.ttf --ghmarkdown sources/mastering-scripts/notes/fontbakery-checks/$fontName--$date.checks.md
+  fontbakery check-googlefonts $outputDir/$fontName.ttf --ghmarkdown mastering/notes/fontbakery-checks/$fontName--$date.checks.md
 fi
 
 # TODO: make "deploy to GF" script (see https://github.com/thundernixon/inter/blob/qa/misc/googlefonts-qa/fix-move-check.sh):
