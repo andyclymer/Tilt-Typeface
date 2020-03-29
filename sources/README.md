@@ -28,5 +28,5 @@ During the design process, names are being set with ``FontInfo.py`` script, and 
 
 ### Production build
 
-Throughout development, any process can be used to generate a variable font from the designSpace document (such a using RoboFont's "Batch" extension), but the final production build tools, and their instructions for use, can be found in the [manufacturing](/manufacturing) directory of this repo.
+Throughout development, any process can be used to generate a variable font from the designSpace document (such a using RoboFont's "Batch" extension), but the final production build tools, and their instructions for use, can be found in the [mastering](../mastering) directory of this repo.
 
