@@ -1,16 +1,16 @@
 # Tilt-Typeface
 
-Tilt is a family of type inspired by the dimensional lettering found in storefront signage, designed by Andy Clymer. It’s comprised of three related subfamilies of type — 
+Tilt is a family of type inspired by the dimensional lettering found in storefront signage, designed by Andy Clymer. It’s comprised of three related variable font styles that you might find in a shop window — 
 
-- **Tilt Neon**, inspired by the twists and turns of neon signs,
-- **Tilt Prism**, taking from prismatic lettering cast or cut in a material), and,
-- **Tilt Warp**, which started as a sketch of the peeling vinyl stickers more commonly found today.
+- **Tilt Neon**, mimics the construction of neon tube lettering,
+- **Tilt Prism**, is based on prismatic lettering, cast or cut in a material, and,
+- **Tilt Warp**, resembles peeling vinyl stickers.
 
 ![Tilt family overview](/images/Tilt-Family.png?raw=true "Tilt family overview")
 
-All three are based around the same letter model of a sign painter’s geometric sans serif, similar to the typefaces Futura or Avant Garde, but with the kinds of details you might expect when the letter is built up with a brush. 
+All three are based around the same letter model of a sign painter’s geometric sans serif, similar to the typefaces Futura or Avant Garde, but with the kinds of details you might expect to see when the letter is built up with a brush. 
 
-The three styles are designed and built as variable fonts, however instead of using common axes such as “Weight” and “Width”, these typefaces will allow users to rotate the orientation of their glyphs with “Horizontal Rotation” and “Vertical Rotation” axes. The rotation is limited to ±45° so that the letterforms never rotate past a range of readibility.
+The three styles are designed and built as variable fonts. Instead of using variation axes that you would expect to find, such as “Weight” and “Width”, these typefaces allow users to rotate the orientation of their glyphs with “Horizontal Rotation” and “Vertical Rotation” axes. The rotation is limited to ±45° so that the letterforms never rotate past a readable range.
 
 ![Tilt family overview rotated](/images/Tilt-Family-Rotated.png?raw=true "Tilt family overview, rotated")
 
@@ -20,7 +20,7 @@ The three styles are designed and built as variable fonts, however instead of us
 
 ## Design Scope
 
-All three styles have been drawn to the “Google Latin Core Plus” character set, leaving out only a handful of fractions and symbols. The “Prism” style has small caps in place of its lowercase letters. A collection of arrows and symbols have also been drawn.
+All three styles have been drawn to the large “Google Latin Plus” character set, leaving out only a handful of fractions and symbols. The “Prism” style has small caps in place of its lowercase letters, and a collection of arrows and symbols in all three styles have been drawn.
 
 ## Current status
 
