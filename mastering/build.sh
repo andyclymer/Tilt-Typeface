@@ -48,7 +48,7 @@ mv ${fontPath/'.ttf'/'.woff2'} fonts/woff2/$fontName.woff2
 # ---------------------------------------------------------
 # TODO: Subset for Latin Basic ----------------------------
 
-subsetDir="$outputDir/Subsets/$fontName"
+subsetDir="$outputDir/WOFF2/Subsets/$fontName"
 
 mkdir -p $subsetDir/fonts
 
