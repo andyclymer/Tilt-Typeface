@@ -22,41 +22,11 @@ After rotating the sources, some styles will need nearly no cleanup (Warp) and o
 
 After rotating, components are reapplied with the Glyph Builder extension, and kerning is imported from the Model font with a tool that can be found in this repo.
 
-### Build
+### Prepare for build
 
 During the design process, names are being set with ``FontInfo.py`` script, and a quick build has been made with RoboFont's Batch extension.
 
-**Production Build**
+### Production build
 
-First things first, you must have the project on your computer and navigate to it. Replace `<things_in_angle_brackets>` with relevant text.
+Throughout development, any process can be used to generate a variable font from the designSpace document (such a using RoboFont's "Batch" extension), but the final production build tools, and their instructions for use, can be found in the [manufacturing](/manufacturing) directory of this repo.
 
-```bash
-cd <path/to/folder/for/font_projects> # Navigate to a folder that you work on type in. This should not be synced to Dropbox, etc, due to UFO sources in the project.
-git clone <repo_URL>                  # git clone the URL for this repo
-cd Tilt-Typeface                      # Navigate into this repo.
-```
-
-The build process is run the production build from the top-level directory of the `Tilt-Typeface`, for ease. It is primarily activated with the `build.sh` script.
-
-0. If you are running the build for the first time, you must first install dependencies, set up a virtual environment, and give the build script permissions to run.
-
-```bash
-python3 -m venv ./venv                             # sets up a virtual environment in a folder called venv
-source venv/bin/activate                           # activates the venv so installed dependencies are contained within it
-pip install -r sources/mastering/requirements.txt  # installs requirements for build
-chmod +x sources/build.sh                          # gives build.sh permissions to execute
-```
-
-1. Run the build script!
-
-```bash
-sources/build.sh "<path_to_designspace>"
-```
-
-**Note:** below are the relevant commands for each of the main fonts:
-
-```bash
-sources/build.sh "sources/Tilt Neon/Rotated (Sparse masters)/Tilt-Neon.designspace"  # Tilt Neon
-sources/build.sh "sources/Tilt Prism/Rotated 03 Combined/Tilt-Prism.designspace"     # Tilt Prism
-sources/build.sh "sources/Tilt Warp/Rotated/Tilt-Warp.designspace"                   # Tilt Warp
-```
