@@ -3,7 +3,7 @@
 Tilt is a family of type inspired by the dimensional lettering found in storefront signage, designed by Andy Clymer. It’s comprised of three related variable font styles that you might find in a shop window — 
 
 - **Tilt Neon**, mimics the construction of neon tube lettering,
-- **Tilt Prism**, is based on prismatic lettering, cast or cut in a material, and,
+- **Tilt Prism**, is based on prismatic lettering, cast or cut in a material,
 - **Tilt Warp**, resembles peeling vinyl stickers.
 
 ![Tilt family overview](/images/Tilt-Family.png?raw=true "Tilt family overview")
