@@ -12,7 +12,7 @@ Before we get too far, the process starts with drawing a flat 2D **Model** of th
 
 ### Master 
 
-However, once the model is starting to look good, glyphs can be added to a **Master** UFO, where the two-dimensional points will be given a third dimension by using the **3D Projection View** RoboFont extension which can be found in a separate ``Tilt-Tool`` repo. Documentation for this tool can be found in its own repo.
+However, once the model is starting to look good, glyphs can be added to a **Master** UFO, where the two-dimensional points will be given a third dimension by using the **3D Projection View** RoboFont extension which can be found in a separate [Tilt-Tool](https://github.com/andyclymer/Tilt-Tool) repo. Documentation for this tool can be found in its own repo.
 
 ### Rotated
 
