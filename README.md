@@ -6,17 +6,15 @@ Tilt is a family of type inspired by the dimensional lettering found in storefro
 - **Tilt Prism**, is based on prismatic lettering, cast or cut in a material,
 - **Tilt Warp**, resembles peeling vinyl stickers.
 
-![Tilt family overview](/images/Tilt-Family.png?raw=true "Tilt family overview")
+![Tilt family overview](/images/TiltFamilyOverview.png?raw=true "Tilt family overview")
 
 All three are based around the same letter model of a sign painter’s geometric sans serif, similar to the typefaces Futura or Avant Garde, but with the kinds of details you might expect to see when the letter is built up with a brush. 
 
 The three styles are designed and built as variable fonts. Instead of using variation axes that you would expect to find, such as “Weight” and “Width”, these typefaces allow users to rotate the orientation of their glyphs with “Horizontal Rotation” and “Vertical Rotation” axes. The rotation is limited to ±45° so that the letterforms never rotate past a readable range.
 
-![Tilt family overview rotated](/images/Tilt-Family-Rotated.png?raw=true "Tilt family overview, rotated")
-
-![Tilt Neon](/images/Neon-Aa-Big.gif?raw=true "Tilt Neon")
-![Tilt Prism](/images/Prism-Aa-Big.gif?raw=true "Tilt Prism")
-![Tilt Warp](/images/Warp-Aa-Big.gif?raw=true "Tilt Warp")
+![Tilt Neon](/images/Big-Neon-Abc.gif?raw=true "Tilt Neon")
+![Tilt Prism](/images/Big-Prism-Abc.gif?raw=true "Tilt Prism")
+![Tilt Warp](/images/Big-Warp-Abc.gif?raw=true "Tilt Warp")
 
 ## Design Scope
 
