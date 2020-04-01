@@ -60,3 +60,8 @@ The design is complete, and the manufacturing process is nearly final.
 | :--- | :--- | :--- | :--- | :--- |
 | Horizontal Rotation | `HROT` | -45 to 45 | 0 | Gives the appearance of horizontal rotation, in degrees |
 | Vertical Rotation | `VROT` | -45 to 45 | 0 | Gives the appearance of vertical rotation, in degrees |
+
+
+## License
+
+The Recursive project is licensed under the [SIL Open Font License v1.1](OFL.txt). This is a free software license that permits you to use the font software under a set of conditions. Please refer to the full text of the license for details about the permissions, conditions, and disclaimers.
