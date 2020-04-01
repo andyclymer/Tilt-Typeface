@@ -21,6 +21,8 @@ pip install -r sources/mastering/requirements.txt  # installs requirements for b
 chmod +x sources/build.sh                          # gives build.sh permissions to execute
 ```
 
+You'll also need to install **woff2_compress**, installation instructions can be found in [Google's WOFF2 repo](https://github.com/google/woff2).
+
 ### Build
 
 Change directories so that you're at the root level of this repo, and run the build script —
