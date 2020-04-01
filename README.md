@@ -16,6 +16,8 @@ The three styles are designed and built as variable fonts. Instead of using vari
 ![Tilt Prism](/images/Big-Prism-Abc.gif?raw=true "Tilt Prism")
 ![Tilt Warp](/images/Big-Warp-Abc.gif?raw=true "Tilt Warp")
 
+![Tilt Overview](/images/SampleLines.png?raw=true "Tilt Overview")
+
 ## Design Scope
 
 All three styles have been drawn to the large “Google Latin Plus” character set, leaving out only a handful of fractions and symbols. The “Prism” style has small caps in place of its lowercase letters, and a collection of arrows and symbols in all three styles have been drawn.
