@@ -65,3 +65,4 @@ The design is complete, and the manufacturing process is nearly final.
 ## License
 
 The Tilt project is licensed under the [SIL Open Font License v1.1](OFL.txt). This is a free software license that permits you to use the font software under a set of conditions. Please refer to the full text of the license for details about the permissions, conditions, and disclaimers.
+
