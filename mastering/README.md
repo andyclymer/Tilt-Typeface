@@ -1,5 +1,9 @@
 # Mastering
 
+*Thank you to [Stephen Nixon](https://github.com/arrowtype) for arranging the manufaturing workflow!*
+
+### Clone this repo
+
 First things first, you must have the project on your computer and navigate to it. Replace `<things_in_angle_brackets>` with relevant text.
 
 ```bash
