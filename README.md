@@ -2,9 +2,9 @@
 
 Tilt is a family of type inspired by the dimensional lettering found in storefront signage, designed by Andy Clymer. It’s comprised of three related variable font styles that you might find in a shop window — 
 
-- **Tilt Neon**, mimics the construction of neon tube lettering,
-- **Tilt Prism**, is based on prismatic lettering, cast or cut in a material,
-- **Tilt Warp**, resembles peeling vinyl stickers.
+- **Tilt Neon** mimics the construction of neon tube lettering,
+- **Tilt Prism** is based on prismatic lettering, cast or cut in a material,
+- **Tilt Warp** resembles peeling vinyl stickers.
 
 ![Tilt family overview](/images/TiltFamilyOverview.png?raw=true "Tilt family overview")
 
@@ -22,7 +22,7 @@ All three styles have been drawn to the large “Google Latin Plus” character 
 
 ## Current status
 
-*As of March 27th, 2020 —*
+*As of March 31st, 2020 —*
 
 The design is complete, and the manufacturing process is nearly final.
 
@@ -33,7 +33,7 @@ The design is complete, and the manufacturing process is nearly final.
 | Extended language support | Complete |
 | Extended symbols and dingbats | Complete |
 | Kerning | Complete |
-| Manufacturing | Started |
+| Manufacturing | Final testing before release |
 
 | Prism | |
 | :--- | :--- |
@@ -42,7 +42,7 @@ The design is complete, and the manufacturing process is nearly final.
 | Extended language support | Complete |
 | Extended symbols and dingbats | Complete |
 | Kerning | Complete |
-| Manufacturing | Started |
+| Manufacturing | Final testing before release |
 
 | Warp | |
 | :--- | :--- |
@@ -51,7 +51,7 @@ The design is complete, and the manufacturing process is nearly final.
 | Extended language support | Complete |
 | Extended symbols and dingbats | Complete |
 | Kerning | Complete |
-| Manufacturing | Started |
+| Manufacturing | Final testing before release |
 
 
 ## Variable Axes
