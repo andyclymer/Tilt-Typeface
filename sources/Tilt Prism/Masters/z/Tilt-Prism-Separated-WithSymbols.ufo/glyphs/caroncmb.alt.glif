@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncmb.alt" format="2">
+  <anchor x="-125" y="537" name="right"/>
+  <outline>
+    <contour>
+      <point x="-97" y="499" type="move" name="HIWALZCX"/>
+      <point x="-21" y="554" name="XZFWRMUS"/>
+      <point x="12" y="622" name="IRUTOVZD"/>
+      <point x="18" y="670" type="curve" smooth="yes" name="DQUFKTUH"/>
+    </contour>
+    <contour>
+      <point x="-62.0" y="730.0" type="move" name="WVVRGEHI"/>
+      <point x="18.0" y="670.0" type="line" name="EEMVZNWO"/>
+      <point x="95.0" y="730.0" type="line" name="YYQPQQLT"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>DQUFKTUH</key>
+        <real>100.0</real>
+        <key>EEMVZNWO</key>
+        <integer>100</integer>
+        <key>HIWALZCX</key>
+        <integer>0</integer>
+        <key>IRUTOVZD</key>
+        <integer>72</integer>
+        <key>WVVRGEHI</key>
+        <integer>0</integer>
+        <key>XZFWRMUS</key>
+        <integer>30</integer>
+        <key>YYQPQQLT</key>
+        <real>0.0</real>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

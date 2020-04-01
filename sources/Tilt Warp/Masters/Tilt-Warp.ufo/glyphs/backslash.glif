@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash" format="2">
+  <advance width="490"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="485" y="-160" type="curve" name="MRZMCEJD"/>
+      <point x="386" y="147" name="COKUUDNW"/>
+      <point x="284" y="463" name="XKAKZIDT"/>
+      <point x="185" y="770" type="curve" name="XUCZYOGB"/>
+      <point x="131" y="770" name="UNJLITUE"/>
+      <point x="74" y="770" name="AMJQAMTZ"/>
+      <point x="20" y="770" type="curve" name="AFYBFOTT"/>
+      <point x="119" y="463" name="GJEWYWVH"/>
+      <point x="221" y="147" name="UQVOOEVM"/>
+      <point x="320" y="-160" type="curve" name="QNDXGEXW"/>
+      <point x="374" y="-160" name="DHNKPTXK"/>
+      <point x="431" y="-160" name="ALYCLROW"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AFYBFOTT</key>
+        <integer>224</integer>
+        <key>ALYCLROW</key>
+        <integer>214</integer>
+        <key>AMJQAMTZ</key>
+        <integer>214</integer>
+        <key>COKUUDNW</key>
+        <integer>-41</integer>
+        <key>DHNKPTXK</key>
+        <integer>206</integer>
+        <key>GJEWYWVH</key>
+        <integer>-41</integer>
+        <key>MRZMCEJD</key>
+        <integer>224</integer>
+        <key>QNDXGEXW</key>
+        <integer>203</integer>
+        <key>UNJLITUE</key>
+        <integer>206</integer>
+        <key>UQVOOEVM</key>
+        <integer>-48</integer>
+        <key>XKAKZIDT</key>
+        <integer>-48</integer>
+        <key>XUCZYOGB</key>
+        <integer>203</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

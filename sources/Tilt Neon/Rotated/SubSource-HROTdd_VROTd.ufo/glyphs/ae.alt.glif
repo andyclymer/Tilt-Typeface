@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae.alt" format="2">
+  <advance width="878"/>
+  <anchor x="406" y="494" name="above"/>
+  <anchor x="406" y="0" name="below"/>
+  <outline>
+    <component base="a.alt"/>
+    <component base="e" xOffset="330"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3234,0.3234,0.3234,1</string>
+    </dict>
+  </lib>
+</glyph>

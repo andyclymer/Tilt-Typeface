@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="427"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="40" y="172" type="curve" name="GLILQAKW"/>
+      <point x="151" y="109" name="JDOCWWMC"/>
+      <point x="266" y="44" name="ACSHPNWV"/>
+      <point x="377" y="-19" type="curve" name="EFOWRMYF"/>
+      <point x="377" y="42" name="BVHESAVS"/>
+      <point x="377" y="106" name="OPDNASOO"/>
+      <point x="377" y="167" type="curve" name="TEYBHKGI"/>
+      <point x="319" y="199" name="CXJUGKQD"/>
+      <point x="258" y="231" name="HOOAAWAG"/>
+      <point x="200" y="263" type="curve" name="VYCZSVLY"/>
+      <point x="258" y="294" name="MJOAJPXH"/>
+      <point x="319" y="326" name="APRMCZVD"/>
+      <point x="377" y="357" type="curve" name="ZIKIDUNK"/>
+      <point x="377" y="417" name="QNMXEZSF"/>
+      <point x="377" y="480" name="YLRENLDB"/>
+      <point x="377" y="540" type="curve" name="LVXONYTI"/>
+      <point x="266" y="477" name="KRQPJVDS"/>
+      <point x="151" y="412" name="PIKPDEQT"/>
+      <point x="40" y="349" type="curve" name="CDMCQARX"/>
+      <point x="40" y="291" name="OGQOWGLM"/>
+      <point x="40" y="230" name="SGHJHQZT"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ACSHPNWV</key>
+        <integer>112</integer>
+        <key>APRMCZVD</key>
+        <integer>66</integer>
+        <key>BVHESAVS</key>
+        <integer>136</integer>
+        <key>CDMCQARX</key>
+        <integer>84</integer>
+        <key>CXJUGKQD</key>
+        <integer>65</integer>
+        <key>EFOWRMYF</key>
+        <integer>184</integer>
+        <key>GLILQAKW</key>
+        <integer>84</integer>
+        <key>HOOAAWAG</key>
+        <integer>55</integer>
+        <key>JDOCWWMC</key>
+        <integer>77</integer>
+        <key>KRQPJVDS</key>
+        <integer>112</integer>
+        <key>LVXONYTI</key>
+        <integer>184</integer>
+        <key>MJOAJPXH</key>
+        <integer>55</integer>
+        <key>OGQOWGLM</key>
+        <integer>69</integer>
+        <key>OPDNASOO</key>
+        <integer>101</integer>
+        <key>PIKPDEQT</key>
+        <integer>77</integer>
+        <key>QNMXEZSF</key>
+        <integer>103</integer>
+        <key>SGHJHQZT</key>
+        <integer>69</integer>
+        <key>TEYBHKGI</key>
+        <integer>85</integer>
+        <key>VYCZSVLY</key>
+        <integer>56</integer>
+        <key>YLRENLDB</key>
+        <integer>136</integer>
+        <key>ZIKIDUNK</key>
+        <integer>86</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

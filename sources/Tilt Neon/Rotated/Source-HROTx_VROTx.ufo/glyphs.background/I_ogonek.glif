@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek" format="2">
+  <advance width="500"/>
+  <unicode hex="012E"/>
+  <anchor x="-13.0" y="106.0" name="below"/>
+  <anchor x="310.0" y="564.0" name="above"/>
+  <outline>
+    <contour>
+      <point x="36" y="33" type="move" name="JITUK"/>
+      <point x="65" y="53" name="OIOLRIFR"/>
+      <point x="90" y="81" name="OKMNMSGU"/>
+      <point x="111" y="112" type="curve" smooth="yes" name="BTBTKJBU"/>
+      <point x="169" y="194" name="AWFWRBGX"/>
+      <point x="221" y="267" name="COEIPHEQ"/>
+      <point x="279" y="349" type="curve" smooth="yes" name="ATFHCAYC"/>
+      <point x="300" y="378" name="SWJRSDDA"/>
+      <point x="323" y="417" name="IGIIJURP"/>
+      <point x="336" y="458" type="curve" name="IPTAQ"/>
+    </contour>
+    <contour>
+      <point x="34" y="33" type="move" smooth="yes" name="DILNESVS"/>
+      <point x="-22" y="23" name="LBXXDTRB"/>
+      <point x="-41" y="-2" name="TQAPVZNV"/>
+      <point x="-52" y="-44" type="curve" smooth="yes" name="ACTKJPCN"/>
+      <point x="-65" y="-94" name="NFWHDZMS"/>
+      <point x="-63" y="-105" name="ORXWCZJR"/>
+      <point x="7" y="-81" type="curve" name="ZJTMKOQQ"/>
+    </contour>
+  </outline>
+</glyph>

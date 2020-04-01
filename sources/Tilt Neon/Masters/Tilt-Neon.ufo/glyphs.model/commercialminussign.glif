@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialminussign" format="2">
+  <advance width="544"/>
+  <unicode hex="2052"/>
+  <outline>
+    <contour>
+      <point x="94" y="40" type="move"/>
+      <point x="450" y="640" type="line"/>
+    </contour>
+    <contour>
+      <point x="145.0" y="510.0" type="move" name="YACKK"/>
+      <point x="111.0" y="515"/>
+      <point x="111.0" y="549"/>
+      <point x="145.0" y="554.0" type="curve" name="FREEZ"/>
+    </contour>
+    <contour>
+      <point x="407.0" y="129.0" type="move" name="YACKK"/>
+      <point x="373.0" y="134"/>
+      <point x="373.0" y="168"/>
+      <point x="407.0" y="173.0" type="curve" name="FREEZ"/>
+    </contour>
+  </outline>
+</glyph>

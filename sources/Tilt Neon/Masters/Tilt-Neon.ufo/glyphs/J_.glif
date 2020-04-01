@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="448"/>
+  <unicode hex="004A"/>
+  <anchor x="293" y="-8" name="below"/>
+  <anchor x="333" y="679" name="above"/>
+  <outline>
+    <contour>
+      <point x="69" y="70" type="move" name="RWWTGJOT"/>
+      <point x="113" y="49" name="VZOQTFJD"/>
+      <point x="153" y="40" name="XWWXMULX"/>
+      <point x="188" y="40" type="curve" smooth="yes" name="BYMRPZMC"/>
+      <point x="276" y="40" name="BDWYMAVH"/>
+      <point x="332" y="100" name="CPUHUEBW"/>
+      <point x="332" y="204" type="curve" smooth="yes" name="RTWAPHLV"/>
+      <point x="332.0" y="301" name="INKCVDLD"/>
+      <point x="332.0" y="369" name="TTMBBRSG"/>
+      <point x="332" y="466" type="curve" smooth="yes" name="PAWOVEPX"/>
+      <point x="332.0" y="524.0" name="CZEGLJBP"/>
+      <point x="332.0" y="590" name="PQFVAXWQ"/>
+      <point x="332" y="640" type="curve" name="ZWRBPVSS"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BDWYMAVH</key>
+        <integer>123</integer>
+        <key>BYMRPZMC</key>
+        <integer>120</integer>
+        <key>CPUHUEBW</key>
+        <integer>120</integer>
+        <key>CZEGLJBP</key>
+        <real>120.0</real>
+        <key>INKCVDLD</key>
+        <integer>120</integer>
+        <key>PAWOVEPX</key>
+        <integer>120</integer>
+        <key>PQFVAXWQ</key>
+        <integer>114</integer>
+        <key>RTWAPHLV</key>
+        <integer>120</integer>
+        <key>RWWTGJOT</key>
+        <integer>100</integer>
+        <key>TTMBBRSG</key>
+        <integer>120</integer>
+        <key>VZOQTFJD</key>
+        <integer>114</integer>
+        <key>XWWXMULX</key>
+        <integer>119</integer>
+        <key>ZWRBPVSS</key>
+        <integer>90</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

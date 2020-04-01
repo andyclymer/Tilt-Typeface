@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncmb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="0" y="517" name="_above"/>
+  <anchor x="0" y="694" name="above"/>
+  <outline>
+    <contour>
+      <point x="-166" y="701" type="move" name="FHZOWKXI"/>
+      <point x="-106.0" y="640.0" type="line" name="GOGAUBFP"/>
+      <point x="-166.0" y="580.0" type="line" name="ZQYIMDIL"/>
+    </contour>
+    <contour>
+      <point x="-106.0" y="640.0" type="move" name="UVDYFKFO"/>
+      <point x="107.0" y="640.0" type="line" name="SQKFGMHE"/>
+    </contour>
+    <contour>
+      <point x="167.0" y="580.0" type="move" name="BLWWLWTB"/>
+      <point x="107.0" y="640.0" type="line" name="QLXLKEMI"/>
+      <point x="167.0" y="701.0" type="line" name="GWVLPVTM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BLWWLWTB</key>
+        <integer>0</integer>
+        <key>FHZOWKXI</key>
+        <integer>0</integer>
+        <key>GOGAUBFP</key>
+        <integer>100</integer>
+        <key>GWVLPVTM</key>
+        <real>0.0</real>
+        <key>QLXLKEMI</key>
+        <integer>100</integer>
+        <key>SQKFGMHE</key>
+        <real>100.0</real>
+        <key>UVDYFKFO</key>
+        <integer>100</integer>
+        <key>ZQYIMDIL</key>
+        <real>0.0</real>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

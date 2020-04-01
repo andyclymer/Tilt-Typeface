@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="274"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="249" y="690" type="move" smooth="yes" name="JUNWJFMJ"/>
+      <point x="162" y="623" name="WEWTMJJV"/>
+      <point x="127" y="541" name="AEXINPXG"/>
+      <point x="126" y="461" type="curve" name="AZXRXXIH"/>
+    </contour>
+    <contour>
+      <point x="214.0" y="399.0" type="move" name="XJBUXPFQ"/>
+      <point x="126.0" y="461.0" type="line" name="VWUMAPUP"/>
+      <point x="47.0" y="399.0" type="line" name="JRLMZRMB"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AEXINPXG</key>
+        <integer>70</integer>
+        <key>AZXRXXIH</key>
+        <real>100.0</real>
+        <key>JRLMZRMB</key>
+        <real>0.0</real>
+        <key>JUNWJFMJ</key>
+        <integer>0</integer>
+        <key>VWUMAPUP</key>
+        <integer>100</integer>
+        <key>WEWTMJJV</key>
+        <integer>30</integer>
+        <key>XJBUXPFQ</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright" format="2">
+  <advance width="279"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="115" y="446.0" type="move" name="DUBVFGIR"/>
+      <point x="156" y="517.0" name="HBDTSEFN"/>
+      <point x="172" y="602.0" name="KGJJXRSE"/>
+      <point x="129" y="641.0" type="curve" name="ZGTKQFVD"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>DUBVFGIR</key>
+        <integer>120</integer>
+        <key>HBDTSEFN</key>
+        <integer>120</integer>
+        <key>KGJJXRSE</key>
+        <integer>120</integer>
+        <key>ZGTKQFVD</key>
+        <real>120.0</real>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

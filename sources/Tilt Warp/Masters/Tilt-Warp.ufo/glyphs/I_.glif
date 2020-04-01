@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="315"/>
+  <unicode hex="0049"/>
+  <anchor x="158.0" y="0" name="below"/>
+  <anchor x="158.0" y="680.0" name="above"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="curve" name="EQGGMNTU"/>
+      <point x="128" y="0" name="EFZOUHXK"/>
+      <point x="187" y="0" name="OUOKWZTW"/>
+      <point x="245" y="0" type="curve" name="IPRSPTSR"/>
+      <point x="245" y="224" name="KSMQYDBP"/>
+      <point x="245" y="456" name="OPKCTLMC"/>
+      <point x="245" y="680" type="curve" name="WRTUXTYZ"/>
+      <point x="187" y="680" name="QQOIFMSG"/>
+      <point x="128" y="680" name="YBAKMUZR"/>
+      <point x="70" y="680" type="curve" name="AQQFAAKW"/>
+      <point x="70" y="456" name="JUFZMVYL"/>
+      <point x="70" y="224" name="SGOAOPKN"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AQQFAAKW</key>
+        <integer>192</integer>
+        <key>EFZOUHXK</key>
+        <integer>181</integer>
+        <key>EQGGMNTU</key>
+        <integer>192</integer>
+        <key>IPRSPTSR</key>
+        <integer>192</integer>
+        <key>JUFZMVYL</key>
+        <integer>13</integer>
+        <key>KSMQYDBP</key>
+        <integer>13</integer>
+        <key>OPKCTLMC</key>
+        <integer>13</integer>
+        <key>OUOKWZTW</key>
+        <integer>181</integer>
+        <key>QQOIFMSG</key>
+        <integer>181</integer>
+        <key>SGOAOPKN</key>
+        <integer>13</integer>
+        <key>WRTUXTYZ</key>
+        <integer>192</integer>
+        <key>YBAKMUZR</key>
+        <integer>181</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

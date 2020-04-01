@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="691"/>
+  <unicode hex="0044"/>
+  <anchor x="304" y="1" name="below"/>
+  <anchor x="314" y="680.0" name="above"/>
+  <outline>
+    <contour>
+      <point x="231.0" y="125.0" type="move" name="MJVZATKE"/>
+      <point x="156.0" y="62.0" type="line" name="ZWRNCKHQ"/>
+      <point x="57" y="0" type="line" name="EFSHOVMG"/>
+    </contour>
+    <contour>
+      <point x="57.0" y="680.0" type="move" name="PGAOAJGW"/>
+      <point x="156.0" y="618.0" type="line" name="ZPXQPUIZ"/>
+      <point x="231.0" y="555.0" type="line" name="MKNQWECE"/>
+    </contour>
+    <contour>
+      <point x="156.0" y="62.0" type="line" name="AQFNPWKD"/>
+      <point x="156.0" y="618.0" type="line" name="XGLJNHJF"/>
+      <point x="306" y="618" type="line" smooth="yes" name="VAASNHYO"/>
+      <point x="467" y="618" name="TNRFHSZN"/>
+      <point x="578" y="509" name="ZWJKCABV"/>
+      <point x="578" y="341" type="curve" smooth="yes" name="VGDCTNWC"/>
+      <point x="578" y="172" name="ALDKOYCL"/>
+      <point x="467.0" y="62" name="XXAOFSRB"/>
+      <point x="306" y="62" type="curve" smooth="yes" name="KIJSYAEP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ALDKOYCL</key>
+        <integer>100</integer>
+        <key>AQFNPWKD</key>
+        <integer>100</integer>
+        <key>EFSHOVMG</key>
+        <integer>0</integer>
+        <key>KIJSYAEP</key>
+        <integer>100</integer>
+        <key>MJVZATKE</key>
+        <integer>0</integer>
+        <key>MKNQWECE</key>
+        <integer>0</integer>
+        <key>PGAOAJGW</key>
+        <integer>0</integer>
+        <key>TNRFHSZN</key>
+        <integer>100</integer>
+        <key>VAASNHYO</key>
+        <integer>100</integer>
+        <key>VGDCTNWC</key>
+        <integer>100</integer>
+        <key>XGLJNHJF</key>
+        <integer>100</integer>
+        <key>XXAOFSRB</key>
+        <integer>100</integer>
+        <key>ZPXQPUIZ</key>
+        <integer>100</integer>
+        <key>ZWJKCABV</key>
+        <integer>100</integer>
+        <key>ZWRNCKHQ</key>
+        <integer>100</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

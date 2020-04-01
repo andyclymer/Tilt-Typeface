@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="552"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="277" y="121" type="curve" name="IMSLKNOQ"/>
+      <point x="380" y="121" name="FBJHMSDZ"/>
+      <point x="466" y="205" name="UADTYFQY"/>
+      <point x="466" y="308" type="curve" smooth="yes" name="ZOUPTQIL"/>
+      <point x="466" y="409" name="QRTCBCYS"/>
+      <point x="380" y="493" name="OGXWFKRZ"/>
+      <point x="277" y="493" type="curve" smooth="yes" name="DHWPWXOP"/>
+      <point x="171" y="493" name="PVOVIVMG"/>
+      <point x="86" y="409" name="VOSZCHWT"/>
+      <point x="86" y="308" type="curve" smooth="yes" name="DIJMIOEU"/>
+      <point x="86" y="205" name="SBNDDQHG"/>
+      <point x="171" y="121" name="RCEQZCLX"/>
+      <point x="277" y="121" type="curve" name="VLGMJIXF"/>
+      <point x="277" y="121" name="HQPIOPME"/>
+      <point x="277" y="121" name="TVOPIVBA"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>DHWPWXOP</key>
+        <integer>147</integer>
+        <key>DIJMIOEU</key>
+        <integer>92</integer>
+        <key>FBJHMSDZ</key>
+        <integer>147</integer>
+        <key>HQPIOPME</key>
+        <integer>147</integer>
+        <key>IMSLKNOQ</key>
+        <integer>147</integer>
+        <key>OGXWFKRZ</key>
+        <integer>147</integer>
+        <key>PVOVIVMG</key>
+        <integer>147</integer>
+        <key>QRTCBCYS</key>
+        <integer>93</integer>
+        <key>RCEQZCLX</key>
+        <integer>147</integer>
+        <key>SBNDDQHG</key>
+        <integer>91</integer>
+        <key>TVOPIVBA</key>
+        <integer>147</integer>
+        <key>UADTYFQY</key>
+        <integer>91</integer>
+        <key>VLGMJIXF</key>
+        <integer>147</integer>
+        <key>VOSZCHWT</key>
+        <integer>93</integer>
+        <key>ZOUPTQIL</key>
+        <integer>92</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

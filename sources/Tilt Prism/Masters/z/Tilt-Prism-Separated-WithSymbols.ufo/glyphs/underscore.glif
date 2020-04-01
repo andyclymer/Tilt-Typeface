@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
+  <advance width="615"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="543.0" y="-63.0" type="move" name="MVURHHRW"/>
+      <point x="72.0" y="-63.0" type="line" name="WNAQRIOL"/>
+    </contour>
+    <contour>
+      <point x="10.0" y="-125.0" type="move" name="UFVBJNST"/>
+      <point x="72.0" y="-63.0" type="line" name="OTPCADVO"/>
+      <point x="10.0" y="0.0" type="line" name="TMKRXCGA"/>
+    </contour>
+    <contour>
+      <point x="605.0" y="0.0" type="move" name="LSEOJCJB"/>
+      <point x="543.0" y="-63.0" type="line" name="VDMDVTLL"/>
+      <point x="605.0" y="-125.0" type="line" name="VAZHSFHT"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>LSEOJCJB</key>
+        <integer>0</integer>
+        <key>MVURHHRW</key>
+        <integer>100</integer>
+        <key>OTPCADVO</key>
+        <integer>100</integer>
+        <key>TMKRXCGA</key>
+        <integer>0</integer>
+        <key>UFVBJNST</key>
+        <integer>0</integer>
+        <key>VAZHSFHT</key>
+        <integer>0</integer>
+        <key>VDMDVTLL</key>
+        <integer>100</integer>
+        <key>WNAQRIOL</key>
+        <integer>100</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

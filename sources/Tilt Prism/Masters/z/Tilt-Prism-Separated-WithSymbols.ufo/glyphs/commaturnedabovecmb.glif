@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecmb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="0" y="517" name="_above"/>
+  <anchor x="0" y="725" name="above"/>
+  <outline>
+    <contour>
+      <point x="-11" y="640" type="move" smooth="yes" name="AZMJBOEQ"/>
+      <point x="-4" y="692" name="RPYVIDYV"/>
+      <point x="28" y="740" name="AMBKJFIL"/>
+      <point x="103" y="771" type="curve" name="JCFFUBBV"/>
+    </contour>
+    <contour>
+      <point x="68.0" y="580.0" type="move" name="XIVBJGED"/>
+      <point x="-11.0" y="640.0" type="line" name="YXYVZHKH"/>
+      <point x="-89.0" y="580.0" type="line" name="QMKYQJYR"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AMBKJFIL</key>
+        <integer>24</integer>
+        <key>AZMJBOEQ</key>
+        <integer>100</integer>
+        <key>JCFFUBBV</key>
+        <real>0.0</real>
+        <key>QMKYQJYR</key>
+        <real>0.0</real>
+        <key>RPYVIDYV</key>
+        <integer>60</integer>
+        <key>XIVBJGED</key>
+        <integer>0</integer>
+        <key>YXYVZHKH</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

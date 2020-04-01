@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcedilla" format="2">
+  <advance width="498"/>
+  <unicode hex="0163"/>
+  <outline>
+    <contour>
+      <point x="81" y="-194" type="move"/>
+      <point x="190" y="-217"/>
+      <point x="258" y="-191"/>
+      <point x="258" y="-132" type="curve" smooth="yes"/>
+      <point x="258" y="-88"/>
+      <point x="209" y="-68"/>
+      <point x="163" y="-62" type="curve"/>
+      <point x="163" y="588" type="line" name="FREEZ"/>
+    </contour>
+    <contour>
+      <point x="57" y="453" type="move"/>
+      <point x="279" y="453" type="line"/>
+    </contour>
+  </outline>
+</glyph>

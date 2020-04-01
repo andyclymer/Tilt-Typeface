@@ -1,0 +1,556 @@
+Aacute = A + acutecmb @ above
+Abreve = A + brevecmb @ above
+Abreveacute = A + brevecmb @ above + acutecmb @ above
+Abrevedotbelow = A + brevecmb @ above + dotbelowcmb @ A:below
+Abrevegrave = A + brevecmb @ above + gravecmb @ above
+Abrevehoi = A + brevecmb @ above + hookabovecmb @ above
+Abrevetilde = A + brevecmb @ above + tildecmb @ above
+Acircumflex = A + circumflexcmb @ above
+Acircumflexacute = A + circumflexcmb @ above + acutecmb @ aboveright
+Acircumflexdotbelow = A + circumflexcmb @ above + dotbelowcmb @ A:below
+Acircumflexgrave = A + circumflexcmb @ above + gravecmb @ aboveright
+Acircumflexhoi = A + circumflexcmb @ above + hookabovecmb @ aboveright
+Acircumflextilde = A + circumflexcmb @ above + tildecmb @ above
+Adieresis = A + dieresiscmb @ above
+Adotbelow = A + dotbelowcmb @ below
+Agravedbl = A + gravedoublecmb @ above
+Agrave = A + gravecmb @ above
+Ahoi = A + hookabovecmb @ above
+Ainvertedbreve = A + invertedbrevecmb @ above
+Amacron = A + macroncmb @ above
+# Aogonek = A + ogonekcmb @ ogonek
+Aring = A + ringabovecmb @ above
+Aringacute = A + ringabovecmb @ above + acutecmb @ above
+Atilde = A + tildecmb @ above
+
+# AE (n/a)
+AEacute = AE + acutecmb @ above
+
+Cacute = C + acutecmb @ above
+Ccaron = C + caroncmb @ above
+# Ccedilla = C + cedillacmb @ below
+Ccedillaacute = Ccedilla + acutecmb @ above
+Ccircumflex = C + circumflexcmb @ above
+Cdotaccent = C + dotaccentcmb @ above
+
+Dcaron = D + caroncmb @ above
+Ddotbelow = D + dotbelowcmb @ below
+Dlinebelow = D + macronbelowcmb @ below
+Dcroat = Eth
+# Eth (n/a)
+
+Eacute = E + acutecmb @ above
+Ebreve = E + brevecmb @ above
+Ecaron = E + caroncmb @ above
+# Ecedilla
+Ecedillabreve = Ecedilla + brevecmb @ above
+Ecircumflex = E + circumflexcmb @ above
+Ecircumflexacute = E + circumflexcmb @ above + acutecmb @ aboveright
+Ecircumflexdotbelow = E + circumflexcmb @ above + dotbelowcmb @ E:below
+Ecircumflexgrave = E + circumflexcmb @ above + gravecmb @ aboveright
+Ecircumflexhoi = E + circumflexcmb @ above + hookabovecmb @ aboveright
+Ecircumflextilde = E + circumflexcmb @ above + tildecmb @ above
+Edieresis = E + dieresiscmb @ above
+Edotaccent = E + dotaccentcmb @ above
+Edotbelow = E + dotbelowcmb @ below
+Egravedbl = E + gravedoublecmb @ above
+Egrave = E + gravecmb @ above
+Ehoi = E + hookabovecmb @ above
+Einvertedbreve = E + invertedbrevecmb @ above
+Emacron = E + macroncmb @ above
+Emacronacute = E + macroncmb @ above + tildecmb @ above
+Emacrongrave = E + macroncmb @ above + gravecmb @ above
+# Eogonek = E + ogonekcmb @ ogonek
+Etilde = E + tildecmb @ above
+
+Gbreve = G + brevecmb @ above
+Gcaron = G + caroncmb @ above
+Gcedilla = G + commaaccentbelowcmb @ below
+Gcircumflex = G + circumflexcmb @ above
+Gdotaccent = G + dotaccentcmb @ above
+Gmacron = G + macroncmb @ above
+
+Hbrevebelow = H + belowbrevecmb @ below
+Hcircumflex = H + circumflexcmb @ above
+Hdotbelow = H + dotbelowcmb @ below
+# Hbar (n/a)
+
+Iacute = I + acutecmb @ above
+Ibreve = I + brevecmb @ above
+Icircumflex = I + circumflexcmb @ above
+Idieresis = I + dieresiscmb @ above
+Idieresisacute = I + dieresiscmb @ above + acutecmb @ above
+Idotaccent = I + dotaccentcmb @ above
+Idotbelow = I + dotbelowcmb @ below
+Igravedbl = I + gravedoublecmb @ above
+Igrave = I + gravecmb @ above
+Ihoi = I + hookabovecmb @ above
+Iinvertedbreve = I + invertedbrevecmb @ above
+Imacron = I + macroncmb @ above
+# Iogonek = I + ogonekcmb @ below
+Itilde = I + tildecmb @ above
+
+Jcircumflex = J + circumflexcmb @ above
+
+Kcedilla = K + commaaccentbelowcmb @ below
+
+Lacute = L + acutecmb @ above
+Lcaron = L + caroncmb.alt @ right, right
+Lcedilla = L + commaaccentbelowcmb @ below
+Ldotbelow = L + dotbelowcmb @ below
+Llinebelow = L + macronbelowcmb @ below
+# Ldot = L + periodcentered.loclCAT @ center, center
+# Lslash (n/a)
+
+Mdotbelow = M + dotbelowcmb @ below
+
+Nacute = N + acutecmb @ above
+Ncaron = N + caroncmb @ above
+Ncedilla = N + commaaccentbelowcmb @ below
+Ndot = N + dotaccentcmb @ above
+Ndotbelow = N + dotbelowcmb @ below
+Nlinebelow = N + macronbelowcmb @ below
+Ntilde = N + tildecmb @ above
+# Eng (n/a)
+
+Oacute = O + acutecmb @ above
+Obreve = O + brevecmb @ above
+Ocircumflex = O + circumflexcmb @ above
+Ocircumflexacute = O + circumflexcmb @ above + acutecmb @ aboveright
+Ocircumflexdotbelow = O + circumflexcmb @ above + dotbelowcmb @ O:below
+Ocircumflexgrave = O + circumflexcmb @ above + gravecmb @ aboveright
+Ocircumflexhoi = O + circumflexcmb @ above + hookabovecmb @ aboveright
+Ocircumflextilde = O + circumflexcmb @ above + tildecmb @ above
+Odieresis = O + dieresiscmb @ above
+Odieresismacron = O + dieresiscmb @ above + macroncmb @ above
+Odotmacron = O + dotaccentcmb @ above + macroncmb @ above
+Odotbelow = O + dotbelowcmb @ below
+Ohungarumlaut = O + hungarumlautcmb @ above
+Ogravedbl = O + gravedoublecmb @ above
+Ograve = O + gravecmb @ above
+Ohoi = O + hookabovecmb @ above
+# Ohorn = O + horncmb @ horn
+Ohornacute = Ohorn + acutecmb @ above
+Ohorndotbelow = Ohorn + dotbelowcmb @ below
+Ohorngrave = Ohorn + gravecmb @ above
+Ohornhoi = Ohorn + hookabovecmb @ above
+Ohorntilde = Ohorn + tildecmb @ above
+Oinvertedbreve = O + invertedbrevecmb @ above
+Omacron = O + macroncmb @ above
+Omacronacute = O + macroncmb @ above + acutecmb @ above
+Omacrongrave = O + macroncmb @ above + gravecmb @ above
+# Oogonek = O + ogonekcmb @ below
+# Oslash (n/a)
+Oslashacute = Oslash + acutecmb @ above
+Otilde = O + tildecmb @ above
+Otildeacute = O + tildecmb @ above + acutecmb @ above
+Otildedieresis = O + tildecmb @ above + dieresiscmb @ above
+Otildemacron = O + tildecmb @ above + macroncmb @ above
+# OE (n/a)
+
+Racute = R + acutecmb @ above
+Rcaron = R + caroncmb @ above
+Rcedilla = R + commaaccentbelowcmb @ below
+Rdotbelow = R + dotbelowcmb @ below
+Rgravedbl = R + gravedoublecmb @ above
+Rinvertedbreve = R + invertedbrevecmb @ above
+Rlinebelow = R + macronbelowcmb @ below
+
+Sacute = S + acutecmb @ above
+Sacutedotaccent = S + acutecmb @ above + dotaccentcmb @ above
+Scaron = S + caroncmb @ above
+Scarondot = S + caroncmb @ above + dotaccentcmb @ above
+# Scedilla = S + cedillacmb @ below
+Scircumflex = S + circumflexcmb @ above
+Scommaaccent = S + commaaccentbelowcmb @ below
+Sdot = S + dotaccentcmb @ above
+Sdotbelow = S + dotbelowcmb @ below
+Sdotbelowdotabove = S + dotaccentcmb @ above + dotbelowcmb @ S:below
+# Germandbls (n/a)
+# Schwa (n/a)
+
+Tcaron = T + caroncmb @ above
+# Tcedilla = T + cedillacmb @ below
+Tcommaaccent = T + commaaccentbelowcmb @ below
+Tdieresis = T + dieresiscmb @ above
+Tdotbelow = T + dotbelowcmb @ below
+Tlinebelow = T + macronbelowcmb @ below
+# Tbar (n/a)
+# Thorn (n/a)
+
+Uacute = U + acutecmb @ above
+Ubreve = U + brevecmb @ above
+Ucircumflex = U + circumflexcmb @ above
+Udieresis = U + dieresiscmb @ above
+Udotbelow = U + dotbelowcmb @ below
+Uhungarumlaut = U + hungarumlautcmb @ above
+Ugravedbl = U + gravedoublecmb @ above
+Ugrave = U + gravecmb @ above
+Uhoi = U + hookabovecmb @ above
+# Uhorn = U + horncmb @ horn
+Uhornacute = Uhorn + acutecmb @ above
+Uhorndotbelow = Uhorn + dotbelowcmb @ below
+Uhorngrave = Uhorn + gravecmb @ above
+Uhornhoi = Uhorn + hookabovecmb @ above
+Uhorntilde = Uhorn + tildecmb @ above
+Uinvertedbreve = U + invertedbrevecmb @ above
+Umacron = U + macroncmb @ above
+Umacrondieresis = U + macroncmb @ above + dieresiscmb @ above
+# Uogonek = U + ogonekcmb @ below
+Uring = U + ringabovecmb @ above
+Utilde = U + tildecmb @ above
+Utildeacute = U + tildecmb @ above + acutecmb @ above
+
+Wacute = W + acutecmb @ above
+Wcircumflex = W + circumflexcmb @ above
+Wdieresis = W + dieresiscmb @ above
+Wgrave = W + gravecmb @ above
+
+Yacute = Y + acutecmb @ above
+Ycircumflex = Y + circumflexcmb @ above
+Ydieresis = Y + dieresiscmb @ above
+Ydot = Y + dotaccentcmb @ above
+Ydotbelow = Y + dotbelowcmb @ below
+Ygrave = Y + gravecmb @ above
+Yhoi = Y + hookabovecmb @ above
+Ymacron = Y + macroncmb @ above
+Ytilde = Y + tildecmb @ above
+
+Zacute = Z + acutecmb @ above
+Zcaron = Z + caroncmb @ above
+Zdotaccent = Z + dotaccentcmb @ above
+Zdotbelow = Z + dotbelowcmb @ below
+
+aacute = a + acutecmb @ above
+abreve = a + brevecmb @ above
+abreveacute = a + brevecmb @ above + acutecmb @ above
+abrevedotbelow = a + brevecmb @ above + dotbelowcmb @ a:below
+abrevegrave = a + brevecmb @ above + gravecmb @ above
+abrevehoi = a + brevecmb @ above + hookabovecmb @ above
+abrevetilde = a + brevecmb @ above + tildecmb @ above
+acircumflex = a + circumflexcmb @ above
+acircumflexacute = a + circumflexcmb @ above + acutecmb @ aboveright
+acircumflexdotbelow = a + circumflexcmb @ above + dotbelowcmb @ a:below
+acircumflexgrave = a + circumflexcmb @ above + gravecmb @ aboveright
+acircumflexhoi = a + circumflexcmb @ above + hookabovecmb @ aboveright
+acircumflextilde = a + circumflexcmb @ above + tildecmb @ above
+adieresis = a + dieresiscmb @ above
+adotbelow = a + dotbelowcmb @ below
+agravedbl = a + gravedoublecmb @ above
+agrave = a + gravecmb @ above
+ahoi = a + hookabovecmb @ above
+ainvertedbreve = a + invertedbrevecmb @ above
+amacron = a + macroncmb @ above
+# aogonek = a + ogonekcmb @ below
+aring = a + ringabovecmb @ above
+aringacute = a + ringabovecmb @ above + acutecmb @ above
+atilde = a + tildecmb @ above
+
+# ae (n/a)
+aeacute = ae + acutecmb @ above
+
+cacute = c + acutecmb @ above
+ccaron = c + caroncmb @ above
+# ccedilla = c + cedillacmb @ below
+ccedillaacute = ccedilla + acutecmb @ c:above
+ccircumflex = c + circumflexcmb @ above
+cdotaccent = c + dotaccentcmb @ above
+
+dcaron = d + caroncmb.alt @ right, right
+ddotbelow = d + dotbelowcmb @ below
+dlinebelow = d + macronbelowcmb @ below
+# dcroat (n/a)
+# eth (n/a)
+
+eacute = e + acutecmb @ above
+ebreve = e + brevecmb @ above
+ecaron = e + caroncmb @ above
+# ecedilla = e + cedillacmb @ below
+ecedillabreve = ecedilla + brevecmb @ above
+ecircumflex = e + circumflexcmb @ above
+ecircumflexacute = e + circumflexcmb @ above + acutecmb @ aboveright
+ecircumflexdotbelow = e + circumflexcmb @ above + dotbelowcmb @ e:below
+ecircumflexgrave = e + circumflexcmb @ above + gravecmb @ aboveright
+ecircumflexhoi = e + circumflexcmb @ above + hookabovecmb @ aboveright
+ecircumflextilde = e + circumflexcmb @ above + tildecmb @ above
+edieresis = e + dieresiscmb @ above
+edotaccent = e + dotaccentcmb @ above
+edotbelow = e + dotbelowcmb @ below
+egravedbl = e + gravedoublecmb @ above
+egrave = e + gravecmb @ above
+ehoi = e + hookabovecmb @ above
+einvertedbreve = e + invertedbrevecmb @ above
+emacron = e + macroncmb @ above
+emacronacute = e + macroncmb @ above + acutecmb @ above
+emacrongrave = e + macroncmb @ above + gravecmb @ above
+# eogonek = e + ogonekcmb @ below
+etilde = e + tildecmb @ above
+
+gbreve = g + brevecmb @ above
+gcaron = g + caroncmb @ above
+gcedilla = g + commaturnedabovecmb @ above
+gcircumflex = g + circumflexcmb @ above
+gdotaccent = g + dotaccentcmb @ above
+gmacron = g + macroncmb @ above
+
+hbrevebelow = h + belowbrevecmb @ below
+hcircumflex = h + circumflexcmb @ above
+hdotbelow = h + dotbelowcmb @ below
+# hbar (n/a)
+
+# dotlessi (n/a)
+iacute = dotlessi + acutecmb @ above
+ibreve = dotlessi + brevecmb @ above
+icircumflex = dotlessi + circumflexcmb @ above
+idieresis = dotlessi + dieresiscmb @ above
+idieresisacute = dotlessi + dieresiscmb @ above + acutecmb @ above
+idotaccent = i
+idotbelow = i + dotbelowcmb @ below
+igravedbl = dotlessi + gravedoublecmb @ above
+igrave = dotlessi + gravecmb @ above
+ihoi = dotlessi + hookabovecmb @ above
+iinvertedbreve = dotlessi + invertedbrevecmb @ above
+imacron = dotlessi + macroncmb @ above
+# iogonek = i + ogonekcmb @ below
+itilde = dotlessi + tildecmb @ above
+
+# dotlessj (n/a)
+jcircumflex = dotlessj + circumflexcmb @ above
+
+kcedilla = k + commaaccentbelowcmb @ below
+# kra (n/a)
+
+lacute = l + acutecmb @ above
+lcaron = l + caroncmb.alt @ right, right
+lcedilla = l + commaaccentbelowcmb @ below
+ldotbelow = l + dotbelowcmb @ below
+llinebelow = l + macronbelowcmb @ below
+# ldot = l + periodcentered @ center, center
+# lslash (n/a)
+
+mdotbelow = m + dotbelowcmb @ below
+
+nacute = n + acutecmb @ above
+ncaron = n + caroncmb @ above
+ncedilla = n + commaaccentbelowcmb @ below
+ndot = n + dotaccentcmb @ above
+ndotbelow = n + dotbelowcmb @ below
+nlinebelow = n + macronbelowcmb @ below
+ntilde = n + tildecmb @ above
+# eng (n/a)
+
+oacute = o + acutecmb @ above
+obreve = o + brevecmb @ above
+ocircumflex = o + circumflexcmb @ above
+ocircumflexacute = o + circumflexcmb @ above + acutecmb @ aboveright
+ocircumflexdotbelow = o + circumflexcmb @ above + dotbelowcmb @ o:below
+ocircumflexgrave = o + circumflexcmb @ above + gravecmb @ aboveright
+ocircumflexhoi = o + circumflexcmb @ above + hookabovecmb @ aboveright
+ocircumflextilde = o + circumflexcmb @ above + tildecmb @ above
+odieresis = o + dieresiscmb @ above
+odieresismacron = o + dieresiscmb @ above + macroncmb @ above
+odotmacron = o + dotaccentcmb @ above + macroncmb @ above
+odotbelow = o + dotbelowcmb @ below
+ohungarumlaut = o + hungarumlautcmb @ above
+ogravedbl = o + gravedoublecmb @ above
+ograve = o + gravecmb @ above
+ohoi = o + hookabovecmb @ above
+# ohorn = o + horncmb @ horn
+ohornacute = ohorn + acutecmb @ above
+ohorndotbelow = ohorn + dotbelowcmb @ below
+ohorngrave = ohorn + gravecmb @ above
+ohornhoi = ohorn + hookabovecmb @ above
+ohorntilde = ohorn + tildecmb @ above
+oinvertedbreve = o + invertedbrevecmb @ above
+omacron = o + macroncmb @ above
+omacronacute = o + macroncmb @ above + acutecmb @ above
+omacrongrave = o + macroncmb @ above + gravecmb @ above
+# oogonek = o + ogonekcmb @ below
+# oslash (n/a)
+oslashacute = oslash + acutecmb @ above
+otilde = o + tildecmb @ above
+otildeacute = o + tildecmb @ above + acutecmb @ above
+otildedieresis = o + tildecmb @ above + dieresiscmb @ above
+otildemacron = o + tildecmb @ above + macroncmb @ above
+# oe (n/a)
+
+racute = r + acutecmb @ above
+rcaron = r + caroncmb @ above
+rcedilla = r + commaaccentbelowcmb @ below
+rdotbelow = r + dotbelowcmb @ below
+rgravedbl = r + gravedoublecmb @ above
+rinvertedbreve = r + invertedbrevecmb @ above
+rlinebelow = r + macronbelowcmb @ below
+
+sacute = s + acutecmb @ above
+sacutedotaccent = s + acutecmb @ above + dotaccentcmb @ above
+scaron = s + caroncmb @ above
+scarondot = s + caroncmb @ above + dotaccentcmb @ above
+# scedilla = s + cedillacmb @ below
+scircumflex = s + circumflexcmb @ above
+scommaaccent = s + commaaccentbelowcmb @ below
+sdot = s + dotaccentcmb @ above
+sdotbelow = s + dotbelowcmb @ below
+sdotbelowdotabove = s + dotbelowcmb @ below + dotaccentcmb @ s:above
+# germandbls (n/a)
+# schwa (n/a)
+
+tcaron = t + caroncmb.alt @ right
+# tcedilla = t + cedillacmb @ below
+tcommaaccent = t + commaaccentbelowcmb @ below
+tdieresis = t + dieresiscmb @ above
+tdotbelow = t + dotbelowcmb @ below
+tlinebelow = t + macronbelowcmb @ below
+# tbar (n/a)
+# thorn (n/a)
+
+uacute = u + acutecmb @ above
+ubreve = u + brevecmb @ above
+ucircumflex = u + circumflexcmb @ above
+udieresis = u + dieresiscmb @ above
+udotbelow = u + dotbelowcmb @ below
+uhungarumlaut = u + hungarumlautcmb @ above
+ugravedbl = u + gravedoublecmb @ above
+ugrave = u + gravecmb @ above
+uhoi = u + hookabovecmb @ above
+# uhorn = u + horncmb @ horn
+uhornacute = uhorn + acutecmb @ above
+uhorndotbelow = uhorn + dotbelowcmb @ below
+uhorngrave = uhorn + gravecmb @ above
+uhornhoi = uhorn + hookabovecmb @ above
+uhorntilde = uhorn + tildecmb @ above
+uinvertedbreve = u + invertedbrevecmb @ above
+umacron = u + macroncmb @ above
+umacrondieresis = u + macroncmb @ above + dieresiscmb @ above
+# uogonek = u + ogonekcmb @ below
+uring = u + ringabovecmb @ above
+utilde = u + tildecmb @ above
+utildeacute = u + tildecmb @ above + acutecmb @ above
+
+wacute = w + acutecmb @ above
+wcircumflex = w + circumflexcmb @ above
+wdieresis = w + dieresiscmb @ above
+wgrave = w + gravecmb @ above
+
+yacute = y + acutecmb @ above
+ycircumflex = y + circumflexcmb @ above
+ydieresis = y + dieresiscmb @ above
+ydot = y + dotaccentcmb @ above
+ydotbelow = y + dotbelowcmb @ below
+ygrave = y + gravecmb @ above
+yhoi = y + hookabovecmb @ above
+ymacron = y + macroncmb @ above
+ytilde = y + tildecmb @ above
+
+zacute = z + acutecmb @ above
+zcaron = z + caroncmb @ above
+zdotaccent = z + dotaccentcmb @ above
+zdotbelow = z + dotbelowcmb @ below
+
+aacute.alt = a.alt + acutecmb @ above
+abreve.alt = a.alt + brevecmb @ above
+abreveacute.alt = a.alt + brevecmb @ above + acutecmb @ above
+abrevedotbelow.alt = a.alt + brevecmb @ above + dotbelowcmb @ a.alt:below
+abrevegrave.alt = a.alt + brevecmb @ above + gravecmb @ above
+abrevehoi.alt = a.alt + brevecmb @ above + hookabovecmb @ above
+abrevetilde.alt = a.alt + brevecmb @ above + tildecmb @ above
+acircumflex.alt = a.alt + circumflexcmb @ above
+acircumflexacute.alt = a.alt + circumflexcmb @ above + acutecmb @ aboveright
+acircumflexdotbelow.alt = a.alt + circumflexcmb @ above + dotbelowcmb @ a.alt:below
+acircumflexgrave.alt = a.alt + circumflexcmb @ above + gravecmb @ aboveright
+acircumflexhoi.alt = a.alt + circumflexcmb @ above + hookabovecmb @ aboveright
+acircumflextilde.alt = a.alt + circumflexcmb @ above + tildecmb @ above
+adieresis.alt = a.alt + dieresiscmb @ above
+adotbelow.alt = a.alt + dotbelowcmb @ below
+agravedbl.alt = a.alt + gravedoublecmb @ above
+agrave.alt = a.alt + gravecmb @ above
+ahoi.alt = a.alt + hookabovecmb @ above
+ainvertedbreve.alt = a.alt + invertedbrevecmb @ above
+amacron.alt = a.alt + macroncmb @ above
+# aogonek.alt = a.alt + ogonekcmb @ below
+aring.alt = a.alt + ringabovecmb @ above
+aringacute.alt = a.alt + ringabovecmb @ above + acutecmb @ above
+atilde.alt = a.alt + tildecmb @ above
+
+# ae.alt (n/a)
+aeacute.alt = ae.alt + acutecmb @ above
+
+tcaron.alt = t.alt + caroncmb.alt @ right
+# tcedilla.alt = t.alt + cedillacmb @ below
+tcommaaccent.alt = t.alt + commaaccentbelowcmb @ below
+tdieresis.alt = t.alt + dieresiscmb @ above
+tdotbelow.alt = t.alt + dotbelowcmb @ below
+tlinebelow.alt = t.alt + macronbelowcmb @ below
+# tbar.alt (n/a)
+
+uacute.alt = u.alt + acutecmb @ above
+ubreve.alt = u.alt + brevecmb @ above
+ucircumflex.alt = u.alt + circumflexcmb @ above
+udieresis.alt = u.alt + dieresiscmb @ above
+udotbelow.alt = u.alt + dotbelowcmb @ below
+uhungarumlaut.alt = u.alt + hungarumlautcmb @ above
+ugravedbl.alt = u.alt + gravedoublecmb @ above
+ugrave.alt = u.alt + gravecmb @ above
+uhoi.alt = u.alt + hookabovecmb @ above
+# uhorn.alt = u.alt + horncmb @ horn
+uhornacute.alt = uhorn.alt + acutecmb @ above
+uhorndotbelow.alt = uhorn.alt + dotbelowcmb @ below
+uhorngrave.alt = uhorn.alt + gravecmb @ above
+uhornhoi.alt = uhorn.alt + hookabovecmb @ above
+uhorntilde.alt = uhorn.alt + tildecmb @ above
+uinvertedbreve.alt = u.alt + invertedbrevecmb @ above
+umacron.alt = u.alt + macroncmb @ above
+umacrondieresis.alt = u.alt + macroncmb @ above + dieresiscmb @ above
+# uogonek.alt = u.alt + ogonekcmb @ below
+uring.alt = u.alt + ringabovecmb @ above
+utilde.alt = u.alt + tildecmb @ above
+utildeacute.alt = u.alt + tildecmb @above + acutecmb @ above
+
+
+NJ = N &\ J
+Nj = N &\ j
+nj = n &\ j
+LJ = L &\ J
+Lj = L &\ j
+lj = l &\ j
+DZcaron = D &\ Zcaron
+Dzcaron = D &\ zcaron
+dzcaron = d &\ zcaron
+
+
+hyphensoft = hyphen ^ hyphen
+gnrl:hyphen = hyphen ^ hyphen
+primemod = minute ^ minute
+primedblmod = second ^ second
+apostrophemod = quoteleft ^ quoteleft
+commaturnedmod = quoteright ^ quoteright
+macronmod = macroncmb @ `origin+150`, `origin+0` ^ 300
+acutemod = acutecmb @ `origin+150`, `origin+0` ^ 300
+gravemod = gravecmb @ `origin+150`, `origin+0` ^ 300
+
+*nbspace = ^ space
+*figurespace = ^ 500
+*punctuationspace = ^ 250
+*thinspace = ^ 125
+*hairspace = ^ 25
+*zerowidthspace = ^ 0
+figuredash = endash ^ endash
+horizontalbar = emdash ^ emdash
+
+
+
+dieresis = dieresiscmb @ `origin+250`, `origin+0` ^ 500
+grave = gravecmb @ `origin+250`, `origin+0` ^ 500
+macron = macroncmb @ `origin+250`, `origin+0` ^ 500
+acute = acutecmb @ `origin+250`, `origin+0` ^ 500
+cedilla = cedillacmb @ `origin+250`, `origin+0` ^ 500
+circumflex = circumflexcmb @ `origin+250`, `origin+0` ^ 500
+ring = ringabovecmb @ `origin+250`, `origin+0` ^ 500
+tilde = tildecmb @ `origin+250`, `origin+0` ^ 500
+caron = caroncmb @ `origin+250`, `origin+0` ^ 500
+breve = brevecmb @ `origin+250`, `origin+0` ^ 500
+dotaccent = dotaccentcmb @ `origin+250`, `origin+0` ^ 500
+ogonek = ogonekcmb @ `origin+250`, `origin+0` ^ 500
+hungarumlaut = hungarumlautcmb @ `origin+250`, `origin+0` ^ 500
+
+

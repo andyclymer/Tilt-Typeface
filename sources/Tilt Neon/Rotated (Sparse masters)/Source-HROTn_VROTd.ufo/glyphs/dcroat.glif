@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="412"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="196.0" y="639.0" type="curve" smooth="yes"/>
+      <point x="289.0" y="639.0"/>
+      <point x="320.0" y="639.0"/>
+      <point x="374.0" y="639.0" type="curve" smooth="yes"/>
+      <point x="430.0" y="639.0"/>
+      <point x="427.0" y="549.0"/>
+      <point x="377.0" y="549.0" type="curve" smooth="yes"/>
+      <point x="304.0" y="549.0"/>
+      <point x="258.0" y="549.0"/>
+      <point x="196.0" y="549.0" type="curve" smooth="yes"/>
+      <point x="126.0" y="549.0"/>
+      <point x="126.0" y="639.0"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

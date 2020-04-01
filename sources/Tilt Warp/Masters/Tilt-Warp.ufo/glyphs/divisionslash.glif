@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divisionslash" format="2">
+  <advance width="518"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="-25" y="-70" type="curve" name="PMJEIKGN"/>
+      <point x="32" y="-70" name="MALUKVQY"/>
+      <point x="90" y="-70" name="LKADQXHQ"/>
+      <point x="147" y="-70" type="curve" name="GUCZAYTS"/>
+      <point x="278" y="194" name="MXWEYMHE"/>
+      <point x="412" y="466" name="VZITSGGX"/>
+      <point x="543" y="730" type="curve" name="CYZIWAPK"/>
+      <point x="486" y="730" name="DJLHHNVU"/>
+      <point x="428" y="730" name="NKRWBBTS"/>
+      <point x="371" y="730" type="curve" name="ZGVKQYYD"/>
+      <point x="240" y="466" name="ZMJKFGXI"/>
+      <point x="106" y="194" name="XFONSIHP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CYZIWAPK</key>
+        <integer>214</integer>
+        <key>DJLHHNVU</key>
+        <integer>203</integer>
+        <key>GUCZAYTS</key>
+        <integer>190</integer>
+        <key>LKADQXHQ</key>
+        <integer>195</integer>
+        <key>MALUKVQY</key>
+        <integer>203</integer>
+        <key>MXWEYMHE</key>
+        <integer>-31</integer>
+        <key>NKRWBBTS</key>
+        <integer>195</integer>
+        <key>PMJEIKGN</key>
+        <integer>214</integer>
+        <key>VZITSGGX</key>
+        <integer>-23</integer>
+        <key>XFONSIHP</key>
+        <integer>-23</integer>
+        <key>ZGVKQYYD</key>
+        <integer>190</integer>
+        <key>ZMJKFGXI</key>
+        <integer>-31</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

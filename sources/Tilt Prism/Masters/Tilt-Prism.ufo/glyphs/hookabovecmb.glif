@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecmb" format="2">
+  <unicode hex="0309"/>
+  <anchor x="0" y="517" name="_above"/>
+  <anchor x="0" y="793" name="above"/>
+  <anchor x="0" y="517" name="_aboveright"/>
+  <outline>
+    <contour>
+      <point x="-17" y="607" type="move" smooth="yes" name="CCNKLPDL"/>
+      <point x="29" y="619" name="NWVRFDZJ"/>
+      <point x="59" y="643" name="GYHHMZHY"/>
+      <point x="59" y="688" type="curve" smooth="yes" name="AFHYTAFH"/>
+      <point x="59" y="739" name="JFPDTUZR"/>
+      <point x="15" y="764" name="KAZCGRJX"/>
+      <point x="-44" y="761" type="curve" smooth="yes" name="XMKUXPCM"/>
+    </contour>
+    <contour>
+      <point x="-94.0" y="798.0" type="move" name="TARBNJHZ"/>
+      <point x="-44.0" y="761.0" type="line" name="YXOUZBND"/>
+      <point x="-94.0" y="708.0" type="line" name="WITDDYWY"/>
+    </contour>
+    <contour>
+      <point x="-67.0" y="639.0" type="move" name="RJQWGJCK"/>
+      <point x="-17.0" y="607.0" type="line" name="FWJMCZOZ"/>
+      <point x="-67.0" y="558.0" type="line" name="ANLMCVDS"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AFHYTAFH</key>
+        <integer>100</integer>
+        <key>ANLMCVDS</key>
+        <real>0.0</real>
+        <key>CCNKLPDL</key>
+        <integer>100</integer>
+        <key>FWJMCZOZ</key>
+        <integer>100</integer>
+        <key>GYHHMZHY</key>
+        <integer>100</integer>
+        <key>JFPDTUZR</key>
+        <integer>100</integer>
+        <key>KAZCGRJX</key>
+        <integer>100</integer>
+        <key>NWVRFDZJ</key>
+        <integer>100</integer>
+        <key>RJQWGJCK</key>
+        <integer>0</integer>
+        <key>TARBNJHZ</key>
+        <integer>0</integer>
+        <key>WITDDYWY</key>
+        <real>0.0</real>
+        <key>XMKUXPCM</key>
+        <real>100.0</real>
+        <key>YXOUZBND</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

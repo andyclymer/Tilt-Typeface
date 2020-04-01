@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb" format="2">
+  <unicode hex="0306"/>
+  <anchor x="0" y="517" name="_above"/>
+  <anchor x="0" y="718" name="above"/>
+  <outline>
+    <contour>
+      <point x="111" y="694" type="move" smooth="yes" name="PBAPCDRI"/>
+      <point x="95" y="651" name="XWXJZBAZ"/>
+      <point x="58" y="624" name="QQKWAXUQ"/>
+      <point x="0" y="624" type="curve" smooth="yes" name="EVLNEOJX"/>
+      <point x="-58" y="624" name="YPSBKIDQ"/>
+      <point x="-95" y="651" name="JXXFQSDR"/>
+      <point x="-111" y="694" type="curve" smooth="yes" name="PMAYSKPY"/>
+    </contour>
+    <contour>
+      <point x="65.0" y="744.0" type="move" name="BLSCMVAV"/>
+      <point x="111.0" y="694.0" type="line" name="EPYMQGWI"/>
+      <point x="173.0" y="744.0" type="line" name="VEUHJXMD"/>
+    </contour>
+    <contour>
+      <point x="-173.0" y="744.0" type="move" name="TATSQTFP"/>
+      <point x="-111.0" y="694.0" type="line" name="SMFXPQOY"/>
+      <point x="-65.0" y="744.0" type="line" name="XJEGEOJL"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BLSCMVAV</key>
+        <integer>0</integer>
+        <key>EPYMQGWI</key>
+        <integer>100</integer>
+        <key>EVLNEOJX</key>
+        <integer>100</integer>
+        <key>JXXFQSDR</key>
+        <integer>100</integer>
+        <key>PBAPCDRI</key>
+        <integer>100</integer>
+        <key>PMAYSKPY</key>
+        <real>100.0</real>
+        <key>QQKWAXUQ</key>
+        <integer>100</integer>
+        <key>SMFXPQOY</key>
+        <integer>100</integer>
+        <key>TATSQTFP</key>
+        <integer>0</integer>
+        <key>VEUHJXMD</key>
+        <real>0.0</real>
+        <key>XJEGEOJL</key>
+        <real>0.0</real>
+        <key>XWXJZBAZ</key>
+        <integer>100</integer>
+        <key>YPSBKIDQ</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

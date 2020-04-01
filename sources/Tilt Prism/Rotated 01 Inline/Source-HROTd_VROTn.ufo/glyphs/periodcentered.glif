@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered" format="2">
+  <advance width="291"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="64" y="414" type="line"/>
+      <point x="144" y="428" type="line" smooth="yes"/>
+      <point x="147" y="428"/>
+      <point x="150" y="427"/>
+      <point x="152" y="424" type="curve" smooth="yes"/>
+      <point x="233" y="296" type="line"/>
+      <point x="219" y="288" type="line"/>
+      <point x="138" y="416" type="line" smooth="yes"/>
+      <point x="137" y="418"/>
+      <point x="150" y="413"/>
+      <point x="146" y="412" type="curve" smooth="yes"/>
+      <point x="66" y="398" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="296" type="line"/>
+      <point x="138" y="424" type="line" smooth="yes"/>
+      <point x="140" y="427"/>
+      <point x="143" y="428"/>
+      <point x="146" y="428" type="curve" smooth="yes"/>
+      <point x="227" y="414" type="line"/>
+      <point x="225" y="398" type="line"/>
+      <point x="144" y="412" type="line" smooth="yes"/>
+      <point x="140" y="413"/>
+      <point x="154" y="419"/>
+      <point x="152" y="416" type="curve" smooth="yes"/>
+      <point x="72" y="288" type="line"/>
+    </contour>
+  </outline>
+</glyph>

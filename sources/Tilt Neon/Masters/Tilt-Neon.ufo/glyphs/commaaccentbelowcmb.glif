@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentbelowcmb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="0" y="0" name="_below"/>
+  <anchor x="0" y="-218" name="below"/>
+  <outline>
+    <contour>
+      <point x="-15" y="-254" type="move" name="VVQSTDJX"/>
+      <point x="9" y="-213" name="MDSUGSXG"/>
+      <point x="14" y="-167" name="OIHXWBDK"/>
+      <point x="14" y="-128" type="curve" name="ILASGUYG"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ILASGUYG</key>
+        <integer>120</integer>
+        <key>MDSUGSXG</key>
+        <integer>130</integer>
+        <key>OIHXWBDK</key>
+        <integer>120</integer>
+        <key>VVQSTDJX</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

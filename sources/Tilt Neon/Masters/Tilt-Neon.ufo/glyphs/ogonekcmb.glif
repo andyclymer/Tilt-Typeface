@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonekcmb" format="2">
+  <unicode hex="0328"/>
+  <anchor x="0" y="0" name="_below"/>
+  <anchor x="113" y="22" name="ogonek"/>
+  <anchor x="0" y="-171" name="below"/>
+  <outline>
+    <contour>
+      <point x="64.73291925465838" y="54.0" type="move" name="YLLHUVHV"/>
+      <point x="-20.944099378881987" y="25.0" name="BHELUTXR"/>
+      <point x="-48.0" y="-7.0" name="HZJCJCIQ"/>
+      <point x="-48.0" y="-50.0" type="curve" smooth="yes" name="ACTKJPCN"/>
+      <point x="-48.0" y="-103.0" name="NFWHDZMS"/>
+      <point x="-2.9068322981366492" y="-136.0" name="ORXWCZJR"/>
+      <point x="73.0" y="-102.0" type="curve" name="ZJTMKOQQ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ACTKJPCN</key>
+        <integer>120</integer>
+        <key>BHELUTXR</key>
+        <integer>120</integer>
+        <key>HZJCJCIQ</key>
+        <integer>120</integer>
+        <key>NFWHDZMS</key>
+        <integer>120</integer>
+        <key>ORXWCZJR</key>
+        <integer>120</integer>
+        <key>YLLHUVHV</key>
+        <integer>120</integer>
+        <key>ZJTMKOQQ</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

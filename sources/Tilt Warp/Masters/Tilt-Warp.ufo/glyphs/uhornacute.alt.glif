@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhornacute.alt" format="2">
+  <advance width="585"/>
+  <outline>
+    <component base="uhorn.alt"/>
+    <component base="acutecmb" xOffset="272" yOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
+</glyph>

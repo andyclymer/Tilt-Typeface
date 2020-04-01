@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aogonek.alt" format="2">
+  <advance width="523"/>
+  <anchor x="259" y="22" name="center"/>
+  <anchor x="313" y="495" name="above"/>
+  <anchor x="313" y="22" name="below"/>
+  <outline>
+    <contour>
+      <point x="123" y="437" type="move" name="WNGOFQGK"/>
+      <point x="166" y="455" name="HKFVNCMO"/>
+      <point x="212" y="464" name="AZTMNYJO"/>
+      <point x="254" y="464" type="curve" smooth="yes" name="AGECBDOW"/>
+      <point x="341" y="463" name="FXUJVTZL"/>
+      <point x="412" y="420" name="XLCHEISN"/>
+      <point x="412" y="320" type="curve" smooth="yes" name="KAYDDJXM"/>
+      <point x="412" y="286" name="GWSXFKDB"/>
+      <point x="412" y="236" name="PDVGSQMB"/>
+      <point x="412" y="154" type="curve" smooth="yes" name="SRMBITDY"/>
+      <point x="412" y="83" name="YMQNCOZM"/>
+      <point x="337" y="34" name="HHMKLXDD"/>
+      <point x="247" y="34" type="curve" smooth="yes" name="UEQJNQYS"/>
+      <point x="156" y="34" name="SQYVBDVS"/>
+      <point x="100" y="87" name="FOIUQWLN"/>
+      <point x="100" y="157" type="curve" smooth="yes" name="ZLIFNSUT"/>
+      <point x="100" y="229" name="UOIUIIZZ"/>
+      <point x="159" y="280" name="SRILFYTO"/>
+      <point x="246" y="280" type="curve" smooth="yes" name="NYHTXUNK"/>
+      <point x="333" y="280" name="POWRLVWL"/>
+      <point x="412" y="232" name="ZEFSLMVU"/>
+      <point x="412" y="160" type="curve" smooth="yes" name="LBSKALAJ"/>
+      <point x="412" y="99" name="XEVBDTAZ"/>
+      <point x="412" y="71" name="JLALLMFV"/>
+      <point x="412" y="44" type="curve" name="WOMZLNBS"/>
+    </contour>
+    <contour>
+      <point x="412" y="40.0" type="move" name="YLLHUVHV"/>
+      <point x="326" y="11.0" name="BHELUTXR"/>
+      <point x="299.0" y="-21.0" name="HZJCJCIQ"/>
+      <point x="299.0" y="-64.0" type="curve" smooth="yes" name="ACTKJPCN"/>
+      <point x="299.0" y="-112" name="NFWHDZMS"/>
+      <point x="344" y="-150.0" name="ORXWCZJR"/>
+      <point x="420.0" y="-116.0" type="curve" name="ZJTMKOQQ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ACTKJPCN</key>
+        <integer>70</integer>
+        <key>AGECBDOW</key>
+        <integer>120</integer>
+        <key>AZTMNYJO</key>
+        <integer>120</integer>
+        <key>BHELUTXR</key>
+        <integer>46</integer>
+        <key>FOIUQWLN</key>
+        <integer>130</integer>
+        <key>FXUJVTZL</key>
+        <integer>120</integer>
+        <key>GWSXFKDB</key>
+        <integer>120</integer>
+        <key>HHMKLXDD</key>
+        <integer>120</integer>
+        <key>HKFVNCMO</key>
+        <integer>110</integer>
+        <key>HZJCJCIQ</key>
+        <integer>50</integer>
+        <key>JLALLMFV</key>
+        <integer>18</integer>
+        <key>KAYDDJXM</key>
+        <integer>120</integer>
+        <key>LBSKALAJ</key>
+        <integer>10</integer>
+        <key>NFWHDZMS</key>
+        <integer>93</integer>
+        <key>NYHTXUNK</key>
+        <integer>55</integer>
+        <key>ORXWCZJR</key>
+        <integer>120</integer>
+        <key>PDVGSQMB</key>
+        <integer>120</integer>
+        <key>POWRLVWL</key>
+        <integer>26</integer>
+        <key>SQYVBDVS</key>
+        <integer>120</integer>
+        <key>SRILFYTO</key>
+        <integer>84</integer>
+        <key>SRMBITDY</key>
+        <integer>120</integer>
+        <key>UEQJNQYS</key>
+        <integer>120</integer>
+        <key>UOIUIIZZ</key>
+        <integer>110</integer>
+        <key>WNGOFQGK</key>
+        <integer>60</integer>
+        <key>WOMZLNBS</key>
+        <integer>30</integer>
+        <key>XEVBDTAZ</key>
+        <integer>10</integer>
+        <key>XLCHEISN</key>
+        <real>120.0</real>
+        <key>YLLHUVHV</key>
+        <integer>30</integer>
+        <key>YMQNCOZM</key>
+        <integer>120</integer>
+        <key>ZEFSLMVU</key>
+        <integer>10</integer>
+        <key>ZJTMKOQQ</key>
+        <integer>120</integer>
+        <key>ZLIFNSUT</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

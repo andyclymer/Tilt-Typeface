@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialminussign" format="2">
+  <advance width="544"/>
+  <unicode hex="2052"/>
+  <outline>
+    <contour>
+      <point x="447" y="640" type="move" name="KSSZMCKT"/>
+      <point x="430" y="610" name="UWQRTHHC"/>
+      <point x="412" y="580" name="FYLPWOFC"/>
+      <point x="395" y="551" type="curve" smooth="yes" name="TYXTLMEO"/>
+      <point x="317" y="418" name="MFGHWNBG"/>
+      <point x="237" y="284" name="EYLJYBSU"/>
+      <point x="159" y="151" type="curve" smooth="yes" name="TGYCGJGU"/>
+      <point x="138" y="115" name="FYKXVUCN"/>
+      <point x="117" y="80" name="AGVIIVHN"/>
+      <point x="97" y="45" type="curve" name="JOGEUTEF"/>
+    </contour>
+    <contour>
+      <point x="145.0" y="510.0" type="move" name="GRUOSONA"/>
+      <point x="111.0" y="515" name="SSDSCXRF"/>
+      <point x="111.0" y="549" name="HEMXHTMZ"/>
+      <point x="145.0" y="554.0" type="curve" name="HYUQXCEO"/>
+    </contour>
+    <contour>
+      <point x="407.0" y="129.0" type="move" name="ARSXQBEX"/>
+      <point x="373.0" y="134" name="DWAQSDRA"/>
+      <point x="373.0" y="168" name="XATDDRQI"/>
+      <point x="407.0" y="173.0" type="curve" name="MQXJCANF"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AGVIIVHN</key>
+        <real>120.0</real>
+        <key>ARSXQBEX</key>
+        <integer>120</integer>
+        <key>DWAQSDRA</key>
+        <integer>120</integer>
+        <key>EYLJYBSU</key>
+        <integer>120</integer>
+        <key>FYKXVUCN</key>
+        <integer>120</integer>
+        <key>FYLPWOFC</key>
+        <integer>120</integer>
+        <key>GRUOSONA</key>
+        <integer>120</integer>
+        <key>HEMXHTMZ</key>
+        <integer>120</integer>
+        <key>HYUQXCEO</key>
+        <real>120.0</real>
+        <key>JOGEUTEF</key>
+        <real>90.0</real>
+        <key>KSSZMCKT</key>
+        <integer>90</integer>
+        <key>MFGHWNBG</key>
+        <integer>120</integer>
+        <key>MQXJCANF</key>
+        <real>120.0</real>
+        <key>SSDSCXRF</key>
+        <integer>120</integer>
+        <key>TGYCGJGU</key>
+        <integer>120</integer>
+        <key>TYXTLMEO</key>
+        <integer>120</integer>
+        <key>UWQRTHHC</key>
+        <integer>120</integer>
+        <key>XATDDRQI</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="808"/>
+  <unicode hex="004D"/>
+  <anchor x="401" y="0" name="below"/>
+  <anchor x="404" y="680" name="above"/>
+  <outline>
+    <contour>
+      <point x="683" y="40" type="move" name="QLUSMILD"/>
+      <point x="683" y="79" name="LQWUAGOE"/>
+      <point x="683" y="118" name="VCQZLDXT"/>
+      <point x="683" y="157" type="curve" smooth="yes" name="BHWLNJGI"/>
+      <point x="683" y="220" name="GUGTE"/>
+      <point x="683" y="283" name="KEREY"/>
+      <point x="683" y="348" type="curve" smooth="yes" name="EDOKE"/>
+      <point x="683" y="402" name="HAVOL"/>
+      <point x="683" y="445" name="BEBZO"/>
+      <point x="683" y="528" type="curve" smooth="yes" name="YDWZIGAV"/>
+      <point x="683" y="683" name="IBTQIAJK"/>
+      <point x="648" y="688" name="QINYHBYA"/>
+      <point x="588" y="528" type="curve" smooth="yes" name="MIBMOWXV"/>
+      <point x="566" y="471" name="ISAKE"/>
+      <point x="543" y="410" name="XITRY"/>
+      <point x="521" y="348" type="curve" smooth="yes" name="HELUR"/>
+      <point x="496" y="280" name="FOMOD"/>
+      <point x="471" y="213" name="RROAD"/>
+      <point x="449" y="149" type="curve" smooth="yes" name="SGBLDCVZ"/>
+      <point x="406" y="29" name="SCFTASHP"/>
+      <point x="402" y="29" name="ZUPNHLQG"/>
+      <point x="359" y="149" type="curve" smooth="yes" name="JKGKOUEH"/>
+      <point x="336" y="213" name="REMTY"/>
+      <point x="312" y="280" name="AHLES"/>
+      <point x="287" y="348" type="curve" smooth="yes" name="FIKAT"/>
+      <point x="264" y="409" name="TELUC"/>
+      <point x="242" y="469" name="JOBDI"/>
+      <point x="220" y="527" type="curve" smooth="yes" name="VPFMEQZJ"/>
+      <point x="160" y="685" name="RJPKEOPP"/>
+      <point x="125" y="681" name="ZSBTXEST"/>
+      <point x="125" y="527" type="curve" smooth="yes" name="JASRNWDX"/>
+      <point x="125" y="468" name="MARKI"/>
+      <point x="125" y="408" name="SHREE"/>
+      <point x="125" y="348" type="curve" smooth="yes" name="ZIPPS"/>
+      <point x="125" y="282" name="WODUD"/>
+      <point x="125" y="217" name="WAKMI"/>
+      <point x="125" y="152" type="curve" smooth="yes" name="ZIHBFYTU"/>
+      <point x="125" y="115" name="KARJALFT"/>
+      <point x="125" y="77" name="SOXGGSGH"/>
+      <point x="125" y="40" type="curve" name="LDYHPGZR"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AHLES</key>
+        <integer>6</integer>
+        <key>BEBZO</key>
+        <integer>10</integer>
+        <key>BHWLNJGI</key>
+        <integer>110</integer>
+        <key>EDOKE</key>
+        <integer>43</integer>
+        <key>FIKAT</key>
+        <integer>3</integer>
+        <key>FOMOD</key>
+        <integer>121</integer>
+        <key>GUGTE</key>
+        <integer>110</integer>
+        <key>HAVOL</key>
+        <integer>18</integer>
+        <key>HELUR</key>
+        <integer>121</integer>
+        <key>IBTQIAJK</key>
+        <integer>-21</integer>
+        <key>ISAKE</key>
+        <integer>121</integer>
+        <key>JASRNWDX</key>
+        <integer>121</integer>
+        <key>JKGKOUEH</key>
+        <integer>20</integer>
+        <key>JOBDI</key>
+        <integer>-1</integer>
+        <key>KARJALFT</key>
+        <integer>120</integer>
+        <key>KEREY</key>
+        <integer>73</integer>
+        <key>LDYHPGZR</key>
+        <integer>92</integer>
+        <key>LQWUAGOE</key>
+        <integer>110</integer>
+        <key>MARKI</key>
+        <integer>121</integer>
+        <key>MIBMOWXV</key>
+        <integer>121</integer>
+        <key>QINYHBYA</key>
+        <integer>121</integer>
+        <key>QLUSMILD</key>
+        <integer>90</integer>
+        <key>REMTY</key>
+        <integer>12</integer>
+        <key>RJPKEOPP</key>
+        <integer>-1</integer>
+        <key>RROAD</key>
+        <integer>110</integer>
+        <key>SCFTASHP</key>
+        <integer>81</integer>
+        <key>SGBLDCVZ</key>
+        <integer>100</integer>
+        <key>SHREE</key>
+        <integer>121</integer>
+        <key>SOXGGSGH</key>
+        <integer>112</integer>
+        <key>TELUC</key>
+        <integer>0</integer>
+        <key>VCQZLDXT</key>
+        <integer>110</integer>
+        <key>VPFMEQZJ</key>
+        <integer>-1</integer>
+        <key>WAKMI</key>
+        <integer>121</integer>
+        <key>WODUD</key>
+        <integer>121</integer>
+        <key>XITRY</key>
+        <integer>121</integer>
+        <key>YDWZIGAV</key>
+        <integer>-1</integer>
+        <key>ZIHBFYTU</key>
+        <integer>120</integer>
+        <key>ZIPPS</key>
+        <integer>121</integer>
+        <key>ZSBTXEST</key>
+        <integer>121</integer>
+        <key>ZUPNHLQG</key>
+        <integer>35</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

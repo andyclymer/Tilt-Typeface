@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aogonek.alt" format="2">
+  <advance width="369"/>
+  <anchor x="183.0" y="22" name="center"/>
+  <anchor x="221.0" y="495" name="above"/>
+  <anchor x="221.0" y="22" name="below"/>
+  <outline>
+    <component base="a.alt"/>
+    <component base="ogonekcmb" xOffset="311" yOffset="-19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3234,0.3234,0.3234,1</string>
+    </dict>
+  </lib>
+</glyph>

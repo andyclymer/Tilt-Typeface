@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance width="297"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="28" y="398" type="curve" name="SNOUVFYI"/>
+      <point x="75" y="398" name="MCOUAGBL"/>
+      <point x="122" y="398" name="PBFTAOLS"/>
+      <point x="169" y="398" type="curve" name="APAKVWYW"/>
+      <point x="207" y="491" name="UDLHWTRE"/>
+      <point x="245" y="587" name="OAJYFRSI"/>
+      <point x="283" y="680" type="curve" name="ISVWHRGA"/>
+      <point x="227" y="680" name="WKMHYOBB"/>
+      <point x="170" y="680" name="JIVATSPH"/>
+      <point x="114" y="680" type="curve" name="LZMQXKGJ"/>
+      <point x="86" y="587" name="HAJENZWB"/>
+      <point x="56" y="491" name="ZDIYNDLY"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>APAKVWYW</key>
+        <integer>142</integer>
+        <key>HAJENZWB</key>
+        <integer>70</integer>
+        <key>ISVWHRGA</key>
+        <integer>154</integer>
+        <key>JIVATSPH</key>
+        <integer>139</integer>
+        <key>LZMQXKGJ</key>
+        <integer>143</integer>
+        <key>MCOUAGBL</key>
+        <integer>145</integer>
+        <key>OAJYFRSI</key>
+        <integer>72</integer>
+        <key>PBFTAOLS</key>
+        <integer>141</integer>
+        <key>SNOUVFYI</key>
+        <integer>154</integer>
+        <key>UDLHWTRE</key>
+        <integer>68</integer>
+        <key>WKMHYOBB</key>
+        <integer>143</integer>
+        <key>ZDIYNDLY</key>
+        <integer>74</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

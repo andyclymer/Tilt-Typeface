@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="511"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="88" y="611" type="move" name="TUGBTPLD"/>
+      <point x="141" y="633" name="ZCLKDDYL"/>
+      <point x="194" y="643" name="AJXQIKYT"/>
+      <point x="241" y="643" type="curve" smooth="yes" name="XACNGVSK"/>
+      <point x="348" y="643" name="ILXOZXVS"/>
+      <point x="427" y="590" name="BTSZWPXQ"/>
+      <point x="427.0" y="509" type="curve" smooth="yes" name="LYOKWAHI"/>
+      <point x="427" y="455" name="WCVIZSEZ"/>
+      <point x="388" y="405" name="LYFKILYU"/>
+      <point x="321" y="378" type="curve" smooth="yes" name="UBNDZMME"/>
+      <point x="235" y="342" name="ZSXQLWUH"/>
+      <point x="226" y="309" name="DZQGGFJM"/>
+      <point x="226" y="266" type="curve" name="WPHOMBUK"/>
+    </contour>
+    <contour>
+      <point x="227.0" y="36.0" type="move" name="NYSYROUW"/>
+      <point x="227.0" y="50" name="SLNQUYAN"/>
+      <point x="227.0" y="75" name="VZMOLFTK"/>
+      <point x="227.0" y="90.0" type="curve" name="YMUVUDPY"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AJXQIKYT</key>
+        <integer>120</integer>
+        <key>BTSZWPXQ</key>
+        <integer>120</integer>
+        <key>DZQGGFJM</key>
+        <integer>102</integer>
+        <key>ILXOZXVS</key>
+        <integer>120</integer>
+        <key>LYFKILYU</key>
+        <integer>124</integer>
+        <key>LYOKWAHI</key>
+        <integer>120</integer>
+        <key>NYSYROUW</key>
+        <integer>120</integer>
+        <key>SLNQUYAN</key>
+        <integer>120</integer>
+        <key>TUGBTPLD</key>
+        <integer>90</integer>
+        <key>UBNDZMME</key>
+        <integer>120</integer>
+        <key>VZMOLFTK</key>
+        <integer>120</integer>
+        <key>WCVIZSEZ</key>
+        <integer>120</integer>
+        <key>WPHOMBUK</key>
+        <integer>70</integer>
+        <key>XACNGVSK</key>
+        <integer>120</integer>
+        <key>YMUVUDPY</key>
+        <integer>120</integer>
+        <key>ZCLKDDYL</key>
+        <integer>120</integer>
+        <key>ZSXQLWUH</key>
+        <integer>115</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f" format="2">
+  <advance width="364"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="338" y="676" type="move" name="LCNTMJTI"/>
+      <point x="249" y="721" name="EUQFLOWI"/>
+      <point x="163" y="678" name="FYXKGWHP"/>
+      <point x="163" y="584" type="curve" smooth="yes" name="MIHBWPET"/>
+      <point x="163.0" y="444" name="KXMMQIXD"/>
+      <point x="163" y="276" name="TVBJPCUV"/>
+      <point x="163" y="195" type="curve" smooth="yes" name="ZZRYTFSK"/>
+      <point x="163.0" y="143.0" name="PUXCOTVM"/>
+      <point x="163.0" y="82" name="NUHRBMBP"/>
+      <point x="163" y="40" type="curve" name="KFGFRHUS"/>
+    </contour>
+    <contour>
+      <point x="309" y="453" type="move" name="SDRTNBMO"/>
+      <point x="275.0" y="453" name="YZGICSME"/>
+      <point x="247" y="453" name="BWLWBXFB"/>
+      <point x="222" y="453" type="curve" smooth="yes" name="NXRRWOBG"/>
+      <point x="184" y="453.0" name="WOYFWAAP"/>
+      <point x="149" y="453.0" name="DJOUCXJN"/>
+      <point x="111" y="453" type="curve" smooth="yes" name="CMPVRDML"/>
+      <point x="92" y="453.0" name="NWUVUROL"/>
+      <point x="78" y="453.0" name="ANNFZJGU"/>
+      <point x="57" y="453" type="curve" name="DXSXWAFU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ANNFZJGU</key>
+        <integer>80</integer>
+        <key>BWLWBXFB</key>
+        <integer>72</integer>
+        <key>CMPVRDML</key>
+        <integer>55</integer>
+        <key>DJOUCXJN</key>
+        <integer>29</integer>
+        <key>DXSXWAFU</key>
+        <integer>80</integer>
+        <key>EUQFLOWI</key>
+        <integer>120</integer>
+        <key>FYXKGWHP</key>
+        <integer>120</integer>
+        <key>KFGFRHUS</key>
+        <integer>97</integer>
+        <key>KXMMQIXD</key>
+        <integer>120</integer>
+        <key>LCNTMJTI</key>
+        <integer>60</integer>
+        <key>MIHBWPET</key>
+        <integer>120</integer>
+        <key>NUHRBMBP</key>
+        <integer>117</integer>
+        <key>NWUVUROL</key>
+        <integer>68</integer>
+        <key>NXRRWOBG</key>
+        <integer>55</integer>
+        <key>PUXCOTVM</key>
+        <integer>120</integer>
+        <key>SDRTNBMO</key>
+        <integer>80</integer>
+        <key>TVBJPCUV</key>
+        <integer>120</integer>
+        <key>WOYFWAAP</key>
+        <integer>30</integer>
+        <key>YZGICSME</key>
+        <integer>80</integer>
+        <key>ZZRYTFSK</key>
+        <integer>120</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

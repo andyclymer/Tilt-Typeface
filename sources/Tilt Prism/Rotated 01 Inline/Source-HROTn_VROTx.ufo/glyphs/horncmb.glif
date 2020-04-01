@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncmb" format="2">
+  <unicode hex="031B"/>
+  <anchor x="-133.0" y="439.0" name="horn"/>
+  <outline>
+    <contour>
+      <point x="-115" y="383" type="line"/>
+      <point x="-84" y="328"/>
+      <point x="-98" y="294"/>
+      <point x="-167" y="288" type="curve"/>
+      <point x="-169" y="304" type="line"/>
+      <point x="-112" y="308"/>
+      <point x="-104" y="330"/>
+      <point x="-129" y="375" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-144" y="494" type="line"/>
+      <point x="-114" y="381" type="line" smooth="yes"/>
+      <point x="-112" y="374"/>
+      <point x="-132" y="377"/>
+      <point x="-129" y="383" type="curve" smooth="yes"/>
+      <point x="-59" y="496" type="line"/>
+      <point x="-45" y="488" type="line"/>
+      <point x="-115" y="375" type="line" smooth="yes"/>
+      <point x="-119" y="369"/>
+      <point x="-128" y="370"/>
+      <point x="-130" y="377" type="curve" smooth="yes"/>
+      <point x="-160" y="490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

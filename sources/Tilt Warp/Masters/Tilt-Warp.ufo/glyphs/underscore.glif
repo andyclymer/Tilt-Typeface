@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
+  <advance width="615"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="-5" y="-155" type="curve" name="UIVSVHUJ"/>
+      <point x="201" y="-155" name="XBMAQNUC"/>
+      <point x="414" y="-155" name="RZRIRRKA"/>
+      <point x="620" y="-155" type="curve" name="RBPOPXVZ"/>
+      <point x="620" y="-104" name="OFHDUIWA"/>
+      <point x="620" y="-51" name="FFQAMCJM"/>
+      <point x="620" y="0" type="curve" name="MKSQZSWI"/>
+      <point x="414" y="0" name="AHAPQSQI"/>
+      <point x="201" y="0" name="VYRNWXXA"/>
+      <point x="-5" y="0" type="curve" name="SQYCEVWD"/>
+      <point x="-5" y="-51" name="AGVXOGZK"/>
+      <point x="-5" y="-104" name="UGJSGXGU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AGVXOGZK</key>
+        <integer>110</integer>
+        <key>AHAPQSQI</key>
+        <integer>110</integer>
+        <key>FFQAMCJM</key>
+        <integer>110</integer>
+        <key>MKSQZSWI</key>
+        <integer>151</integer>
+        <key>OFHDUIWA</key>
+        <integer>110</integer>
+        <key>RBPOPXVZ</key>
+        <integer>151</integer>
+        <key>RZRIRRKA</key>
+        <integer>110</integer>
+        <key>SQYCEVWD</key>
+        <integer>151</integer>
+        <key>UGJSGXGU</key>
+        <integer>110</integer>
+        <key>UIVSVHUJ</key>
+        <integer>151</integer>
+        <key>VYRNWXXA</key>
+        <integer>110</integer>
+        <key>XBMAQNUC</key>
+        <integer>110</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

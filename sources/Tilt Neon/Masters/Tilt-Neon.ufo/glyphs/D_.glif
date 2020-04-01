@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="660"/>
+  <unicode hex="0044"/>
+  <anchor x="300" y="0" name="below"/>
+  <anchor x="310" y="680" name="above"/>
+  <outline>
+    <contour>
+      <point x="125" y="45" type="move" name="JITUK"/>
+      <point x="125.0" y="75" name="EKNTRWDS"/>
+      <point x="125.0" y="104.0" name="MOCXGURJ"/>
+      <point x="125.0" y="197" type="curve" smooth="yes" name="UVBMDKTV"/>
+      <point x="125.0" y="297" name="OTRMRCWQ"/>
+      <point x="125.0" y="396" name="PXDJHARJ"/>
+      <point x="125" y="496" type="curve" smooth="yes" name="SRTNDESM"/>
+      <point x="125.0" y="603" name="YYCWABIA"/>
+      <point x="132" y="635.0" name="XUSKMPWF"/>
+      <point x="173" y="635" type="curve" smooth="yes" name="UFVOKDIO"/>
+      <point x="221" y="635" name="GBFZOIAS"/>
+      <point x="240" y="635" name="DDRRSILD"/>
+      <point x="312" y="635" type="curve" smooth="yes" name="RENLY"/>
+      <point x="483" y="635" name="NOOKS"/>
+      <point x="570" y="512" name="BLUJA"/>
+      <point x="570" y="341" type="curve" smooth="yes" name="BONEE"/>
+      <point x="570" y="169" name="PFILA"/>
+      <point x="465" y="45" name="MAMUE"/>
+      <point x="303" y="45" type="curve" smooth="yes" name="MAAAX"/>
+      <point x="277" y="45" name="YDWCYDHF"/>
+      <point x="251" y="45" name="WWUDJACC"/>
+      <point x="225" y="45" type="curve" name="JDDHPZTT"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BLUJA</key>
+        <integer>125</integer>
+        <key>BONEE</key>
+        <integer>125</integer>
+        <key>DDRRSILD</key>
+        <integer>91</integer>
+        <key>EKNTRWDS</key>
+        <integer>110</integer>
+        <key>GBFZOIAS</key>
+        <integer>63</integer>
+        <key>JDDHPZTT</key>
+        <integer>90</integer>
+        <key>JITUK</key>
+        <integer>90</integer>
+        <key>MAAAX</key>
+        <integer>120</integer>
+        <key>MAMUE</key>
+        <integer>137</integer>
+        <key>MOCXGURJ</key>
+        <integer>120</integer>
+        <key>NOOKS</key>
+        <integer>189</integer>
+        <key>OTRMRCWQ</key>
+        <integer>120</integer>
+        <key>PFILA</key>
+        <integer>125</integer>
+        <key>PXDJHARJ</key>
+        <integer>120</integer>
+        <key>RENLY</key>
+        <integer>120</integer>
+        <key>SRTNDESM</key>
+        <integer>120</integer>
+        <key>UFVOKDIO</key>
+        <real>63.0</real>
+        <key>UVBMDKTV</key>
+        <integer>120</integer>
+        <key>WWUDJACC</key>
+        <integer>107</integer>
+        <key>XUSKMPWF</key>
+        <integer>63</integer>
+        <key>YDWCYDHF</key>
+        <integer>117</integer>
+        <key>YYCWABIA</key>
+        <integer>120</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

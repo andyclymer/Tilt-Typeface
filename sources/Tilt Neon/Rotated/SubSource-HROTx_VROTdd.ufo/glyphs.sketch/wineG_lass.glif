@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wineGlass" format="2">
+  <advance width="523"/>
+  <outline>
+    <contour>
+      <point x="342" y="98" type="move"/>
+      <point x="388" y="98"/>
+      <point x="409" y="98"/>
+      <point x="477" y="98" type="curve" smooth="yes"/>
+      <point x="544" y="98"/>
+      <point x="544" y="8"/>
+      <point x="477" y="8" type="curve" smooth="yes"/>
+      <point x="431" y="8"/>
+      <point x="373" y="8"/>
+      <point x="342" y="8" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="350" y="8" type="move" smooth="yes"/>
+      <point x="319" y="8"/>
+      <point x="261" y="8"/>
+      <point x="215" y="8" type="curve" smooth="yes"/>
+      <point x="148" y="8"/>
+      <point x="148" y="98"/>
+      <point x="215" y="98" type="curve" smooth="yes"/>
+      <point x="283" y="98"/>
+      <point x="304" y="98"/>
+      <point x="350" y="98" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

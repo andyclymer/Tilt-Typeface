@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinemod" format="2">
+  <advance width="212"/>
+  <unicode hex="02C8"/>
+  <outline>
+    <contour>
+      <point x="38" y="390" type="line" smooth="yes"/>
+      <point x="34" y="390"/>
+      <point x="30" y="393"/>
+      <point x="30" y="397" type="curve" smooth="yes"/>
+      <point x="9" y="679" type="line" smooth="yes"/>
+      <point x="9" y="684"/>
+      <point x="12" y="688"/>
+      <point x="17" y="688" type="curve" smooth="yes"/>
+      <point x="111" y="688" type="line" smooth="yes"/>
+      <point x="116" y="688"/>
+      <point x="119" y="684"/>
+      <point x="119" y="679" type="curve" smooth="yes"/>
+      <point x="98" y="397" type="line" smooth="yes"/>
+      <point x="98" y="393"/>
+      <point x="94" y="390"/>
+      <point x="90" y="390" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="38" y="406" type="line"/>
+      <point x="90" y="406" type="line"/>
+      <point x="82" y="399" type="line"/>
+      <point x="103" y="681" type="line"/>
+      <point x="111" y="672" type="line"/>
+      <point x="17" y="672" type="line"/>
+      <point x="25" y="681" type="line"/>
+      <point x="46" y="399" type="line"/>
+    </contour>
+  </outline>
+</glyph>

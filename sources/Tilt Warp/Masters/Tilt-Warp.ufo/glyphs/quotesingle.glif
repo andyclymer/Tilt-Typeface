@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle" format="2">
+  <advance width="297"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="78" y="398" type="curve" name="ZSGDGANZ"/>
+      <point x="125" y="398" name="OUUUNAIF"/>
+      <point x="172" y="398" name="QRUIOZCX"/>
+      <point x="219" y="398" type="curve" name="UWAYYOUI"/>
+      <point x="224" y="491" name="OKGWHTYZ"/>
+      <point x="228" y="587" name="DOPOBIBV"/>
+      <point x="233" y="680" type="curve" name="CALPICWU"/>
+      <point x="177" y="680" name="VUFETAIZ"/>
+      <point x="120" y="680" name="JWTUGIZY"/>
+      <point x="64" y="680" type="curve" name="WAIHVILT"/>
+      <point x="69" y="587" name="MJMSUYPS"/>
+      <point x="73" y="491" name="OEHJEYBV"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CALPICWU</key>
+        <integer>152</integer>
+        <key>DOPOBIBV</key>
+        <integer>77</integer>
+        <key>JWTUGIZY</key>
+        <integer>141</integer>
+        <key>MJMSUYPS</key>
+        <integer>77</integer>
+        <key>OEHJEYBV</key>
+        <integer>76</integer>
+        <key>OKGWHTYZ</key>
+        <integer>76</integer>
+        <key>OUUUNAIF</key>
+        <integer>142</integer>
+        <key>QRUIOZCX</key>
+        <integer>142</integer>
+        <key>UWAYYOUI</key>
+        <integer>150</integer>
+        <key>VUFETAIZ</key>
+        <integer>141</integer>
+        <key>WAIHVILT</key>
+        <integer>152</integer>
+        <key>ZSGDGANZ</key>
+        <integer>150</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

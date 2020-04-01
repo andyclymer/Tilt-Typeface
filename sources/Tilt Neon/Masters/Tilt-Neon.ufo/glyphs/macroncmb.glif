@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncmb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="0" y="497" name="_above"/>
+  <anchor x="0" y="674" name="above"/>
+  <outline>
+    <contour>
+      <point x="114.0" y="628.0" type="move" name="LLLHYDWV"/>
+      <point x="57" y="628.0" name="IQCFRMGJ"/>
+      <point x="-59" y="628.0" name="FPRFNPPE"/>
+      <point x="-116.0" y="628.0" type="curve" name="XEKMEQYJ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>FPRFNPPE</key>
+        <integer>150</integer>
+        <key>IQCFRMGJ</key>
+        <integer>150</integer>
+        <key>LLLHYDWV</key>
+        <integer>120</integer>
+        <key>XEKMEQYJ</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar" format="2">
+  <advance width="315"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="240" y="-160" type="curve" name="FVRPYRGG"/>
+      <point x="240" y="147" name="BTFCRCOX"/>
+      <point x="240" y="463" name="HCTSDFCW"/>
+      <point x="240" y="770" type="curve" name="EFEXKYHH"/>
+      <point x="186" y="770" name="PAWVOZGC"/>
+      <point x="129" y="770" name="PCEIFMML"/>
+      <point x="75" y="770" type="curve" name="XJKQRLYP"/>
+      <point x="75" y="463" name="RUTFTPVN"/>
+      <point x="75" y="147" name="LAQSTHNF"/>
+      <point x="75" y="-160" type="curve" name="RCTRNQLX"/>
+      <point x="129" y="-160" name="IVRHEIOS"/>
+      <point x="186" y="-160" name="RXGDXHNO"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BTFCRCOX</key>
+        <integer>-29</integer>
+        <key>EFEXKYHH</key>
+        <integer>217</integer>
+        <key>FVRPYRGG</key>
+        <integer>217</integer>
+        <key>HCTSDFCW</key>
+        <integer>-29</integer>
+        <key>IVRHEIOS</key>
+        <integer>206</integer>
+        <key>LAQSTHNF</key>
+        <integer>-29</integer>
+        <key>PAWVOZGC</key>
+        <integer>206</integer>
+        <key>PCEIFMML</key>
+        <integer>206</integer>
+        <key>RCTRNQLX</key>
+        <integer>217</integer>
+        <key>RUTFTPVN</key>
+        <integer>-29</integer>
+        <key>RXGDXHNO</key>
+        <integer>206</integer>
+        <key>XJKQRLYP</key>
+        <integer>217</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

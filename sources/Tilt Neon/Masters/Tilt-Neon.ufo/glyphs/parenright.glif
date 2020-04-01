@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright" format="2">
+  <advance width="452"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="60.29374904065992" y="747.0" type="move" name="WUBPKLJB"/>
+      <point x="204.29374904065992" y="707.0" name="IRAJGYCB"/>
+      <point x="337.2937490406599" y="559.0" name="LRORUNXC"/>
+      <point x="337.2937490406599" y="306.0" type="curve" smooth="yes" name="KJQXWWTY"/>
+      <point x="337.2937490406599" y="53.0" name="HZVCBHZJ"/>
+      <point x="204.29374904065992" y="-95.0" name="WEDTMIFD"/>
+      <point x="60.29374904065992" y="-135.0" type="curve" name="SJZRCMTN"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>HZVCBHZJ</key>
+        <integer>120</integer>
+        <key>IRAJGYCB</key>
+        <integer>120</integer>
+        <key>KJQXWWTY</key>
+        <integer>120</integer>
+        <key>LRORUNXC</key>
+        <integer>120</integer>
+        <key>SJZRCMTN</key>
+        <real>120.0</real>
+        <key>WEDTMIFD</key>
+        <integer>120</integer>
+        <key>WUBPKLJB</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

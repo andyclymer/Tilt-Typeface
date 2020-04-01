@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncmb.alt" format="2">
+  <anchor x="-125" y="497" name="right"/>
+  <outline>
+    <contour>
+      <point x="26" y="695" type="move" name="RNBBYHUV"/>
+      <point x="14" y="647" name="FUJNPHQG"/>
+      <point x="1" y="599" name="HKDEGLEC"/>
+      <point x="-11" y="551" type="curve" name="NLWTLXOZ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>FUJNPHQG</key>
+        <integer>120</integer>
+        <key>HKDEGLEC</key>
+        <integer>130</integer>
+        <key>NLWTLXOZ</key>
+        <integer>90</integer>
+        <key>RNBBYHUV</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

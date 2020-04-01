@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="620"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="548" y="640" type="move" name="BKCAXOLB"/>
+      <point x="526" y="574" name="MRMNKHLH"/>
+      <point x="508" y="517" name="MLPMQTDH"/>
+      <point x="486" y="459" type="curve" smooth="yes" name="ZNVKFSPO"/>
+      <point x="459" y="384" name="ILVBQZFO"/>
+      <point x="418" y="269" name="NDOZDTTN"/>
+      <point x="377" y="159" type="curve" smooth="yes" name="CPIHYOFS"/>
+      <point x="317" y="-2" name="NTCWIWZS"/>
+      <point x="307" y="-26" name="XFYNHUNV"/>
+      <point x="246" y="145" type="curve" smooth="yes" name="TFDRUPFU"/>
+      <point x="204" y="264" name="CUTZTPBG"/>
+      <point x="166" y="369" name="MIVQFSCL"/>
+      <point x="132" y="467" type="curve" smooth="yes" name="UVGRBOPG"/>
+      <point x="113" y="521" name="QCNWHUCG"/>
+      <point x="94" y="587" name="BHJXCTZC"/>
+      <point x="72" y="640" type="curve" name="MDPDPCYL"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BHJXCTZC</key>
+        <integer>120</integer>
+        <key>BKCAXOLB</key>
+        <integer>100</integer>
+        <key>CPIHYOFS</key>
+        <integer>37</integer>
+        <key>CUTZTPBG</key>
+        <integer>120</integer>
+        <key>ILVBQZFO</key>
+        <integer>103</integer>
+        <key>MDPDPCYL</key>
+        <integer>100</integer>
+        <key>MIVQFSCL</key>
+        <integer>120</integer>
+        <key>MLPMQTDH</key>
+        <integer>139</integer>
+        <key>MRMNKHLH</key>
+        <integer>130</integer>
+        <key>NDOZDTTN</key>
+        <integer>62</integer>
+        <key>NTCWIWZS</key>
+        <integer>5</integer>
+        <key>QCNWHUCG</key>
+        <integer>120</integer>
+        <key>TFDRUPFU</key>
+        <integer>120</integer>
+        <key>UVGRBOPG</key>
+        <integer>120</integer>
+        <key>XFYNHUNV</key>
+        <integer>120</integer>
+        <key>ZNVKFSPO</key>
+        <integer>123</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

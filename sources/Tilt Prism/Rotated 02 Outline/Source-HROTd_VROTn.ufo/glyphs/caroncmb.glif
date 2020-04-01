@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncmb" format="2">
+  <unicode hex="030C"/>
+  <anchor x="0" y="439.0" name="_above"/>
+  <anchor x="0" y="588.0" name="above"/>
+  <outline>
+    <contour>
+      <point x="203" y="652" type="line" smooth="yes"/>
+      <point x="211" y="652"/>
+      <point x="214" y="642"/>
+      <point x="207" y="637" type="curve" smooth="yes"/>
+      <point x="5" y="509" type="line" smooth="yes"/>
+      <point x="3" y="508"/>
+      <point x="-1" y="508"/>
+      <point x="-3" y="509" type="curve" smooth="yes"/>
+      <point x="-203" y="637" type="line" smooth="yes"/>
+      <point x="-210" y="642"/>
+      <point x="-207" y="652"/>
+      <point x="-199" y="652" type="curve" smooth="yes"/>
+      <point x="-50" y="652" type="line" smooth="yes"/>
+      <point x="-48" y="652"/>
+      <point x="-47" y="652"/>
+      <point x="-46" y="651" type="curve" smooth="yes"/>
+      <point x="6" y="616" type="line"/>
+      <point x="-2" y="616" type="line"/>
+      <point x="50" y="651" type="line" smooth="yes"/>
+      <point x="51" y="652"/>
+      <point x="52" y="652"/>
+      <point x="54" y="652" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="203" y="636" type="line"/>
+      <point x="54" y="636" type="line"/>
+      <point x="58" y="637" type="line"/>
+      <point x="6" y="602" type="line" smooth="yes"/>
+      <point x="4" y="601"/>
+      <point x="0" y="601"/>
+      <point x="-2" y="602" type="curve" smooth="yes"/>
+      <point x="-54" y="637" type="line"/>
+      <point x="-50" y="636" type="line"/>
+      <point x="-199" y="636" type="line"/>
+      <point x="-195" y="651" type="line"/>
+      <point x="5" y="523" type="line"/>
+      <point x="-3" y="523" type="line"/>
+      <point x="199" y="651" type="line"/>
+    </contour>
+  </outline>
+</glyph>

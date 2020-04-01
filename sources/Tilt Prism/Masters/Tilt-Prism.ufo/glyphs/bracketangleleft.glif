@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketangleleft" format="2">
+  <advance width="381"/>
+  <unicode hex="27E8"/>
+  <outline>
+    <contour>
+      <point x="232.0" y="618.0" type="move" name="NCPOGDRX"/>
+      <point x="77" y="339" type="line" name="PPALFZWU"/>
+      <point x="231.0" y="62.0" type="line" name="IRZCSLPI"/>
+    </contour>
+    <contour>
+      <point x="340.0" y="0.0" type="move" name="XJBUXPFQ"/>
+      <point x="231.0" y="62.0" type="line" name="VWUMAPUP"/>
+      <point x="190.0" y="0.0" type="line" name="JRLMZRMB"/>
+    </contour>
+    <contour>
+      <point x="192.0" y="680.0" type="move" name="RRPDUBCZ"/>
+      <point x="232.0" y="618.0" type="line" name="GEUAZPYU"/>
+      <point x="341.0" y="680.0" type="line" name="OIRGTUIH"/>
+    </contour>
+    <contour>
+      <point x="0.0" y="339.0" type="move" name="UNZQYKUI"/>
+      <point x="77.0" y="339.0" type="line" name="FNXUYINK"/>
+      <point x="154.0" y="340.0" type="line" name="OPMTEWJL"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>FNXUYINK</key>
+        <integer>100</integer>
+        <key>GEUAZPYU</key>
+        <integer>100</integer>
+        <key>IRZCSLPI</key>
+        <real>100.0</real>
+        <key>JRLMZRMB</key>
+        <real>0.0</real>
+        <key>NCPOGDRX</key>
+        <integer>100</integer>
+        <key>OIRGTUIH</key>
+        <integer>0</integer>
+        <key>OPMTEWJL</key>
+        <real>0.0</real>
+        <key>PPALFZWU</key>
+        <integer>100</integer>
+        <key>RRPDUBCZ</key>
+        <real>0.0</real>
+        <key>UNZQYKUI</key>
+        <integer>0</integer>
+        <key>VWUMAPUP</key>
+        <integer>100</integer>
+        <key>XJBUXPFQ</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

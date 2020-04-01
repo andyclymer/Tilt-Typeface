@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessj" format="2">
+  <advance width="303"/>
+  <anchor x="158.0" y="-160" name="below"/>
+  <anchor x="158.0" y="517" name="above"/>
+  <outline>
+    <contour>
+      <point x="80" y="32" type="curve" smooth="yes" name="WNMGSDDO"/>
+      <point x="80" y="-23" name="BCIFNBGS"/>
+      <point x="56" y="-37" name="VZOQQVYP"/>
+      <point x="-8" y="-23" type="curve" name="TNXVKPKS"/>
+      <point x="-8" y="-70" name="TKJEHBLQ"/>
+      <point x="-8" y="-119" name="SUKUGVNL"/>
+      <point x="-8" y="-166" type="curve" name="NOXMCJDO"/>
+      <point x="145" y="-191" name="DBQHAJHQ"/>
+      <point x="245" y="-149" name="MIQNCOSB"/>
+      <point x="245" y="19" type="curve" smooth="yes" name="MHZMQVIZ"/>
+      <point x="245" y="183" name="BCYMQECM"/>
+      <point x="245" y="353" name="ATROCQII"/>
+      <point x="245" y="517" type="curve" name="RDDTSAYT"/>
+      <point x="191" y="517" name="CMOWHZUB"/>
+      <point x="134" y="517" name="JRETMITV"/>
+      <point x="80" y="517" type="curve" name="NQXGBHKV"/>
+      <point x="80" y="357" name="NJUFGEZW"/>
+      <point x="80" y="192" name="BSXHADPD"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ATROCQII</key>
+        <integer>64</integer>
+        <key>BCIFNBGS</key>
+        <integer>86</integer>
+        <key>BCYMQECM</key>
+        <integer>26</integer>
+        <key>BSXHADPD</key>
+        <integer>17</integer>
+        <key>CMOWHZUB</key>
+        <integer>184</integer>
+        <key>DBQHAJHQ</key>
+        <integer>179</integer>
+        <key>JRETMITV</key>
+        <integer>180</integer>
+        <key>MHZMQVIZ</key>
+        <integer>85</integer>
+        <key>MIQNCOSB</key>
+        <integer>144</integer>
+        <key>NJUFGEZW</key>
+        <integer>56</integer>
+        <key>NOXMCJDO</key>
+        <integer>190</integer>
+        <key>NQXGBHKV</key>
+        <integer>184</integer>
+        <key>RDDTSAYT</key>
+        <integer>195</integer>
+        <key>SUKUGVNL</key>
+        <integer>153</integer>
+        <key>TKJEHBLQ</key>
+        <integer>123</integer>
+        <key>TNXVKPKS</key>
+        <integer>102</integer>
+        <key>VZOQQVYP</key>
+        <integer>95</integer>
+        <key>WNMGSDDO</key>
+        <integer>69</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9529,0.7529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

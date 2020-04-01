@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="274"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="159" y="645.0" type="move" name="RLKPWFND"/>
+      <point x="118" y="574.0" name="PLSVTDDI"/>
+      <point x="102" y="489.0" name="JJAJYYPU"/>
+      <point x="145" y="450.0" type="curve" name="AYAZDORR"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AYAZDORR</key>
+        <real>120.0</real>
+        <key>JJAJYYPU</key>
+        <integer>120</integer>
+        <key>PLSVTDDI</key>
+        <integer>120</integer>
+        <key>RLKPWFND</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase" format="2">
+  <advance width="499"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="25" y="-130" type="move" smooth="yes" name="LHJPAEFD"/>
+      <point x="112" y="-63" name="EDCYVDPN"/>
+      <point x="147" y="19" name="BJUSKHWM"/>
+      <point x="148" y="99" type="curve" name="MNKNOFKY"/>
+    </contour>
+    <contour>
+      <point x="60.0" y="161.0" type="move" name="CPEDHGBM"/>
+      <point x="148.0" y="99.0" type="line" name="AOTGPWBQ"/>
+      <point x="227.0" y="161.0" type="line" name="UDENNTSO"/>
+    </contour>
+    <contour>
+      <point x="250" y="-130" type="move" smooth="yes" name="WENIEAVH"/>
+      <point x="337" y="-63" name="LXUDBMSJ"/>
+      <point x="372" y="19" name="LWOXHYFJ"/>
+      <point x="373" y="99" type="curve" name="HBHIAPDL"/>
+    </contour>
+    <contour>
+      <point x="285.0" y="161.0" type="move" name="UXICUCWG"/>
+      <point x="373.0" y="99.0" type="line" name="YPLDSTMS"/>
+      <point x="452.0" y="161.0" type="line" name="RPLGOSNC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AOTGPWBQ</key>
+        <integer>100</integer>
+        <key>BJUSKHWM</key>
+        <integer>70</integer>
+        <key>CPEDHGBM</key>
+        <integer>0</integer>
+        <key>EDCYVDPN</key>
+        <integer>30</integer>
+        <key>HBHIAPDL</key>
+        <real>100.0</real>
+        <key>LHJPAEFD</key>
+        <integer>0</integer>
+        <key>LWOXHYFJ</key>
+        <integer>70</integer>
+        <key>LXUDBMSJ</key>
+        <integer>30</integer>
+        <key>MNKNOFKY</key>
+        <real>100.0</real>
+        <key>RPLGOSNC</key>
+        <real>0.0</real>
+        <key>UDENNTSO</key>
+        <real>0.0</real>
+        <key>UXICUCWG</key>
+        <integer>0</integer>
+        <key>WENIEAVH</key>
+        <integer>0</integer>
+        <key>YPLDSTMS</key>
+        <integer>100</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

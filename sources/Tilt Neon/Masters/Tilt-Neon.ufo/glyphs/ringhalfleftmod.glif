@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfleftmod" format="2">
+  <advance width="347"/>
+  <unicode hex="02BF"/>
+  <outline>
+    <contour>
+      <point x="212.0" y="576.0" type="move" name="ORWBTQXQ"/>
+      <point x="164.0" y="576.0" name="TVUYOSYD"/>
+      <point x="135.0" y="605.0" name="CPKIGYTW"/>
+      <point x="135.0" y="650.0" type="curve" smooth="yes" name="ACJGEYIV"/>
+      <point x="135.0" y="692.0" name="NZFJSSPT"/>
+      <point x="165.0" y="719.0" name="XSDBEHXO"/>
+      <point x="212.0" y="719.0" type="curve" smooth="yes" name="EDLDXWCU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ACJGEYIV</key>
+        <integer>120</integer>
+        <key>CPKIGYTW</key>
+        <integer>120</integer>
+        <key>EDLDXWCU</key>
+        <real>120.0</real>
+        <key>NZFJSSPT</key>
+        <integer>120</integer>
+        <key>ORWBTQXQ</key>
+        <integer>120</integer>
+        <key>TVUYOSYD</key>
+        <integer>120</integer>
+        <key>XSDBEHXO</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncmb" format="2">
+  <unicode hex="031B"/>
+  <anchor x="-131.0" y="436.0" name="horn"/>
+  <outline>
+    <contour>
+      <point x="-58.0" y="533.0" type="curve" smooth="yes"/>
+      <point x="-4.0" y="533.0"/>
+      <point x="-29.0" y="545.0"/>
+      <point x="-45.0" y="576.0" type="curve" smooth="yes" identifier="kOGmOGf5tK"/>
+      <point x="-62.0" y="613.0"/>
+      <point x="-27.0" y="644.0"/>
+      <point x="25.0" y="610.0" type="curve" smooth="yes" identifier="QPTUU20CDR"/>
+      <point x="104.0" y="559.0"/>
+      <point x="81.0" y="443.0"/>
+      <point x="-45.0" y="443.0" type="curve" smooth="yes"/>
+      <point x="-106.0" y="443.0"/>
+      <point x="-104.0" y="533.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

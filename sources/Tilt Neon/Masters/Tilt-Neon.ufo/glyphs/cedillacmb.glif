@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacmb" format="2">
+  <unicode hex="0327"/>
+  <anchor x="0" y="0" name="_below"/>
+  <anchor x="0" y="-234" name="below"/>
+  <outline>
+    <contour>
+      <point x="-19" y="18" type="move" name="NKQMDITA"/>
+      <point x="-22.0" y="-66" name="UAKEYTAX"/>
+      <point x="-15" y="-74.2656401791397" name="VVCQNYJL"/>
+      <point x="13" y="-77.0" type="curve" smooth="yes" name="BCRREFPT"/>
+      <point x="53.562674161748156" y="-81" name="DGZEOXQZ"/>
+      <point x="76" y="-106" name="PPXMXOLU"/>
+      <point x="76" y="-137" type="curve" smooth="yes" name="DIVSMYMX"/>
+      <point x="76" y="-191" name="HANKNNCC"/>
+      <point x="13" y="-215" name="GRISSWXQ"/>
+      <point x="-88" y="-194" type="curve" name="KTUBOOIX"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BCRREFPT</key>
+        <integer>90</integer>
+        <key>DGZEOXQZ</key>
+        <real>71.16732985347407</real>
+        <key>DIVSMYMX</key>
+        <integer>70</integer>
+        <key>GRISSWXQ</key>
+        <integer>120</integer>
+        <key>HANKNNCC</key>
+        <integer>70</integer>
+        <key>KTUBOOIX</key>
+        <integer>120</integer>
+        <key>NKQMDITA</key>
+        <integer>120</integer>
+        <key>PPXMXOLU</key>
+        <integer>70</integer>
+        <key>UAKEYTAX</key>
+        <integer>120</integer>
+        <key>VVCQNYJL</key>
+        <integer>103</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash" format="2">
+  <advance width="490"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="392" y="-120" type="move" name="XYHZSIAT"/>
+      <point x="377" y="-73" name="WQOZXSNX"/>
+      <point x="361" y="-26" name="WLTEXQQO"/>
+      <point x="345" y="22" type="curve" smooth="yes" name="XRTJAXHO"/>
+      <point x="280" y="220" name="FYDQNIXK"/>
+      <point x="214" y="422" name="QWPKUBQN"/>
+      <point x="149" y="620" type="curve" smooth="yes" name="WIYFCBQQ"/>
+      <point x="136" y="657" name="PPJRBUZK"/>
+      <point x="124" y="693" name="MMNGSUGP"/>
+      <point x="112" y="730" type="curve" name="ZBVHMKIJ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>FYDQNIXK</key>
+        <integer>120</integer>
+        <key>MMNGSUGP</key>
+        <integer>113</integer>
+        <key>PPJRBUZK</key>
+        <integer>120</integer>
+        <key>QWPKUBQN</key>
+        <integer>120</integer>
+        <key>WIYFCBQQ</key>
+        <integer>120</integer>
+        <key>WLTEXQQO</key>
+        <integer>120</integer>
+        <key>WQOZXSNX</key>
+        <integer>113</integer>
+        <key>XRTJAXHO</key>
+        <integer>120</integer>
+        <key>XYHZSIAT</key>
+        <integer>90</integer>
+        <key>ZBVHMKIJ</key>
+        <real>90.0</real>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

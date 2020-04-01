@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecmb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="0" y="497" name="_above"/>
+  <anchor x="0" y="716" name="above"/>
+  <outline>
+    <contour>
+      <point x="127" y="690" type="move" name="EWCFSPCP"/>
+      <point x="127" y="642" name="QWANHDUG"/>
+      <point x="104" y="603" name="YXOTROVX"/>
+      <point x="62" y="603" type="curve" smooth="yes" name="OEPXEQWM"/>
+      <point x="34" y="603" name="CNFQWHYY"/>
+      <point x="17" y="625" name="MJYHBRRW"/>
+      <point x="1" y="646" type="curve" smooth="yes" name="UVXYGNPV"/>
+      <point x="-16" y="668" name="YIKZSGKY"/>
+      <point x="-33" y="690" name="QVJWYTFO"/>
+      <point x="-61" y="690" type="curve" smooth="yes" name="UJTGCSEV"/>
+      <point x="-102" y="690" name="OQIHJRNQ"/>
+      <point x="-124" y="651" name="WFZTQRCW"/>
+      <point x="-124" y="603" type="curve" name="CSAQTVEN"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>CNFQWHYY</key>
+        <integer>120</integer>
+        <key>CSAQTVEN</key>
+        <integer>90</integer>
+        <key>EWCFSPCP</key>
+        <integer>90</integer>
+        <key>MJYHBRRW</key>
+        <integer>120</integer>
+        <key>OEPXEQWM</key>
+        <integer>120</integer>
+        <key>OQIHJRNQ</key>
+        <integer>120</integer>
+        <key>QVJWYTFO</key>
+        <integer>120</integer>
+        <key>QWANHDUG</key>
+        <integer>120</integer>
+        <key>UJTGCSEV</key>
+        <integer>120</integer>
+        <key>UVXYGNPV</key>
+        <integer>120</integer>
+        <key>WFZTQRCW</key>
+        <integer>120</integer>
+        <key>YIKZSGKY</key>
+        <integer>120</integer>
+        <key>YXOTROVX</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

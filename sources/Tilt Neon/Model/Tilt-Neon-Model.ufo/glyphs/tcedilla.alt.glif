@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcedilla.alt" format="2">
+  <advance width="403"/>
+  <anchor x="180" y="640" name="above"/>
+  <anchor x="180" y="-7" name="below"/>
+  <anchor x="255" y="502" name="right"/>
+  <outline>
+    <component base="t.alt"/>
+    <component base="cedillacmb" xOffset="232"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9529,0.7529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

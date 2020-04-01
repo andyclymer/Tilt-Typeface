@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bulletoperator" format="2">
+  <advance width="291"/>
+  <unicode hex="2219"/>
+  <outline>
+    <contour>
+      <point x="65" y="410" type="move" name="JHZPYSGX"/>
+      <point x="145" y="330" type="line" name="SPZNVLRZ"/>
+      <point x="226" y="249" type="line" name="EWEGOKCW"/>
+    </contour>
+    <contour>
+      <point x="65" y="249" type="move" name="PHNGTFYJ"/>
+      <point x="145" y="330" type="line" name="QXRCYFJA"/>
+      <point x="226" y="410" type="line" name="NQZWNOPH"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>EWEGOKCW</key>
+        <real>0.0</real>
+        <key>JHZPYSGX</key>
+        <integer>0</integer>
+        <key>NQZWNOPH</key>
+        <real>0.0</real>
+        <key>PHNGTFYJ</key>
+        <integer>0</integer>
+        <key>QXRCYFJA</key>
+        <integer>100</integer>
+        <key>SPZNVLRZ</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

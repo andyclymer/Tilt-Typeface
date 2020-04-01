@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minus" format="2">
+  <advance width="476"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="396" y="308" type="move" name="AGKSLGLC"/>
+      <point x="292" y="308" name="RWUCNHSR"/>
+      <point x="184" y="308" name="BPCIESGG"/>
+      <point x="80" y="308" type="curve" name="JLTDWEOR"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AGKSLGLC</key>
+        <integer>120</integer>
+        <key>BPCIESGG</key>
+        <integer>170</integer>
+        <key>JLTDWEOR</key>
+        <real>120.0</real>
+        <key>RWUCNHSR</key>
+        <integer>170</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

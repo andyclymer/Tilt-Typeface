@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceright" format="2">
+  <advance width="461"/>
+  <unicode hex="007D"/>
+  <outline>
+    <contour>
+      <point x="92" y="-72" type="move" smooth="yes" name="DJWMGFXN"/>
+      <point x="213" y="-99" name="TRVGJZSQ"/>
+      <point x="285" y="-57" name="LSEABRHQ"/>
+      <point x="285" y="27" type="curve" smooth="yes" name="GIAPYVPI"/>
+      <point x="285" y="98" name="VGXUKJAK"/>
+      <point x="232" y="192" name="CJTOAGGL"/>
+      <point x="232" y="249" type="curve" smooth="yes" name="ZPXWSWLF"/>
+      <point x="232" y="312" name="BPPBHNXE"/>
+      <point x="264" y="344" name="MWAARZRG"/>
+      <point x="349" y="344" type="curve" name="FKUKSUBR"/>
+      <point x="264" y="344" name="WJCUXHPQ"/>
+      <point x="232" y="375" name="EUMVGZQS"/>
+      <point x="232" y="439" type="curve" smooth="yes" name="YCKPVSZP"/>
+      <point x="232" y="495" name="DIDAQYPI"/>
+      <point x="285" y="589" name="ZMHLUCAP"/>
+      <point x="285" y="659" type="curve" smooth="yes" name="HPRANMSD"/>
+      <point x="285" y="745" name="BBNERILY"/>
+      <point x="212" y="786" name="TKFUVZXK"/>
+      <point x="92" y="759" type="curve" smooth="yes" name="DGFGOSVF"/>
+    </contour>
+    <contour>
+      <point x="349" y="344" type="move" name="CADPUYQY"/>
+      <point x="237" y="344" type="line" name="EHZCMMXC"/>
+    </contour>
+    <contour>
+      <point x="411" y="286" type="move" name="EFIENYAF"/>
+      <point x="349" y="344" type="line" name="CDBOBYKV"/>
+      <point x="411" y="401" type="line" name="ZWIUHRCJ"/>
+    </contour>
+    <contour>
+      <point x="30" y="-127" type="move" name="QAKWYUOC"/>
+      <point x="92" y="-72" type="line" name="JURMZHFW"/>
+      <point x="30" y="19" type="line" name="ITNKSUYE"/>
+    </contour>
+    <contour>
+      <point x="30" y="668" type="move" name="IFKSYXVK"/>
+      <point x="92" y="759" type="line" name="QGPAFGTV"/>
+      <point x="30" y="814" type="line" name="OCQPCHXD"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BBNERILY</key>
+        <integer>100</integer>
+        <key>BPPBHNXE</key>
+        <integer>100</integer>
+        <key>CADPUYQY</key>
+        <integer>100</integer>
+        <key>CDBOBYKV</key>
+        <integer>100</integer>
+        <key>CJTOAGGL</key>
+        <integer>100</integer>
+        <key>DGFGOSVF</key>
+        <integer>100</integer>
+        <key>DIDAQYPI</key>
+        <integer>100</integer>
+        <key>DJWMGFXN</key>
+        <integer>100</integer>
+        <key>EFIENYAF</key>
+        <integer>0</integer>
+        <key>EHZCMMXC</key>
+        <integer>0</integer>
+        <key>EUMVGZQS</key>
+        <integer>100</integer>
+        <key>FKUKSUBR</key>
+        <integer>100</integer>
+        <key>GIAPYVPI</key>
+        <integer>100</integer>
+        <key>HPRANMSD</key>
+        <integer>100</integer>
+        <key>IFKSYXVK</key>
+        <integer>0</integer>
+        <key>ITNKSUYE</key>
+        <integer>0</integer>
+        <key>JURMZHFW</key>
+        <integer>100</integer>
+        <key>LSEABRHQ</key>
+        <integer>100</integer>
+        <key>MWAARZRG</key>
+        <integer>100</integer>
+        <key>OCQPCHXD</key>
+        <integer>0</integer>
+        <key>QAKWYUOC</key>
+        <integer>0</integer>
+        <key>QGPAFGTV</key>
+        <integer>100</integer>
+        <key>TKFUVZXK</key>
+        <integer>100</integer>
+        <key>TRVGJZSQ</key>
+        <integer>100</integer>
+        <key>VGXUKJAK</key>
+        <integer>100</integer>
+        <key>WJCUXHPQ</key>
+        <integer>100</integer>
+        <key>YCKPVSZP</key>
+        <integer>100</integer>
+        <key>ZMHLUCAP</key>
+        <integer>100</integer>
+        <key>ZPXWSWLF</key>
+        <integer>100</integer>
+        <key>ZWIUHRCJ</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

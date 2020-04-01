@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emacrongrave" format="2">
+  <advance width="500"/>
+  <unicode hex="1E15"/>
+  <outline>
+    <component base="e" xOffset="-80"/>
+    <component base="macroncmb" xOffset="205" yOffset="5"/>
+    <component base="gravecmb" xOffset="205" yOffset="182"/>
+  </outline>
+</glyph>

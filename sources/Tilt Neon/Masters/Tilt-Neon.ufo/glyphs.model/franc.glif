@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance width="533"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="155.0" y="370.0" type="move" name="CFBCJ"/>
+      <point x="433.0" y="370.0" type="line" name="CAGED"/>
+    </contour>
+    <contour>
+      <point x="155.0" y="40.0" type="move" name="JITUK"/>
+      <point x="155.0" y="635.0" type="line" name="IPTAQ"/>
+      <point x="453.0" y="635.0" type="line" name="CAGED"/>
+    </contour>
+    <contour>
+      <point x="85.0" y="170.0" type="move" name="CFBCJ"/>
+      <point x="293.0" y="170.0" type="line" name="CAGED"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani" format="2">
+  <advance width="533"/>
+  <unicode hex="20B2"/>
+  <outline>
+    <contour>
+      <point x="421" y="567" type="move"/>
+      <point x="223" y="662"/>
+      <point x="90" y="524"/>
+      <point x="90" y="335" type="curve" smooth="yes"/>
+      <point x="90" y="188"/>
+      <point x="165" y="72"/>
+      <point x="292" y="72" type="curve" smooth="yes"/>
+      <point x="351" y="72"/>
+      <point x="403" y="99"/>
+      <point x="438" y="137" type="curve"/>
+      <point x="438" y="317" type="line" name="BACTA"/>
+      <point x="311" y="317" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="602.0" type="move"/>
+      <point x="314" y="730.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="261" y="-60.0" type="move"/>
+      <point x="272" y="74.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

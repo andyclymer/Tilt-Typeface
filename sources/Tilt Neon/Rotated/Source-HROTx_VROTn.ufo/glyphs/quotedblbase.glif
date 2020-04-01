@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase" format="2">
+  <advance width="336"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="280.0" y="83.0" type="curve" smooth="yes"/>
+      <point x="286.0" y="130.0"/>
+      <point x="257.0" y="169.0"/>
+      <point x="228.0" y="172.0" type="curve" smooth="yes"/>
+      <point x="172.0" y="178.0"/>
+      <point x="172.0" y="269.0"/>
+      <point x="244.0" y="262.0" type="curve" smooth="yes"/>
+      <point x="328.0" y="254.0"/>
+      <point x="381.0" y="176.0"/>
+      <point x="369.0" y="72.0" type="curve" smooth="yes"/>
+      <point x="362.0" y="10.0"/>
+      <point x="272.0" y="19.0"/>
+    </contour>
+    <contour>
+      <point x="422.0" y="79.0" type="curve" smooth="yes"/>
+      <point x="421.0" y="126.0"/>
+      <point x="396.0" y="165.0"/>
+      <point x="368.0" y="172.0" type="curve" smooth="yes"/>
+      <point x="313.0" y="185.0"/>
+      <point x="314.0" y="269.0"/>
+      <point x="386.0" y="262.0" type="curve" smooth="yes"/>
+      <point x="470.0" y="254.0"/>
+      <point x="503.0" y="180.0"/>
+      <point x="511.0" y="76.0" type="curve" smooth="yes"/>
+      <point x="516" y="13"/>
+      <point x="424.0" y="15.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

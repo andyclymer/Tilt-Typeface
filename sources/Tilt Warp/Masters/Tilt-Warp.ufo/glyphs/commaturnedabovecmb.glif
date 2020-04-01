@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecmb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="0" y="517" name="_above"/>
+  <anchor x="0" y="725" name="above"/>
+  <outline>
+    <contour>
+      <point x="94" y="744" type="curve" name="DOABRHFU"/>
+      <point x="51" y="744" name="YFDBMQLD"/>
+      <point x="7" y="744" name="BBKRGYMQ"/>
+      <point x="-36" y="744" type="curve" name="SLVDMSPA"/>
+      <point x="-55" y="690" name="PREVXTQT"/>
+      <point x="-75" y="634" name="ORKUSDNA"/>
+      <point x="-94" y="580" type="curve" name="HBAJQBZK"/>
+      <point x="-44" y="580" name="PITFMSSF"/>
+      <point x="9" y="580" name="YSHOQISV"/>
+      <point x="59" y="580" type="curve" name="XCVEHJXN"/>
+      <point x="71" y="634" name="JTTJIUTD"/>
+      <point x="82" y="690" name="UPBHTKGZ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BBKRGYMQ</key>
+        <integer>129</integer>
+        <key>DOABRHFU</key>
+        <integer>141</integer>
+        <key>HBAJQBZK</key>
+        <integer>141</integer>
+        <key>JTTJIUTD</key>
+        <integer>93</integer>
+        <key>ORKUSDNA</key>
+        <integer>94</integer>
+        <key>PITFMSSF</key>
+        <integer>131</integer>
+        <key>PREVXTQT</key>
+        <integer>91</integer>
+        <key>SLVDMSPA</key>
+        <integer>133</integer>
+        <key>UPBHTKGZ</key>
+        <integer>95</integer>
+        <key>XCVEHJXN</key>
+        <integer>135</integer>
+        <key>YFDBMQLD</key>
+        <integer>132</integer>
+        <key>YSHOQISV</key>
+        <integer>129</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

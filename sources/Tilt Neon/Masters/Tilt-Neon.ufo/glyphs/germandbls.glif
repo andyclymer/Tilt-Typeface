@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="germandbls" format="2">
+  <advance width="551"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="236" y="39" type="move" name="OUGIQSPS"/>
+      <point x="379" y="12" name="QZGHYQLJ"/>
+      <point x="467" y="122" name="DVMKEZPT"/>
+      <point x="467" y="215" type="curve" smooth="yes" name="SYMWRLDA"/>
+      <point x="467" y="280" name="CTMPMZDL"/>
+      <point x="435" y="330" name="JRTOWPCJ"/>
+      <point x="383" y="359" type="curve" smooth="yes" name="RAZLLOJF"/>
+      <point x="356" y="372" name="AMQJUXMP"/>
+      <point x="323" y="382" name="RUKUETHA"/>
+      <point x="286" y="385" type="curve" smooth="yes" name="CZGMAFST" identifier="cVJd5HR3M0"/>
+      <point x="235" y="389" name="YQAZEGZT"/>
+      <point x="236" y="381" name="EBECDCPF"/>
+      <point x="279" y="395" type="curve" smooth="yes" name="COKRVRKB" identifier="h3U6XfUDFK"/>
+      <point x="305" y="404" name="KJAFSFAE"/>
+      <point x="337" y="417" name="NXSYKITJ"/>
+      <point x="362" y="439" type="curve" smooth="yes" name="RYSBTGWK"/>
+      <point x="392" y="464" name="YTIOLOGV"/>
+      <point x="414" y="499" name="NDZLLNOO"/>
+      <point x="414" y="542" type="curve" smooth="yes" name="FLENPIBW"/>
+      <point x="414" y="631" name="YZNHYYFZ"/>
+      <point x="352" y="693" name="WQQFDECD"/>
+      <point x="266" y="693" type="curve" smooth="yes" name="FZBAHSFN"/>
+      <point x="172" y="693" name="TCSCXWNZ"/>
+      <point x="114" y="633" name="RMWFZRCH"/>
+      <point x="114" y="540" type="curve" smooth="yes" name="VHGPUJCQ"/>
+      <point x="114" y="374" name="EEIDDXCK"/>
+      <point x="114" y="207" name="XYPDWCLR"/>
+      <point x="114" y="40" type="curve" name="PKFQOSXU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AMQJUXMP</key>
+        <integer>0</integer>
+        <key>COKRVRKB</key>
+        <integer>108</integer>
+        <key>CTMPMZDL</key>
+        <integer>70</integer>
+        <key>CZGMAFST</key>
+        <integer>5</integer>
+        <key>DVMKEZPT</key>
+        <integer>192</integer>
+        <key>EBECDCPF</key>
+        <integer>90</integer>
+        <key>EEIDDXCK</key>
+        <integer>0</integer>
+        <key>FLENPIBW</key>
+        <integer>120</integer>
+        <key>FZBAHSFN</key>
+        <integer>120</integer>
+        <key>JRTOWPCJ</key>
+        <integer>29</integer>
+        <key>KJAFSFAE</key>
+        <integer>119</integer>
+        <key>NDZLLNOO</key>
+        <real>120.0</real>
+        <key>NXSYKITJ</key>
+        <integer>120</integer>
+        <key>OUGIQSPS</key>
+        <real>70.0</real>
+        <key>PKFQOSXU</key>
+        <integer>120</integer>
+        <key>QZGHYQLJ</key>
+        <integer>150</integer>
+        <key>RAZLLOJF</key>
+        <integer>10</integer>
+        <key>RMWFZRCH</key>
+        <integer>120</integer>
+        <key>RUKUETHA</key>
+        <integer>-7</integer>
+        <key>RYSBTGWK</key>
+        <integer>120</integer>
+        <key>SYMWRLDA</key>
+        <integer>120</integer>
+        <key>TCSCXWNZ</key>
+        <integer>120</integer>
+        <key>VHGPUJCQ</key>
+        <integer>120</integer>
+        <key>WQQFDECD</key>
+        <integer>120</integer>
+        <key>XYPDWCLR</key>
+        <real>60.0</real>
+        <key>YQAZEGZT</key>
+        <integer>21</integer>
+        <key>YTIOLOGV</key>
+        <integer>120</integer>
+        <key>YZNHYYFZ</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

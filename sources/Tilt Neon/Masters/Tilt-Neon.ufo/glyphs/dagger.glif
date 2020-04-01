@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="415"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="208" y="690" type="move" name="ZZYZQDBR"/>
+      <point x="208.0" y="545" name="ATYYEPDZ"/>
+      <point x="208.0" y="400" name="RWASUAWH"/>
+      <point x="208" y="255" type="curve" name="XICZKZME"/>
+    </contour>
+    <contour>
+      <point x="330" y="538" type="move" name="NZMZVXNY"/>
+      <point x="248" y="538.0" name="VXKVNDJQ"/>
+      <point x="167" y="538.0" name="WXTFPULX"/>
+      <point x="85" y="538" type="curve" name="HNLWUTZH"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ATYYEPDZ</key>
+        <integer>140</integer>
+        <key>HNLWUTZH</key>
+        <integer>80</integer>
+        <key>NZMZVXNY</key>
+        <integer>80</integer>
+        <key>RWASUAWH</key>
+        <integer>140</integer>
+        <key>VXKVNDJQ</key>
+        <integer>30</integer>
+        <key>WXTFPULX</key>
+        <integer>30</integer>
+        <key>XICZKZME</key>
+        <integer>90</integer>
+        <key>ZZYZQDBR</key>
+        <integer>90</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="600"/>
+  <unicode hex="0043"/>
+  <anchor x="359" y="-4" name="below"/>
+  <anchor x="359" y="684" name="above"/>
+  <outline>
+    <contour>
+      <point x="515" y="84" type="move" name="FWUNVMEG"/>
+      <point x="466" y="52" name="XSXNQCCO"/>
+      <point x="404" y="37" name="GMHHSQWX"/>
+      <point x="352" y="37" type="curve" smooth="yes" name="XSOMLOUO"/>
+      <point x="205" y="35" name="ANSFROZU"/>
+      <point x="90" y="152" name="ZKLMACXH"/>
+      <point x="90" y="340" type="curve" smooth="yes" name="WMDKPQNU"/>
+      <point x="90" y="528" name="XYTUHGIX"/>
+      <point x="209" y="643" name="DRIFKQJT"/>
+      <point x="356" y="643" type="curve" smooth="yes" name="AIIDYUVW"/>
+      <point x="407" y="642" name="QHIYOMNV"/>
+      <point x="466" y="630" name="KUEZWUMO"/>
+      <point x="515" y="599" type="curve" name="HMXLOVSW"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AIIDYUVW</key>
+        <integer>120</integer>
+        <key>ANSFROZU</key>
+        <integer>120</integer>
+        <key>DRIFKQJT</key>
+        <integer>120</integer>
+        <key>FWUNVMEG</key>
+        <integer>90</integer>
+        <key>GMHHSQWX</key>
+        <integer>120</integer>
+        <key>HMXLOVSW</key>
+        <integer>90</integer>
+        <key>KUEZWUMO</key>
+        <integer>110</integer>
+        <key>QHIYOMNV</key>
+        <integer>120</integer>
+        <key>WMDKPQNU</key>
+        <integer>120</integer>
+        <key>XSOMLOUO</key>
+        <integer>120</integer>
+        <key>XSXNQCCO</key>
+        <integer>110</integer>
+        <key>XYTUHGIX</key>
+        <integer>120</integer>
+        <key>ZKLMACXH</key>
+        <integer>120</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

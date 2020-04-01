@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="utilde.alt" format="2">
+  <advance width="560"/>
+  <outline>
+    <component base="u.alt"/>
+    <component base="tildecmb" xOffset="280"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
+</glyph>

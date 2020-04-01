@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d" format="2">
+  <advance width="617"/>
+  <unicode hex="0064"/>
+  <anchor x="272" y="1" name="below"/>
+  <anchor x="282" y="580.0" name="above"/>
+  <outline>
+    <contour>
+      <point x="146.0" y="60.0" type="line" name="ZEQPHBFG"/>
+      <point x="283" y="60" type="line" smooth="yes" name="YSFWWUXO"/>
+      <point x="420" y="60" name="JIBLHABZ"/>
+      <point x="515" y="150" name="MWPYRBMA"/>
+      <point x="515" y="291" type="curve" smooth="yes" name="QQKBVNOH"/>
+      <point x="515" y="430" name="BWACZRCS"/>
+      <point x="420" y="520" name="ZSFGMWKO"/>
+      <point x="283" y="520" type="curve" smooth="yes" name="RYDVUWKS"/>
+      <point x="146.0" y="520.0" type="line" name="MYJMJKML"/>
+    </contour>
+    <contour>
+      <point x="218.0" y="119.0" type="move" name="MJVZATKE"/>
+      <point x="146.0" y="60.0" type="line" name="ZWRNCKHQ"/>
+      <point x="50" y="0" type="line" name="EFSHOVMG"/>
+    </contour>
+    <contour>
+      <point x="50.0" y="580.0" type="move" name="PGAOAJGW"/>
+      <point x="146.0" y="520.0" type="line" name="ZPXQPUIZ"/>
+      <point x="217.0" y="461.0" type="line" name="MKNQWECE"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BWACZRCS</key>
+        <integer>100</integer>
+        <key>EFSHOVMG</key>
+        <real>0.0</real>
+        <key>JIBLHABZ</key>
+        <integer>100</integer>
+        <key>MJVZATKE</key>
+        <integer>0</integer>
+        <key>MKNQWECE</key>
+        <real>0.0</real>
+        <key>MWPYRBMA</key>
+        <integer>100</integer>
+        <key>MYJMJKML</key>
+        <real>100.0</real>
+        <key>PGAOAJGW</key>
+        <integer>0</integer>
+        <key>QQKBVNOH</key>
+        <integer>100</integer>
+        <key>RYDVUWKS</key>
+        <integer>100</integer>
+        <key>YSFWWUXO</key>
+        <integer>100</integer>
+        <key>ZEQPHBFG</key>
+        <integer>100</integer>
+        <key>ZPXQPUIZ</key>
+        <integer>100</integer>
+        <key>ZSFGMWKO</key>
+        <integer>100</integer>
+        <key>ZWRNCKHQ</key>
+        <integer>100</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

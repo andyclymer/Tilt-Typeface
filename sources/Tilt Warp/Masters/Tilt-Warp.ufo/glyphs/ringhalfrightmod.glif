@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfrightmod" format="2">
+  <advance width="300"/>
+  <unicode hex="02BE"/>
+  <outline>
+    <contour>
+      <point x="85" y="632" type="curve" name="BPQBXNKA"/>
+      <point x="85" y="608" name="SNJRZGZP"/>
+      <point x="85" y="582" name="HNBWRNYA"/>
+      <point x="85" y="558" type="curve" name="OQKEGOVV"/>
+      <point x="160" y="558" name="BMIFNZAQ"/>
+      <point x="214" y="608" name="YVUQELAP"/>
+      <point x="214" y="678" type="curve" smooth="yes" name="AZEPAIGH"/>
+      <point x="214" y="746" name="HCBDDVJL"/>
+      <point x="160" y="796" name="WIBRUGNQ"/>
+      <point x="85" y="796" type="curve" name="EASJESBK"/>
+      <point x="85" y="772" name="CKZRGVFN"/>
+      <point x="85" y="747" name="OPSUQBYB"/>
+      <point x="85" y="723" type="curve" name="OVBHAQGA"/>
+      <point x="114" y="723" name="JYDZSBVN"/>
+      <point x="132" y="705" name="QZUGTWOY"/>
+      <point x="132" y="678" type="curve" smooth="yes" name="KZJEYEZP"/>
+      <point x="132" y="650" name="SXGPEJCX"/>
+      <point x="114" y="632" name="OZCGNWHR"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AZEPAIGH</key>
+        <integer>100</integer>
+        <key>BMIFNZAQ</key>
+        <integer>132</integer>
+        <key>BPQBXNKA</key>
+        <integer>106</integer>
+        <key>CKZRGVFN</key>
+        <integer>128</integer>
+        <key>EASJESBK</key>
+        <integer>147</integer>
+        <key>HCBDDVJL</key>
+        <integer>100</integer>
+        <key>HNBWRNYA</key>
+        <integer>128</integer>
+        <key>JYDZSBVN</key>
+        <integer>101</integer>
+        <key>KZJEYEZP</key>
+        <integer>94</integer>
+        <key>OPSUQBYB</key>
+        <integer>114</integer>
+        <key>OQKEGOVV</key>
+        <integer>147</integer>
+        <key>OVBHAQGA</key>
+        <integer>106</integer>
+        <key>OZCGNWHR</key>
+        <integer>101</integer>
+        <key>QZUGTWOY</key>
+        <integer>94</integer>
+        <key>SNJRZGZP</key>
+        <integer>114</integer>
+        <key>SXGPEJCX</key>
+        <integer>93</integer>
+        <key>WIBRUGNQ</key>
+        <integer>132</integer>
+        <key>YVUQELAP</key>
+        <integer>99</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

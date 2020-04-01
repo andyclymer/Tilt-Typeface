@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcmb" format="2">
+  <unicode hex="0307"/>
+  <anchor x="0" y="497" name="_above"/>
+  <anchor x="0" y="704" name="above"/>
+  <outline>
+    <contour>
+      <point x="6.0" y="636.0" type="move" name="OENZHGKG"/>
+      <point x="-28.0" y="641.0" name="KZTESQSM"/>
+      <point x="-28.0" y="675.0" name="DKVIVXJV"/>
+      <point x="6.0" y="680.0" type="curve" name="FUORFCZM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>DKVIVXJV</key>
+        <integer>120</integer>
+        <key>FUORFCZM</key>
+        <integer>120</integer>
+        <key>KZTESQSM</key>
+        <integer>120</integer>
+        <key>OENZHGKG</key>
+        <integer>120</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

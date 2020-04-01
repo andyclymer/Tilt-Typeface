@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="540"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="80" y="308" type="move" name="JZLEKPJM"/>
+      <point x="205" y="308" name="OOWENXDZ"/>
+      <point x="335" y="308" name="SRTULTMR"/>
+      <point x="460" y="308" type="curve" name="YXOLCZEY"/>
+    </contour>
+    <contour>
+      <point x="277.0" y="460.0" type="move" name="VXNXVUEB"/>
+      <point x="243.0" y="465" name="NGRAXDLW"/>
+      <point x="243.0" y="499" name="UFULJWVP"/>
+      <point x="277.0" y="504.0" type="curve" name="YGBBKTQM"/>
+    </contour>
+    <contour>
+      <point x="277.0" y="114.0" type="move" name="HXLTHVQJ"/>
+      <point x="243.0" y="119.0" name="JPOZCTDV"/>
+      <point x="243.0" y="153.0" name="YGBDVKSV"/>
+      <point x="277.0" y="158.0" type="curve" name="GPXRKJGQ"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>GPXRKJGQ</key>
+        <real>120.0</real>
+        <key>HXLTHVQJ</key>
+        <integer>120</integer>
+        <key>JPOZCTDV</key>
+        <integer>120</integer>
+        <key>JZLEKPJM</key>
+        <integer>120</integer>
+        <key>NGRAXDLW</key>
+        <integer>120</integer>
+        <key>OOWENXDZ</key>
+        <integer>170</integer>
+        <key>SRTULTMR</key>
+        <integer>170</integer>
+        <key>UFULJWVP</key>
+        <integer>120</integer>
+        <key>VXNXVUEB</key>
+        <integer>120</integer>
+        <key>YGBBKTQM</key>
+        <real>120.0</real>
+        <key>YGBDVKSV</key>
+        <integer>120</integer>
+        <key>YXOLCZEY</key>
+        <real>120.0</real>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

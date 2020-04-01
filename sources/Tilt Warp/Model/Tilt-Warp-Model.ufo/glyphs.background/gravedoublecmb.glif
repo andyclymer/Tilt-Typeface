@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravedoublecmb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="0" y="517" name="_above"/>
+  <anchor x="0" y="770" name="above"/>
+  <outline>
+    <contour>
+      <point x="-4" y="584" type="line"/>
+      <point x="-158" y="584" type="line"/>
+      <point x="-302" y="780" type="line"/>
+      <point x="-123" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="584" type="line"/>
+      <point x="40" y="584" type="line"/>
+      <point x="-84" y="780" type="line"/>
+      <point x="95" y="780" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase" format="2">
+  <advance width="474"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="114.75701006646949" y="-114.0" type="move" name="LPUFYIGX"/>
+      <point x="155.7570100664695" y="-43.0" name="CUCIOPEQ"/>
+      <point x="171.7570100664695" y="42.0" name="HMTYUAFP"/>
+      <point x="128.7570100664695" y="81.0" type="curve" name="QMQXVFOB"/>
+    </contour>
+    <contour>
+      <point x="314.7570100664695" y="-114.0" type="move" name="MAATJGFB"/>
+      <point x="355.7570100664695" y="-43.0" name="BGJMOOKM"/>
+      <point x="371.7570100664695" y="42.0" name="NULETAAS"/>
+      <point x="328.7570100664695" y="81.0" type="curve" name="JGMEBWNR"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BGJMOOKM</key>
+        <integer>120</integer>
+        <key>CUCIOPEQ</key>
+        <integer>120</integer>
+        <key>HMTYUAFP</key>
+        <integer>120</integer>
+        <key>JGMEBWNR</key>
+        <real>120.0</real>
+        <key>LPUFYIGX</key>
+        <integer>120</integer>
+        <key>MAATJGFB</key>
+        <integer>120</integer>
+        <key>NULETAAS</key>
+        <integer>120</integer>
+        <key>QMQXVFOB</key>
+        <real>120.0</real>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.5725,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

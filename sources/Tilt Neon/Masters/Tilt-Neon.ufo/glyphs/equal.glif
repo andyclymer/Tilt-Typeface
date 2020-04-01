@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal" format="2">
+  <advance width="490"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="410" y="428" type="move" name="EGPUKCXV"/>
+      <point x="301" y="428" name="UBLYUZQC"/>
+      <point x="189" y="428" name="TXVUCKKQ"/>
+      <point x="80" y="428" type="curve" name="JGBLYTNJ"/>
+    </contour>
+    <contour>
+      <point x="410" y="188" type="move" name="TURJCWBR"/>
+      <point x="301" y="188" name="GYVNYRCG"/>
+      <point x="189" y="188" name="ZTXWXPNF"/>
+      <point x="80" y="188" type="curve" name="OJYEGDSD"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>EGPUKCXV</key>
+        <integer>120</integer>
+        <key>GYVNYRCG</key>
+        <integer>170</integer>
+        <key>JGBLYTNJ</key>
+        <real>120.0</real>
+        <key>OJYEGDSD</key>
+        <real>120.0</real>
+        <key>TURJCWBR</key>
+        <integer>120</integer>
+        <key>TXVUCKKQ</key>
+        <integer>170</integer>
+        <key>UBLYUZQC</key>
+        <integer>170</integer>
+        <key>ZTXWXPNF</key>
+        <integer>170</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

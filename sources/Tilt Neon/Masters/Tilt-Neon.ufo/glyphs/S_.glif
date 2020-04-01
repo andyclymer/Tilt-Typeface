@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S" format="2">
+  <advance width="521"/>
+  <unicode hex="0053"/>
+  <anchor x="256" y="-7" name="below"/>
+  <anchor x="265" y="688" name="above"/>
+  <outline>
+    <contour>
+      <point x="102" y="74" type="move" name="CFFGT"/>
+      <point x="156" y="50" name="WNGLSSMZ"/>
+      <point x="210" y="38" name="OIGLRELS"/>
+      <point x="258" y="38" type="curve" smooth="yes" name="LPWVPJZW"/>
+      <point x="354" y="38" name="LZZPSHFA"/>
+      <point x="429" y="87" name="HXDTQDEV"/>
+      <point x="429" y="183" type="curve" smooth="yes" name="GOMRE"/>
+      <point x="429" y="282" name="VKMYHFVW"/>
+      <point x="345" y="315" name="KQPHMVQH"/>
+      <point x="265" y="348" type="curve" smooth="yes" name="ARKEGWUZ"/>
+      <point x="186" y="380" name="XZMGTULL"/>
+      <point x="108" y="411" name="HVIOJTYE"/>
+      <point x="108" y="504" type="curve" smooth="yes" name="IPECA"/>
+      <point x="108" y="593" name="RYTCRKPY"/>
+      <point x="174" y="642" name="CKQQDHYY"/>
+      <point x="271" y="643" type="curve" smooth="yes" name="YLLROWCU"/>
+      <point x="313" y="643" name="CVLLFZJW"/>
+      <point x="361" y="635" name="EEAKBXQP"/>
+      <point x="411" y="616" type="curve" smooth="yes" name="VPSMP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.projectionViewOrientation</key>
+      <string>front</string>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ARKEGWUZ</key>
+        <integer>120</integer>
+        <key>CFFGT</key>
+        <integer>70</integer>
+        <key>CKQQDHYY</key>
+        <integer>126</integer>
+        <key>CVLLFZJW</key>
+        <integer>117</integer>
+        <key>EEAKBXQP</key>
+        <integer>120</integer>
+        <key>GOMRE</key>
+        <integer>120</integer>
+        <key>HVIOJTYE</key>
+        <integer>120</integer>
+        <key>HXDTQDEV</key>
+        <integer>120</integer>
+        <key>IPECA</key>
+        <integer>120</integer>
+        <key>KQPHMVQH</key>
+        <integer>123</integer>
+        <key>LPWVPJZW</key>
+        <integer>120</integer>
+        <key>LZZPSHFA</key>
+        <integer>126</integer>
+        <key>OIGLRELS</key>
+        <integer>117</integer>
+        <key>RYTCRKPY</key>
+        <integer>120</integer>
+        <key>VKMYHFVW</key>
+        <integer>120</integer>
+        <key>VPSMP</key>
+        <integer>90</integer>
+        <key>WNGLSSMZ</key>
+        <integer>110</integer>
+        <key>XZMGTULL</key>
+        <integer>117</integer>
+        <key>YLLROWCU</key>
+        <integer>120</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

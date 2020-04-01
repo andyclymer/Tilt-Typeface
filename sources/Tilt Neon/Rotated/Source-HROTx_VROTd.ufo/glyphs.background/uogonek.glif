@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uogonek" format="2">
+  <advance width="500"/>
+  <anchor x="255.0" y="508" name="horn"/>
+  <anchor x="200.0" y="508" name="above"/>
+  <anchor x="200.0" y="26" name="below"/>
+  <outline>
+    <contour>
+      <point x="143" y="458" type="move" name="YACKK"/>
+      <point x="161" y="374" name="RNFAKCSU"/>
+      <point x="157" y="291" name="MBBWGYZT"/>
+      <point x="157" y="207" type="curve" smooth="yes" name="BBNMEKUZ"/>
+      <point x="157" y="96" name="BSYXPZAP"/>
+      <point x="200" y="34" name="MHGTOCNQ"/>
+      <point x="267" y="34" type="curve" smooth="yes" name="CDZEXWME"/>
+      <point x="349" y="34" name="IWNPCXXJ"/>
+      <point x="409" y="122" name="UTUJHHQU"/>
+      <point x="409" y="224" type="curve" smooth="yes" name="GIUBMOVE"/>
+      <point x="409" y="263" name="ULCYFPWG"/>
+      <point x="409" y="335" name="JKPSXCVV"/>
+      <point x="409" y="373" type="curve" smooth="yes" name="PLEPFXZU"/>
+      <point x="409" y="489" name="KAXUSZKQ"/>
+      <point x="324" y="489" name="CSOQBYUZ"/>
+      <point x="324" y="373" type="curve" smooth="yes" name="EXALQKUL"/>
+      <point x="324" y="318" name="FCNLWKEC"/>
+      <point x="324" y="227" name="JFXIYIHD"/>
+      <point x="324" y="153" type="curve" smooth="yes" name="PYWXLSMY"/>
+      <point x="324" y="114" name="OYEYPWMG"/>
+      <point x="324" y="70" name="SEOOATAU"/>
+      <point x="317" y="35" type="curve" name="DNVDJAKM"/>
+    </contour>
+    <contour>
+      <point x="317" y="35" type="move" name="YLLHUVHV"/>
+      <point x="249" y="6" name="BHELUTXR"/>
+      <point x="230" y="-21" name="HZJCJCIQ"/>
+      <point x="251" y="-64" type="curve" smooth="yes" name="ACTKJPCN"/>
+      <point x="273" y="-108" name="NFWHDZMS"/>
+      <point x="361" y="-150" name="ORXWCZJR"/>
+      <point x="415" y="-116" type="curve" name="ZJTMKOQQ"/>
+    </contour>
+  </outline>
+</glyph>

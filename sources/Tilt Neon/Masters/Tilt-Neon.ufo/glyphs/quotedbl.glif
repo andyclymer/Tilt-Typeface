@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedbl" format="2">
+  <advance width="496"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="148" y="438" type="move" name="OUJIHLZA"/>
+      <point x="148" y="515" name="QTABAVJC"/>
+      <point x="148" y="593" name="DDVJKARH"/>
+      <point x="148" y="640" type="curve" name="BCMRXCAR"/>
+    </contour>
+    <contour>
+      <point x="348.0" y="438.0" type="move" name="GMCHNNPL"/>
+      <point x="348.0" y="515.0" name="LXIISRWK"/>
+      <point x="348.0" y="593.0" name="ZNIWJIWK"/>
+      <point x="348.0" y="640.0" type="curve" name="WWIMPSHG"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>BCMRXCAR</key>
+        <real>80.0</real>
+        <key>DDVJKARH</key>
+        <integer>120</integer>
+        <key>GMCHNNPL</key>
+        <integer>100</integer>
+        <key>LXIISRWK</key>
+        <integer>130</integer>
+        <key>OUJIHLZA</key>
+        <integer>120</integer>
+        <key>QTABAVJC</key>
+        <integer>120</integer>
+        <key>WWIMPSHG</key>
+        <real>80.0</real>
+        <key>ZNIWJIWK</key>
+        <integer>120</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

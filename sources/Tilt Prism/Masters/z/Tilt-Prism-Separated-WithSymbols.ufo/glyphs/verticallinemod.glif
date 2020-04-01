@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinemod" format="2">
+  <advance width="300"/>
+  <unicode hex="02C8"/>
+  <outline>
+    <contour>
+      <point x="150.0" y="629.0" type="move" name="XFQSGUZY"/>
+      <point x="150.0" y="439.0" type="line" name="VFHEFJVF"/>
+    </contour>
+    <contour>
+      <point x="84" y="680" type="move" name="MDXJOCSX"/>
+      <point x="150" y="629" type="line" name="KQROCMUS"/>
+      <point x="217.0" y="680.0" type="line" name="OVVBQMCZ"/>
+    </contour>
+    <contour>
+      <point x="187.0" y="398.0" type="move" name="OBICMQQE"/>
+      <point x="150.0" y="439.0" type="line" name="STLXDPZP"/>
+      <point x="114.0" y="398.0" type="line" name="XSQCIFDL"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>KQROCMUS</key>
+        <integer>100</integer>
+        <key>MDXJOCSX</key>
+        <integer>0</integer>
+        <key>OBICMQQE</key>
+        <integer>0</integer>
+        <key>OVVBQMCZ</key>
+        <real>0.0</real>
+        <key>STLXDPZP</key>
+        <integer>100</integer>
+        <key>VFHEFJVF</key>
+        <real>100.0</real>
+        <key>XFQSGUZY</key>
+        <integer>100</integer>
+        <key>XSQCIFDL</key>
+        <real>0.0</real>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

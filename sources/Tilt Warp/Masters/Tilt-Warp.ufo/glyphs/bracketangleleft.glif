@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketangleleft" format="2">
+  <advance width="401"/>
+  <unicode hex="27E8"/>
+  <outline>
+    <contour>
+      <point x="361" y="680" type="curve" name="OKGQZPOB"/>
+      <point x="305" y="680" name="SFJMHTEZ"/>
+      <point x="248" y="680" name="MIKXEAFU"/>
+      <point x="192" y="680" type="curve" name="HDZGZNXL"/>
+      <point x="129" y="567" name="GRTOSQKD"/>
+      <point x="63" y="450" name="XNDWIKBC"/>
+      <point x="0" y="337" type="curve" name="UHUZVPPT"/>
+      <point x="63" y="226" name="NDHOTHQA"/>
+      <point x="127" y="111" name="HXSMQIIH"/>
+      <point x="190" y="0" type="curve" name="VNXVTZQO"/>
+      <point x="246" y="0" name="NRRYQJAW"/>
+      <point x="304" y="0" name="WZGGMHZF"/>
+      <point x="360" y="0" type="curve" name="YIOGNZWR"/>
+      <point x="299" y="112" name="QMZMOAYG"/>
+      <point x="235" y="228" name="TUJBTSNT"/>
+      <point x="174" y="340" type="curve" name="WUPLYXSM"/>
+      <point x="236" y="452" name="LOEBADWZ"/>
+      <point x="299" y="568" name="OTIMPBXS"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>GRTOSQKD</key>
+        <integer>88</integer>
+        <key>HDZGZNXL</key>
+        <integer>179</integer>
+        <key>HXSMQIIH</key>
+        <integer>90</integer>
+        <key>LOEBADWZ</key>
+        <integer>43</integer>
+        <key>MIKXEAFU</key>
+        <integer>180</integer>
+        <key>NDHOTHQA</key>
+        <integer>49</integer>
+        <key>NRRYQJAW</key>
+        <integer>180</integer>
+        <key>OKGQZPOB</key>
+        <integer>197</integer>
+        <key>OTIMPBXS</key>
+        <integer>95</integer>
+        <key>QMZMOAYG</key>
+        <integer>95</integer>
+        <key>SFJMHTEZ</key>
+        <integer>186</integer>
+        <key>TUJBTSNT</key>
+        <integer>43</integer>
+        <key>UHUZVPPT</key>
+        <integer>61</integer>
+        <key>VNXVTZQO</key>
+        <integer>179</integer>
+        <key>WUPLYXSM</key>
+        <integer>43</integer>
+        <key>WZGGMHZF</key>
+        <integer>186</integer>
+        <key>XNDWIKBC</key>
+        <integer>48</integer>
+        <key>YIOGNZWR</key>
+        <integer>197</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5725,0.9294,0.9529,1</string>
+    </dict>
+  </lib>
+</glyph>

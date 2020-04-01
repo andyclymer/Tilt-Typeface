@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphensoft" format="2">
+  <advance width="340"/>
+  <unicode hex="00AD"/>
+  <outline>
+    <component base="hyphen"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>ACTYBGGN</key>
+        <integer>124</integer>
+        <key>BPXNJVJV</key>
+        <integer>124</integer>
+        <key>BWPBUPLM</key>
+        <integer>101</integer>
+        <key>DNWZFSJU</key>
+        <integer>142</integer>
+        <key>JNWPSZVW</key>
+        <integer>124</integer>
+        <key>MDKSEUSL</key>
+        <integer>142</integer>
+        <key>MGXXFVDI</key>
+        <integer>101</integer>
+        <key>NBGZXPPB</key>
+        <integer>142</integer>
+        <key>PNHRPEKX</key>
+        <integer>101</integer>
+        <key>QUDZNYGD</key>
+        <integer>101</integer>
+        <key>UDMYAPQH</key>
+        <integer>142</integer>
+        <key>UJCVLSSQ</key>
+        <integer>124</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.502,0.502,0.502,1</string>
+    </dict>
+  </lib>
+</glyph>

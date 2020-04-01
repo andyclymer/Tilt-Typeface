@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="2">
+  <advance width="447"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="357" y="475" type="move" name="URXIYSUF"/>
+      <point x="296" y="439" name="ODGNDLXP"/>
+      <point x="237" y="403" name="FMNFMQFT"/>
+      <point x="161" y="358" type="curve" smooth="yes" name="OVXVLZII"/>
+      <point x="77" y="308" name="ERPUHRPV"/>
+      <point x="78" y="306" name="NDMBFTEY"/>
+      <point x="159" y="260" type="curve" smooth="yes" name="JFFYGBJP"/>
+      <point x="235" y="217" name="ITLGWEDU"/>
+      <point x="296" y="177" name="GJPSYODC"/>
+      <point x="357" y="141" type="curve" name="DZRTXJXE"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>DZRTXJXE</key>
+        <real>100.0</real>
+        <key>ERPUHRPV</key>
+        <integer>65</integer>
+        <key>FMNFMQFT</key>
+        <integer>55</integer>
+        <key>GJPSYODC</key>
+        <integer>120</integer>
+        <key>ITLGWEDU</key>
+        <integer>134</integer>
+        <key>JFFYGBJP</key>
+        <integer>120</integer>
+        <key>NDMBFTEY</key>
+        <integer>106</integer>
+        <key>ODGNDLXP</key>
+        <integer>120</integer>
+        <key>OVXVLZII</key>
+        <integer>60</integer>
+        <key>URXIYSUF</key>
+        <integer>120</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

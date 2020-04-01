@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="belowbrevecmb" format="2">
+  <unicode hex="032E"/>
+  <anchor x="0" y="0" name="_below"/>
+  <anchor x="0" y="-240" name="below"/>
+  <outline>
+    <contour>
+      <point x="111.0" y="-118.0" type="move" smooth="yes" name="WMZVFRDO"/>
+      <point x="95.0" y="-161.0" name="GHDGTIBZ"/>
+      <point x="58.0" y="-188.0" name="NCZZZOST"/>
+      <point x="0.0" y="-188.0" type="curve" smooth="yes" name="NRHGOEDS"/>
+      <point x="-58.0" y="-188.0" name="WQFHWTRF"/>
+      <point x="-95.0" y="-161.0" name="MPDZMXNQ"/>
+      <point x="-111.0" y="-118.0" type="curve" smooth="yes" name="OJCFLSHV"/>
+    </contour>
+    <contour>
+      <point x="65.0" y="-68.0" type="move" name="RHILBNNY"/>
+      <point x="111.0" y="-118.0" type="line" name="CIJTNCLN"/>
+      <point x="173.0" y="-68.0" type="line" name="RWDTLOLS"/>
+    </contour>
+    <contour>
+      <point x="-173.0" y="-68.0" type="move" name="REBNZWIV"/>
+      <point x="-111.0" y="-118.0" type="line" name="QJFUFJUA"/>
+      <point x="-65.0" y="-68.0" type="line" name="APNWGLIR"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>APNWGLIR</key>
+        <real>0.0</real>
+        <key>CIJTNCLN</key>
+        <integer>100</integer>
+        <key>GHDGTIBZ</key>
+        <integer>100</integer>
+        <key>MPDZMXNQ</key>
+        <integer>100</integer>
+        <key>NCZZZOST</key>
+        <integer>100</integer>
+        <key>NRHGOEDS</key>
+        <integer>100</integer>
+        <key>OJCFLSHV</key>
+        <real>100.0</real>
+        <key>QJFUFJUA</key>
+        <integer>100</integer>
+        <key>REBNZWIV</key>
+        <integer>0</integer>
+        <key>RHILBNNY</key>
+        <integer>0</integer>
+        <key>RWDTLOLS</key>
+        <real>0.0</real>
+        <key>WMZVFRDO</key>
+        <integer>100</integer>
+        <key>WQFHWTRF</key>
+        <integer>100</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6171,0.9529,0.5725,1</string>
+    </dict>
+  </lib>
+</glyph>

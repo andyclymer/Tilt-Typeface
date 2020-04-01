@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1f9fa" format="2">
+  <advance width="1092"/>
+  <outline>
+    <contour>
+      <point x="858.0327805191733" y="23.0"/>
+      <point x="846.0327805191733" y="-13.0"/>
+      <point x="777.0327805191733" y="13.0" type="curve" smooth="yes"/>
+      <point x="639.0327805191733" y="66.0"/>
+      <point x="400.0327805191734" y="148.0"/>
+      <point x="95.0327805191734" y="173.0" type="curve"/>
+      <point x="165.0327805191734" y="422.0"/>
+      <point x="327.0327805191734" y="627.0"/>
+      <point x="539.0327805191733" y="716.0" type="curve"/>
+      <point x="639.0327805191733" y="583.0"/>
+      <point x="756.0327805191733" y="283.0"/>
+      <point x="834.0327805191733" y="83.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour identifier="6z634eHnYQ">
+      <point x="229.0327805191734" y="165.0" type="move"/>
+      <point x="232.0327805191734" y="225.0"/>
+      <point x="280.0327805191734" y="243.0"/>
+      <point x="317.0327805191734" y="293.0" type="curve" smooth="yes"/>
+      <point x="356.0327805191734" y="345.0"/>
+      <point x="353.0327805191734" y="392.0"/>
+      <point x="393.0327805191734" y="449.0" type="curve" smooth="yes"/>
+      <point x="436.0327805191734" y="510.0"/>
+      <point x="518.0327805191733" y="496.0"/>
+      <point x="571.0327805191733" y="530.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="411.0327805191734" y="247.0" type="move"/>
+      <point x="443.0327805191734" y="260.0"/>
+      <point x="474.0327805191734" y="254.0"/>
+      <point x="500.0327805191734" y="231.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="680.0327805191733" y="378.0" type="move"/>
+      <point x="637.0327805191733" y="378.0"/>
+      <point x="602.0327805191733" y="344.0"/>
+      <point x="602.0327805191733" y="301.0" type="curve" smooth="yes"/>
+      <point x="602.0327805191733" y="258.0"/>
+      <point x="637.0327805191733" y="223.0"/>
+      <point x="680.0327805191733" y="223.0" type="curve" smooth="yes"/>
+      <point x="722.0327805191733" y="223.0"/>
+      <point x="757.0327805191733" y="258.0"/>
+      <point x="757.0327805191733" y="301.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.trailingOffCurves</key>
+      <dict>
+        <key>6z634eHnYQ</key>
+        <array>
+          <real>624.0327805191733</real>
+          <real>564.0</real>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

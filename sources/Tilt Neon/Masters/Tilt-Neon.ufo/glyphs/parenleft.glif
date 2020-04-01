@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft" format="2">
+  <advance width="452"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="391" y="-136" type="move" name="SCIZNPIG"/>
+      <point x="341" y="-122" name="TEHOQYGU"/>
+      <point x="292" y="-95" name="EDMCBJUV"/>
+      <point x="250" y="-55" type="curve" smooth="yes" name="RTLKUNTK"/>
+      <point x="171" y="20" name="FKWFXJLY"/>
+      <point x="114" y="140" name="EJWTBLWD"/>
+      <point x="114" y="305" type="curve" smooth="yes" name="AOOMUIXZ"/>
+      <point x="114" y="470" name="TFDDVJFZ"/>
+      <point x="171" y="590" name="JYWQXAGI"/>
+      <point x="250" y="665" type="curve" smooth="yes" name="OFTMPKUE"/>
+      <point x="292" y="705" name="JLWPUSTA"/>
+      <point x="341" y="732" name="LWOOYDKG"/>
+      <point x="391" y="746" type="curve" name="ULYQXEPG"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.andyclymer.zPosition</key>
+      <dict>
+        <key>AOOMUIXZ</key>
+        <integer>120</integer>
+        <key>EDMCBJUV</key>
+        <integer>120</integer>
+        <key>EJWTBLWD</key>
+        <integer>120</integer>
+        <key>FKWFXJLY</key>
+        <integer>120</integer>
+        <key>JLWPUSTA</key>
+        <integer>120</integer>
+        <key>JYWQXAGI</key>
+        <integer>120</integer>
+        <key>LWOOYDKG</key>
+        <integer>110</integer>
+        <key>OFTMPKUE</key>
+        <integer>120</integer>
+        <key>RTLKUNTK</key>
+        <integer>120</integer>
+        <key>SCIZNPIG</key>
+        <integer>90</integer>
+        <key>TEHOQYGU</key>
+        <integer>110</integer>
+        <key>TFDDVJFZ</key>
+        <integer>120</integer>
+        <key>ULYQXEPG</key>
+        <real>90.0</real>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
