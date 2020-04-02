@@ -20,7 +20,7 @@ The three styles are designed and built as variable fonts. Instead of using vari
 
 ## Character Set
 
-All three styles have been drawn to the large “Google Latin Plus” character set, with the exception that the extended set of fractions have been left out. This character set includes support for Vietnamese along with Central and Eastern European languages. The “Prism” style has drawn to have small caps in place of its lowercase letters, but otherwise maintains full language support. PDFs showing full glyph overviews can be found in the [Specimen](/master/specimen) directory of this repo.
+All three styles have been drawn to the large “Google Latin Plus” character set, with the exception that the extended set of fractions have been left out. This character set includes support for Vietnamese along with Central and Eastern European languages. The “Prism” style has drawn to have small caps in place of its lowercase letters, but otherwise maintains full language support. PDFs showing full glyph overviews can be found in the [Specimen](/specimen) directory of this repo.
 
 ## OpenType Features 
 
