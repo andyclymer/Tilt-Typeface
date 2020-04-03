@@ -20,11 +20,19 @@ The three styles are designed and built as variable fonts. Instead of using vari
 
 ## Character Set
 
-All three styles have been drawn to the large “Google Latin Plus” character set, with the exception that the extended set of fractions have been left out. This character set includes support for Vietnamese along with Central and Eastern European languages. The “Prism” style has drawn to have small caps in place of its lowercase letters, but otherwise maintains full language support. PDFs showing full glyph overviews can be found in the [Specimen](/specimen) directory of this repo.
+All three styles have been drawn to the large “Google Latin Plus” character set, with the exception that the extended set of fractions have been left out. This character set includes support for Vietnamese along with Central and Eastern European languages. The “Prism” style has drawn to have small caps in place of its lowercase letters, but otherwise maintains full language support. PDFs showing full glyph overviews can be found in the [Specimen](/specimen) directory of this repo:
+
+- [Tilt-Neon Glyph Overvew.pdf](specimen/Tilt-Neon%20Glyph%20Overview.pdf)
+- [Tilt-Prism Glyph Overvew.pdf](specimen/Tilt-Prism%20Glyph%20Overview.pdf)
+- [Tilt-Warp Glyph Overvew.pdf](specimen/Tilt-Warp%20Glyph%20Overview.pdf)
 
 ## OpenType Features 
 
-*Feature overview table to come!*
+The “Stylistic Alternates” OpenType features can substitute in alternate forms of the lowrcase "a", "t" and "u" in the Neon and Warp styles, and all three styles have a set of pictograms and arrows that can be called out with the text replacement “Discretionary Ligatures” feature.
+
+A full outline of the OpenType features can be found in the [OpenType Feature Overview.pdf](specimen/OpenType%20Feature%20Overview.pdf)
+
+![Feature Sample](/images/FeatureSample.png?raw=true "Feature Sample")
 
 ## Variable Axes
 
