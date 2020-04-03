@@ -18,51 +18,20 @@ The three styles are designed and built as variable fonts. Instead of using vari
 
 ![Tilt Overview](/images/SampleLines.png?raw=true "Tilt Overview")
 
-## Design Scope
+## Character Set
 
-All three styles have been drawn to the large “Google Latin Plus” character set, leaving out only a handful of fractions and symbols. The “Prism” style has small caps in place of its lowercase letters, and a collection of arrows and symbols in all three styles have been drawn.
+All three styles have been drawn to the large “Google Latin Plus” character set, with the exception that the extended set of fractions have been left out. This character set includes support for Vietnamese along with Central and Eastern European languages. The “Prism” style has drawn to have small caps in place of its lowercase letters, but otherwise maintains full language support. PDFs showing full glyph overviews can be found in the [Specimen](/specimen) directory of this repo.
 
-## Current status
+## OpenType Features 
 
-*As of March 31st, 2020 —*
-
-The design is complete, and the manufacturing process is nearly final.
-
-| Neon | |
-| :--- | :--- |
-| Core character set | The full “Google Latin Expert” character set is complete |
-| Drawing quality | All glyphs are in their fully final 3D state |
-| Extended language support | Complete |
-| Extended symbols and dingbats | Complete |
-| Kerning | Complete |
-| Manufacturing | Final testing before release |
-
-| Prism | |
-| :--- | :--- |
-| Core character set | The full “Google Latin Expert” character set is complete, including small capitals in place of the lowercase |
-| Drawing quality | All glyphs are in their fully final 3D state |
-| Extended language support | Complete |
-| Extended symbols and dingbats | Complete |
-| Kerning | Complete |
-| Manufacturing | Final testing before release |
-
-| Warp | |
-| :--- | :--- |
-| Core character set | The full “Google Latin Expert” character set is complete |
-| Drawing quality | All glyphs are in their fully final 3D state |
-| Extended language support | Complete |
-| Extended symbols and dingbats | Complete |
-| Kerning | Complete |
-| Manufacturing | Final testing before release |
-
+*Feature overview table to come!*
 
 ## Variable Axes
 
 | Axis | Tag | Range | Default | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| Horizontal Rotation | `HROT` | -45 to 45 | 0 | Gives the appearance of horizontal rotation, in degrees |
-| Vertical Rotation | `VROT` | -45 to 45 | 0 | Gives the appearance of vertical rotation, in degrees |
-
+| Horizontal Rotation | `HROT` | -45 to 45 | 0 | Horizontal rotation, in degrees |
+| Vertical Rotation | `VROT` | -45 to 45 | 0 | Vertical rotation, in degrees |
 
 ## License
 
