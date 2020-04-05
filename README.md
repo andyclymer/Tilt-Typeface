@@ -41,6 +41,8 @@ A full outline of the OpenType features can be found in the [OpenType Feature Ov
 | Horizontal Rotation | `HROT` | -45 to 45 | 0 | Horizontal rotation, in degrees |
 | Vertical Rotation | `VROT` | -45 to 45 | 0 | Vertical rotation, in degrees |
 
+![Variable Sample](/images/VarSample.png?raw=true "Variable Sample")
+
 ## License
 
 The Tilt project is licensed under the [SIL Open Font License v1.1](OFL.txt). This is a free software license that permits you to use the font software under a set of conditions. Please refer to the full text of the license for details about the permissions, conditions, and disclaimers.
