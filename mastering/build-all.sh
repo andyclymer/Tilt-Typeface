@@ -3,7 +3,12 @@
 #  
 # USAGE (on the command line):
 #
-# chmod +x sources/build-all.sh            # first time: you must give permissions to run
+# Setup virtualenv folder (will be excluded from Github pushs):
+# mkdir venv
+# virtualenv venv
+# chmod +x mastering/build-all.sh
+#
+# Run:
 # mastering/build-all.sh
 
 mastering/build.sh "sources/Tilt Neon/Rotated/TiltNeon[HROT,VROT].designspace"                   # Tilt Neon
