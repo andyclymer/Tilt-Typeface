@@ -7,7 +7,7 @@
 # pip install -r req......
 # 
 # after giving permission with:
-# chmod +x sources/mastering-scripts/build.sh
+# chmod +x mastering/build.sh
 # 
 # run with:
 # mastering/build.sh <designspace path> <--check>
