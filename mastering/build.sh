@@ -37,6 +37,10 @@ rm -f $fontPath
 
 fontmake -m "$DS" -o variable --output-path $fontPath
 
+gftools fix-nonhinting $fontPath $fontPath.fix
+mv $fontPath.fix $fontPath
+rm $outputDir/TTF/*backup*.ttf
+
 # ---------------------------------------------------------
 # Make woff2 files ----------------------------------------
 
