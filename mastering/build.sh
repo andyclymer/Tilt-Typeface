@@ -33,6 +33,7 @@ mkdir -p "fonts/TTF"
 dsName=$(basename "$DS")
 fontName=${dsName/".designspace"/""}
 fontPath="$outputDir/TTF/$fontName.ttf"
+rm -f $fontPath
 
 fontmake -m "$DS" -o variable --output-path $fontPath
 
