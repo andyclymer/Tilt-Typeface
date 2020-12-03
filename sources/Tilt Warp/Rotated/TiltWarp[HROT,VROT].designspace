@@ -8,6 +8,14 @@
       <labelname xml:lang="en">Vertical Rotation</labelname>
     </axis>
   </axes>
+  <instances>
+    <instance familyname="Tilt Warp" stylename="Regular">
+      <location>
+        <dimension name="HROT" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+      </location>
+    </instance>
+  </instances>
   <sources>
     <source filename="Source-HROTn_VROTn.ufo" name="Source-HROTn_VROTn" familyname="Tilt Warp Model" stylename="Source-HROTn_VROTn">
       <lib copy="1"/>
