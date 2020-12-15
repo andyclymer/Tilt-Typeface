@@ -3,9 +3,14 @@
 #  
 # USAGE (on the command line):
 #
-# chmod +x sources/build-all.sh            # first time: you must give permissions to run
-# sources/build-all.sh                     # run
+# Setup virtualenv folder (will be excluded from Github pushs):
+# mkdir venv
+# virtualenv venv
+# chmod +x mastering/build-all.sh
+#
+# Run:
+# mastering/build-all.sh
 
-mastering/build.sh "sources/Tilt Neon/Rotated/Tilt-Neon.designspace"                   # Tilt Neon
-mastering/build.sh "sources/Tilt Prism/Rotated 03 Combined/Tilt-Prism.designspace"     # Tilt Prism
-mastering/build.sh "sources/Tilt Warp/Rotated/Tilt-Warp.designspace"                   # Tilt Warp
+mastering/build.sh "sources/Tilt Neon/Rotated/TiltNeon[HROT,VROT].designspace"                   # Tilt Neon
+mastering/build.sh "sources/Tilt Prism/Rotated 03 Combined/TiltPrism[HROT,VROT].designspace"     # Tilt Prism
+mastering/build.sh "sources/Tilt Warp/Rotated/TiltWarp[HROT,VROT].designspace"                   # Tilt Warp

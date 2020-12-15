@@ -7,7 +7,7 @@
 # pip install -r req......
 # 
 # after giving permission with:
-# chmod +x sources/mastering-scripts/build.sh
+# chmod +x mastering/build.sh
 # 
 # run with:
 # mastering/build.sh <designspace path> <--check>
@@ -33,8 +33,16 @@ mkdir -p "fonts/TTF"
 dsName=$(basename "$DS")
 fontName=${dsName/".designspace"/""}
 fontPath="$outputDir/TTF/$fontName.ttf"
+stylespacePath=$(dirname "$DS")/Tilt.stylespace
+rm -f $fontPath
 
 fontmake -m "$DS" -o variable --output-path $fontPath
+statmake --designspace "$DS" --stylespace "$stylespacePath" $fontPath
+
+gftools fix-nonhinting $fontPath $fontPath.fix
+mv $fontPath.fix $fontPath
+rm $outputDir/TTF/*backup*.ttf
+gftools fix-dsig $fontPath -a -f
 
 # ---------------------------------------------------------
 # Make woff2 files ----------------------------------------

@@ -2,6 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>com.github.googlei18n.ufo2ft.filters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>flattenComponents</string>
+        <key>pre</key>
+        <integer>1</integer>
+      </dict>
+    </array>
     <key>com.defcon.sortDescriptor</key>
     <array>
       <dict>
@@ -808,7 +817,7 @@
       <string>degree</string>
       <string>minute</string>
       <string>second</string>
-      <string>gnrl:hyphen</string>
+      <string>uni2010</string>
       <string>commercialminussign</string>
       <string>ordmasculine</string>
       <string>ordfeminine</string>
